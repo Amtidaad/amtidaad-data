@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0022",
+      "client": "Stratum",
+      "project": "Chaimaa Avenue",
+      "phone": "",
+      "email": "",
+      "date": "2026-06-23",
+      "location": "",
+      "service": "Other",
+      "source": "",
+      "assigned": "",
+      "status": "quotation",
+      "quotDate": "2026-06-23",
+      "followup": "",
+      "scope": "Rectification",
+      "remarks": "Assigned to Reshmi | Quote shared to DGM | SO9268 - AED32,045",
+      "createdBy": "BD Executive",
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-07-02T11:45:35.486Z"
+    },
+    {
       "id": "INQ-0021",
       "client": "Global Petromac project",
       "project": "Global Petromac project",
@@ -422,6 +442,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0022",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T11:45:35.486Z"
+    },
     {
       "inquiryId": "INQ-0021",
       "action": "created",
