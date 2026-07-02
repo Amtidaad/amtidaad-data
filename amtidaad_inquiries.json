@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0004",
+      "client": "HOAM",
+      "project": "Jewellery & Gemplex",
+      "phone": "",
+      "email": "cas.t2@hoam.me",
+      "date": "",
+      "location": "Jumeirah Lakae Towers",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Proposal for Installation of Fire Sealant at Service Penetrations",
+      "remarks": "Assigned to Reshmi | Inquiry from Iskaan | Contact Person: Mr. Haseeb",
+      "createdBy": "BD Executive",
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-07-02T10:13:56.537Z"
+    },
+    {
       "id": "INQ-0003",
       "client": "`HOAM",
       "project": "Bermuda Views",
@@ -62,6 +82,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0004",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T10:13:56.537Z"
+    },
     {
       "inquiryId": "INQ-0003",
       "action": "created",
