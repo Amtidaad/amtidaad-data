@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0020",
+      "client": "Fireco Technical Services LLC",
+      "project": "Dubai Municipality",
+      "phone": "",
+      "email": "",
+      "date": "2026-07-02",
+      "location": "",
+      "service": "Fire Extinguisher Refilling",
+      "source": "Email",
+      "assigned": "",
+      "status": "quotation",
+      "quotDate": "2026-06-22",
+      "followup": "",
+      "scope": "FM200 Refilling",
+      "remarks": "Assigned to Reshmi | SO9255 - AED 2,400",
+      "createdBy": "BD Executive",
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-07-02T11:41:07.858Z"
+    },
+    {
       "id": "INQ-0019",
       "client": "AIMS Group of Companies",
       "project": "",
@@ -382,6 +402,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0020",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T11:41:07.858Z"
+    },
     {
       "inquiryId": "INQ-0019",
       "action": "created",
