@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0008",
+      "client": "SG Community Management",
+      "project": "Samana Hills",
+      "phone": "+971555184791",
+      "email": "mukthi@strata-global.com",
+      "date": "2026-07-02",
+      "location": "Arjan",
+      "service": "AMC - Full Package",
+      "source": "",
+      "assigned": "",
+      "status": "new",
+      "quotDate": "2026-06-27",
+      "followup": "",
+      "scope": "Fire Alarm, Fire Fighting & Central Battery System- amc",
+      "remarks": "Assigned to Reshmi | Inquiry from Iskaan | Contract Person: Mukthi Rodrigues | SO9296 - AED 7500",
+      "createdBy": "BD Executive",
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-07-02T10:40:02.536Z"
+    },
+    {
       "id": "INQ-0007",
       "client": "HOAM",
       "project": "The Diamond",
@@ -142,6 +162,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0008",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T10:40:02.536Z"
+    },
     {
       "inquiryId": "INQ-0007",
       "action": "created",
