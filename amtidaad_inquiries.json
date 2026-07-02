@@ -11,14 +11,14 @@
       "service": "Other",
       "source": "Email",
       "assigned": "",
-      "status": "new",
+      "status": "quotation",
       "quotDate": "2026-06-12",
       "followup": "",
       "scope": "Fitout",
       "remarks": "Assigned to Reshmi | SO9192 - AED 75,600",
       "createdBy": "BD Executive",
       "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-07-02T10:54:04.662Z"
+      "lastUpdatedAt": "2026-07-02T10:54:10.612Z"
     },
     {
       "id": "INQ-0009",
@@ -202,6 +202,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0010",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T10:54:10.612Z"
+    },
+    {
+      "inquiryId": "INQ-0010",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T10:54:10.612Z"
+    },
     {
       "inquiryId": "INQ-0010",
       "action": "created",
