@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0016",
+      "client": "xpertcare Technical services",
+      "project": "",
+      "phone": "",
+      "email": "info@xpertcarets.com",
+      "date": "2026-07-02",
+      "location": "",
+      "service": "Fire Extinguisher Refilling",
+      "source": "Email",
+      "assigned": "",
+      "status": "awarded",
+      "quotDate": "2026-06-16",
+      "followup": "",
+      "scope": "Refilling",
+      "remarks": "Assigned to Reshmi | SO 9224 - AED 475.50",
+      "createdBy": "BD Executive",
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-07-02T11:17:18.319Z"
+    },
+    {
       "id": "INQ-0015",
       "client": "DIFC Investment LLC",
       "project": "",
@@ -302,6 +322,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0016",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T11:17:18.319Z"
+    },
     {
       "inquiryId": "INQ-0015",
       "action": "created",
