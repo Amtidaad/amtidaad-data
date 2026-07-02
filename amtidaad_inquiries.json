@@ -6,7 +6,7 @@
       "project": "Samana Hills",
       "phone": "+971555184791",
       "email": "mukthi@strata-global.com",
-      "date": "2026-07-02",
+      "date": "2026-06-16",
       "location": "Arjan",
       "service": "AMC - Full Package",
       "source": "",
@@ -18,7 +18,7 @@
       "remarks": "Assigned to Reshmi | Inquiry from Iskaan | Contract Person: Mukthi Rodrigues | SO9296 - AED 7500",
       "createdBy": "BD Executive",
       "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-07-02T10:40:02.536Z"
+      "lastUpdatedAt": "2026-07-02T10:40:21.227Z"
     },
     {
       "id": "INQ-0007",
@@ -162,6 +162,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0008",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T10:40:21.228Z"
+    },
     {
       "inquiryId": "INQ-0008",
       "action": "created",
