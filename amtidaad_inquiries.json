@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0007",
+      "client": "HOAM",
+      "project": "The Diamond",
+      "phone": "",
+      "email": "cas.t4@hoam.me",
+      "date": "2026-04-21",
+      "location": "Sports City",
+      "service": "Other",
+      "source": "",
+      "assigned": "",
+      "status": "quotation",
+      "quotDate": "2026-06-17",
+      "followup": "",
+      "scope": "Rectification for fire protection",
+      "remarks": "Assigned to Reshmi | Inquiry from Iskaan | Contact Person: Mr. Muhammad Umer Farooq | SO9235 - AED 35,325",
+      "createdBy": "BD Executive",
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-07-02T10:34:55.038Z"
+    },
+    {
       "id": "INQ-0006",
       "client": "HOAM",
       "project": "The Spirit",
@@ -122,6 +142,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0007",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T10:34:55.038Z"
+    },
     {
       "inquiryId": "INQ-0006",
       "action": "created",
