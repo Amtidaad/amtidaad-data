@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0017",
+      "client": "FOX FIRE SECURITY SYSTEM",
+      "project": "",
+      "phone": "",
+      "email": "",
+      "date": "2026-07-02",
+      "location": "",
+      "service": "Fire Extinguisher Refilling",
+      "source": "Email",
+      "assigned": "",
+      "status": "quotation",
+      "quotDate": "2026-06-18",
+      "followup": "",
+      "scope": "FM200 Refilling",
+      "remarks": "Assigned to Reshmi | SO 9243 - AED 46,660",
+      "createdBy": "BD Executive",
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-07-02T11:36:53.345Z"
+    },
+    {
       "id": "INQ-0016",
       "client": "xpertcare Technical services",
       "project": "",
@@ -322,6 +342,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0017",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T11:36:53.345Z"
+    },
     {
       "inquiryId": "INQ-0016",
       "action": "created",
