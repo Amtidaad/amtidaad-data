@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0023",
+      "client": "xpertcare Technical services",
+      "project": "",
+      "phone": "",
+      "email": "",
+      "date": "2026-06-25",
+      "location": "",
+      "service": "Fire Extinguisher Refilling",
+      "source": "Email",
+      "assigned": "",
+      "status": "awarded",
+      "quotDate": "2026-06-25",
+      "followup": "",
+      "scope": "Refilling",
+      "remarks": "Assigned to Reshmi | SO9269 - AED 187.00",
+      "createdBy": "BD Executive",
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-07-02T11:46:49.652Z"
+    },
+    {
       "id": "INQ-0022",
       "client": "Stratum",
       "project": "Chaimaa Avenue",
@@ -442,6 +462,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0023",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T11:46:49.652Z"
+    },
     {
       "inquiryId": "INQ-0022",
       "action": "created",
