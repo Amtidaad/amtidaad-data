@@ -499,26 +499,6 @@
       "createdBy": "BD Executive",
       "lastUpdatedBy": "BD Executive",
       "lastUpdatedAt": "2026-07-02T10:03:23.464Z"
-    },
-    {
-      "id": "INQ-0001",
-      "client": "Test",
-      "project": "asdf",
-      "phone": "003231",
-      "email": "asdf",
-      "date": "2026-07-02",
-      "location": "",
-      "service": "",
-      "source": "",
-      "assigned": "Admin",
-      "status": "followup",
-      "quotDate": "2026-07-02",
-      "followup": "2026-07-05",
-      "scope": "AMC",
-      "remarks": "Testing",
-      "createdBy": "Admin",
-      "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-07-02T07:50:47.950Z"
     }
   ],
   "auditLog": [
@@ -872,33 +852,6 @@
       "remarks": "",
       "user": "BD Executive",
       "timestamp": "2026-07-02T09:59:14.371Z"
-    },
-    {
-      "inquiryId": "INQ-0001",
-      "action": "status_change",
-      "from": "quotation",
-      "to": "followup",
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T07:50:47.950Z"
-    },
-    {
-      "inquiryId": "INQ-0001",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "sent quote",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T07:50:32.499Z"
-    },
-    {
-      "inquiryId": "INQ-0001",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-02T07:50:00.710Z"
     }
   ]
 }
