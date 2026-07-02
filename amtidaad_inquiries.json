@@ -1,0 +1,35 @@
+{
+  "inquiries": [
+    {
+      "id": "INQ-0001",
+      "client": "Test",
+      "project": "asdf",
+      "phone": "003231",
+      "email": "asdf",
+      "date": "2026-07-02",
+      "location": "",
+      "service": "",
+      "source": "",
+      "assigned": "Admin",
+      "status": "new",
+      "quotDate": "2026-07-02",
+      "followup": "2026-07-05",
+      "scope": "AMC",
+      "remarks": "Testing",
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-02T07:50:00.710Z"
+    }
+  ],
+  "auditLog": [
+    {
+      "inquiryId": "INQ-0001",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-02T07:50:00.710Z"
+    }
+  ]
+}
