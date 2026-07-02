@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0024",
+      "client": "Fireco technical Services LLC",
+      "project": "",
+      "phone": "",
+      "email": "",
+      "date": "2026-06-25",
+      "location": "",
+      "service": "Fire Extinguisher Refilling",
+      "source": "Email",
+      "assigned": "",
+      "status": "quotation",
+      "quotDate": "2026-06-25",
+      "followup": "",
+      "scope": "refilling of FM 200",
+      "remarks": "Assigned to Reshmi | SO9280 - AED 7,225",
+      "createdBy": "BD Executive",
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-07-02T11:47:49.130Z"
+    },
+    {
       "id": "INQ-0023",
       "client": "xpertcare Technical services",
       "project": "",
@@ -462,6 +482,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0024",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T11:47:49.130Z"
+    },
     {
       "inquiryId": "INQ-0023",
       "action": "created",
