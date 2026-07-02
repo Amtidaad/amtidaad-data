@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0012",
+      "client": "Alikhwa Trading FZ LLC",
+      "project": "",
+      "phone": "+971504397665",
+      "email": "Alkhwatriding@gmail.com",
+      "date": "2026-07-02",
+      "location": "",
+      "service": "Other",
+      "source": "WhatsApp",
+      "assigned": "",
+      "status": "new",
+      "quotDate": "2026-06-19",
+      "followup": "",
+      "scope": "FOAM Generator",
+      "remarks": "Assigned to Reshimi | SO9247 - AED 62,000",
+      "createdBy": "BD Executive",
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-07-02T11:02:57.944Z"
+    },
+    {
       "id": "INQ-0011",
       "client": "Terravision Technical Services LLC",
       "project": "",
@@ -222,6 +242,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0012",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T11:02:57.944Z"
+    },
     {
       "inquiryId": "INQ-0011",
       "action": "status_change",
