@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0011",
+      "client": "Terravision Technical Services LLC",
+      "project": "",
+      "phone": "",
+      "email": "Sales@terravgroup.com",
+      "date": "2026-06-13",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "",
+      "status": "new",
+      "quotDate": "2026-06-13",
+      "followup": "",
+      "scope": "Supply and Installation",
+      "remarks": "Assigned to Reshmi | SO9220 - AED 92,500",
+      "createdBy": "BD Executive",
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-07-02T10:59:01.442Z"
+    },
+    {
       "id": "INQ-0010",
       "client": "EDECS",
       "project": "DP World - New Auto Market",
@@ -202,6 +222,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0011",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T10:59:01.442Z"
+    },
     {
       "inquiryId": "INQ-0010",
       "action": "status_change",
