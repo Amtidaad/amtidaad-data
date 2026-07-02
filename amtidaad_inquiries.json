@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0010",
+      "client": "EDECS",
+      "project": "DP World - New Auto Market",
+      "phone": "",
+      "email": "",
+      "date": "2026-06-12",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "",
+      "status": "new",
+      "quotDate": "2026-06-12",
+      "followup": "",
+      "scope": "Fitout",
+      "remarks": "Assigned to Reshmi | SO9192 - AED 75,600",
+      "createdBy": "BD Executive",
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-07-02T10:54:04.662Z"
+    },
+    {
       "id": "INQ-0009",
       "client": "Zuhoor Al Bahar Technical Services",
       "project": "",
@@ -182,6 +202,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0010",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T10:54:04.662Z"
+    },
     {
       "inquiryId": "INQ-0009",
       "action": "created",
