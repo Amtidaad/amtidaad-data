@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0021",
+      "client": "Global Petromac project",
+      "project": "Global Petromac project",
+      "phone": "",
+      "email": "",
+      "date": "2026-06-22",
+      "location": "",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "hold",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Fire Blanket Supply- Roll",
+      "remarks": "Assigned to Reshmi | Currently waiting for Prices",
+      "createdBy": "BD Executive",
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-07-02T11:42:51.494Z"
+    },
+    {
       "id": "INQ-0020",
       "client": "Fireco Technical Services LLC",
       "project": "Dubai Municipality",
@@ -402,6 +422,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0021",
+      "action": "created",
+      "from": null,
+      "to": "hold",
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T11:42:51.494Z"
+    },
     {
       "inquiryId": "INQ-0020",
       "action": "created",
