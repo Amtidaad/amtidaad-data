@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0009",
+      "client": "Zuhoor Al Bahar Technical Services",
+      "project": "",
+      "phone": "",
+      "email": "",
+      "date": "2026-07-02",
+      "location": "",
+      "service": "Fire Extinguisher Refilling",
+      "source": "Email",
+      "assigned": "",
+      "status": "quotation",
+      "quotDate": "2026-06-10",
+      "followup": "",
+      "scope": "FM 200 Refilling",
+      "remarks": "Assigned to Reshmi | SO9192 - AED 17,784 (Shared to DGM)",
+      "createdBy": "BD Executive",
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-07-02T10:51:32.288Z"
+    },
+    {
       "id": "INQ-0008",
       "client": "SG Community Management",
       "project": "Samana Hills",
@@ -162,6 +182,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0009",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T10:51:32.288Z"
+    },
     {
       "inquiryId": "INQ-0005",
       "action": "edited",
