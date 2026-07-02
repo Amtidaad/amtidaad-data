@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0027",
+      "client": "HOAM",
+      "project": "Al Shera Tower",
+      "phone": "",
+      "email": "cas.t4@hoam.me",
+      "date": "2026-07-02",
+      "location": "Jumeirah Lake Towers",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Replacement of Cracked Fire Hose Reel Pipe Inside Riser at 38th Floor Upper Level",
+      "remarks": "Assigned to Reshmi | Inquiry from Iskaan | Due Date 10 Jul 2026",
+      "createdBy": "BD Executive",
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-07-02T12:11:48.937Z"
+    },
+    {
       "id": "INQ-0026",
       "client": "Dynamic core Electromechanical LLC",
       "project": "",
@@ -522,6 +542,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0027",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T12:11:48.937Z"
+    },
     {
       "inquiryId": "INQ-0026",
       "action": "created",
