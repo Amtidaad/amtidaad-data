@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0015",
+      "client": "DIFC Investment LLC",
+      "project": "",
+      "phone": "",
+      "email": "frederic.azaredo@difc.ae",
+      "date": "2026-06-16",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "",
+      "status": "quotation",
+      "quotDate": "2026-06-16",
+      "followup": "",
+      "scope": "Refilling of IG541",
+      "remarks": "Assigned to Reshmi | SO9226 - AED 14,450",
+      "createdBy": "BD Executive",
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-07-02T11:16:07.449Z"
+    },
+    {
       "id": "INQ-0014",
       "client": "Al Mutamyez Fire Equipment",
       "project": "",
@@ -282,6 +302,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0015",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T11:16:07.449Z"
+    },
     {
       "inquiryId": "INQ-0014",
       "action": "created",
