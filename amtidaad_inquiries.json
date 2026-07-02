@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0019",
+      "client": "AIMS Group of Companies",
+      "project": "",
+      "phone": "",
+      "email": "",
+      "date": "2026-07-02",
+      "location": "",
+      "service": "Other",
+      "source": "",
+      "assigned": "",
+      "status": "quotation",
+      "quotDate": "2026-06-18",
+      "followup": "",
+      "scope": "IG541 Refilling",
+      "remarks": "Assigned to Reshmi | SO9246 - AED 8,500",
+      "createdBy": "BD Executive",
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-07-02T11:39:52.345Z"
+    },
+    {
       "id": "INQ-0018",
       "client": "Fireco Technical Services LLC",
       "project": "Kalba Police Station",
@@ -362,6 +382,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0019",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T11:39:52.346Z"
+    },
     {
       "inquiryId": "INQ-0018",
       "action": "created",
