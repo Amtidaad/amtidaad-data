@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0002",
+      "client": "Saba Properties",
+      "project": "Saba 1 & 3",
+      "phone": "",
+      "email": "",
+      "date": "2026-06-15",
+      "location": "Jumeirah Lakae Towers",
+      "service": "AMC - Full Package",
+      "source": "",
+      "assigned": "",
+      "status": "quotation",
+      "quotDate": "2026-06-21",
+      "followup": "",
+      "scope": "AMC For Fire Alarm, Fire Fighting and Central Battery System, 2027-2029",
+      "remarks": "Assigned to Reshmi and Quote sent already to Client | Contact Person: Ms. Jane Dionisio",
+      "createdBy": "BD Executive",
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-07-02T09:59:14.370Z"
+    },
+    {
       "id": "INQ-0001",
       "client": "Test",
       "project": "asdf",
@@ -22,6 +42,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0002",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T09:59:14.371Z"
+    },
     {
       "inquiryId": "INQ-0001",
       "action": "status_change",
