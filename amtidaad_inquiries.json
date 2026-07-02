@@ -15,10 +15,10 @@
       "quotDate": "2026-06-21",
       "followup": "",
       "scope": "AMC For Fire Alarm, Fire Fighting and Central Battery System, 2027-2029",
-      "remarks": "Assigned to Reshmi and Quote sent already to Client | Contact Person: Ms. Jane Dionisio",
+      "remarks": "Assigned to Reshmi| Query from Iskaan  | Contact Person: Ms. Jane Dionisio | SO3214 - AED 124,740.00",
       "createdBy": "BD Executive",
       "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-07-02T09:59:37.610Z"
+      "lastUpdatedAt": "2026-07-02T10:02:22.683Z"
     },
     {
       "id": "INQ-0001",
@@ -42,6 +42,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0002",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T10:02:22.683Z"
+    },
     {
       "inquiryId": "INQ-0002",
       "action": "edited",
