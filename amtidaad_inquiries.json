@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0018",
+      "client": "Fireco Technical Services LLC",
+      "project": "Kalba Police Station",
+      "phone": "",
+      "email": "",
+      "date": "2026-07-02",
+      "location": "",
+      "service": "Fire Extinguisher Refilling",
+      "source": "Email",
+      "assigned": "",
+      "status": "quotation",
+      "quotDate": "2026-06-18",
+      "followup": "",
+      "scope": "FM200 Refilling",
+      "remarks": "Assigned to Reshmi | SO9244 - AED 3,240",
+      "createdBy": "BD Executive",
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-07-02T11:37:50.780Z"
+    },
+    {
       "id": "INQ-0017",
       "client": "FOX FIRE SECURITY SYSTEM",
       "project": "",
@@ -342,6 +362,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0018",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T11:37:50.780Z"
+    },
     {
       "inquiryId": "INQ-0017",
       "action": "created",
