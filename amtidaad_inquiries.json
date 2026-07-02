@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0005",
+      "client": "HOAM",
+      "project": "KG Tower",
+      "phone": "",
+      "email": "cas.t2@hoam.me",
+      "date": "",
+      "location": "Dubai Marina",
+      "service": "Other",
+      "source": "",
+      "assigned": "",
+      "status": "quotation",
+      "quotDate": "2026-06-16",
+      "followup": "",
+      "scope": "Proposal for maintenance, servicing & replacement of fire fighting system items",
+      "remarks": "Assigned to Reshmi | Inquiry from Iskaan | Contact Person:  Mr. Haseeb | SO9228 - AED 49,860",
+      "createdBy": "BD Executive",
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-07-02T10:21:18.699Z"
+    },
+    {
       "id": "INQ-0004",
       "client": "HOAM",
       "project": "Jewellery & Gemplex",
@@ -82,6 +102,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0005",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T10:21:18.699Z"
+    },
     {
       "inquiryId": "INQ-0004",
       "action": "created",
