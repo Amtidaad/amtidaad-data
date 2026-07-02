@@ -18,7 +18,7 @@
       "remarks": "Assigned to Reshmi and Quote sent already to Client | Contact Person: Ms. Jane Dionisio",
       "createdBy": "BD Executive",
       "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-07-02T09:59:14.370Z"
+      "lastUpdatedAt": "2026-07-02T09:59:37.610Z"
     },
     {
       "id": "INQ-0001",
@@ -42,6 +42,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0002",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T09:59:37.610Z"
+    },
     {
       "inquiryId": "INQ-0002",
       "action": "created",
