@@ -11,17 +11,26 @@
       "service": "",
       "source": "",
       "assigned": "Admin",
-      "status": "quotation",
+      "status": "followup",
       "quotDate": "2026-07-02",
       "followup": "2026-07-05",
       "scope": "AMC",
       "remarks": "Testing",
       "createdBy": "Admin",
       "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-07-02T07:50:32.499Z"
+      "lastUpdatedAt": "2026-07-02T07:50:47.950Z"
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0001",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "followup",
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T07:50:47.950Z"
+    },
     {
       "inquiryId": "INQ-0001",
       "action": "status_change",
