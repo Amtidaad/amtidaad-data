@@ -66,7 +66,7 @@
       "project": "KG Tower",
       "phone": "",
       "email": "cas.t2@hoam.me",
-      "date": "",
+      "date": "2026-04-21",
       "location": "Dubai Marina",
       "service": "Other",
       "source": "",
@@ -78,7 +78,7 @@
       "remarks": "Assigned to Reshmi | Inquiry from Iskaan | Contact Person:  Mr. Haseeb | SO9228 - AED 49,860",
       "createdBy": "BD Executive",
       "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-07-02T10:21:18.699Z"
+      "lastUpdatedAt": "2026-07-02T10:42:20.491Z"
     },
     {
       "id": "INQ-0004",
@@ -162,6 +162,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0005",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T10:42:20.491Z"
+    },
     {
       "inquiryId": "INQ-0008",
       "action": "status_change",
