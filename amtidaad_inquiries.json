@@ -11,14 +11,14 @@
       "service": "Other",
       "source": "Email",
       "assigned": "",
-      "status": "new",
+      "status": "quotation",
       "quotDate": "2026-06-13",
       "followup": "",
       "scope": "Supply and Installation",
       "remarks": "Assigned to Reshmi | SO9220 - AED 92,500",
       "createdBy": "BD Executive",
       "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-07-02T10:59:01.442Z"
+      "lastUpdatedAt": "2026-07-02T10:59:07.044Z"
     },
     {
       "id": "INQ-0010",
@@ -222,6 +222,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0011",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T10:59:07.044Z"
+    },
+    {
+      "inquiryId": "INQ-0011",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T10:59:07.044Z"
+    },
     {
       "inquiryId": "INQ-0011",
       "action": "created",
