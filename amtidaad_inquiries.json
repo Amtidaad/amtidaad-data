@@ -112,13 +112,13 @@
       "source": "",
       "assigned": "",
       "status": "quotation",
-      "quotDate": "2026-06-23",
+      "quotDate": "2026-07-02",
       "followup": "",
       "scope": "Rectification",
-      "remarks": "Assigned to Reshmi | Quote shared to DGM | SO9268 - AED32,045",
+      "remarks": "Assigned to Reshmi | Quote sent to client | SO9268 - AED47,745",
       "createdBy": "BD Executive",
       "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-07-02T11:45:35.486Z"
+      "lastUpdatedAt": "2026-07-02T12:59:22.942Z"
     },
     {
       "id": "INQ-0021",
@@ -542,6 +542,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0022",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T12:59:22.942Z"
+    },
     {
       "inquiryId": "INQ-0027",
       "action": "created",
