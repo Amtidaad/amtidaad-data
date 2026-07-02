@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0026",
+      "client": "Dynamic core Electromechanical LLC",
+      "project": "",
+      "phone": "",
+      "email": "",
+      "date": "2026-06-26",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "",
+      "status": "quotation",
+      "quotDate": "2026-06-26",
+      "followup": "",
+      "scope": "Room Integrity Test",
+      "remarks": "Assigned to Reshmi | SO9287 - AED 7,000",
+      "createdBy": "BD Executive",
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-07-02T11:49:31.704Z"
+    },
+    {
       "id": "INQ-0025",
       "client": "xpertcare Technical services",
       "project": "",
@@ -502,6 +522,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0026",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T11:49:31.704Z"
+    },
     {
       "inquiryId": "INQ-0025",
       "action": "created",
