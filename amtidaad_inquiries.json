@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0013",
+      "client": "Al Mutamyez Fire Equipment",
+      "project": "",
+      "phone": "",
+      "email": "",
+      "date": "2026-06-14",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "",
+      "status": "quotation",
+      "quotDate": "2026-06-14",
+      "followup": "",
+      "scope": "refilling of HFC125",
+      "remarks": "Assigned to Reshmi | SO9223 - AED 17,520",
+      "createdBy": "BD Executive",
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-07-02T11:09:12.685Z"
+    },
+    {
       "id": "INQ-0012",
       "client": "Alikhwa Trading FZ LLC",
       "project": "",
@@ -242,6 +262,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0013",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-02T11:09:12.685Z"
+    },
     {
       "inquiryId": "INQ-0012",
       "action": "status_change",
