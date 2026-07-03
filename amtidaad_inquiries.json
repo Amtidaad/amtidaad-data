@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0028",
+      "client": "SobhaLatinem Facilities Management (Sobha Construction)",
+      "project": "",
+      "phone": "",
+      "email": "mohamed.shukoor@sobhaconst.com",
+      "date": "2026-07-02",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Fire Fighting & Fire Alarm Rectification Works (Multiple Location",
+      "remarks": "Assigned to Reshmi",
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-03T13:16:43.999Z"
+    },
+    {
       "id": "INQ-0027",
       "client": "HOAM",
       "project": "Al Shera Tower",
@@ -502,6 +522,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0028",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-03T13:16:43.999Z"
+    },
     {
       "inquiryId": "INQ-0022",
       "action": "edited",
