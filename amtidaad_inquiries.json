@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0034",
+      "client": "SBK Real Estate",
+      "project": "Southern Building Mankhool",
+      "phone": "",
+      "email": "sana.maryam@sbkrealestate.com",
+      "date": "2026-07-06",
+      "location": "Mankhool",
+      "service": "AMC - Full Package",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-07-06",
+      "followup": "",
+      "scope": "Annual Maintenance of Fire Alarm and Firefighting Systems Renewal",
+      "remarks": "Assigned to Reshmi | SO9344 - AED3,675",
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-06T12:07:40.132Z"
+    },
+    {
       "id": "INQ-0033",
       "client": "HOAM",
       "project": "Bermuda Views",
@@ -622,6 +642,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0034",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-06T12:07:40.132Z"
+    },
     {
       "inquiryId": "INQ-0033",
       "action": "created",
