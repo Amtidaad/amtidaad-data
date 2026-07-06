@@ -35,10 +35,10 @@
       "quotDate": "",
       "followup": "",
       "scope": "Water Mist System",
-      "remarks": "",
+      "remarks": "inquiry sent to Nitromist@gmail.com Warner safety once received quote then we will quote to customer detailed as under \nTahir Kerim\n\nPurchase Department\n\n \n\nM : +90 533 561 73 45\n\nT  : +90 212 789 58 79\n\n \n\naltayglobal3200@gmail.com\n\n \n\nAltay Global Trading\n\nFerhatpaşa Mahallesi, Tekke Sokak,\n\nNo: 11/2 34540 Çatalca - İstanbul, Türkiye\n\nBüyükçekmece V.D. 060 014 5870       \n\n \n\ninfo@altayglobal.com www.altayglobal.com\n\nwww.ronaldolighting.com",
       "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-06T12:58:45.849Z"
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-07-06T13:19:53.093Z"
     },
     {
       "id": "INQ-0034",
@@ -682,6 +682,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0035",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-06T13:19:53.093Z"
+    },
     {
       "inquiryId": "INQ-0036",
       "action": "edited",
