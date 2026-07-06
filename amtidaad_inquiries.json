@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0029",
+      "client": "Cloud Enterprise FZE",
+      "project": "",
+      "phone": "",
+      "email": "michael.benjamin@cloudenterprisefze.com",
+      "date": "2026-07-04",
+      "location": "",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Detector - Fire Protection",
+      "remarks": "Assigned to Reshmi",
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-06T05:01:01.847Z"
+    },
+    {
       "id": "INQ-0028",
       "client": "SobhaLatinem Facilities Management (Sobha Construction)",
       "project": "",
@@ -522,6 +542,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0029",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-06T05:01:01.847Z"
+    },
     {
       "inquiryId": "INQ-0028",
       "action": "created",
