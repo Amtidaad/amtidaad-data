@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0038",
+      "client": "DSC Facilities Services",
+      "project": "Dubai International Stadium",
+      "phone": "",
+      "email": "AngelicaA@DSC.AE",
+      "date": "2026-07-06",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "AMC for Fire Alarm and Firefighting System at Dubai International Stadium",
+      "remarks": "",
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-06T13:36:33.823Z"
+    },
+    {
       "id": "INQ-0037",
       "client": "Strata Global",
       "project": "",
@@ -702,6 +722,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0038",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-06T13:36:33.823Z"
+    },
     {
       "inquiryId": "INQ-0037",
       "action": "created",
