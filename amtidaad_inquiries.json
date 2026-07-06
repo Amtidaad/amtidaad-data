@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0035",
+      "client": "Altay Global Trading",
+      "project": "",
+      "phone": "",
+      "email": "altayglobal3200@gmail.com",
+      "date": "2026-07-06",
+      "location": "Istanbul, Turkey",
+      "service": "Other",
+      "source": "",
+      "assigned": "",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Water Mist System",
+      "remarks": "",
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-06T12:56:28.427Z"
+    },
+    {
       "id": "INQ-0034",
       "client": "SBK Real Estate",
       "project": "Southern Building Mankhool",
@@ -642,6 +662,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0035",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-06T12:56:28.427Z"
+    },
     {
       "inquiryId": "INQ-0034",
       "action": "created",
