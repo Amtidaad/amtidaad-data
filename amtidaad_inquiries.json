@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0033",
+      "client": "HOAM",
+      "project": "Bermuda Views",
+      "phone": "",
+      "email": "vinoth@hoam.me",
+      "date": "2026-07-06",
+      "location": "Dubai Sports City",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Replacement Of FireAlarm Equipment - Bermuda Views  ( JB004-26-02516 )",
+      "remarks": "Assigned to Reshmi",
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-06T07:41:42.960Z"
+    },
+    {
       "id": "INQ-0032",
       "client": "HOAM",
       "project": "Bahia 2",
@@ -602,6 +622,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0033",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-06T07:41:42.960Z"
+    },
     {
       "inquiryId": "INQ-0032",
       "action": "created",
