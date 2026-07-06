@@ -15,10 +15,10 @@
       "quotDate": "",
       "followup": "",
       "scope": "NOVEC & Foam Suppression system (RAR)",
-      "remarks": "",
+      "remarks": "inquiry sent to Fire company in KSA once received quote from supplier then we have to send quote to \nUmar Tahir\n\nSenior Proposals Engineer\n\nM: +966 53 265 0844 | E: umar.tahir@epc-ksa.com | WhatsApp\n\nElectrical and Power Contracting Co. Ltd",
       "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-06T12:58:33.984Z"
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-07-06T13:17:55.454Z"
     },
     {
       "id": "INQ-0035",
@@ -682,6 +682,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0036",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-07-06T13:17:55.454Z"
+    },
     {
       "inquiryId": "INQ-0035",
       "action": "edited",
