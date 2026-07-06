@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0031",
+      "client": "SG Community Management",
+      "project": "Durar 1",
+      "phone": "",
+      "email": "mukthi@strata-global.com",
+      "date": "2026-07-06",
+      "location": "Wadi Al Safa 5",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Fire Alarm & Fighting System Break Down  ( JB1099-26-02633 )",
+      "remarks": "Assigned to Reshmi",
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-06T07:37:32.206Z"
+    },
+    {
       "id": "INQ-0030",
       "client": "SG Community Management",
       "project": "Samana Hills",
@@ -562,6 +582,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0031",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-06T07:37:32.206Z"
+    },
     {
       "inquiryId": "INQ-0030",
       "action": "created",
