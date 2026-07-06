@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0036",
+      "client": "Electrical & Power Contracting",
+      "project": "RARA Steel Factory",
+      "phone": "",
+      "email": "umar.tahir@epc-ksa.com",
+      "date": "2026-07-06",
+      "location": "Dammam, KSA",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "NOVEC & Foam Suppression system (RAR)",
+      "remarks": "",
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-06T12:58:33.984Z"
+    },
+    {
       "id": "INQ-0035",
       "client": "Altay Global Trading",
       "project": "",
@@ -662,6 +682,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0036",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-06T12:58:33.984Z"
+    },
     {
       "inquiryId": "INQ-0035",
       "action": "created",
