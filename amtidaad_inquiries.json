@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0030",
+      "client": "SG Community Management",
+      "project": "Samana Hills",
+      "phone": "",
+      "email": "",
+      "date": "2026-07-03",
+      "location": "Arjan, Al Barsha South",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Fire Alarm & Fighting System Break Down  ( JB1099-26-02617 )",
+      "remarks": "Assigned to Reshmi",
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-06T07:35:00.924Z"
+    },
+    {
       "id": "INQ-0029",
       "client": "Cloud Enterprise FZE",
       "project": "",
@@ -542,6 +562,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0030",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-06T07:35:00.924Z"
+    },
     {
       "inquiryId": "INQ-0029",
       "action": "created",
