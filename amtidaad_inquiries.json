@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0032",
+      "client": "HOAM",
+      "project": "Bahia 2",
+      "phone": "",
+      "email": "cas.t1@hoam.me",
+      "date": "2026-07-06",
+      "location": "Al Sofouh",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Fire Fighting Rectification Work 2nd PPM   ( JB004-26-02514 )",
+      "remarks": "Assigned to Reshmi",
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-06T07:40:16.912Z"
+    },
+    {
       "id": "INQ-0031",
       "client": "SG Community Management",
       "project": "Durar 1",
@@ -582,6 +602,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0032",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-06T07:40:16.912Z"
+    },
     {
       "inquiryId": "INQ-0031",
       "action": "created",
