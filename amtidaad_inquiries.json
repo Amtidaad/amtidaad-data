@@ -151,14 +151,14 @@
       "service": "Other",
       "source": "",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-07-07",
       "followup": "",
       "scope": "Fire Alarm & Fighting System Break Down  ( JB1099-26-02633 )",
-      "remarks": "Assigned to Reshmi",
+      "remarks": "Assigned to Reshmi | SO9345 - AED 9,775.50 w/ VAT",
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-06T07:37:32.206Z"
+      "lastUpdatedAt": "2026-07-07T10:59:20.195Z"
     },
     {
       "id": "INQ-0030",
@@ -722,6 +722,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0031",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-07T10:59:20.195Z"
+    },
+    {
+      "inquiryId": "INQ-0031",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-07T10:59:20.195Z"
+    },
     {
       "inquiryId": "INQ-0032",
       "action": "status_change",
