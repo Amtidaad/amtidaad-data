@@ -206,7 +206,7 @@
       "project": "Hilliana Tower",
       "phone": "",
       "email": "rohith@hoam.me",
-      "date": "2026-07-08",
+      "date": "2026-07-07",
       "location": "Al Sofouh",
       "service": "Other",
       "source": "",
@@ -218,7 +218,7 @@
       "remarks": "SO9326 - AED 99,785.70 w/ VAT",
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-08T05:40:56.617Z"
+      "lastUpdatedAt": "2026-07-08T11:53:08.492Z"
     },
     {
       "id": "INQ-0038",
@@ -942,6 +942,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0039",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-08T11:53:08.492Z"
+    },
     {
       "inquiryId": "INQ-0049",
       "action": "created",
