@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0043",
+      "client": "HOAM - Highrise Owners Association Management",
+      "project": "Apricot Tower",
+      "phone": "",
+      "email": "cas.t2@hoam.me",
+      "date": "2026-07-08",
+      "location": "Dubai Silicon Oasis",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "P1 Replacement of Fire Alarm Equipment, Fire Fighting Equipment, Fire Extinguisher & Voice Evacuation  ( JB004-26-02573 )",
+      "remarks": "Assigned to Reshmi",
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-08T11:02:58.556Z"
+    },
+    {
       "id": "INQ-0042",
       "client": "Fireco Technical Services LLC",
       "project": "DM Clinic",
@@ -802,6 +822,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0043",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-08T11:02:58.557Z"
+    },
     {
       "inquiryId": "INQ-0042",
       "action": "created",
