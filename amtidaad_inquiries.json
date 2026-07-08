@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0042",
+      "client": "Fireco Technical Services LLC",
+      "project": "DM Clinic",
+      "phone": "",
+      "email": "engineer5@firecots.com",
+      "date": "2026-07-08",
+      "location": "",
+      "service": "Fire Extinguisher Refilling",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "FM200(HFC-227EA): REFILLING",
+      "remarks": "Assigned to Reshmi",
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-08T10:53:02.596Z"
+    },
+    {
       "id": "INQ-0041",
       "client": "Stratum",
       "project": "UNIESATE PRIME TOWER",
@@ -782,6 +802,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0042",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-08T10:53:02.596Z"
+    },
     {
       "inquiryId": "INQ-0041",
       "action": "created",
