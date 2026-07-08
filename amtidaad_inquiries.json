@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0041",
+      "client": "Stratum",
+      "project": "UNIESATE PRIME TOWER",
+      "phone": "",
+      "email": "Contracts1@stratum.ae",
+      "date": "2026-07-08",
+      "location": "Jumeirah Village Circle",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "RFQ_UNIESTATE PRIME TOWER_RECTIFICATION OF FIRE FIGHTING",
+      "remarks": "Assigned to Reshmi",
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-08T07:28:06.785Z"
+    },
+    {
       "id": "INQ-0040",
       "client": "The First Group Hospitality",
       "project": "The First Collection Hotel Waterfront",
@@ -762,6 +782,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0041",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-08T07:28:06.785Z"
+    },
     {
       "inquiryId": "INQ-0040",
       "action": "created",
