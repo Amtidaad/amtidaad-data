@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0049",
+      "client": "HOAM - Highrise Owners Association Management",
+      "project": "Zazen One",
+      "phone": "",
+      "email": "cas.t4@hoam.me",
+      "date": "2026-07-08",
+      "location": "Jumeirah Village Triangle",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Rectification of Fire Fighting System - ZAZEN ONE  ( JB004-26-02582 )",
+      "remarks": "Assigned to Reshmi",
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-08T11:11:38.306Z"
+    },
+    {
       "id": "INQ-0048",
       "client": "SIGMA HOMES OWNERS ASSOCIATION MANAGEMENT SERVICES",
       "project": "Plazzo Height",
@@ -922,6 +942,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0049",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-08T11:11:38.306Z"
+    },
     {
       "inquiryId": "INQ-0048",
       "action": "created",
