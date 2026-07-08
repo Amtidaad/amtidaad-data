@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0048",
+      "client": "SIGMA HOMES OWNERS ASSOCIATION MANAGEMENT SERVICES",
+      "project": "Plazzo Height",
+      "phone": "",
+      "email": "fm.manager@sigmahomes.ae",
+      "date": "2026-07-08",
+      "location": "Jumeirah Village Circle",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Fire Alarm & Fighting System Services  ( JB4621-26-00032 )",
+      "remarks": "Assigned to Reshmi",
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-08T11:10:36.301Z"
+    },
+    {
       "id": "INQ-0047",
       "client": "SIGMA HOMES OWNERS ASSOCIATION MANAGEMENT SERVICES",
       "project": "Plazzo Height",
@@ -902,6 +922,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0048",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-08T11:10:36.301Z"
+    },
     {
       "inquiryId": "INQ-0047",
       "action": "created",
