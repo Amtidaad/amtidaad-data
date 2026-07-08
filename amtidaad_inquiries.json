@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0050",
+      "client": "Strive Services Group",
+      "project": "Novo Cinema Manar Mall  , RAS AL KHAIMAH",
+      "phone": "",
+      "email": "Adnan.Ullah@striveservicesgroup.com",
+      "date": "2026-07-08",
+      "location": "Ras Al Khaimah",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "FACP Amplifier PC Board replacement with programing required",
+      "remarks": "",
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-08T11:55:23.192Z"
+    },
+    {
       "id": "INQ-0049",
       "client": "HOAM - Highrise Owners Association Management",
       "project": "Zazen One",
@@ -942,6 +962,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0050",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-08T11:55:23.192Z"
+    },
     {
       "inquiryId": "INQ-0039",
       "action": "edited",
