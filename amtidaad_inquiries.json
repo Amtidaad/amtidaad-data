@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0039",
+      "client": "HOAM - Highrise Owners Association Management",
+      "project": "Hilliana Tower",
+      "phone": "",
+      "email": "rohith@hoam.me",
+      "date": "2026-07-08",
+      "location": "Al Sofouh",
+      "service": "Other",
+      "source": "",
+      "assigned": "",
+      "status": "quotation",
+      "quotDate": "2026-07-07",
+      "followup": "",
+      "scope": "Rectification Of Fire Alarm- Hilliana tower ( JB004-26-02551 )",
+      "remarks": "SO9326 - AED 99,785.70 w/ VAT",
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-08T05:40:56.617Z"
+    },
+    {
       "id": "INQ-0038",
       "client": "DSC Facilities Services",
       "project": "Dubai International Stadium",
@@ -722,6 +742,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0039",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-08T05:40:56.617Z"
+    },
     {
       "inquiryId": "INQ-0031",
       "action": "status_change",
