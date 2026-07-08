@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0045",
+      "client": "SIGMA HOMES OWNERS ASSOCIATION MANAGEMENT SERVICES",
+      "project": "Nicholas Residence",
+      "phone": "",
+      "email": "fm.manager@sigmahomes.ae",
+      "date": "2026-07-08",
+      "location": "Jumeirah Village Circle",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Fire Alarm & Fighting System Services  ( JB4621-26-00028 )",
+      "remarks": "Assigned to Reshmi",
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-08T11:06:57.078Z"
+    },
+    {
       "id": "INQ-0044",
       "client": "HOAM - Highrise Owners Association Management",
       "project": "IT Plaza",
@@ -842,6 +862,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0045",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-08T11:06:57.078Z"
+    },
     {
       "inquiryId": "INQ-0044",
       "action": "created",
