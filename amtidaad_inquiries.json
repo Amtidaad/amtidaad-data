@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0051",
+      "client": "Bin Suloom Group",
+      "project": "Casablanca C2 Electrical Room",
+      "phone": "",
+      "email": "procurement@binsuloomgroup.com",
+      "date": "2026-07-08",
+      "location": "Al Barsha",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Yale Digital Rim Lock",
+      "remarks": "",
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-08T12:07:58.976Z"
+    },
+    {
       "id": "INQ-0050",
       "client": "Strive Services Group",
       "project": "Novo Cinema Manar Mall  , RAS AL KHAIMAH",
@@ -962,6 +982,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0051",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-08T12:07:58.976Z"
+    },
     {
       "inquiryId": "INQ-0050",
       "action": "created",
