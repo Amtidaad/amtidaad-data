@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0040",
+      "client": "The First Group Hospitality",
+      "project": "The First Collection Hotel Waterfront",
+      "phone": "",
+      "email": "Akbar.Khan@tfghospitality.com",
+      "date": "2026-07-07",
+      "location": "Marasi Dr, Business Bay",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Server Room UPS Issue",
+      "remarks": "Assigned to Reshmi",
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-08T06:47:44.461Z"
+    },
+    {
       "id": "INQ-0039",
       "client": "HOAM - Highrise Owners Association Management",
       "project": "Hilliana Tower",
@@ -742,6 +762,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0040",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-08T06:47:44.461Z"
+    },
     {
       "inquiryId": "INQ-0039",
       "action": "created",
