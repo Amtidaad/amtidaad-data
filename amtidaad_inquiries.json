@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0052",
+      "client": "Hupan Restaurant",
+      "project": "Hupan Restaurant",
+      "phone": "",
+      "email": "hupan@yingji.me",
+      "date": "2026-07-09",
+      "location": "Dubai reek Harbour",
+      "service": "AMC - Fire Alarm",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Request for Quotation-Fire Alarm AMC for Restaurant",
+      "remarks": "Assigned to Reshmi",
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-09T09:58:41.615Z"
+    },
+    {
       "id": "INQ-0051",
       "client": "Bin Suloom Group",
       "project": "Casablanca C2 Electrical Room",
@@ -982,6 +1002,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0052",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-09T09:58:41.615Z"
+    },
     {
       "inquiryId": "INQ-0051",
       "action": "created",
