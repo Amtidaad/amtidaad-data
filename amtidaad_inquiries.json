@@ -211,14 +211,14 @@
       "service": "Fire Extinguisher Refilling",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-07-09",
       "followup": "",
       "scope": "FM200(HFC-227EA): REFILLING",
-      "remarks": "Assigned to Reshmi",
+      "remarks": "Assigned to Reshmi | SO9357 - AED84,609.00 w/ VAT",
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-08T10:53:02.596Z"
+      "lastUpdatedAt": "2026-07-09T10:40:01.173Z"
     },
     {
       "id": "INQ-0041",
@@ -1002,6 +1002,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0042",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-09T10:40:01.173Z"
+    },
+    {
+      "inquiryId": "INQ-0042",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-09T10:40:01.173Z"
+    },
     {
       "inquiryId": "INQ-0052",
       "action": "created",
