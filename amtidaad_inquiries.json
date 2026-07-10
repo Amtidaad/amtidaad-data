@@ -98,7 +98,7 @@
       "remarks": "Assigned to Reshmi",
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-08T11:10:36.301Z"
+      "lastUpdatedAt": "2026-07-10T06:22:19.442Z"
     },
     {
       "id": "INQ-0047",
@@ -1002,6 +1002,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0048",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T06:22:19.442Z"
+    },
     {
       "inquiryId": "INQ-0042",
       "action": "status_change",
