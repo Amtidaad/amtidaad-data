@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0054",
+      "client": "Advance Innov Fire Fighting & Sfty Eqpt Inst LLC",
+      "project": "Emaar - Downtown Palace",
+      "phone": "",
+      "email": "",
+      "date": "2026-07-10",
+      "location": "Downtown",
+      "service": "Fire Extinguisher Refilling",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-07-10",
+      "followup": "",
+      "scope": "Refilling of Cylinders",
+      "remarks": "Quotation shared by Faizan | SO9372 - AED45,612 w/ VAT",
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-10T10:30:01.785Z"
+    },
+    {
       "id": "INQ-0053",
       "client": "IEMECH (Instant Power Electro Mechanical Works)",
       "project": "",
@@ -1022,6 +1042,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0054",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T10:30:01.785Z"
+    },
     {
       "inquiryId": "INQ-0041",
       "action": "status_change",
