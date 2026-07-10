@@ -916,9 +916,12 @@
       "followup": "",
       "scope": "FOAM Generator",
       "remarks": "Assigned to Reshimi | SO9247 - AED 62,000",
+      "quotNo": "9247",
+      "quotValue": 65100,
+      "securedValue": null,
       "createdBy": "BD Executive",
-      "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-07-02T11:03:04.632Z"
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-10T11:20:15.348Z"
     },
     {
       "id": "INQ-0011",
@@ -1102,6 +1105,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0012",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T11:20:15.348Z"
+    },
     {
       "inquiryId": "INQ-0013",
       "action": "edited",
