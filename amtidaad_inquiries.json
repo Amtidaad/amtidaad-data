@@ -1077,9 +1077,12 @@
       "followup": "",
       "scope": "Proposal for maintenance, servicing & replacement of fire fighting system items",
       "remarks": "Assigned to Reshmi | Inquiry from Iskaan | Contact Person:  Mr. Haseeb | SO9228 - AED 49,860",
+      "quotNo": "9228",
+      "quotValue": 52353,
+      "securedValue": null,
       "createdBy": "BD Executive",
-      "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-07-02T10:42:20.491Z"
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-10T11:23:55.364Z"
     },
     {
       "id": "INQ-0003",
@@ -1123,6 +1126,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0005",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T11:23:55.364Z"
+    },
     {
       "inquiryId": "INQ-0006",
       "action": "edited",
