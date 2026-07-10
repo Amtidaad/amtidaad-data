@@ -1008,9 +1008,12 @@
       "followup": "",
       "scope": "Fire Alarm, Fire Fighting & Central Battery System- amc",
       "remarks": "Assigned to Reshmi | Inquiry from Iskaan | Contract Person: Mukthi Rodrigues | SO9296 - AED 7500",
+      "quotNo": "9296",
+      "quotValue": 7875,
+      "securedValue": null,
       "createdBy": "BD Executive",
-      "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-07-02T10:40:29.999Z"
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-10T11:22:52.628Z"
     },
     {
       "id": "INQ-0007",
@@ -1114,6 +1117,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0008",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T11:22:52.628Z"
+    },
     {
       "inquiryId": "INQ-0010",
       "action": "edited",
