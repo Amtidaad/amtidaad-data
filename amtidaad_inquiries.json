@@ -285,9 +285,12 @@
       "followup": "",
       "scope": "RFQ_UNIESTATE PRIME TOWER_RECTIFICATION OF FIRE FIGHTING",
       "remarks": "Assigned to Reshmi | SO9362 - AED31,725.25 w/ VAT",
+      "quotNo": "9362",
+      "quotValue": 31725.25,
+      "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-10T08:23:07.231Z"
+      "lastUpdatedAt": "2026-07-10T11:06:49.982Z"
     },
     {
       "id": "INQ-0040",
@@ -1051,6 +1054,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0041",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T11:06:49.982Z"
+    },
     {
       "inquiryId": "INQ-0042",
       "action": "edited",
