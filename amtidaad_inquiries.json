@@ -328,9 +328,12 @@
       "followup": "",
       "scope": "Rectification Of Fire Alarm- Hilliana tower ( JB004-26-02551 )",
       "remarks": "SO9326 - AED 99,785.70 w/ VAT",
+      "quotNo": "9326",
+      "quotValue": 99785.7,
+      "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-08T11:53:08.492Z"
+      "lastUpdatedAt": "2026-07-10T11:07:04.532Z"
     },
     {
       "id": "INQ-0038",
@@ -1054,6 +1057,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0039",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T11:07:04.532Z"
+    },
     {
       "inquiryId": "INQ-0041",
       "action": "edited",
