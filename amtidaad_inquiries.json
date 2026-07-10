@@ -139,9 +139,12 @@
       "followup": "",
       "scope": "Fire Alarm & Fighting System Services  ( JB4621-26-00032 )",
       "remarks": "Assigned to Reshmi | SO9369 - AED7,665 w/ VAT",
+      "quotNo": "9369",
+      "quotValue": 7665,
+      "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-10T10:42:41.835Z"
+      "lastUpdatedAt": "2026-07-10T11:06:19.321Z"
     },
     {
       "id": "INQ-0047",
@@ -1045,6 +1048,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0048",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T11:06:19.321Z"
+    },
     {
       "inquiryId": "INQ-0054",
       "action": "edited",
