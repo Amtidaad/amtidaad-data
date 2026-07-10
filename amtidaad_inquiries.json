@@ -16,9 +16,12 @@
       "followup": "",
       "scope": "Refilling of Cylinders",
       "remarks": "Quotation shared by Faizan | SO9372 - AED45,612 w/ VAT",
+      "quotNo": "9372",
+      "quotValue": 45612,
+      "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-10T10:30:01.785Z"
+      "lastUpdatedAt": "2026-07-10T11:05:59.566Z"
     },
     {
       "id": "INQ-0053",
@@ -1042,6 +1045,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0054",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T11:05:59.566Z"
+    },
     {
       "inquiryId": "INQ-0048",
       "action": "status_change",
