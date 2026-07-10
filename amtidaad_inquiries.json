@@ -474,9 +474,12 @@
       "followup": "",
       "scope": "Fire Fighting Rectification Work 2nd PPM   ( JB004-26-02514 )",
       "remarks": "Assigned to Reshmi | SO9329 - AED 47,327.70",
+      "quotNo": "9329",
+      "quotValue": 47327.7,
+      "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-07T06:46:48.010Z"
+      "lastUpdatedAt": "2026-07-10T11:07:36.835Z"
     },
     {
       "id": "INQ-0031",
@@ -1060,6 +1063,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0032",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T11:07:36.836Z"
+    },
     {
       "inquiryId": "INQ-0034",
       "action": "edited",
