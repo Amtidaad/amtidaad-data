@@ -1086,7 +1086,7 @@
     },
     {
       "id": "INQ-0003",
-      "client": "`HOAM",
+      "client": "HOAM",
       "project": "Bermuda Views",
       "phone": "+971557961329",
       "email": "",
@@ -1095,14 +1095,17 @@
       "service": "AMC - Full Package",
       "source": "",
       "assigned": "Estimation Team",
-      "status": "quotation",
+      "status": "new",
       "quotDate": "2026-06-18",
       "followup": "",
       "scope": "Rectification of Leakage in the Transfer pump discharge line",
       "remarks": "Assigned To Reshmi | Query from Iskaan | Site Visit Required | Contact Person: Mr. Vinoth Ramalingam",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
       "createdBy": "BD Executive",
-      "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-07-02T10:06:35.325Z"
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-10T11:26:58.694Z"
     },
     {
       "id": "INQ-0002",
@@ -1126,6 +1129,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0003",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T11:26:58.694Z"
+    },
+    {
+      "inquiryId": "INQ-0003",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T11:26:58.694Z"
+    },
     {
       "inquiryId": "INQ-0005",
       "action": "edited",
