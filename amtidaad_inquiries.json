@@ -648,10 +648,10 @@
       "remarks": "Assigned to Reshmi | SO9283 - AED 356.00",
       "quotNo": "9283",
       "quotValue": 373.8,
-      "securedValue": null,
+      "securedValue": 373.8,
       "createdBy": "BD Executive",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-10T11:09:26.711Z"
+      "lastUpdatedAt": "2026-07-10T13:24:24.731Z"
     },
     {
       "id": "INQ-0024",
@@ -1155,6 +1155,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0025",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T13:24:24.731Z"
+    },
     {
       "inquiryId": "INQ-0023",
       "action": "edited",
