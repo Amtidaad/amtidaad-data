@@ -666,9 +666,12 @@
       "followup": "",
       "scope": "Refilling",
       "remarks": "Assigned to Reshmi | SO9269 - AED 187.00",
+      "quotNo": "9269",
+      "quotValue": 196.35,
+      "securedValue": null,
       "createdBy": "BD Executive",
-      "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-07-02T11:46:49.652Z"
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-10T11:09:58.370Z"
     },
     {
       "id": "INQ-0022",
@@ -1072,6 +1075,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0023",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T11:09:58.370Z"
+    },
     {
       "inquiryId": "INQ-0025",
       "action": "status_change",
