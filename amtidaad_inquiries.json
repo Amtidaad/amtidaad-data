@@ -847,9 +847,12 @@
       "followup": "",
       "scope": "Refilling of IG541",
       "remarks": "Assigned to Reshmi | SO9226 - AED 14,450",
+      "quotNo": "9226",
+      "quotValue": 15172.5,
+      "securedValue": null,
       "createdBy": "BD Executive",
-      "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-07-02T11:16:07.449Z"
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-10T11:19:20.730Z"
     },
     {
       "id": "INQ-0014",
@@ -1093,6 +1096,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0015",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T11:19:20.730Z"
+    },
     {
       "inquiryId": "INQ-0016",
       "action": "edited",
