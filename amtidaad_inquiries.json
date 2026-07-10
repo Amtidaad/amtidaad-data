@@ -1031,9 +1031,12 @@
       "followup": "",
       "scope": "Rectification for fire protection",
       "remarks": "Assigned to Reshmi | Inquiry from Iskaan | Contact Person: Mr. Muhammad Umer Farooq | SO9235 - AED 35,325",
+      "quotNo": "9235",
+      "quotValue": 44808.75,
+      "securedValue": null,
       "createdBy": "BD Executive",
-      "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-07-02T10:34:55.038Z"
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-10T11:23:12.884Z"
     },
     {
       "id": "INQ-0006",
@@ -1117,6 +1120,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0007",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T11:23:12.884Z"
+    },
     {
       "inquiryId": "INQ-0008",
       "action": "edited",
