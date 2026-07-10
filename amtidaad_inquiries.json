@@ -618,14 +618,17 @@
       "service": "Fire Extinguisher Refilling",
       "source": "Email",
       "assigned": "",
-      "status": "quotation",
+      "status": "awarded",
       "quotDate": "2026-06-25",
       "followup": "",
       "scope": "refilling",
       "remarks": "Assigned to Reshmi | SO9283 - AED 356.00",
+      "quotNo": "9283",
+      "quotValue": 373.8,
+      "securedValue": null,
       "createdBy": "BD Executive",
-      "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-07-02T11:48:42.310Z"
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-10T11:09:26.711Z"
     },
     {
       "id": "INQ-0024",
@@ -1069,6 +1072,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0025",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T11:09:26.712Z"
+    },
+    {
+      "inquiryId": "INQ-0025",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T11:09:26.712Z"
+    },
     {
       "inquiryId": "INQ-0031",
       "action": "edited",
