@@ -431,9 +431,12 @@
       "followup": "",
       "scope": "Annual Maintenance of Fire Alarm and Firefighting Systems Renewal",
       "remarks": "Assigned to Reshmi | SO9344 - AED3,675",
+      "quotNo": "9344",
+      "quotValue": 3675,
+      "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-06T12:07:40.132Z"
+      "lastUpdatedAt": "2026-07-10T11:07:18.312Z"
     },
     {
       "id": "INQ-0033",
@@ -1057,6 +1060,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0034",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T11:07:18.312Z"
+    },
     {
       "inquiryId": "INQ-0039",
       "action": "edited",
