@@ -985,9 +985,12 @@
       "followup": "",
       "scope": "FM 200 Refilling",
       "remarks": "Assigned to Reshmi | SO9192 - AED 17,784 (Shared to DGM)",
+      "quotNo": "9192",
+      "quotValue": 18673.2,
+      "securedValue": null,
       "createdBy": "BD Executive",
-      "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-07-02T10:51:32.288Z"
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-10T11:21:13.788Z"
     },
     {
       "id": "INQ-0008",
@@ -1111,6 +1114,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0009",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T11:21:13.788Z"
+    },
     {
       "inquiryId": "INQ-0010",
       "action": "edited",
