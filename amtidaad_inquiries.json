@@ -962,12 +962,12 @@
       "followup": "",
       "scope": "Fitout",
       "remarks": "Assigned to Reshmi | SO9192 - AED 75,600",
-      "quotNo": "9192",
-      "quotValue": 18673.2,
+      "quotNo": "9212",
+      "quotValue": 79380,
       "securedValue": null,
       "createdBy": "BD Executive",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-10T11:20:54.936Z"
+      "lastUpdatedAt": "2026-07-10T11:22:11.860Z"
     },
     {
       "id": "INQ-0009",
@@ -1114,6 +1114,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0010",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T11:22:11.860Z"
+    },
     {
       "inquiryId": "INQ-0009",
       "action": "edited",
