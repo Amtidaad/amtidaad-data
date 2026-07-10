@@ -1,6 +1,26 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0053",
+      "client": "IEMEC",
+      "project": "",
+      "phone": "",
+      "email": "",
+      "date": "2026-07-10",
+      "location": "",
+      "service": "Other",
+      "source": "WhatsApp",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Refilling of Inergen Gas",
+      "remarks": "",
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-10T07:47:52.626Z"
+    },
+    {
       "id": "INQ-0052",
       "client": "Hupan Restaurant",
       "project": "Hupan Restaurant",
@@ -1002,6 +1022,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0053",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T07:47:52.626Z"
+    },
     {
       "inquiryId": "INQ-0048",
       "action": "edited",
