@@ -2,7 +2,7 @@
   "inquiries": [
     {
       "id": "INQ-0053",
-      "client": "IEMEC",
+      "client": "IEMECH (Instant Power Electro Mechanical Works)",
       "project": "",
       "phone": "",
       "email": "",
@@ -18,7 +18,7 @@
       "remarks": "",
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-10T07:47:52.626Z"
+      "lastUpdatedAt": "2026-07-10T07:50:44.889Z"
     },
     {
       "id": "INQ-0052",
@@ -1022,6 +1022,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0053",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T07:50:44.889Z"
+    },
     {
       "inquiryId": "INQ-0053",
       "action": "created",
