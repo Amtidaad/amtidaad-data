@@ -497,9 +497,12 @@
       "followup": "",
       "scope": "Fire Alarm & Fighting System Break Down  ( JB1099-26-02633 )",
       "remarks": "Assigned to Reshmi | SO9345 - AED 9,775.50 w/ VAT",
+      "quotNo": "9345",
+      "quotValue": 9775.5,
+      "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-07T10:59:20.195Z"
+      "lastUpdatedAt": "2026-07-10T11:07:52.136Z"
     },
     {
       "id": "INQ-0030",
@@ -1063,6 +1066,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0031",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T11:07:52.136Z"
+    },
     {
       "inquiryId": "INQ-0032",
       "action": "edited",
