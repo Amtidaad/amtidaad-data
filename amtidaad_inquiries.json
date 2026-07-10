@@ -870,9 +870,12 @@
       "followup": "",
       "scope": "Refilling of FM200",
       "remarks": "Assigned to Reshmi | SO9225 - AED 10,590",
+      "quotNo": "9225",
+      "quotValue": 11119.5,
+      "securedValue": null,
       "createdBy": "BD Executive",
-      "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-07-02T11:11:53.697Z"
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-10T11:19:39.023Z"
     },
     {
       "id": "INQ-0013",
@@ -1096,6 +1099,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0014",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T11:19:39.023Z"
+    },
     {
       "inquiryId": "INQ-0015",
       "action": "edited",
