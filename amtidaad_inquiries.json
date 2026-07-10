@@ -755,9 +755,12 @@
       "followup": "",
       "scope": "IG541 Refilling",
       "remarks": "Assigned to Reshmi | SO9246 - AED 8,500",
+      "quotNo": "9246",
+      "quotValue": 8925,
+      "securedValue": null,
       "createdBy": "BD Executive",
-      "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-07-02T11:39:52.345Z"
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-10T11:11:11.062Z"
     },
     {
       "id": "INQ-0018",
@@ -775,9 +778,12 @@
       "followup": "",
       "scope": "FM200 Refilling",
       "remarks": "Assigned to Reshmi | SO9244 - AED 3,240",
+      "quotNo": "9244",
+      "quotValue": 3402,
+      "securedValue": null,
       "createdBy": "BD Executive",
-      "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-07-02T11:37:50.780Z"
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-10T11:11:33.236Z"
     },
     {
       "id": "INQ-0017",
@@ -1081,6 +1087,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0018",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T11:11:33.236Z"
+    },
+    {
+      "inquiryId": "INQ-0019",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T11:11:11.062Z"
+    },
     {
       "inquiryId": "INQ-0020",
       "action": "edited",
