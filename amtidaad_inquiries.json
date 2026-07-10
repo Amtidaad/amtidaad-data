@@ -262,9 +262,12 @@
       "followup": "",
       "scope": "FM200(HFC-227EA): REFILLING",
       "remarks": "Assigned to Reshmi | SO9357 - AED84,609.00 w/ VAT",
+      "quotNo": "9357",
+      "quotValue": 84609,
+      "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-09T10:40:01.173Z"
+      "lastUpdatedAt": "2026-07-10T11:06:37.143Z"
     },
     {
       "id": "INQ-0041",
@@ -1048,6 +1051,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0042",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T11:06:37.143Z"
+    },
     {
       "inquiryId": "INQ-0048",
       "action": "edited",
