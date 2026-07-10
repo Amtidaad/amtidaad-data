@@ -601,11 +601,11 @@
       "scope": "Room Integrity Test",
       "remarks": "Assigned to Reshmi | SO9287 - AED 7,000",
       "quotNo": "9287",
-      "quotValue": 7000,
+      "quotValue": 7350,
       "securedValue": null,
       "createdBy": "BD Executive",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-10T11:08:05.020Z"
+      "lastUpdatedAt": "2026-07-10T11:08:29.552Z"
     },
     {
       "id": "INQ-0025",
@@ -1069,6 +1069,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0026",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T11:08:29.552Z"
+    },
     {
       "inquiryId": "INQ-0026",
       "action": "edited",
