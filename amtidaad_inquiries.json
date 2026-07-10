@@ -849,10 +849,10 @@
       "remarks": "Assigned to Reshmi | SO 9224 - AED 475.50",
       "quotNo": "9224",
       "quotValue": 499.28,
-      "securedValue": null,
+      "securedValue": 499.28,
       "createdBy": "BD Executive",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-10T11:18:59.740Z"
+      "lastUpdatedAt": "2026-07-10T13:23:15.959Z"
     },
     {
       "id": "INQ-0015",
@@ -1155,6 +1155,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0016",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T13:23:15.959Z"
+    },
     {
       "inquiryId": "INQ-0055",
       "action": "edited",
