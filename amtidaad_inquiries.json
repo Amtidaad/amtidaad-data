@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0055",
+      "client": "Saba Properties",
+      "project": "Saba 1",
+      "phone": "",
+      "email": "",
+      "date": "2026-07-10",
+      "location": "Jumeirah Lakae Towers",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-06-12",
+      "followup": "",
+      "scope": "Assigned to Reshmi| Query from Iskaan  | Contact Person: Ms. Jane Dionisio | SO9213 - AED 62370",
+      "remarks": "",
+      "quotNo": "9213",
+      "quotValue": 62370,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-10T11:35:36.983Z"
+    },
+    {
       "id": "INQ-0054",
       "client": "Advance Innov Fire Fighting & Sfty Eqpt Inst LLC",
       "project": "Emaar - Downtown Palace",
@@ -1132,6 +1155,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0055",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T11:35:36.983Z"
+    },
     {
       "inquiryId": "INQ-0002",
       "action": "edited",
