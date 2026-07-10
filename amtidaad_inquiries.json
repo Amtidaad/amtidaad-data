@@ -1095,7 +1095,7 @@
       "service": "AMC - Full Package",
       "source": "",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "hold",
       "quotDate": "2026-06-18",
       "followup": "",
       "scope": "Rectification of Leakage in the Transfer pump discharge line",
@@ -1105,7 +1105,7 @@
       "securedValue": null,
       "createdBy": "BD Executive",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-10T11:26:58.694Z"
+      "lastUpdatedAt": "2026-07-10T11:27:09.762Z"
     },
     {
       "id": "INQ-0002",
@@ -1129,6 +1129,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0003",
+      "action": "status_change",
+      "from": "new",
+      "to": "hold",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T11:27:09.762Z"
+    },
+    {
+      "inquiryId": "INQ-0003",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T11:27:09.762Z"
+    },
     {
       "inquiryId": "INQ-0003",
       "action": "status_change",
