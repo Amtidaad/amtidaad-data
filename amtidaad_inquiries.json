@@ -1110,7 +1110,7 @@
     {
       "id": "INQ-0002",
       "client": "Saba Properties",
-      "project": "Saba 3",
+      "project": "Saba 1 & 3",
       "phone": "+97144270305",
       "email": "operations@saba-properties.com",
       "date": "2026-06-15",
@@ -1128,10 +1128,19 @@
       "securedValue": null,
       "createdBy": "BD Executive",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-10T11:32:15.384Z"
+      "lastUpdatedAt": "2026-07-10T11:33:06.136Z"
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0002",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T11:33:06.136Z"
+    },
     {
       "inquiryId": "INQ-0002",
       "action": "edited",
