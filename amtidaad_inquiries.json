@@ -249,16 +249,16 @@
       "date": "2026-07-08",
       "location": "Jumeirah Village Circle",
       "service": "Other",
-      "source": "",
+      "source": "Email",
       "assigned": "Estimation Team",
       "status": "new",
-      "quotDate": "",
+      "quotDate": "2026-07-10",
       "followup": "",
       "scope": "RFQ_UNIESTATE PRIME TOWER_RECTIFICATION OF FIRE FIGHTING",
-      "remarks": "Assigned to Reshmi",
+      "remarks": "Assigned to Reshmi | SO9362 - AED31,725.25 w/ VAT",
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-08T07:28:06.785Z"
+      "lastUpdatedAt": "2026-07-10T08:22:40.459Z"
     },
     {
       "id": "INQ-0040",
@@ -1022,6 +1022,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0041",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T08:22:40.459Z"
+    },
     {
       "inquiryId": "INQ-0053",
       "action": "edited",
