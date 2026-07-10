@@ -8,7 +8,7 @@
       "email": "",
       "date": "2026-07-10",
       "location": "Jumeirah Lakae Towers",
-      "service": "Other",
+      "service": "AMC - Full Package",
       "source": "",
       "assigned": "Estimation Team",
       "status": "quotation",
@@ -21,7 +21,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-10T11:35:36.983Z"
+      "lastUpdatedAt": "2026-07-10T11:35:51.554Z"
     },
     {
       "id": "INQ-0054",
@@ -1155,6 +1155,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0055",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-10T11:35:51.554Z"
+    },
     {
       "inquiryId": "INQ-0055",
       "action": "created",
