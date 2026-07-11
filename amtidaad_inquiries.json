@@ -76,15 +76,18 @@
       "location": "Dubai reek Harbour",
       "service": "AMC - Fire Alarm",
       "source": "Email",
-      "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "assigned": "BD Executive",
+      "status": "quotation",
+      "quotDate": "2026-07-11",
       "followup": "",
       "scope": "Request for Quotation-Fire Alarm AMC for Restaurant",
-      "remarks": "Assigned to Reshmi",
+      "remarks": "For Follow up next week",
+      "quotNo": "9375",
+      "quotValue": 3675,
+      "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-09T09:58:41.615Z"
+      "lastUpdatedAt": "2026-07-11T09:15:37.224Z"
     },
     {
       "id": "INQ-0051",
@@ -1155,6 +1158,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0052",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-11T09:15:37.224Z"
+    },
+    {
+      "inquiryId": "INQ-0052",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-11T09:15:37.224Z"
+    },
     {
       "inquiryId": "INQ-0025",
       "action": "edited",
