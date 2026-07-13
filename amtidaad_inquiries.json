@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0058",
+      "client": "Eagle Eye Electricity Equipment & fittings",
+      "project": "",
+      "phone": "",
+      "email": "sales@eagleeyeelectric.ae",
+      "date": "2026-07-13",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "DETECTOR,FIRE PROTECTION;MULTI SENSOR;OPTICAL & HEAT;9V BATTERYOPERATED;OLD MODEL: EI 100B;NEW MODEL: EI 660I;QA/QC CERT REQ A ,C,J;MFG: E.I. ELECTRONICCS CO LTD.",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-13T12:53:15.851Z"
+    },
+    {
       "id": "INQ-0057",
       "client": "BRS Contracting",
       "project": "Golden Tulip Hotel",
@@ -1204,6 +1227,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0058",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-13T12:53:15.851Z"
+    },
     {
       "inquiryId": "INQ-0057",
       "action": "created",
