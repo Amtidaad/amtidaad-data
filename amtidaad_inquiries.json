@@ -35,16 +35,16 @@
       "source": "WhatsApp",
       "assigned": "Estimation Team",
       "status": "new",
-      "quotDate": "",
+      "quotDate": "2026-07-13",
       "followup": "",
       "scope": "Fire Alarm/Emergency Light/Fire Fighting System",
       "remarks": "",
-      "quotNo": null,
-      "quotValue": null,
+      "quotNo": "9385",
+      "quotValue": 42205.8,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-13T11:13:51.183Z"
+      "lastUpdatedAt": "2026-07-14T06:07:46.662Z"
     },
     {
       "id": "INQ-0056",
@@ -1227,6 +1227,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0057",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-14T06:07:46.662Z"
+    },
     {
       "inquiryId": "INQ-0058",
       "action": "created",
