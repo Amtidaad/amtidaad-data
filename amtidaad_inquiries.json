@@ -34,7 +34,7 @@
       "service": "Other",
       "source": "WhatsApp",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "quotation",
       "quotDate": "2026-07-13",
       "followup": "",
       "scope": "Fire Alarm/Emergency Light/Fire Fighting System",
@@ -44,7 +44,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-14T06:07:46.662Z"
+      "lastUpdatedAt": "2026-07-14T06:07:53.884Z"
     },
     {
       "id": "INQ-0056",
@@ -1227,6 +1227,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0057",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-14T06:07:53.884Z"
+    },
+    {
+      "inquiryId": "INQ-0057",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-14T06:07:53.884Z"
+    },
     {
       "inquiryId": "INQ-0057",
       "action": "edited",
