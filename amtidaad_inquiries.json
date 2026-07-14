@@ -360,9 +360,12 @@
       "followup": "",
       "scope": "P1 Replacement of Fire Alarm Equipment, Fire Fighting Equipment, Fire Extinguisher & Voice Evacuation  ( JB004-26-02573 )",
       "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-08T11:02:58.556Z"
+      "lastUpdatedAt": "2026-07-14T12:34:34.165Z"
     },
     {
       "id": "INQ-0042",
@@ -1250,6 +1253,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0043",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-14T12:34:34.165Z"
+    },
     {
       "inquiryId": "INQ-0059",
       "action": "created",
