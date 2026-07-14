@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0059",
+      "client": "HOAM - Highrise Owners Association Management",
+      "project": "Lakeside Residence",
+      "phone": "",
+      "email": "vinoth@hoam.me",
+      "date": "2026-07-14",
+      "location": "Jumeirah Lake Towers",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Replacement Of FA Loop Cards - LSR  ( JB004-26-02671 )",
+      "remarks": "Assigned to Reshmi | Iskaan Query",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-14T07:54:21.251Z"
+    },
+    {
       "id": "INQ-0058",
       "client": "Eagle Eye Electricity Equipment & fittings",
       "project": "",
@@ -1227,6 +1250,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0059",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-14T07:54:21.251Z"
+    },
     {
       "inquiryId": "INQ-0057",
       "action": "status_change",
