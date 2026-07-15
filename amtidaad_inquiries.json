@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0062",
+      "client": "HU PAN RESTAURANT LOUNGE L.L.C",
+      "project": "",
+      "phone": "",
+      "email": "",
+      "date": "2026-07-15",
+      "location": "Creek Harbor",
+      "service": "AMC - Fire Alarm",
+      "source": "Phone Call",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "2026-07-13",
+      "followup": "",
+      "scope": "AMC in creek harbour",
+      "remarks": "",
+      "quotNo": "9375",
+      "quotValue": null,
+      "securedValue": 3675,
+      "createdBy": "Estimation Team",
+      "lastUpdatedBy": "Estimation Team",
+      "lastUpdatedAt": "2026-07-15T07:58:54.907Z"
+    },
+    {
       "id": "INQ-0061",
       "client": "BK Gulf",
       "project": "",
@@ -1299,6 +1322,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0062",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Estimation Team",
+      "timestamp": "2026-07-15T07:58:54.907Z"
+    },
     {
       "inquiryId": "INQ-0061",
       "action": "created",
