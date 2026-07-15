@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0060",
+      "client": "Al Aqmar Building Materials Trading llc",
+      "project": "",
+      "phone": "",
+      "email": "asgarjb@alaqmarbmt.com",
+      "date": "2026-07-15",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Supply of Firefighters PPE",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-15T06:35:18.344Z"
+    },
+    {
       "id": "INQ-0059",
       "client": "HOAM - Highrise Owners Association Management",
       "project": "Lakeside Residence",
@@ -1253,6 +1276,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0060",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-15T06:35:18.344Z"
+    },
     {
       "inquiryId": "INQ-0059",
       "action": "status_change",
