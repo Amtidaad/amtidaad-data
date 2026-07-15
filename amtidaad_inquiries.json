@@ -11,17 +11,17 @@
       "service": "Other",
       "source": "",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-07-14",
       "followup": "",
       "scope": "Replacement Of FA Loop Cards - LSR  ( JB004-26-02671 )",
       "remarks": "Assigned to Reshmi | Iskaan Query",
-      "quotNo": null,
-      "quotValue": null,
+      "quotNo": "9355",
+      "quotValue": 8033.55,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-14T12:35:13.966Z"
+      "lastUpdatedAt": "2026-07-15T05:08:21.802Z"
     },
     {
       "id": "INQ-0058",
@@ -1253,6 +1253,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0059",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-15T05:08:21.803Z"
+    },
+    {
+      "inquiryId": "INQ-0059",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-15T05:08:21.803Z"
+    },
     {
       "inquiryId": "INQ-0059",
       "action": "edited",
