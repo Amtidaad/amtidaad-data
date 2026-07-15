@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0061",
+      "client": "BK Gulf",
+      "project": "",
+      "phone": "",
+      "email": "saravanan.arumugam@bkgulf.com>  ​ Ajmal Saeed",
+      "date": "2026-07-15",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Refilling for Nitrogen System",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-15T07:50:14.409Z"
+    },
+    {
       "id": "INQ-0060",
       "client": "Al Aqmar Building Materials Trading llc",
       "project": "",
@@ -1276,6 +1299,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0061",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-15T07:50:14.409Z"
+    },
     {
       "inquiryId": "INQ-0060",
       "action": "created",
