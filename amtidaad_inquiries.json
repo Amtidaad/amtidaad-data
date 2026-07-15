@@ -15,13 +15,13 @@
       "quotDate": "2026-07-13",
       "followup": "",
       "scope": "AMC in creek harbour",
-      "remarks": "",
+      "remarks": "SP: Furqan.",
       "quotNo": "9375",
       "quotValue": null,
       "securedValue": 3675,
       "createdBy": "Estimation Team",
       "lastUpdatedBy": "Estimation Team",
-      "lastUpdatedAt": "2026-07-15T07:58:54.907Z"
+      "lastUpdatedAt": "2026-07-15T07:59:29.406Z"
     },
     {
       "id": "INQ-0061",
@@ -1322,6 +1322,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0062",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Estimation Team",
+      "timestamp": "2026-07-15T07:59:29.406Z"
+    },
     {
       "inquiryId": "INQ-0062",
       "action": "created",
