@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0063",
+      "client": "Dukhoon Modern Projects L.L.C",
+      "project": "",
+      "phone": "",
+      "email": "hamed@dukhoonmp.com",
+      "date": "2026-07-16",
+      "location": "Oman",
+      "service": "New Installation - Fire Alarm",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "HEAD IONISATION SMOKE DETECTOR\n\nMAIN EQUIPMENT: FIRE ALARM\n\nSYSTEM BJH-31\n\nMAKE: AUTRONICA, NORWAY",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-16T08:18:55.121Z"
+    },
+    {
       "id": "INQ-0062",
       "client": "HU PAN RESTAURANT LOUNGE L.L.C",
       "project": "",
@@ -1322,6 +1345,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0063",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-16T08:18:55.122Z"
+    },
     {
       "inquiryId": "INQ-0062",
       "action": "edited",
