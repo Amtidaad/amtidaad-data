@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0064",
+      "client": "Stratum",
+      "project": "The Terraces",
+      "phone": "",
+      "email": "Procurement@stratum.ae",
+      "date": "2026-07-17",
+      "location": "Nad Al Sheba 1, Sobha Hartland",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "RECTIFICATION OF FIRE EQUIPMENTS",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-17T05:38:35.682Z"
+    },
+    {
       "id": "INQ-0063",
       "client": "Dukhoon Modern Projects L.L.C",
       "project": "",
@@ -1345,6 +1368,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0064",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-17T05:38:35.682Z"
+    },
     {
       "inquiryId": "INQ-0063",
       "action": "created",
