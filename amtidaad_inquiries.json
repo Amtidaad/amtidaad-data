@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0065",
+      "client": "Stratum",
+      "project": "Gemini Splendor",
+      "phone": "",
+      "email": "Procurement@stratum.ae",
+      "date": "2026-07-17",
+      "location": "Nad Al Sheba 1",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "RECTIFICATION OF FIRE EQUIPMENTS",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-17T05:39:53.894Z"
+    },
+    {
       "id": "INQ-0064",
       "client": "Stratum",
       "project": "The Terraces",
@@ -1368,6 +1391,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0065",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-17T05:39:53.894Z"
+    },
     {
       "inquiryId": "INQ-0064",
       "action": "created",
