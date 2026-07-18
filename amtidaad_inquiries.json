@@ -3,7 +3,7 @@
     {
       "id": "INQ-0066",
       "client": "Assured Quality Technical Services Co LLC",
-      "project": "",
+      "project": "Golden Tulip Hotel",
       "phone": "",
       "email": "projects@aqualityinteriors.com",
       "date": "2026-07-18",
@@ -12,16 +12,16 @@
       "source": "WhatsApp",
       "assigned": "Estimation Team",
       "status": "new",
-      "quotDate": "",
+      "quotDate": "2026-07-18",
       "followup": "",
       "scope": "Same requirement as with BRS (SO9385)",
       "remarks": "Assigned to Reshmi",
-      "quotNo": null,
-      "quotValue": null,
+      "quotNo": "9410",
+      "quotValue": 43838.55,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-18T04:33:12.337Z"
+      "lastUpdatedAt": "2026-07-18T06:22:49.785Z"
     },
     {
       "id": "INQ-0065",
@@ -1391,6 +1391,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0066",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-18T06:22:49.785Z"
+    },
     {
       "inquiryId": "INQ-0066",
       "action": "created",
