@@ -11,7 +11,7 @@
       "service": "Other",
       "source": "WhatsApp",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "quotation",
       "quotDate": "2026-07-18",
       "followup": "",
       "scope": "Same requirement as with BRS (SO9385)",
@@ -21,7 +21,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-18T06:22:49.785Z"
+      "lastUpdatedAt": "2026-07-18T06:22:58.613Z"
     },
     {
       "id": "INQ-0065",
@@ -1391,6 +1391,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0066",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-18T06:22:58.613Z"
+    },
+    {
+      "inquiryId": "INQ-0066",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-18T06:22:58.613Z"
+    },
     {
       "inquiryId": "INQ-0066",
       "action": "edited",
