@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0067",
+      "client": "Almana Baal Khadra",
+      "project": "",
+      "phone": "",
+      "email": "m.alrifaie@almanabaalkhadra.com",
+      "date": "2026-07-18",
+      "location": "Basra, Iraq",
+      "service": "FM200 / Clean Agent",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Novec Gas new Inquiry",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-18T09:44:19.725Z"
+    },
+    {
       "id": "INQ-0066",
       "client": "Assured Quality Technical Services Co LLC",
       "project": "Golden Tulip Hotel",
@@ -1391,6 +1414,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0067",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-18T09:44:19.725Z"
+    },
     {
       "inquiryId": "INQ-0066",
       "action": "status_change",
