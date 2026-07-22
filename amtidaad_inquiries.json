@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0068",
+      "client": "Fort Group",
+      "project": "",
+      "phone": "",
+      "email": "rohit.karade@fortgroup.ae",
+      "date": "2026-07-22",
+      "location": "Abu Dhabi",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "2026-07-22",
+      "followup": "",
+      "scope": "RFQ — Supply, Installation & Commissioning of 1 No. 450 kVAR LV APFC Capacitor Bank — Abu Dhabi",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-22T06:18:53.595Z"
+    },
+    {
       "id": "INQ-0067",
       "client": "Almana Baal Khadra",
       "project": "",
@@ -1414,6 +1437,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0068",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-22T06:18:53.595Z"
+    },
     {
       "inquiryId": "INQ-0067",
       "action": "created",
