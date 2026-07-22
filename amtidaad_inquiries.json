@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0071",
+      "client": "Pawsitive",
+      "project": "Pawsitive Clinic",
+      "phone": "",
+      "email": "admin@pawsitive.ae",
+      "date": "2026-07-22",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Firefighting and Fire Alarm System Fitout",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-22T13:25:23.693Z"
+    },
+    {
       "id": "INQ-0070",
       "client": "Central Hotels",
       "project": "Central 1 Dubai Mankhool Building",
@@ -1483,6 +1506,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0071",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-22T13:25:23.693Z"
+    },
     {
       "inquiryId": "INQ-0070",
       "action": "created",
