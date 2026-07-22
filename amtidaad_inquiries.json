@@ -81,7 +81,7 @@
       "source": "Email",
       "assigned": "Estimation Team",
       "status": "new",
-      "quotDate": "2026-07-22",
+      "quotDate": "",
       "followup": "",
       "scope": "RFQ — Supply, Installation & Commissioning of 1 No. 450 kVAR LV APFC Capacitor Bank — Abu Dhabi",
       "remarks": "Assigned to Reshmi",
@@ -90,7 +90,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-22T06:18:53.595Z"
+      "lastUpdatedAt": "2026-07-22T13:25:46.223Z"
     },
     {
       "id": "INQ-0067",
@@ -1506,6 +1506,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0068",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-22T13:25:46.223Z"
+    },
     {
       "inquiryId": "INQ-0069",
       "action": "edited",
