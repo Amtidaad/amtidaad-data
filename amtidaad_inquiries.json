@@ -113,7 +113,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-18T09:44:19.725Z"
+      "lastUpdatedAt": "2026-07-22T13:25:51.587Z"
     },
     {
       "id": "INQ-0066",
@@ -1506,6 +1506,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0067",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-22T13:25:51.588Z"
+    },
     {
       "inquiryId": "INQ-0068",
       "action": "edited",
