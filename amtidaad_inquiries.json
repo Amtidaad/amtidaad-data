@@ -35,7 +35,7 @@
       "source": "Email",
       "assigned": "Estimation Team",
       "status": "new",
-      "quotDate": "2026-07-22",
+      "quotDate": "",
       "followup": "",
       "scope": "1. Fire Alarm and Fire Fighting System Rectification Work\n\n2. Comprehensive Annual Maintenance Contract (AMC) Fire Alarm and Fire Fighting System",
       "remarks": "",
@@ -44,7 +44,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-22T10:24:28.882Z"
+      "lastUpdatedAt": "2026-07-22T13:25:31.731Z"
     },
     {
       "id": "INQ-0069",
@@ -1506,6 +1506,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0070",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-22T13:25:31.731Z"
+    },
     {
       "inquiryId": "INQ-0071",
       "action": "created",
