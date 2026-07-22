@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0070",
+      "client": "Central Hotels",
+      "project": "Central 1 Dubai Mankhool Building",
+      "phone": "",
+      "email": "Purchasing.CCH@central-hotels.com",
+      "date": "2026-07-22",
+      "location": "Mankhool",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "2026-07-22",
+      "followup": "",
+      "scope": "1. Fire Alarm and Fire Fighting System Rectification Work\n\n2. Comprehensive Annual Maintenance Contract (AMC) Fire Alarm and Fire Fighting System",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-22T10:24:28.882Z"
+    },
+    {
       "id": "INQ-0069",
       "client": "Fireco",
       "project": "Al Faya Civil Defense Academy",
@@ -1460,6 +1483,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0070",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-22T10:24:28.882Z"
+    },
     {
       "inquiryId": "INQ-0069",
       "action": "created",
