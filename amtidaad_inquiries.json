@@ -846,14 +846,17 @@
       "service": "Other",
       "source": "",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "hold",
       "quotDate": "",
       "followup": "",
       "scope": "Replacement Of FireAlarm Equipment - Bermuda Views  ( JB004-26-02516 )",
-      "remarks": "Assigned to Reshmi",
+      "remarks": "Assigned to Reshmi | Job Cancelled",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-06T07:41:42.960Z"
+      "lastUpdatedAt": "2026-07-23T08:49:20.521Z"
     },
     {
       "id": "INQ-0032",
@@ -1529,6 +1532,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0033",
+      "action": "status_change",
+      "from": "new",
+      "to": "hold",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-23T08:49:20.521Z"
+    },
+    {
+      "inquiryId": "INQ-0033",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-23T08:49:20.521Z"
+    },
     {
       "inquiryId": "INQ-0072",
       "action": "created",
