@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0072",
+      "client": "Emaar",
+      "project": "",
+      "phone": "",
+      "email": "SNadarajan@emaar.ae",
+      "date": "2026-07-22",
+      "location": "",
+      "service": "",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Rectification of firefighting system issues identified during the PMM at DHE Mas",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-23T05:30:47.795Z"
+    },
+    {
       "id": "INQ-0071",
       "client": "Pawsitive",
       "project": "Pawsitive Clinic",
@@ -1506,6 +1529,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0072",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-23T05:30:47.795Z"
+    },
     {
       "inquiryId": "INQ-0064",
       "action": "status_change",
