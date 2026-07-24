@@ -264,17 +264,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-07-24",
       "followup": "",
       "scope": "RECTIFICATION OF FIRE EQUIPMENTS",
       "remarks": "Assigned to Reshmi",
-      "quotNo": null,
+      "quotNo": "9405",
       "quotValue": null,
-      "securedValue": null,
+      "securedValue": 72886.75,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-17T05:39:53.894Z"
+      "lastUpdatedAt": "2026-07-24T11:45:16.797Z"
     },
     {
       "id": "INQ-0064",
@@ -1624,6 +1624,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0065",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-24T11:45:16.797Z"
+    },
+    {
+      "inquiryId": "INQ-0065",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-24T11:45:16.797Z"
+    },
     {
       "inquiryId": "INQ-0076",
       "action": "created",
