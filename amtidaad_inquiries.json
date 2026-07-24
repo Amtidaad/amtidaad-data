@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0073",
+      "client": "SG Community Management Services LLC",
+      "project": "Samana Hills",
+      "phone": "",
+      "email": "samanahills@strata-global.com",
+      "date": "2026-07-24",
+      "location": "Arjan, Al Barsha South",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Fire Alarm & Fighting System Break Down  ( JB1099-26-02877 )",
+      "remarks": "Assigned to Reshmi | From Iskaan",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-24T06:15:17.498Z"
+    },
+    {
       "id": "INQ-0072",
       "client": "Emaar",
       "project": "",
@@ -1532,6 +1555,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0073",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-24T06:15:17.498Z"
+    },
     {
       "inquiryId": "INQ-0033",
       "action": "status_change",
