@@ -2,26 +2,26 @@
   "inquiries": [
     {
       "id": "INQ-0074",
-      "client": "HOAM- Highrise Owners Association Management",
-      "project": "Apricot Tower",
+      "client": "SG Community Management Services LLC",
+      "project": "KOA Canvas",
       "phone": "",
-      "email": "irfan@hoam.me",
+      "email": "Procurement@strata-global.com",
       "date": "2026-07-24",
-      "location": "Dubai Silicon Oasis",
+      "location": "Dubai Land",
       "service": "Other",
       "source": "",
       "assigned": "Estimation Team",
       "status": "new",
       "quotDate": "",
       "followup": "",
-      "scope": "Obtaining DEWA Premises Account Number and DEWA Approval of Electrical Load Schedule  ( JB004-26-02822 )",
+      "scope": "Fire Alarm & Fighting System Break Down  ( JB1099-26-02879 )",
       "remarks": "Assigned to Reshmi | From Iskaan",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-24T06:16:56.531Z"
+      "lastUpdatedAt": "2026-07-24T06:19:02.744Z"
     },
     {
       "id": "INQ-0073",
@@ -1578,6 +1578,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0074",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-24T06:19:02.744Z"
+    },
     {
       "inquiryId": "INQ-0074",
       "action": "created",
