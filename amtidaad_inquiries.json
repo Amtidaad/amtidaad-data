@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0074",
+      "client": "HOAM- Highrise Owners Association Management",
+      "project": "Apricot Tower",
+      "phone": "",
+      "email": "irfan@hoam.me",
+      "date": "2026-07-24",
+      "location": "Dubai Silicon Oasis",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Obtaining DEWA Premises Account Number and DEWA Approval of Electrical Load Schedule  ( JB004-26-02822 )",
+      "remarks": "Assigned to Reshmi | From Iskaan",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-24T06:16:56.531Z"
+    },
+    {
       "id": "INQ-0073",
       "client": "SG Community Management Services LLC",
       "project": "Samana Hills",
@@ -1555,6 +1578,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0074",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-24T06:16:56.531Z"
+    },
     {
       "inquiryId": "INQ-0073",
       "action": "created",
