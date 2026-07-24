@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0077",
+      "client": "Strive Services Group",
+      "project": "Novo Cinema, Manar Mall",
+      "phone": "",
+      "email": "adnan.ullah@striveservicesgroup.com",
+      "date": "2026-07-24",
+      "location": "Ras Al Khaimah",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "CPR-031748 - Novo Cinema Manar Mall - FACP Amplifier PC Board replacement with programing required - OLD CPR-029380",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-24T11:54:56.724Z"
+    },
+    {
       "id": "INQ-0076",
       "client": "Emaar",
       "project": "Panorama",
@@ -1624,6 +1647,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0077",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-24T11:54:56.724Z"
+    },
     {
       "inquiryId": "INQ-0022",
       "action": "edited",
