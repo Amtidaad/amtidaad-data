@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0076",
+      "client": "Emaar",
+      "project": "Panorama",
+      "phone": "",
+      "email": "SNadarajan@emaar.ae",
+      "date": "2026-07-24",
+      "location": "The Greens",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Replacement of Old and Damaged Fire Fighting Equipment in Panorama, The Greens a )",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-24T10:15:18.939Z"
+    },
+    {
       "id": "INQ-0075",
       "client": "SG Community Management Services LLC",
       "project": "Latifa Tower",
@@ -1601,6 +1624,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0076",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-24T10:15:18.940Z"
+    },
     {
       "inquiryId": "INQ-0072",
       "action": "edited",
