@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0075",
+      "client": "SG Community Management Services LLC",
+      "project": "Latifa Tower",
+      "phone": "",
+      "email": "ganesh@ishatechuae.com",
+      "date": "2026-07-24",
+      "location": "Trade Centre First",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Fire Alarm & Fighting System Break Down  ( JB1099-26-02884 )",
+      "remarks": "Assigned to Reshmi | From Iskaan",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-24T06:20:26.591Z"
+    },
+    {
       "id": "INQ-0074",
       "client": "SG Community Management Services LLC",
       "project": "KOA Canvas",
@@ -1578,6 +1601,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0075",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-24T06:20:26.591Z"
+    },
     {
       "inquiryId": "INQ-0074",
       "action": "edited",
