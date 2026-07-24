@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0078",
+      "client": "Strive Services Group",
+      "project": "Novo Cinema Megamall",
+      "phone": "",
+      "email": "adnan.ullah@striveservicesgroup.com",
+      "date": "2026-07-24",
+      "location": "Sharjah",
+      "service": "Fire Extinguisher Refilling",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "CPR-031759 - Novo Cinema Megamall Sharjah -Fire extinguishers hydrotest with refilling required- CO2 - Q-39965",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-24T12:27:29.698Z"
+    },
+    {
       "id": "INQ-0077",
       "client": "Strive Services Group",
       "project": "Novo Cinema, Manar Mall",
@@ -1647,6 +1670,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0078",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-24T12:27:29.698Z"
+    },
     {
       "inquiryId": "INQ-0077",
       "action": "created",
