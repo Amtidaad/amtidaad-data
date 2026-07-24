@@ -270,11 +270,11 @@
       "scope": "RECTIFICATION OF FIRE EQUIPMENTS",
       "remarks": "Assigned to Reshmi",
       "quotNo": "9405",
-      "quotValue": null,
-      "securedValue": 72886.75,
+      "quotValue": 72886.75,
+      "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-24T11:45:16.797Z"
+      "lastUpdatedAt": "2026-07-24T11:46:35.083Z"
     },
     {
       "id": "INQ-0064",
@@ -1624,6 +1624,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0065",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-24T11:46:35.083Z"
+    },
     {
       "inquiryId": "INQ-0064",
       "action": "edited",
