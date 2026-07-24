@@ -1182,11 +1182,11 @@
       "scope": "Rectification",
       "remarks": "Assigned to Reshmi | Quote sent to client | SO9268 - AED47,745",
       "quotNo": "9268",
-      "quotValue": 50132.25,
+      "quotValue": 18632.25,
       "securedValue": null,
       "createdBy": "BD Executive",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-10T11:10:23.714Z"
+      "lastUpdatedAt": "2026-07-24T11:48:40.926Z"
     },
     {
       "id": "INQ-0021",
@@ -1624,6 +1624,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0022",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-24T11:48:40.926Z"
+    },
     {
       "inquiryId": "INQ-0041",
       "action": "edited",
