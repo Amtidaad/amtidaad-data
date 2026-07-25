@@ -34,17 +34,17 @@
       "service": "Fire Extinguisher Refilling",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-07-24",
       "followup": "",
       "scope": "CPR-031759 - Novo Cinema Megamall Sharjah -Fire extinguishers hydrotest with refilling required- CO2 - Q-39965",
       "remarks": "Assigned to Reshmi",
-      "quotNo": null,
-      "quotValue": null,
+      "quotNo": "9449",
+      "quotValue": 1564.5,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-24T12:27:29.698Z"
+      "lastUpdatedAt": "2026-07-25T05:02:58.095Z"
     },
     {
       "id": "INQ-0077",
@@ -1693,6 +1693,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0078",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-25T05:02:58.095Z"
+    },
+    {
+      "inquiryId": "INQ-0078",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-25T05:02:58.095Z"
+    },
     {
       "inquiryId": "INQ-0079",
       "action": "created",
