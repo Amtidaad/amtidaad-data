@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0082",
+      "client": "Stratum",
+      "project": "Bldg 167 Contemporary Cluster Discovery Garden",
+      "phone": "",
+      "email": "procurement1@stratum.ae",
+      "date": "2026-07-25",
+      "location": "Jebel Ali First, Dubai",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "NVITATION TO TENDER FOR 2026 to 2028 - SPECIALIZED SERVICES  - FIRE ALARM & FIRE FIGHTING SYSTEMS",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-25T07:23:19.809Z"
+    },
+    {
       "id": "INQ-0081",
       "client": "Stratum",
       "project": "BLDG 153, Contemporary Cluster, Discovery Gardens",
@@ -1739,6 +1762,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0082",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-25T07:23:19.809Z"
+    },
     {
       "inquiryId": "INQ-0081",
       "action": "created",
