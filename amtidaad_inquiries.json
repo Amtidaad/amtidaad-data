@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0079",
+      "client": "ORC - Al Obour Real Estate & Investment",
+      "project": "CLUSTER TH2 - EQUITERRA, GRAND POLO CLUB & RESORT-FAS",
+      "phone": "",
+      "email": "",
+      "date": "2026-07-17",
+      "location": "",
+      "service": "New Installation - Fire Alarm",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-07-24",
+      "followup": "",
+      "scope": "CLUSTER TH2 - EQUITERRA, GRAND POLO CLUB & RESORT-FAS",
+      "remarks": "",
+      "quotNo": "9442",
+      "quotValue": 1381296,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-25T05:00:28.734Z"
+    },
+    {
       "id": "INQ-0078",
       "client": "Strive Services Group",
       "project": "Novo Cinema Megamall",
@@ -1670,6 +1693,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0079",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-25T05:00:28.734Z"
+    },
     {
       "inquiryId": "INQ-0078",
       "action": "created",
