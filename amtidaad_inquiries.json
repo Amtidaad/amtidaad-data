@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0081",
+      "client": "Stratum",
+      "project": "BLDG 153, Contemporary Cluster, Discovery Gardens",
+      "phone": "",
+      "email": "procurement1@stratum.ae",
+      "date": "2026-07-25",
+      "location": "Jebel Ali First, Dubai",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "SPECIALIZED SERVICES  - FIRE ALARM & FIRE FIGHTING SYSTEMS",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-25T06:46:33.184Z"
+    },
+    {
       "id": "INQ-0080",
       "client": "New Sense Clinic LLC",
       "project": "New Sense Clinic",
@@ -1716,6 +1739,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0081",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-25T06:46:33.184Z"
+    },
     {
       "inquiryId": "INQ-0080",
       "action": "created",
