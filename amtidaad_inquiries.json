@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0080",
+      "client": "New Sense Clinic LLC",
+      "project": "New Sense Clinic",
+      "phone": "",
+      "email": "accounts@newsenseclinic.com",
+      "date": "2026-07-24",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-07-24",
+      "followup": "",
+      "scope": "AMC Renewal for Fire Alarm & Fire Fighting System",
+      "remarks": "",
+      "quotNo": "9445",
+      "quotValue": 1470,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-25T05:11:48.316Z"
+    },
+    {
       "id": "INQ-0079",
       "client": "ORC - Al Obour Real Estate & Investment",
       "project": "CLUSTER TH2 - EQUITERRA, GRAND POLO CLUB & RESORT-FAS",
@@ -1693,6 +1716,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0080",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-25T05:11:48.316Z"
+    },
     {
       "inquiryId": "INQ-0078",
       "action": "status_change",
