@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0088",
+      "client": "Fireco Technical Services LLC",
+      "project": "",
+      "phone": "",
+      "email": "engineer6@firecots.com",
+      "date": "2026-07-28",
+      "location": "",
+      "service": "Fire Extinguisher Refilling",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Proposal for Refilling & Hydro Test of FM 200 Cylinder",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-28T06:06:09.741Z"
+    },
+    {
       "id": "INQ-0087",
       "client": "Emaar",
       "project": "Panorama",
@@ -1877,6 +1900,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0088",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-28T06:06:09.741Z"
+    },
     {
       "inquiryId": "INQ-0087",
       "action": "created",
