@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0085",
+      "client": "Mal Maritime Services",
+      "project": "",
+      "phone": "",
+      "email": "purchase@malmaritime.com",
+      "date": "2026-07-25",
+      "location": "Ajman",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "ENQUIRY-Consumable Stores-000355",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-28T05:05:35.666Z"
+    },
+    {
       "id": "INQ-0084",
       "client": "Emaar",
       "project": "",
@@ -1808,6 +1831,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0085",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-28T05:05:35.666Z"
+    },
     {
       "inquiryId": "INQ-0084",
       "action": "created",
