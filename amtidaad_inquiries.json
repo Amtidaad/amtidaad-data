@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0091",
+      "client": "Hamayah Fire Fighting & Safety Equipment Trading LLC",
+      "project": "",
+      "phone": "",
+      "email": "",
+      "date": "2026-07-28",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "BD Executive",
+      "status": "quotation",
+      "quotDate": "2026-07-28",
+      "followup": "",
+      "scope": "One time services, refilling and cylinder removal transportation",
+      "remarks": "Quoted by Faizan",
+      "quotNo": "9361",
+      "quotValue": 180000,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-28T10:44:07.007Z"
+    },
+    {
       "id": "INQ-0090",
       "client": "Euro Gulf Techno Services LLC",
       "project": "Euro Gulf Office",
@@ -1946,6 +1969,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0091",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-28T10:44:07.007Z"
+    },
     {
       "inquiryId": "INQ-0090",
       "action": "created",
