@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0086",
+      "client": "Flametech Firefighting Equipments",
+      "project": "",
+      "phone": "",
+      "email": "flametechdubai@gmail.com",
+      "date": "2026-07-25",
+      "location": "",
+      "service": "FM200 / Clean Agent",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Supply FM 200 system (256.49m2)\nNOVEC System  (256.49m2)",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-28T05:06:53.362Z"
+    },
+    {
       "id": "INQ-0085",
       "client": "Mal Maritime Services",
       "project": "",
@@ -1831,6 +1854,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0086",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-28T05:06:53.362Z"
+    },
     {
       "inquiryId": "INQ-0085",
       "action": "created",
