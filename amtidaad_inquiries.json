@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0090",
+      "client": "Euro Gulf Techno Services LLC",
+      "project": "Euro Gulf Office",
+      "phone": "",
+      "email": "",
+      "date": "2026-07-28",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "BD Executive",
+      "status": "quotation",
+      "quotDate": "2026-07-28",
+      "followup": "",
+      "scope": "Fire Blanket 1.2 x 1.2M",
+      "remarks": "Quoted by Faizan",
+      "quotNo": "9462",
+      "quotValue": 7539,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-28T10:21:31.514Z"
+    },
+    {
       "id": "INQ-0089",
       "client": "Fortune Oilfield General Trading LLC",
       "project": "",
@@ -1923,6 +1946,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0090",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-28T10:21:31.514Z"
+    },
     {
       "inquiryId": "INQ-0088",
       "action": "status_change",
