@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0084",
+      "client": "Emaar",
+      "project": "",
+      "phone": "",
+      "email": "i.hameed@emaar.ae",
+      "date": "2026-07-27",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "ECMOAPR-5000170 - RFQ - Firefighting pipeline ZCV replacement work",
+      "remarks": "Assigned to Gary",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-28T05:01:11.437Z"
+    },
+    {
       "id": "INQ-0083",
       "client": "Symphony",
       "project": "",
@@ -1785,6 +1808,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0084",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-28T05:01:11.437Z"
+    },
     {
       "inquiryId": "INQ-0083",
       "action": "created",
