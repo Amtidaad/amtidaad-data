@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0092",
+      "client": "Stratum",
+      "project": "The Eighty Eight Building",
+      "phone": "",
+      "email": "",
+      "date": "2026-07-28",
+      "location": "",
+      "service": "AMC - Fire Alarm",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-07-28",
+      "followup": "",
+      "scope": "AMC",
+      "remarks": "Quoted by Angelika",
+      "quotNo": "9464",
+      "quotValue": 100170,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-28T12:33:34.609Z"
+    },
+    {
       "id": "INQ-0091",
       "client": "Hamayah Fire Fighting & Safety Equipment Trading LLC",
       "project": "",
@@ -1969,6 +1992,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0092",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-28T12:33:34.609Z"
+    },
     {
       "inquiryId": "INQ-0082",
       "action": "status_change",
