@@ -29,22 +29,22 @@
       "project": "",
       "phone": "",
       "email": "engineer6@firecots.com",
-      "date": "2026-07-28",
+      "date": "2026-06-24",
       "location": "",
       "service": "Fire Extinguisher Refilling",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-06-25",
       "followup": "",
-      "scope": "Proposal for Refilling & Hydro Test of FM 200 Cylinder",
+      "scope": "Proposal for Refilling & Hydro Test of FM 200 Cylinder | Waiting for PO",
       "remarks": "",
-      "quotNo": null,
-      "quotValue": null,
+      "quotNo": "9280",
+      "quotValue": 7586.25,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-28T06:06:09.741Z"
+      "lastUpdatedAt": "2026-07-28T07:11:21.645Z"
     },
     {
       "id": "INQ-0087",
@@ -1923,6 +1923,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0088",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-28T07:11:21.645Z"
+    },
+    {
+      "inquiryId": "INQ-0088",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-28T07:11:21.645Z"
+    },
     {
       "inquiryId": "INQ-0089",
       "action": "created",
