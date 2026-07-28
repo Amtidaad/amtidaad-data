@@ -218,17 +218,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-07-28",
       "followup": "",
       "scope": "NVITATION TO TENDER FOR 2026 to 2028 - SPECIALIZED SERVICES  - FIRE ALARM & FIRE FIGHTING SYSTEMS",
-      "remarks": "",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quoted by Angelika",
+      "quotNo": "9463",
+      "quotValue": 82950,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-25T07:23:19.809Z"
+      "lastUpdatedAt": "2026-07-28T12:31:01.257Z"
     },
     {
       "id": "INQ-0081",
@@ -1969,6 +1969,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0082",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-28T12:31:01.257Z"
+    },
+    {
+      "inquiryId": "INQ-0082",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-28T12:31:01.257Z"
+    },
     {
       "inquiryId": "INQ-0081",
       "action": "status_change",
