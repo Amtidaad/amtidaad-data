@@ -242,16 +242,16 @@
       "source": "Email",
       "assigned": "Estimation Team",
       "status": "new",
-      "quotDate": "",
+      "quotDate": "2026-07-28",
       "followup": "",
       "scope": "SPECIALIZED SERVICES  - FIRE ALARM & FIRE FIGHTING SYSTEMS",
-      "remarks": "",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quoted by Angelika",
+      "quotNo": "9465",
+      "quotValue": 79380,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-25T06:46:33.184Z"
+      "lastUpdatedAt": "2026-07-28T12:30:10.003Z"
     },
     {
       "id": "INQ-0080",
@@ -1969,6 +1969,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0081",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-28T12:30:10.003Z"
+    },
     {
       "inquiryId": "INQ-0071",
       "action": "edited",
