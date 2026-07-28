@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0087",
+      "client": "Emaar",
+      "project": "Panorama",
+      "phone": "",
+      "email": "SNadarajan@emaar.ae",
+      "date": "2026-07-25",
+      "location": "Greens",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Tender ECMOANEG-5000833 ( Replacement of Old and Damaged Fire Fighting Equipment in Panorama, The Greens a )\n\n\nSummarize this email",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-28T05:08:32.343Z"
+    },
+    {
       "id": "INQ-0086",
       "client": "Flametech Firefighting Equipments",
       "project": "",
@@ -1854,6 +1877,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0087",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-28T05:08:32.344Z"
+    },
     {
       "inquiryId": "INQ-0086",
       "action": "created",
