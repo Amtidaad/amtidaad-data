@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0095",
+      "client": "Fireco Technical Services LLC",
+      "project": "",
+      "phone": "",
+      "email": "engineer2@firecots.com",
+      "date": "2026-07-29",
+      "location": "",
+      "service": "Fire Extinguisher Refilling",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Enquiry- Proposal for Refilling of FM200 CYLINDER",
+      "remarks": "Checking price and margin to DGM",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-29T13:06:53.999Z"
+    },
+    {
       "id": "INQ-0094",
       "client": "Fireco Technical Services LLC",
       "project": "",
@@ -2041,6 +2064,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0095",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-29T13:06:53.999Z"
+    },
     {
       "inquiryId": "INQ-0094",
       "action": "created",
