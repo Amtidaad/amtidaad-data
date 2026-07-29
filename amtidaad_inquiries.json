@@ -1167,13 +1167,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "P1  Replacement of Fire Alarm Equipment,Fire Fighting Equipment,Fire Extinguisher - IT Plaza  ( JB004-26-02574 )",
-      "remarks": "Assigned to Reshmi",
+      "remarks": "Assigned to Angelika",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-29T07:21:54.507Z"
+      "lastUpdatedAt": "2026-07-29T13:24:56.993Z"
     },
     {
       "id": "INQ-0043",
@@ -2087,6 +2087,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0044",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-29T13:24:56.993Z"
+    },
     {
       "inquiryId": "INQ-0096",
       "action": "created",
