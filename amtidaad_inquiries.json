@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0096",
+      "client": "Visualize Interior Decoration",
+      "project": "Dr. Joy Dental Clinic - Creek Vistas Grande Sobha Heartland",
+      "phone": "",
+      "email": "",
+      "date": "2026-07-29",
+      "location": "Sobha Hartland",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-07-29",
+      "followup": "",
+      "scope": "Supply and installation",
+      "remarks": "Quoted by Gary",
+      "quotNo": "9494",
+      "quotValue": 24291.75,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-29T13:24:23.519Z"
+    },
+    {
       "id": "INQ-0095",
       "client": "Fireco Technical Services LLC",
       "project": "",
@@ -2064,6 +2087,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0096",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-29T13:24:23.519Z"
+    },
     {
       "inquiryId": "INQ-0095",
       "action": "created",
