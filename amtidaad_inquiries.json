@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0093",
+      "client": "Caspian Blue Star",
+      "project": "",
+      "phone": "",
+      "email": "supplychain@caspianbluestar.com",
+      "date": "2026-07-28",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Request for Price Quote CSHSE26-00353 ( RFQ Reference in Mail)",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-29T05:30:24.919Z"
+    },
+    {
       "id": "INQ-0092",
       "client": "Stratum",
       "project": "The Eighty Eight Building",
@@ -1992,6 +2015,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0093",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-29T05:30:24.919Z"
+    },
     {
       "inquiryId": "INQ-0092",
       "action": "created",
