@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0094",
+      "client": "Fireco Technical Services LLC",
+      "project": "",
+      "phone": "",
+      "email": "engineer5@firecots.com",
+      "date": "2026-07-29",
+      "location": "Ajman",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "FCHS AJMAN (Cylinders)",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-29T12:22:15.378Z"
+    },
+    {
       "id": "INQ-0093",
       "client": "Caspian Blue Star",
       "project": "",
@@ -2018,6 +2041,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0094",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-29T12:22:15.378Z"
+    },
     {
       "inquiryId": "INQ-0044",
       "action": "edited",
