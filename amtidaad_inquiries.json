@@ -95,7 +95,7 @@
     {
       "id": "INQ-0094",
       "client": "Fireco Technical Services LLC",
-      "project": "",
+      "project": "Fatima College",
       "phone": "",
       "email": "engineer5@firecots.com",
       "date": "2026-07-29",
@@ -103,17 +103,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-07-30",
       "followup": "",
       "scope": "FCHS AJMAN (Cylinders)",
-      "remarks": "",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quoted by Angelika",
+      "quotNo": "9499",
+      "quotValue": 4730.25,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-29T12:22:15.378Z"
+      "lastUpdatedAt": "2026-07-30T10:48:25.878Z"
     },
     {
       "id": "INQ-0093",
@@ -2133,6 +2133,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0094",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-30T10:48:25.921Z"
+    },
+    {
+      "inquiryId": "INQ-0094",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-30T10:48:25.921Z"
+    },
     {
       "inquiryId": "INQ-0098",
       "action": "created",
