@@ -632,7 +632,7 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "quotation",
       "quotDate": "2026-07-28",
       "followup": "",
       "scope": "Firefighting and Fire Alarm System Fitout",
@@ -642,7 +642,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-28T12:25:47.417Z"
+      "lastUpdatedAt": "2026-07-30T11:11:51.759Z"
     },
     {
       "id": "INQ-0070",
@@ -2133,6 +2133,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0071",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-30T11:11:51.759Z"
+    },
+    {
+      "inquiryId": "INQ-0071",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-30T11:11:51.759Z"
+    },
     {
       "inquiryId": "INQ-0095",
       "action": "status_change",
