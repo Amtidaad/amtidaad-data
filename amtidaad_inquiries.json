@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0100",
+      "client": "SKYLINE LIVINGS OWNER ASSOCIATION MANAGEMENT SERVICES L.L.C",
+      "project": "Tasmeer Residence (BF+GF+4F+RF), JVC, Dubai",
+      "phone": "",
+      "email": "finance@skyline-livings.com",
+      "date": "2026-07-30",
+      "location": "Jumeirah Village Circle",
+      "service": "New Installation - Fire Alarm",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "(12 Months) Fire Alarm & Fighting System Contract  ( JB11484-26-00113 )",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-30T11:36:19.115Z"
+    },
+    {
       "id": "INQ-0099",
       "client": "APEX DENTAL & ORTHODONTIC CLINIC L.L.C",
       "project": "",
@@ -2156,6 +2179,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0100",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-30T11:36:19.115Z"
+    },
     {
       "inquiryId": "INQ-0099",
       "action": "created",
