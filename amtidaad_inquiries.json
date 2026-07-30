@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0099",
+      "client": "APEX DENTAL & ORTHODONTIC CLINIC L.L.C",
+      "project": "",
+      "phone": "",
+      "email": "ApexJVC@apexmedicalclinics.com",
+      "date": "2026-07-25",
+      "location": "Jumeirah Village Circle",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-07-30",
+      "followup": "",
+      "scope": "Installation of New Fire Extinguisher DCP 2kg",
+      "remarks": "Quotation shared by Gary",
+      "quotNo": "9498",
+      "quotValue": 131.25,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-30T11:14:10.618Z"
+    },
+    {
       "id": "INQ-0098",
       "client": "GDM INteriors",
       "project": "",
@@ -2133,6 +2156,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0099",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-30T11:14:10.618Z"
+    },
     {
       "inquiryId": "INQ-0071",
       "action": "status_change",
