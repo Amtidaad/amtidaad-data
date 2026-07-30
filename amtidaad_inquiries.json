@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0097",
+      "client": "Dubai World Trade Center",
+      "project": "Dubai Expo Center",
+      "phone": "",
+      "email": "Ajay.Raghavan@dwtc.com",
+      "date": "2026-07-29",
+      "location": "Dubai South",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Supply and installation of Emergency Evacuation Plan map in DEC - (Dubai Expo Center)",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-30T05:34:58.732Z"
+    },
+    {
       "id": "INQ-0096",
       "client": "Visualize Interior Decoration",
       "project": "Dr. Joy Dental Clinic - Creek Vistas Grande Sobha Heartland",
@@ -2087,6 +2110,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0097",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-30T05:34:58.732Z"
+    },
     {
       "inquiryId": "INQ-0044",
       "action": "edited",
