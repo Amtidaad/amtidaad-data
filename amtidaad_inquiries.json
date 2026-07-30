@@ -79,18 +79,18 @@
       "location": "",
       "service": "Fire Extinguisher Refilling",
       "source": "Email",
-      "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "assigned": "Admin",
+      "status": "quotation",
+      "quotDate": "2026-07-30",
       "followup": "",
       "scope": "Enquiry- Proposal for Refilling of FM200 CYLINDER",
-      "remarks": "Checking price and margin to DGM",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Checking price and margin to DGM | Quotation shared by Aiza",
+      "quotNo": "9496",
+      "quotValue": 8106.53,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-29T13:06:53.999Z"
+      "lastUpdatedAt": "2026-07-30T11:08:56.415Z"
     },
     {
       "id": "INQ-0094",
@@ -2133,6 +2133,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0095",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-30T11:08:56.416Z"
+    },
+    {
+      "inquiryId": "INQ-0095",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-30T11:08:56.416Z"
+    },
     {
       "inquiryId": "INQ-0094",
       "action": "status_change",
