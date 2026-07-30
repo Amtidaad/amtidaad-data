@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0098",
+      "client": "GDM INteriors",
+      "project": "",
+      "phone": "",
+      "email": "sreeshyam@gdminteriors.com",
+      "date": "2026-07-30",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "RFQ - FIRE HOSE CABINET STEEL DOOR",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-30T05:36:04.526Z"
+    },
+    {
       "id": "INQ-0097",
       "client": "Dubai World Trade Center",
       "project": "Dubai Expo Center",
@@ -2110,6 +2133,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0098",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-30T05:36:04.526Z"
+    },
     {
       "inquiryId": "INQ-0097",
       "action": "created",
