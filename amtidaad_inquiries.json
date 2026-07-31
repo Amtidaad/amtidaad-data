@@ -702,16 +702,16 @@
       "source": "Email",
       "assigned": "Estimation Team",
       "status": "quotation",
-      "quotDate": "2026-07-28",
+      "quotDate": "2026-07-31",
       "followup": "",
       "scope": "Firefighting and Fire Alarm System Fitout",
-      "remarks": "Quoted by Gary",
+      "remarks": "Quoted by Gary | Revised quotation shared | original amount at 53135.25",
       "quotNo": "9460",
-      "quotValue": 53135.25,
+      "quotValue": 30381.75,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-30T11:11:51.759Z"
+      "lastUpdatedAt": "2026-07-31T08:02:43.136Z"
     },
     {
       "id": "INQ-0070",
@@ -2202,6 +2202,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0071",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-31T08:02:43.136Z"
+    },
     {
       "inquiryId": "INQ-0101",
       "action": "created",
