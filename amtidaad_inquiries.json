@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0101",
+      "client": "Raibal",
+      "project": "FOIZ",
+      "phone": "",
+      "email": "kalidossmani@Raibal.ae",
+      "date": "2026-07-31",
+      "location": "Fujairah",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "RFQ- Annual maintenance contract for capacitor bank 160 KVAR brand EPCOS 1 nos at FOIZ, Fujairah",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-31T07:07:16.709Z"
+    },
+    {
       "id": "INQ-0100",
       "client": "SKYLINE LIVINGS OWNER ASSOCIATION MANAGEMENT SERVICES L.L.C",
       "project": "Tasmeer Residence (BF+GF+4F+RF), JVC, Dubai",
@@ -2179,6 +2202,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0101",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-31T07:07:16.709Z"
+    },
     {
       "inquiryId": "INQ-0100",
       "action": "created",
