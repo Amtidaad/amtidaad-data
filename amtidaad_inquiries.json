@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0102",
+      "client": "Better Communities",
+      "project": "Binghatti Rose",
+      "phone": "",
+      "email": "maintenance@bcoam.com",
+      "date": "2026-07-31",
+      "location": "Jumeirah Village Circle",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-07-31",
+      "followup": "",
+      "scope": "Quotation shared by Gary",
+      "remarks": "",
+      "quotNo": "9504",
+      "quotValue": 9765,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-01T05:03:56.026Z"
+    },
+    {
       "id": "INQ-0101",
       "client": "Raibal",
       "project": "FOIZ",
@@ -2202,6 +2225,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0102",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-01T05:03:56.026Z"
+    },
     {
       "inquiryId": "INQ-0088",
       "action": "status_change",
