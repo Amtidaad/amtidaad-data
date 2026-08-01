@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0106",
+      "client": "Pulse Point For Owner Association Management Services EST",
+      "project": "Views 2",
+      "phone": "971501278078",
+      "email": "l: info@pulsepoint.ae",
+      "date": "2026-07-31",
+      "location": "Madinat Al Mataar",
+      "service": "AMC - Full Package",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "(1 Years) Fire Alarm & Fighting System Contract  ( JB11727-26-00025 )",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-01T05:39:07.807Z"
+    },
+    {
       "id": "INQ-0105",
       "client": "DARABZEEN ALWARD RESTAURANT AND CAFE L.L.C",
       "project": "Retail 1 Trident Bayside Residence",
@@ -2294,6 +2317,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0106",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-01T05:39:07.807Z"
+    },
     {
       "inquiryId": "INQ-0105",
       "action": "created",
