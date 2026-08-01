@@ -310,17 +310,17 @@
       "service": "Fire Extinguisher Refilling",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "quotation",
+      "status": "awarded",
       "quotDate": "2026-06-25",
       "followup": "",
       "scope": "Proposal for Refilling & Hydro Test of FM 200 Cylinder | Waiting for PO",
-      "remarks": "",
+      "remarks": "LPO No. 1101897 received on 01 Aug",
       "quotNo": "9280",
       "quotValue": 7586.25,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-28T07:11:21.645Z"
+      "lastUpdatedAt": "2026-08-01T04:46:34.799Z"
     },
     {
       "id": "INQ-0087",
@@ -2202,6 +2202,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0088",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-01T04:46:34.800Z"
+    },
+    {
+      "inquiryId": "INQ-0088",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-01T04:46:34.800Z"
+    },
     {
       "inquiryId": "INQ-0071",
       "action": "edited",
