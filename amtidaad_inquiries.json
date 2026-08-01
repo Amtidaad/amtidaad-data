@@ -195,17 +195,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "RFQ- Annual maintenance contract for capacitor bank 160 KVAR brand EPCOS 1 nos at FOIZ, Fujairah",
-      "remarks": "",
+      "remarks": "not providing maintenance services in Fujairah.",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-31T07:07:16.709Z"
+      "lastUpdatedAt": "2026-08-01T09:29:33.762Z"
     },
     {
       "id": "INQ-0100",
@@ -2386,6 +2386,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0101",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-01T09:29:33.762Z"
+    },
+    {
+      "inquiryId": "INQ-0101",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-01T09:29:33.762Z"
+    },
     {
       "inquiryId": "INQ-0109",
       "action": "created",
