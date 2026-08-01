@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0105",
+      "client": "DARABZEEN ALWARD RESTAURANT AND CAFE L.L.C",
+      "project": "Retail 1 Trident Bayside Residence",
+      "phone": "",
+      "email": "",
+      "date": "2026-07-31",
+      "location": "",
+      "service": "AMC - Fire Alarm",
+      "source": "WhatsApp",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "2026-07-31",
+      "followup": "",
+      "scope": "",
+      "remarks": "Quotation shared by Gary",
+      "quotNo": "9502",
+      "quotValue": 2625,
+      "securedValue": 2625,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-01T05:22:09.623Z"
+    },
+    {
       "id": "INQ-0104",
       "client": "Gazebo Kamat Group",
       "project": "Gazebo & Aqaya Dubai Creek Harbour",
@@ -2271,6 +2294,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0105",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-01T05:22:09.623Z"
+    },
     {
       "inquiryId": "INQ-0104",
       "action": "created",
