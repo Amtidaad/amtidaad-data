@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0108",
+      "client": "Larsen Toubro",
+      "project": "",
+      "phone": "",
+      "email": "Ramrao.Kale@Larsentoubro.com",
+      "date": "2026-08-01",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "RFQ fort fire pump UL Listed 2000GPM, 7 Bra ( E+J+D) lifeco brand and HD{E Pipe 8\" and 6\" dia, 16 Bar BL-ST",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-01T08:23:26.712Z"
+    },
+    {
       "id": "INQ-0107",
       "client": "Better Communities",
       "project": "MOG 191",
@@ -2340,6 +2363,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0108",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-01T08:23:26.712Z"
+    },
     {
       "inquiryId": "INQ-0107",
       "action": "created",
