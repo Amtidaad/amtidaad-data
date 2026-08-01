@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0103",
+      "client": "Better Communities",
+      "project": "Binghatti Gems",
+      "phone": "",
+      "email": "maintenance@bcoam.com",
+      "date": "2026-07-31",
+      "location": "Jumeirah Village Circle",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-07-31",
+      "followup": "",
+      "scope": "Invitation tender for faff / 3 years / Binghatti Gems",
+      "remarks": "Quotation shared by Gary",
+      "quotNo": "9505",
+      "quotValue": 10332,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-01T05:06:32.108Z"
+    },
+    {
       "id": "INQ-0102",
       "client": "Better Communities",
       "project": "Binghatti Rose",
@@ -2225,6 +2248,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0103",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-01T05:06:32.108Z"
+    },
     {
       "inquiryId": "INQ-0088",
       "action": "edited",
