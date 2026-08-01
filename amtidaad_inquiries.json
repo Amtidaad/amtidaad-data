@@ -340,10 +340,10 @@
       "remarks": "LPO No. 1101897 received on 01 Aug",
       "quotNo": "9280",
       "quotValue": 7586.25,
-      "securedValue": null,
+      "securedValue": 7586.25,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-01T04:46:34.799Z"
+      "lastUpdatedAt": "2026-08-01T05:04:37.565Z"
     },
     {
       "id": "INQ-0087",
@@ -2225,6 +2225,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0088",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-01T05:04:37.565Z"
+    },
     {
       "inquiryId": "INQ-0102",
       "action": "created",
