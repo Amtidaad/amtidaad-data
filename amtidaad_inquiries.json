@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0110",
+      "client": "Dukhoon Modern Projects L.L.C",
+      "project": "",
+      "phone": "",
+      "email": "hamed@dukhoonmp.com",
+      "date": "2026-08-02",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Request for Quotation - REF: (RNO-1RFQ007828) ( Alarm Smoke Automatic)",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-03T05:20:02.852Z"
+    },
+    {
       "id": "INQ-0109",
       "client": "Exotic Interior Decoration",
       "project": "Exotic Interior Decoration LLC",
@@ -2386,6 +2409,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0110",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-03T05:20:02.852Z"
+    },
     {
       "inquiryId": "INQ-0108",
       "action": "edited",
