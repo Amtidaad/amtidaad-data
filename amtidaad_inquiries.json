@@ -26,11 +26,11 @@
     {
       "id": "INQ-0108",
       "client": "Larsen Toubro",
-      "project": "",
+      "project": "L&T Modular Fabrication Yard LLC",
       "phone": "",
       "email": "Ramrao.Kale@Larsentoubro.com",
       "date": "2026-08-01",
-      "location": "",
+      "location": "Plot No. 3, SIPC, Sohar, Sultanate of Oman",
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
@@ -44,7 +44,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-01T08:23:26.712Z"
+      "lastUpdatedAt": "2026-08-03T05:18:26.329Z"
     },
     {
       "id": "INQ-0107",
@@ -2386,6 +2386,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0108",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-03T05:18:26.329Z"
+    },
     {
       "inquiryId": "INQ-0101",
       "action": "status_change",
