@@ -793,17 +793,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-08-05",
       "followup": "",
       "scope": "CPR-031748 - Novo Cinema Manar Mall - FACP Amplifier PC Board replacement with programing required - OLD CPR-029380",
-      "remarks": "Assigned to Reshmi",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quotation shared by DGM",
+      "quotNo": "9520",
+      "quotValue": 10951.5,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-24T11:54:56.724Z"
+      "lastUpdatedAt": "2026-08-05T08:00:08.772Z"
     },
     {
       "id": "INQ-0076",
@@ -2432,6 +2432,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0077",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-05T08:00:08.772Z"
+    },
+    {
+      "inquiryId": "INQ-0077",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-05T08:00:08.772Z"
+    },
     {
       "inquiryId": "INQ-0111",
       "action": "created",
