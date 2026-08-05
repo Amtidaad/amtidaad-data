@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0113",
+      "client": "Stratum",
+      "project": "Evershine Garden",
+      "phone": "",
+      "email": "Contracts1@stratum.ae",
+      "date": "2026-08-05",
+      "location": "Arjan",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "REQUEST FOR PROPOSALS_EVERSHINE GARDEN_RECTIFICATION OF FIRE FIGHTING",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-05T11:52:29.466Z"
+    },
+    {
       "id": "INQ-0112",
       "client": "Distinguished Real Estate",
       "project": "Al Rabia Tower",
@@ -2455,6 +2478,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0113",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-05T11:52:29.466Z"
+    },
     {
       "inquiryId": "INQ-0112",
       "action": "created",
