@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0111",
+      "client": "Fireco Technical Services LLC",
+      "project": "",
+      "phone": "",
+      "email": "vivek@firecots.com",
+      "date": "2026-08-04",
+      "location": "",
+      "service": "Other",
+      "source": "Phone Call",
+      "assigned": "Admin",
+      "status": "awarded",
+      "quotDate": "2026-08-04",
+      "followup": "",
+      "scope": "FM200 100kgs Refilling",
+      "remarks": "",
+      "quotNo": "9518",
+      "quotValue": 11575,
+      "securedValue": 11575,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-05T05:10:09.988Z"
+    },
+    {
       "id": "INQ-0110",
       "client": "Dukhoon Modern Projects L.L.C",
       "project": "",
@@ -2409,6 +2432,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0111",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-05T05:10:09.988Z"
+    },
     {
       "inquiryId": "INQ-0110",
       "action": "created",
