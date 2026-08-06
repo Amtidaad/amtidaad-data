@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0117",
+      "client": "Flametech Firefighting Equipment LLC",
+      "project": "Flametech Firefighting Equipment LLC",
+      "phone": "",
+      "email": "flametechdubai@gmail.com",
+      "date": "2026-08-06",
+      "location": "Ras Al Khor",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-06",
+      "followup": "",
+      "scope": "Flametech Firefighting Equipment LLC - Proposal for FM-200 Cylinder Refilling",
+      "remarks": "Quotation shared by Gary",
+      "quotNo": "9525",
+      "quotValue": 13062,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-06T12:40:51.640Z"
+    },
+    {
       "id": "INQ-0116",
       "client": "La Fabbrica  Italiana Restaurant",
       "project": "La Fabbrica Italiana Restaurant LLC - Wasl 51",
@@ -2547,6 +2570,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0117",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-06T12:40:51.640Z"
+    },
     {
       "inquiryId": "INQ-0116",
       "action": "created",
