@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0116",
+      "client": "La Fabbrica  Italiana Restaurant",
+      "project": "La Fabbrica Italiana Restaurant LLC - Wasl 51",
+      "phone": "",
+      "email": "eloisa@lafabbricaitaliana.com",
+      "date": "2026-08-06",
+      "location": "",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-06",
+      "followup": "",
+      "scope": "La Fabbrica Italiana Restaurant LLC - AMC Renewal Proposal",
+      "remarks": "Quotation shared by Gary",
+      "quotNo": "9524",
+      "quotValue": 2100,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-06T11:13:18.723Z"
+    },
+    {
       "id": "INQ-0115",
       "client": "Better Communities",
       "project": "Tranquil Wellness Tower",
@@ -2524,6 +2547,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0116",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-06T11:13:18.723Z"
+    },
     {
       "inquiryId": "INQ-0115",
       "action": "created",
