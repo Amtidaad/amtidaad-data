@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0114",
+      "client": "Emaar",
+      "project": "Travo",
+      "phone": "",
+      "email": "SNadarajan@emaar.ae",
+      "date": "2026-08-06",
+      "location": "The Greens & Views",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Action Required: You are invited to participate in Tender ECMOANEG-5000904 ( Rectification of Central Battery System in Travo, The Greens and Views  For site )",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-06T06:05:03.481Z"
+    },
+    {
       "id": "INQ-0113",
       "client": "Stratum",
       "project": "Evershine Garden",
@@ -2478,6 +2501,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0114",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-06T06:05:03.481Z"
+    },
     {
       "inquiryId": "INQ-0113",
       "action": "created",
