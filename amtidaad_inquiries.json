@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0115",
+      "client": "Better Communities",
+      "project": "Tranquil Wellness Tower",
+      "phone": "",
+      "email": "suroor@bcoam.com",
+      "date": "2026-08-06",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-06",
+      "followup": "",
+      "scope": "Tranquil Wellness Tower - Quarter 3 Year 1 PPM Reports",
+      "remarks": "Quotation shared by Gary",
+      "quotNo": "9126",
+      "quotValue": 12899.25,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-06T08:12:29.596Z"
+    },
+    {
       "id": "INQ-0114",
       "client": "Emaar",
       "project": "Travo",
@@ -2501,6 +2524,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0115",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-06T08:12:29.596Z"
+    },
     {
       "inquiryId": "INQ-0114",
       "action": "created",
