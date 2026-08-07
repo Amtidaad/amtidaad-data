@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0122",
+      "client": "Dime Restaurant",
+      "project": "Dime Restaurant",
+      "phone": "",
+      "email": "zhussain@table4twogroup.com",
+      "date": "2026-08-07",
+      "location": "Wasl Square",
+      "service": "AMC - Fire Alarm",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Request for Fire Alarm AMC – Diam Restaurant, Wasl Square",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-07T10:28:40.819Z"
+    },
+    {
       "id": "INQ-0121",
       "client": "FMTECH",
       "project": "",
@@ -2662,6 +2685,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0122",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-07T10:28:40.819Z"
+    },
     {
       "inquiryId": "INQ-0121",
       "action": "created",
