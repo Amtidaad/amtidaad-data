@@ -11,7 +11,7 @@
       "service": "Other",
       "source": "",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "quotation",
       "quotDate": "2026-08-07",
       "followup": "",
       "scope": "Fitout",
@@ -21,7 +21,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-07T10:44:00.341Z"
+      "lastUpdatedAt": "2026-08-07T10:44:09.463Z"
     },
     {
       "id": "INQ-0122",
@@ -2708,6 +2708,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0123",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-07T10:44:09.463Z"
+    },
+    {
+      "inquiryId": "INQ-0123",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-07T10:44:09.463Z"
+    },
     {
       "inquiryId": "INQ-0123",
       "action": "created",
