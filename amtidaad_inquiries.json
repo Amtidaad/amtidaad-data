@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0126",
+      "client": "Emaar",
+      "project": "Zanzabeel at Old Town B",
+      "phone": "",
+      "email": "i.hameed@emaar.ae",
+      "date": "2026-08-07",
+      "location": "Downtown",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Action Required: You are invited to participate in Tender ECMOANEG-5000451-2 ( ECMOAPR-5004164-CBS Upgradation at Zanzabeel at Old Town B, Downtown. For site v )",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-07T12:30:01.694Z"
+    },
+    {
       "id": "INQ-0125",
       "client": "Mascon",
       "project": "Pet Dreamland for Veterinary Clinic LLC",
@@ -2754,6 +2777,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0126",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-07T12:30:01.694Z"
+    },
     {
       "inquiryId": "INQ-0125",
       "action": "edited",
