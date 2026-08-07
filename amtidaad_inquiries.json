@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0125",
+      "client": "Mascon",
+      "project": "Pet Dreamland for Veterinary Clinic LLC",
+      "phone": "",
+      "email": "info@mascon.ae",
+      "date": "2026-08-07",
+      "location": "Creekside 18 R-006",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-07",
+      "followup": "",
+      "scope": "Supply & Installation of portable stand for fire extinguisher",
+      "remarks": "Quote shared by Gary together with the PPM report",
+      "quotNo": "9528",
+      "quotValue": 1653.75,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-07T12:00:54.894Z"
+    },
+    {
       "id": "INQ-0124",
       "client": "Wermany Techinical Services Contracting LLC",
       "project": "",
@@ -2731,6 +2754,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0125",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-07T12:00:54.894Z"
+    },
     {
       "inquiryId": "INQ-0124",
       "action": "created",
