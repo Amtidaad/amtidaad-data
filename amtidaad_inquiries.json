@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0119",
+      "client": "Stratum",
+      "project": "Glitz 3",
+      "phone": "",
+      "email": "Procurement@stratum.ae",
+      "date": "2026-08-07",
+      "location": "Studio City",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "GLITZ 3 - REQUEST FOR PROPOSAL - RECTIFICATION OF FIRE FIGHTING EQUIPMENTS",
+      "remarks": "assigned to Gary",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-07T09:48:25.619Z"
+    },
+    {
       "id": "INQ-0118",
       "client": "Emaar",
       "project": "Al Ghani Mosque",
@@ -2593,6 +2616,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0119",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-07T09:48:25.619Z"
+    },
     {
       "inquiryId": "INQ-0112",
       "action": "status_change",
