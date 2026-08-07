@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0123",
+      "client": "Exotic Interior Decoration",
+      "project": "Retail 07- Cupp Bubble Tea",
+      "phone": "",
+      "email": "",
+      "date": "2026-08-07",
+      "location": "The Community, Motor City",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "2026-08-07",
+      "followup": "",
+      "scope": "Fitout",
+      "remarks": "Quoted by Gary",
+      "quotNo": "9521",
+      "quotValue": 27006,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-07T10:44:00.341Z"
+    },
+    {
       "id": "INQ-0122",
       "client": "Dime Restaurant",
       "project": "Dime Restaurant",
@@ -2685,6 +2708,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0123",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-07T10:44:00.341Z"
+    },
     {
       "inquiryId": "INQ-0122",
       "action": "created",
