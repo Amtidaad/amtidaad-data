@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0118",
+      "client": "Emaar",
+      "project": "Al Ghani Mosque",
+      "phone": "",
+      "email": "SNadarajan@emaar.ae",
+      "date": "2026-08-07",
+      "location": "Dubai South",
+      "service": "AMC - Fire Fighting",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Action Required: You are invited to participate in Tender ECMOANEG-5000911 ( ECMOAPR-5003564 Non-Comprehensive AMC for Firefighting system at Al Ghani Mosque )",
+      "remarks": "Assigned to Gary",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-07T06:50:55.414Z"
+    },
+    {
       "id": "INQ-0117",
       "client": "Flametech Firefighting Equipment LLC",
       "project": "Flametech Firefighting Equipment LLC",
@@ -2570,6 +2593,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0118",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-07T06:50:55.415Z"
+    },
     {
       "inquiryId": "INQ-0117",
       "action": "created",
