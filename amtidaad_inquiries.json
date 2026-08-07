@@ -149,17 +149,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-08-07",
       "followup": "",
       "scope": "Replacement of FF & FA Equipment's - Al Rabia Tower",
-      "remarks": "",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quotation Shared by Gary",
+      "quotNo": "9526",
+      "quotValue": 42735,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-05T08:06:06.780Z"
+      "lastUpdatedAt": "2026-08-07T09:38:10.769Z"
     },
     {
       "id": "INQ-0111",
@@ -2593,6 +2593,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0112",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-07T09:38:10.769Z"
+    },
+    {
+      "inquiryId": "INQ-0112",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-07T09:38:10.769Z"
+    },
     {
       "inquiryId": "INQ-0118",
       "action": "created",
