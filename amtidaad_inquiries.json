@@ -9,7 +9,7 @@
       "date": "2026-08-07",
       "location": "Creekside 18 R-006",
       "service": "Other",
-      "source": "",
+      "source": "Email",
       "assigned": "Estimation Team",
       "status": "quotation",
       "quotDate": "2026-08-07",
@@ -21,7 +21,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-07T12:00:54.894Z"
+      "lastUpdatedAt": "2026-08-07T12:01:09.306Z"
     },
     {
       "id": "INQ-0124",
@@ -2754,6 +2754,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0125",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-07T12:01:09.306Z"
+    },
     {
       "inquiryId": "INQ-0125",
       "action": "created",
