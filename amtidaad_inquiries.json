@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0121",
+      "client": "FMTECH",
+      "project": "",
+      "phone": "",
+      "email": "services@fmtechuae.com",
+      "date": "2026-08-07",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Enquiry for Hydrotesting of Fire Extinguishers",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-07T09:52:34.891Z"
+    },
+    {
       "id": "INQ-0120",
       "client": "Stratum",
       "project": "Casa Grande",
@@ -2639,6 +2662,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0121",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-07T09:52:34.891Z"
+    },
     {
       "inquiryId": "INQ-0120",
       "action": "created",
