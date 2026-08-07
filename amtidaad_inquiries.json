@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0124",
+      "client": "Wermany Techinical Services Contracting LLC",
+      "project": "",
+      "phone": "",
+      "email": "engineering@warnersafety.com",
+      "date": "2026-08-07",
+      "location": "DIFC, Dubai",
+      "service": "Other",
+      "source": "WhatsApp",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "RFQ--ROOM INTEGRITY TEST -DUBAI",
+      "remarks": "Shared the RFQ to DGM & Nosheen",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-07T11:48:58.393Z"
+    },
+    {
       "id": "INQ-0123",
       "client": "Exotic Interior Decoration",
       "project": "Retail 07- Cupp Bubble Tea",
@@ -2708,6 +2731,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0124",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-07T11:48:58.393Z"
+    },
     {
       "inquiryId": "INQ-0123",
       "action": "status_change",
