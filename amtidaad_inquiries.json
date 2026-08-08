@@ -11,7 +11,7 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "quotation",
       "quotDate": "2026-08-08",
       "followup": "",
       "scope": "Giovanni Boutique Suites - Rectification Proposal",
@@ -21,7 +21,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-08T05:07:57.740Z"
+      "lastUpdatedAt": "2026-08-08T05:08:03.352Z"
     },
     {
       "id": "INQ-0130",
@@ -2892,6 +2892,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0131",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-08T05:08:03.352Z"
+    },
+    {
+      "inquiryId": "INQ-0131",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-08T05:08:03.352Z"
+    },
     {
       "inquiryId": "INQ-0131",
       "action": "created",
