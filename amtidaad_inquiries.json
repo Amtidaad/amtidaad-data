@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0131",
+      "client": "Better Communities",
+      "project": "Giovanni Boutique Suites",
+      "phone": "",
+      "email": "faizal@bcoam.com",
+      "date": "2026-08-08",
+      "location": "Sports City",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "2026-08-08",
+      "followup": "",
+      "scope": "Giovanni Boutique Suites - Rectification Proposal",
+      "remarks": "Quotation shared by Gary",
+      "quotNo": "9527",
+      "quotValue": 12951.75,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-08T05:07:57.740Z"
+    },
+    {
       "id": "INQ-0130",
       "client": "Exotic Interior Decoration",
       "project": "Al Quoz Warehouse",
@@ -2869,6 +2892,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0131",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-08T05:07:57.740Z"
+    },
     {
       "inquiryId": "INQ-0069",
       "action": "status_change",
