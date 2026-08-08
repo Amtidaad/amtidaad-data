@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0129",
+      "client": "Exotic Interior Decoration",
+      "project": "Al Quoz Warehouse",
+      "phone": "",
+      "email": "estimation@exoticinteriors.me",
+      "date": "2026-08-05",
+      "location": "Al Quoz",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-07",
+      "followup": "",
+      "scope": "FF & FA Works | Exotic Interior Office",
+      "remarks": "Quotation Shared by Gary for New Fire Pump",
+      "quotNo": "9529",
+      "quotValue": 18369.75,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-08T04:39:55.409Z"
+    },
+    {
       "id": "INQ-0128",
       "client": "Dzire Business Centre",
       "project": "Iris Bay Tower - Unit 2501",
@@ -2823,6 +2846,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0129",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-08T04:39:55.409Z"
+    },
     {
       "inquiryId": "INQ-0128",
       "action": "created",
