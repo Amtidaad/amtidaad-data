@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0130",
+      "client": "Exotic Interior Decoration",
+      "project": "Al Quoz Warehouse",
+      "phone": "",
+      "email": "estimation@exoticinteriors.me",
+      "date": "2026-08-05",
+      "location": "Al Quoz",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-07",
+      "followup": "",
+      "scope": "Re: FF & FA Works | Exotic Interior Office",
+      "remarks": "Quotation shared by Gary for Rectification of Existing Fire Pump",
+      "quotNo": "9522",
+      "quotValue": 15466.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-08T04:41:30.155Z"
+    },
+    {
       "id": "INQ-0129",
       "client": "Exotic Interior Decoration",
       "project": "Al Quoz Warehouse",
@@ -2846,6 +2869,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0130",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-08T04:41:30.155Z"
+    },
     {
       "inquiryId": "INQ-0129",
       "action": "created",
