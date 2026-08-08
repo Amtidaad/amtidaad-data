@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0128",
+      "client": "Dzire Business Centre",
+      "project": "Iris Bay Tower - Unit 2501",
+      "phone": "",
+      "email": "reception@dzireuae.com",
+      "date": "2026-08-07",
+      "location": "Business Bay",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-07",
+      "followup": "",
+      "scope": "Dzire Business Center Iris Bay Tower - AMC Renewal Proposal",
+      "remarks": "Quotation shared by Gary",
+      "quotNo": "9530",
+      "quotValue": 3675,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-08T04:36:36.501Z"
+    },
+    {
       "id": "INQ-0127",
       "client": "Latinem Facilities Management",
       "project": "Hartland 2",
@@ -2800,6 +2823,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0128",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-08T04:36:36.501Z"
+    },
     {
       "inquiryId": "INQ-0127",
       "action": "created",
