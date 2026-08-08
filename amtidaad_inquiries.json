@@ -11,17 +11,17 @@
       "service": "Other",
       "source": "Phone Call",
       "assigned": "",
-      "status": "quotation",
+      "status": "awarded",
       "quotDate": "2026-08-08",
       "followup": "",
       "scope": "IG 541 Cylinder Refilling, Valve Repair and Hydrotesting",
-      "remarks": "Quotation done by Angelika",
+      "remarks": "Quotation done by Angelika | LPO 2100775 - IG 541 Cylinder Refilling",
       "quotNo": "9531",
       "quotValue": 5775,
-      "securedValue": null,
+      "securedValue": 5775,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-08T06:44:10.759Z"
+      "lastUpdatedAt": "2026-08-08T08:50:00.883Z"
     },
     {
       "id": "INQ-0131",
@@ -2915,6 +2915,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0132",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-08T08:50:00.883Z"
+    },
+    {
+      "inquiryId": "INQ-0132",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-08T08:50:00.883Z"
+    },
     {
       "inquiryId": "INQ-0132",
       "action": "created",
