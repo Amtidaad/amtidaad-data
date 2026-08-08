@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0132",
+      "client": "Fireco Technical Services LLC",
+      "project": "",
+      "phone": "",
+      "email": "engineer2@firecoauh.com",
+      "date": "2026-08-06",
+      "location": "",
+      "service": "Other",
+      "source": "Phone Call",
+      "assigned": "",
+      "status": "quotation",
+      "quotDate": "2026-08-08",
+      "followup": "",
+      "scope": "IG 541 Cylinder Refilling, Valve Repair and Hydrotesting",
+      "remarks": "Quotation done by Angelika",
+      "quotNo": "9531",
+      "quotValue": 5775,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-08T06:44:10.759Z"
+    },
+    {
       "id": "INQ-0131",
       "client": "Better Communities",
       "project": "Giovanni Boutique Suites",
@@ -2892,6 +2915,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0132",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-08T06:44:10.759Z"
+    },
     {
       "inquiryId": "INQ-0131",
       "action": "status_change",
