@@ -370,8 +370,8 @@
     },
     {
       "id": "INQ-0122",
-      "client": "Dime Restaurant",
-      "project": "Dime Restaurant",
+      "client": "Diam Restaurant",
+      "project": "Diam Restaurant",
       "phone": "",
       "email": "zhussain@table4twogroup.com",
       "date": "2026-08-07",
@@ -389,7 +389,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-07T10:28:40.819Z"
+      "lastUpdatedAt": "2026-08-10T10:10:51.462Z"
     },
     {
       "id": "INQ-0121",
@@ -3053,6 +3053,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0122",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-10T10:10:51.462Z"
+    },
     {
       "inquiryId": "INQ-0138",
       "action": "created",
