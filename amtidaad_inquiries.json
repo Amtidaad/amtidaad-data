@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0135",
+      "client": "Better Communities",
+      "project": "Helvetia Residences",
+      "phone": "",
+      "email": "maintenance@bcoam.com",
+      "date": "2026-08-05",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-08",
+      "followup": "",
+      "scope": "Invitation tender for generator maintenance 3 years / Helvetia residences",
+      "remarks": "Quote shared by Gary",
+      "quotNo": "9532",
+      "quotValue": 18900,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-10T05:05:24.735Z"
+    },
+    {
       "id": "INQ-0134",
       "client": "Better Communities",
       "project": "",
@@ -2961,6 +2984,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0135",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-10T05:05:24.735Z"
+    },
     {
       "inquiryId": "INQ-0134",
       "action": "created",
