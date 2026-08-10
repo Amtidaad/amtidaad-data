@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0133",
+      "client": "BFMA Facility management services L.L.C",
+      "project": "Desert Sun FAS",
+      "phone": "",
+      "email": "facilities.engineer@bfmatech.com",
+      "date": "2026-07-24",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-08",
+      "followup": "",
+      "scope": "DST - Request for Fire Alarm and Fire Fighting PPM",
+      "remarks": "Quote shared by Gary",
+      "quotNo": "9535",
+      "quotValue": 27961.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-10T05:00:55.515Z"
+    },
+    {
       "id": "INQ-0132",
       "client": "Fireco Technical Services LLC",
       "project": "",
@@ -2915,6 +2938,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0133",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-10T05:00:55.515Z"
+    },
     {
       "inquiryId": "INQ-0132",
       "action": "status_change",
