@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0137",
+      "client": "Emaar",
+      "project": "South Ridge",
+      "phone": "",
+      "email": "SNadarajan@emaar.ae",
+      "date": "2026-08-10",
+      "location": "Downtown",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Action Required: You are invited to participate in Tender ECMOANEG-5000917 ( Replacement of faulty spares of CBS system at South Ridge Downtown For site visi )",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-10T08:57:26.606Z"
+    },
+    {
       "id": "INQ-0136",
       "client": "DSC Facilities Services",
       "project": "Postponed Building",
@@ -3007,6 +3030,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0137",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-10T08:57:26.606Z"
+    },
     {
       "inquiryId": "INQ-0136",
       "action": "created",
