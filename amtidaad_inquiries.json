@@ -2287,17 +2287,17 @@
       "service": "Other",
       "source": "",
       "assigned": "",
-      "status": "quotation",
+      "status": "lost",
       "quotDate": "2026-07-07",
       "followup": "",
       "scope": "Rectification Of Fire Alarm- Hilliana tower ( JB004-26-02551 )",
-      "remarks": "SO9326 - AED 99,785.70 w/ VAT",
+      "remarks": "SO9326 - AED 99,785.70 w/ VAT | Job cancelled",
       "quotNo": "9326",
       "quotValue": 99785.7,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-10T11:07:04.532Z"
+      "lastUpdatedAt": "2026-08-10T13:18:19.699Z"
     },
     {
       "id": "INQ-0038",
@@ -3099,6 +3099,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0039",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-10T13:18:19.700Z"
+    },
+    {
+      "inquiryId": "INQ-0039",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-10T13:18:19.700Z"
+    },
     {
       "inquiryId": "INQ-0140",
       "action": "created",
