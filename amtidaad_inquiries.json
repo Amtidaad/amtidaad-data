@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0139",
+      "client": "Intec",
+      "project": "",
+      "phone": "",
+      "email": "daminda@intecssl.com",
+      "date": "2026-08-10",
+      "location": "",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "ASD (Air Sampling Detector)",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-10T10:46:32.801Z"
+    },
+    {
       "id": "INQ-0138",
       "client": "Adamallys LLC",
       "project": "",
@@ -3053,6 +3076,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0139",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-10T10:46:32.802Z"
+    },
     {
       "inquiryId": "INQ-0122",
       "action": "edited",
