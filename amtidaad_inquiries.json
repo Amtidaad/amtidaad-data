@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0140",
+      "client": "Aramco",
+      "project": "",
+      "phone": "",
+      "email": "M.abdrabou@aramco2000group.com",
+      "date": "2026-08-10",
+      "location": "Alexandira, Egypt",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Inq.149/2026",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-10T11:44:05.111Z"
+    },
+    {
       "id": "INQ-0139",
       "client": "Intec",
       "project": "",
@@ -3076,6 +3099,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0140",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-10T11:44:05.111Z"
+    },
     {
       "inquiryId": "INQ-0079",
       "action": "edited",
