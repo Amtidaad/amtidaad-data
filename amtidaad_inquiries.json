@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0134",
+      "client": "Better Communities",
+      "project": "",
+      "phone": "",
+      "email": "zain@bcoam.com",
+      "date": "2026-08-06",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-08",
+      "followup": "",
+      "scope": "Pending PPM Schedule for Two Sites",
+      "remarks": "Quote shared by Gary",
+      "quotNo": "9019",
+      "quotValue": 8583.75,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-10T05:03:13.191Z"
+    },
+    {
       "id": "INQ-0133",
       "client": "BFMA Facility management services L.L.C",
       "project": "Desert Sun FAS",
@@ -2938,6 +2961,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0134",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-10T05:03:13.191Z"
+    },
     {
       "inquiryId": "INQ-0133",
       "action": "created",
