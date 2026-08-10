@@ -1392,16 +1392,16 @@
       "source": "",
       "assigned": "Estimation Team",
       "status": "quotation",
-      "quotDate": "2026-07-24",
+      "quotDate": "2026-08-08",
       "followup": "",
       "scope": "CLUSTER TH2 - EQUITERRA, GRAND POLO CLUB & RESORT-FAS",
-      "remarks": "",
+      "remarks": "Revised quote shared on 8-8-26",
       "quotNo": "9442",
-      "quotValue": 1381296,
+      "quotValue": 1747146,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-25T05:00:28.734Z"
+      "lastUpdatedAt": "2026-08-10T11:18:20.347Z"
     },
     {
       "id": "INQ-0078",
@@ -3076,6 +3076,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0079",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-10T11:18:20.347Z"
+    },
     {
       "inquiryId": "INQ-0139",
       "action": "created",
