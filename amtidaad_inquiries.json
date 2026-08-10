@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0138",
+      "client": "Adamallys LLC",
+      "project": "",
+      "phone": "",
+      "email": "Anil@adamallys-llc.com",
+      "date": "2026-08-10",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "RFQ 227400 - Flame Detector Head",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-10T08:58:45.529Z"
+    },
+    {
       "id": "INQ-0137",
       "client": "Emaar",
       "project": "South Ridge",
@@ -3030,6 +3053,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0138",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-10T08:58:45.529Z"
+    },
     {
       "inquiryId": "INQ-0137",
       "action": "created",
