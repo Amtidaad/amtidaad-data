@@ -448,17 +448,17 @@
       "service": "Other",
       "source": "",
       "assigned": "Estimation Team",
-      "status": "quotation",
+      "status": "awarded",
       "quotDate": "2026-08-06",
       "followup": "",
       "scope": "La Fabbrica Italiana Restaurant LLC - AMC Renewal Proposal",
       "remarks": "Quotation shared by Gary",
       "quotNo": "9524",
       "quotValue": 2100,
-      "securedValue": null,
+      "securedValue": 2100,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-06T11:13:18.723Z"
+      "lastUpdatedAt": "2026-08-10T05:16:22.206Z"
     },
     {
       "id": "INQ-0115",
@@ -2984,6 +2984,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0116",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-10T05:16:22.207Z"
+    },
+    {
+      "inquiryId": "INQ-0116",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-10T05:16:22.207Z"
+    },
     {
       "inquiryId": "INQ-0135",
       "action": "created",
