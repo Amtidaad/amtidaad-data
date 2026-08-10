@@ -2297,7 +2297,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-10T13:18:19.699Z"
+      "lastUpdatedAt": "2026-08-10T13:18:53.968Z"
     },
     {
       "id": "INQ-0038",
@@ -3099,6 +3099,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0039",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-10T13:18:53.969Z"
+    },
     {
       "inquiryId": "INQ-0039",
       "action": "status_change",
