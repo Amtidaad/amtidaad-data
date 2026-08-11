@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0144",
+      "client": "Stratum",
+      "project": "NATIONAL BONDS - 399 HILLS PARK TOWER B",
+      "phone": "",
+      "email": "procurement1@stratum.ae",
+      "date": "2026-08-11",
+      "location": "Dubai Hills Estate",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "NATIONAL BONDS - 399 HILLS PARK TOWER B - INVITATION TO TENDER FOR 2026 to 2028 - SPECIALIZED SERVICES  - FIRE ALARM & FIRE FIGHTING SYSTEMS",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-11T09:22:10.834Z"
+    },
+    {
       "id": "INQ-0143",
       "client": "Better Communities",
       "project": "Centurion Onyx",
@@ -3168,6 +3191,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0144",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-11T09:22:10.834Z"
+    },
     {
       "inquiryId": "INQ-0143",
       "action": "created",
