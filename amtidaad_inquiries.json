@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0146",
+      "client": "OST Dubai",
+      "project": "Proposed (2B+G+4P+28Flr+R) Residential Commercial  Building on plot no JVT02IHRA002",
+      "phone": "",
+      "email": "prajith@ostdubai.com",
+      "date": "2026-08-11",
+      "location": "Jumeirah Village Triangle",
+      "service": "",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Inquiry of FF-FA \nClient: M/s Best City Real Estate Development L.L.C",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-11T10:47:52.363Z"
+    },
+    {
       "id": "INQ-0145",
       "client": "Inter Equipment",
       "project": "",
@@ -3214,6 +3237,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0146",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-11T10:47:52.363Z"
+    },
     {
       "inquiryId": "INQ-0145",
       "action": "created",
