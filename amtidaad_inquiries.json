@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0145",
+      "client": "Inter Equipment",
+      "project": "",
+      "phone": "",
+      "email": "patrick@interequipment.com",
+      "date": "2026-08-11",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "MOS-SQ-2601291 | Fire Blanket",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-11T10:39:39.856Z"
+    },
+    {
       "id": "INQ-0144",
       "client": "Stratum",
       "project": "NATIONAL BONDS - 399 HILLS PARK TOWER B",
@@ -3191,6 +3214,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0145",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-11T10:39:39.856Z"
+    },
     {
       "inquiryId": "INQ-0144",
       "action": "created",
