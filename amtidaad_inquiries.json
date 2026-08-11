@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0142",
+      "client": "Stratum",
+      "project": "THE EIGHTY EIGHT",
+      "phone": "",
+      "email": "procurement1@stratum.ae",
+      "date": "2026-08-11",
+      "location": "Dubai Silicon Oasis",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "THE EIGHTY EIGHT - INVITATION TO TENDER FOR 2026 to 2028 - SPECIALIZED SERVICES  - FIRE ALARM & FIRE FIGHTING SYSTEMS",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-11T08:06:48.894Z"
+    },
+    {
       "id": "INQ-0141",
       "client": "Kayali",
       "project": "Kayali - Building JBC3",
@@ -3122,6 +3145,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0142",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-11T08:06:48.894Z"
+    },
     {
       "inquiryId": "INQ-0118",
       "action": "status_change",
