@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0149",
+      "client": "DGM Investment",
+      "project": "Maya 4",
+      "phone": "",
+      "email": "ghennerichard.baril@dgm-investment.com",
+      "date": "2026-08-04",
+      "location": "Jumeirah Village Triangle",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-11",
+      "followup": "",
+      "scope": "REQUEST FOR REVISE PROPOSAL- FIRE ALARM & FIRE FIGHTING MAINTENANCE AMC (MAYA 1&4)",
+      "remarks": "Quotation shared by Gary",
+      "quotNo": "9548",
+      "quotValue": 4515,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-11T12:35:10.332Z"
+    },
+    {
       "id": "INQ-0148",
       "client": "DGM Investment",
       "project": "Maya 1",
@@ -3260,6 +3283,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0149",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-11T12:35:10.332Z"
+    },
     {
       "inquiryId": "INQ-0148",
       "action": "created",
