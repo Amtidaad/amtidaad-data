@@ -540,17 +540,17 @@
       "service": "AMC - Fire Fighting",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "Action Required: You are invited to participate in Tender ECMOANEG-5000911 ( ECMOAPR-5003564 Non-Comprehensive AMC for Firefighting system at Al Ghani Mosque )",
-      "remarks": "Assigned to Gary",
+      "remarks": "Assigned to Gary | Closed already",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-07T06:50:55.414Z"
+      "lastUpdatedAt": "2026-08-11T07:34:04.653Z"
     },
     {
       "id": "INQ-0117",
@@ -3122,6 +3122,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0118",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-11T07:34:04.653Z"
+    },
+    {
+      "inquiryId": "INQ-0118",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-11T07:34:04.653Z"
+    },
     {
       "inquiryId": "INQ-0141",
       "action": "created",
