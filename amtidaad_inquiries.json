@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0143",
+      "client": "Better Communities",
+      "project": "Centurion Onyx",
+      "phone": "",
+      "email": "suroor@bcoam.com",
+      "date": "2026-08-11",
+      "location": "Nad Al Sheba 1",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-11",
+      "followup": "",
+      "scope": "Centurion Onyx - Quarter 2 Year 3 PPM Reports with Proposal",
+      "remarks": "quotation shared by Gary",
+      "quotNo": "9543",
+      "quotValue": 35599.2,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-11T08:10:58.409Z"
+    },
+    {
       "id": "INQ-0142",
       "client": "Stratum",
       "project": "THE EIGHTY EIGHT",
@@ -3145,6 +3168,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0143",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-11T08:10:58.409Z"
+    },
     {
       "inquiryId": "INQ-0142",
       "action": "created",
