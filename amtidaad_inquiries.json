@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0155",
+      "client": "Stratum",
+      "project": "Grosvernor Business Tower",
+      "phone": "",
+      "email": "Procurement@stratum.ae",
+      "date": "2026-08-14",
+      "location": "Al Barsha",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "GROSVENOR BUSINESS TOWER - REQUEST FOR PROPOSAL - FIRE FIGHTING AND CENTRAL BATTERY SYSTEM RECTIFICATION",
+      "remarks": "Inquiry forwarded by Shamsa",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-14T06:49:05.922Z"
+    },
+    {
       "id": "INQ-0154",
       "client": "PMC - DXB",
       "project": "Paramount Medical Center LLC",
@@ -3398,6 +3421,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0155",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-14T06:49:05.922Z"
+    },
     {
       "inquiryId": "INQ-0154",
       "action": "created",
