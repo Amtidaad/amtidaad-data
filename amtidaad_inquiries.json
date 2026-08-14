@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0156",
+      "client": "Inverter Care Solutions LLC",
+      "project": "",
+      "phone": "",
+      "email": "m.naveed@invert-sol.com",
+      "date": "2026-08-13",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "100044474_AAMNA",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-14T06:52:02.116Z"
+    },
+    {
       "id": "INQ-0155",
       "client": "Stratum",
       "project": "Grosvernor Business Tower",
@@ -3421,6 +3444,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0156",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-14T06:52:02.117Z"
+    },
     {
       "inquiryId": "INQ-0155",
       "action": "created",
