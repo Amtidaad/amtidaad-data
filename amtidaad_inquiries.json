@@ -655,17 +655,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-08-13",
       "followup": "",
       "scope": "Enquiry for Hydrotesting of Fire Extinguishers",
-      "remarks": "",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quotation shared by DGM",
+      "quotNo": "9578",
+      "quotValue": 63350.89,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-07T09:52:34.891Z"
+      "lastUpdatedAt": "2026-08-14T06:35:11.268Z"
     },
     {
       "id": "INQ-0120",
@@ -3306,6 +3306,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0121",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-14T06:35:11.268Z"
+    },
+    {
+      "inquiryId": "INQ-0121",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-14T06:35:11.268Z"
+    },
     {
       "inquiryId": "INQ-0150",
       "action": "created",
