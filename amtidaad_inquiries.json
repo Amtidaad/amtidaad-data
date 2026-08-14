@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0150",
+      "client": "Sez General Trading LLC",
+      "project": "",
+      "phone": "",
+      "email": "Shams_hat53@yahoo.com",
+      "date": "2026-08-12",
+      "location": "",
+      "service": "Other",
+      "source": "WhatsApp",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-13",
+      "followup": "",
+      "scope": "Open Sprinkler 1/2\"",
+      "remarks": "Quotation shared by Angelika",
+      "quotNo": "9565",
+      "quotValue": 1512,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-14T06:32:34.299Z"
+    },
+    {
       "id": "INQ-0149",
       "client": "DGM Investment",
       "project": "Maya 4",
@@ -3283,6 +3306,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0150",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-14T06:32:34.299Z"
+    },
     {
       "inquiryId": "INQ-0149",
       "action": "created",
