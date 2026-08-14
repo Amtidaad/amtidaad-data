@@ -1,6 +1,52 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0152",
+      "client": "Secure State",
+      "project": "",
+      "phone": "",
+      "email": "procurement@securestate.co",
+      "date": "2026-08-13",
+      "location": "",
+      "service": "FM200 / Clean Agent",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-13",
+      "followup": "",
+      "scope": "Inquiry - SPF0006599 - FM200 System Refilling (RB06)",
+      "remarks": "Quotation shared by Gary",
+      "quotNo": "9580",
+      "quotValue": 24664.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-14T06:38:17.272Z"
+    },
+    {
+      "id": "INQ-0151",
+      "client": "FMTECH",
+      "project": "",
+      "phone": "",
+      "email": "services@fmtechuae.com",
+      "date": "2026-08-07",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-13",
+      "followup": "",
+      "scope": "Enquiry for Hydrotesting of Fire Extinguishers",
+      "remarks": "Quotation shared by DGM",
+      "quotNo": "9579",
+      "quotValue": 299292.53,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-14T06:36:34.466Z"
+    },
+    {
       "id": "INQ-0150",
       "client": "Sez General Trading LLC",
       "project": "",
@@ -3306,6 +3352,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0152",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-14T06:38:17.272Z"
+    },
+    {
+      "inquiryId": "INQ-0151",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-14T06:36:34.466Z"
+    },
     {
       "inquiryId": "INQ-0121",
       "action": "status_change",
