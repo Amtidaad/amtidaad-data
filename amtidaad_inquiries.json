@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0158",
+      "client": "Avery Dennison",
+      "project": "Avery Dennison Warehouse",
+      "phone": "",
+      "email": "nyein.thway@eu.averydennison.com",
+      "date": "2026-08-14",
+      "location": "JAFZA",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "RFQ - Capacitors Replacement_DUBA46241658",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-14T06:58:04.739Z"
+    },
+    {
       "id": "INQ-0157",
       "client": "Exotic Interior",
       "project": "Dr. Joy Dental Clinic",
@@ -3467,6 +3490,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0158",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-14T06:58:04.739Z"
+    },
     {
       "inquiryId": "INQ-0157",
       "action": "created",
