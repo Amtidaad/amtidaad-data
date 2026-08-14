@@ -6,7 +6,7 @@
       "project": "Avery Dennison Warehouse",
       "phone": "",
       "email": "nyein.thway@eu.averydennison.com",
-      "date": "2026-08-14",
+      "date": "2026-08-12",
       "location": "JAFZA",
       "service": "Other",
       "source": "Email",
@@ -21,7 +21,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-14T06:58:04.739Z"
+      "lastUpdatedAt": "2026-08-14T06:58:19.426Z"
     },
     {
       "id": "INQ-0157",
@@ -3490,6 +3490,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0158",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-14T06:58:19.426Z"
+    },
     {
       "inquiryId": "INQ-0158",
       "action": "created",
