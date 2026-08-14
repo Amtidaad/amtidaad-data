@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0153",
+      "client": "Stratum",
+      "project": "Binghatti Views",
+      "phone": "",
+      "email": "Procurement@stratum.ae",
+      "date": "2026-08-13",
+      "location": "Dubai Silicon Oasia",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "BINGHATTI VIEWS - REQUEST FOR PROPOSAL - FIRE FIGHT EQUIPMENTS RECTIFICATION WORK",
+      "remarks": "Inquiry shared by Shamsa",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-14T06:42:48.835Z"
+    },
+    {
       "id": "INQ-0152",
       "client": "Secure State",
       "project": "",
@@ -3352,6 +3375,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0153",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-14T06:42:48.835Z"
+    },
     {
       "inquiryId": "INQ-0152",
       "action": "created",
