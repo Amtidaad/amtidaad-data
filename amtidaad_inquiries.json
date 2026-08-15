@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0159",
+      "client": "Fireco",
+      "project": "EDB Garhoud",
+      "phone": "",
+      "email": "engineer6@firecots.com",
+      "date": "2026-08-13",
+      "location": "Garhoud",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "2026-08-13",
+      "followup": "",
+      "scope": "Supply of Pneumatic Actuator Cone",
+      "remarks": "",
+      "quotNo": "9584",
+      "quotValue": 1050,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-15T06:44:00.467Z"
+    },
+    {
       "id": "INQ-0158",
       "client": "Avery Dennison",
       "project": "Avery Dennison Warehouse",
@@ -3490,6 +3513,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0159",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-15T06:44:00.467Z"
+    },
     {
       "inquiryId": "INQ-0158",
       "action": "edited",
