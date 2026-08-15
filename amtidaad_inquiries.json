@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0160",
+      "client": "Dukhon Modrn",
+      "project": "",
+      "phone": "",
+      "email": "hamed@dukhoonmp.com",
+      "date": "2026-08-15",
+      "location": "Sulatanate of Oman",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Request for Quotation - REF: (RNO-5RFQ006788) / Detector Marine Smoke",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-15T06:45:38.923Z"
+    },
+    {
       "id": "INQ-0159",
       "client": "Fireco",
       "project": "EDB Garhoud",
@@ -3513,6 +3536,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0160",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-15T06:45:38.923Z"
+    },
     {
       "inquiryId": "INQ-0159",
       "action": "created",
