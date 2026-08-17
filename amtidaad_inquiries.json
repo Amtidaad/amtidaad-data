@@ -241,17 +241,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-08-17",
       "followup": "",
       "scope": "BINGHATTI VIEWS - REQUEST FOR PROPOSAL - FIRE FIGHT EQUIPMENTS RECTIFICATION WORK",
-      "remarks": "Inquiry shared by Shamsa",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Inquiry shared by Shamsa | Quotation shared by Gary",
+      "quotNo": "9596",
+      "quotValue": 24150,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-14T06:42:48.835Z"
+      "lastUpdatedAt": "2026-08-17T07:56:50.439Z"
     },
     {
       "id": "INQ-0152",
@@ -3605,6 +3605,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0153",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-17T07:56:50.440Z"
+    },
+    {
+      "inquiryId": "INQ-0153",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-17T07:56:50.440Z"
+    },
     {
       "inquiryId": "INQ-0163",
       "action": "created",
