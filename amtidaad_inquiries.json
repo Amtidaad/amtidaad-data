@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0161",
+      "client": "Eastern Coast",
+      "project": "Sandy Signature II",
+      "phone": "",
+      "email": "remya.purushothaman@eastern-coast.com",
+      "date": "2026-08-12",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-12",
+      "followup": "",
+      "scope": "Sandy Signature II - Quarter 3 PPM Reports",
+      "remarks": "Quotation shared by Angelika",
+      "quotNo": "8709",
+      "quotValue": 84477.75,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-17T07:50:10.589Z"
+    },
+    {
       "id": "INQ-0160",
       "client": "Dukhon Modrn",
       "project": "",
@@ -3536,6 +3559,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0161",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-17T07:50:10.589Z"
+    },
     {
       "inquiryId": "INQ-0160",
       "action": "created",
