@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0164",
+      "client": "She Burger",
+      "project": "Unfiltered Cafe & Bakery",
+      "phone": "",
+      "email": "admin@sheburger.com",
+      "date": "2026-08-17",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-17",
+      "followup": "",
+      "scope": "AMC",
+      "remarks": "Quotation shared by Gary",
+      "quotNo": "9603",
+      "quotValue": 2625,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-17T12:45:21.481Z"
+    },
+    {
       "id": "INQ-0163",
       "client": "Auriga Trading",
       "project": "",
@@ -3605,6 +3628,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0164",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-17T12:45:21.481Z"
+    },
     {
       "inquiryId": "INQ-0064",
       "action": "edited",
