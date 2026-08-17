@@ -2266,16 +2266,16 @@
       "source": "Email",
       "assigned": "Estimation Team",
       "status": "quotation",
-      "quotDate": "2026-07-22",
+      "quotDate": "2026-08-17",
       "followup": "",
       "scope": "RECTIFICATION OF FIRE EQUIPMENTS",
-      "remarks": "Assigned to Reshmi",
+      "remarks": "Assigned to Reshmi/ revised quotation shared by Gary",
       "quotNo": "9409",
-      "quotValue": 62674.5,
+      "quotValue": 36750,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-24T11:46:25.060Z"
+      "lastUpdatedAt": "2026-08-17T10:24:25.076Z"
     },
     {
       "id": "INQ-0063",
@@ -3605,6 +3605,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0064",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-17T10:24:25.076Z"
+    },
     {
       "inquiryId": "INQ-0065",
       "action": "edited",
