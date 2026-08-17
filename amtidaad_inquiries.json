@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0162",
+      "client": "Better Communities",
+      "project": "Belvedere CBD 27",
+      "phone": "",
+      "email": "suroor@bcoam.com",
+      "date": "2026-08-15",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-15",
+      "followup": "",
+      "scope": "Belvedere CBD 27 - Quarter 3 Year 2 PPM Reports with Proposal",
+      "remarks": "Quotation shared by Gary",
+      "quotNo": "9597",
+      "quotValue": 25441.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-17T07:54:09.813Z"
+    },
+    {
       "id": "INQ-0161",
       "client": "Eastern Coast",
       "project": "Sandy Signature II",
@@ -3559,6 +3582,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0162",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-17T07:54:09.813Z"
+    },
     {
       "inquiryId": "INQ-0161",
       "action": "created",
