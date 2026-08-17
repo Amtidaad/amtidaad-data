@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0163",
+      "client": "Auriga Trading",
+      "project": "",
+      "phone": "",
+      "email": "sales@aurigatradingco.com",
+      "date": "2026-08-16",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Mini Monitor Module",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-17T07:55:32.143Z"
+    },
+    {
       "id": "INQ-0162",
       "client": "Better Communities",
       "project": "Belvedere CBD 27",
@@ -3582,6 +3605,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0163",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-17T07:55:32.143Z"
+    },
     {
       "inquiryId": "INQ-0162",
       "action": "created",
