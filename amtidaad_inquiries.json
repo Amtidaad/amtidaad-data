@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0166",
+      "client": "Fireco Technical Services LLC",
+      "project": "Kent College",
+      "phone": "",
+      "email": "engineer5@firecots.com",
+      "date": "2026-08-17",
+      "location": "Meydan, South",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "FOAM refilling Enquiry -Kent college",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-18T08:38:17.721Z"
+    },
+    {
       "id": "INQ-0165",
       "client": "Anwar Gargash Diplomatic Academy (AGDA)",
       "project": "",
@@ -3651,6 +3674,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0166",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-18T08:38:17.721Z"
+    },
     {
       "inquiryId": "INQ-0165",
       "action": "created",
