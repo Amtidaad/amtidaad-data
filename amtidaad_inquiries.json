@@ -1368,17 +1368,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "quotation",
+      "status": "awarded",
       "quotDate": "2026-07-31",
       "followup": "",
       "scope": "PPM Service",
-      "remarks": "Quotation shared by Gary",
+      "remarks": "Quotation shared by Gary/ Email confirmation received on 17 Aug",
       "quotNo": "9506",
       "quotValue": 283.5,
-      "securedValue": null,
+      "securedValue": 283.5,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-01T05:09:52.422Z"
+      "lastUpdatedAt": "2026-08-18T05:05:24.026Z"
     },
     {
       "id": "INQ-0103",
@@ -3628,6 +3628,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0104",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-18T05:05:24.026Z"
+    },
+    {
+      "inquiryId": "INQ-0104",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-18T05:05:24.026Z"
+    },
     {
       "inquiryId": "INQ-0164",
       "action": "created",
