@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0168",
+      "client": "Fireco Technical Services LLC",
+      "project": "ENS School",
+      "phone": "",
+      "email": "engineer5@firecots.com",
+      "date": "2026-08-19",
+      "location": "",
+      "service": "FM200 / Clean Agent",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "ENS SCHOOL FM200 CYLINDER",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-19T05:21:00.178Z"
+    },
+    {
       "id": "INQ-0167",
       "client": "FIRST OPTION CONTRACTING L.L.C.",
       "project": "",
@@ -3697,6 +3720,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0168",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-19T05:21:00.178Z"
+    },
     {
       "inquiryId": "INQ-0167",
       "action": "created",
