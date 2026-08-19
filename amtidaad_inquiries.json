@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0167",
+      "client": "FIRST OPTION CONTRACTING L.L.C.",
+      "project": "",
+      "phone": "",
+      "email": "nazeer@first-option.ae",
+      "date": "2026-08-19",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Fire Extinguisher RFQ",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-19T05:17:50.563Z"
+    },
+    {
       "id": "INQ-0166",
       "client": "Fireco Technical Services LLC",
       "project": "Kent College",
@@ -3674,6 +3697,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0167",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-19T05:17:50.564Z"
+    },
     {
       "inquiryId": "INQ-0166",
       "action": "created",
