@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0170",
+      "client": "ORC - Al Obour Real Estate & Investment",
+      "project": "CLUSTER TH2 - EQUITERRA, GRAND POLO CLUB & RESOR",
+      "phone": "",
+      "email": "amira.ibrahim@orc-constructions.com",
+      "date": "2026-08-18",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-19",
+      "followup": "",
+      "scope": "Emergency Exit light system",
+      "remarks": "Quotation shared by DGM",
+      "quotNo": "9620",
+      "quotValue": 29783.25,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-19T12:56:42.586Z"
+    },
+    {
       "id": "INQ-0169",
       "client": "Stratum",
       "project": "Barton House 1",
@@ -3743,6 +3766,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0170",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-19T12:56:42.586Z"
+    },
     {
       "inquiryId": "INQ-0166",
       "action": "edited",
