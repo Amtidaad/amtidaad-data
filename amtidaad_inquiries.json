@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0171",
+      "client": "GMG Consumer",
+      "project": "Geant Express Supermarket",
+      "phone": "",
+      "email": "khizar.a@gmg.com",
+      "date": "2026-08-19",
+      "location": "Dubai Creek Residence",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-19",
+      "followup": "",
+      "scope": "PR 9040033713 Geant G209- DCR (Dubai Creek Residence) | FF/F (Non Comprehensive AMC)",
+      "remarks": "Quotation shared by Gary",
+      "quotNo": "9621",
+      "quotValue": 9450,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-19T13:23:50.756Z"
+    },
+    {
       "id": "INQ-0170",
       "client": "ORC - Al Obour Real Estate & Investment",
       "project": "CLUSTER TH2 - EQUITERRA, GRAND POLO CLUB & RESOR",
@@ -3766,6 +3789,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0171",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-19T13:23:50.757Z"
+    },
     {
       "inquiryId": "INQ-0170",
       "action": "created",
