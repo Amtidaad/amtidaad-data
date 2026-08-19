@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0169",
+      "client": "Stratum",
+      "project": "Barton House 1",
+      "phone": "",
+      "email": "procurement1@stratum.ae",
+      "date": "2026-08-19",
+      "location": "Motor City",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "BARTON HOUSE 1 - INVITATION TO TENDER FOR 2026 to 2028 - SPECIALIZED SERVICES  - FIRE ALARM & FIRE FIGHTING SYSTEMS",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-19T08:43:30.880Z"
+    },
+    {
       "id": "INQ-0168",
       "client": "Fireco Technical Services LLC",
       "project": "ENS School",
@@ -3720,6 +3743,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0169",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-19T08:43:30.880Z"
+    },
     {
       "inquiryId": "INQ-0166",
       "action": "status_change",
