@@ -37,14 +37,14 @@
       "status": "quotation",
       "quotDate": "2026-08-20",
       "followup": "",
-      "scope": "Supply & Installation - DCP",
+      "scope": "Supply & Installation - DCP 6kg",
       "remarks": "Quotation shared by Gary",
       "quotNo": "9622",
       "quotValue": 131.25,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-20T05:07:43.557Z"
+      "lastUpdatedAt": "2026-08-20T05:09:40.605Z"
     },
     {
       "id": "INQ-0172",
@@ -3858,6 +3858,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0173",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-20T05:09:40.605Z"
+    },
     {
       "inquiryId": "INQ-0174",
       "action": "created",
