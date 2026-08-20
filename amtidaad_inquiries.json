@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0173",
+      "client": "Mueller Medical Clinic FZ-LLC",
+      "project": "Mueller Medical Clinic FZ-LLC",
+      "phone": "",
+      "email": "nurse@muellermedicalclinic.ae",
+      "date": "2026-08-20",
+      "location": "",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-20",
+      "followup": "",
+      "scope": "Supply & Installation - DCP",
+      "remarks": "Quotation shared by Gary",
+      "quotNo": "9622",
+      "quotValue": 131.25,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-20T05:07:43.557Z"
+    },
+    {
       "id": "INQ-0172",
       "client": "The School of Research",
       "project": "",
@@ -3812,6 +3835,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0173",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-20T05:07:43.557Z"
+    },
     {
       "inquiryId": "INQ-0172",
       "action": "created",
