@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0175",
+      "client": "MANA",
+      "project": "",
+      "phone": "",
+      "email": "hamidreza.rouhi@gmail.com",
+      "date": "2026-08-19",
+      "location": "",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "TYCO Sprinkler / Request for Quotation – Original TYCO Fire Sprinklers",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-20T05:34:26.332Z"
+    },
+    {
       "id": "INQ-0174",
       "client": "German Clinic",
       "project": "German Clinic",
@@ -3858,6 +3881,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0175",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-20T05:34:26.332Z"
+    },
     {
       "inquiryId": "INQ-0173",
       "action": "edited",
