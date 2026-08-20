@@ -104,16 +104,16 @@
       "source": "Email",
       "assigned": "Estimation Team",
       "status": "quotation",
-      "quotDate": "2026-08-19",
+      "quotDate": "2026-08-20",
       "followup": "",
       "scope": "PR 9040033713 Geant G209- DCR (Dubai Creek Residence) | FF/F (Non Comprehensive AMC)",
       "remarks": "Quotation shared by Gary",
       "quotNo": "9621",
-      "quotValue": 9450,
+      "quotValue": 9662.5,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-19T13:23:50.756Z"
+      "lastUpdatedAt": "2026-08-20T08:33:56.402Z"
     },
     {
       "id": "INQ-0170",
@@ -3881,6 +3881,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0171",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-20T08:33:56.402Z"
+    },
     {
       "inquiryId": "INQ-0124",
       "action": "status_change",
