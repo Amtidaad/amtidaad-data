@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0172",
+      "client": "The School of Research",
+      "project": "",
+      "phone": "",
+      "email": "",
+      "date": "2026-08-20",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "2026-08-15",
+      "followup": "",
+      "scope": "LPO 0224 / Supply and Installaton",
+      "remarks": "",
+      "quotNo": "9605",
+      "quotValue": 5932.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-20T04:55:17.345Z"
+    },
+    {
       "id": "INQ-0171",
       "client": "GMG Consumer",
       "project": "Geant Express Supermarket",
@@ -3789,6 +3812,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0172",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-20T04:55:17.345Z"
+    },
     {
       "inquiryId": "INQ-0171",
       "action": "created",
