@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0174",
+      "client": "German Clinic",
+      "project": "German Clinic",
+      "phone": "",
+      "email": "nurse@muellermedicalclinic.ae",
+      "date": "2026-08-20",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-20",
+      "followup": "",
+      "scope": "Supply & Installation - DCP 4kg",
+      "remarks": "Quotation shared by Gary",
+      "quotNo": "9623",
+      "quotValue": 210,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-20T05:09:24.811Z"
+    },
+    {
       "id": "INQ-0173",
       "client": "Mueller Medical Clinic FZ-LLC",
       "project": "Mueller Medical Clinic FZ-LLC",
@@ -3835,6 +3858,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0174",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-20T05:09:24.811Z"
+    },
     {
       "inquiryId": "INQ-0173",
       "action": "created",
