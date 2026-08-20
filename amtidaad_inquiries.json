@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0176",
+      "client": "Huda Beauty",
+      "project": "Huda Beauty DMCC",
+      "phone": "",
+      "email": "deo.renon@hudabeauty.com",
+      "date": "2026-08-20",
+      "location": "DMCC",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-20",
+      "followup": "",
+      "scope": "Huda Beauty DMCC - Quarter 3 PPM reports with Proposal",
+      "remarks": "Quotation shared by Gary",
+      "quotNo": "9628",
+      "quotValue": 2052.75,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-20T10:21:34.824Z"
+    },
+    {
       "id": "INQ-0175",
       "client": "MANA",
       "project": "",
@@ -3881,6 +3904,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0176",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-20T10:21:34.825Z"
+    },
     {
       "inquiryId": "INQ-0171",
       "action": "edited",
