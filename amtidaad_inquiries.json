@@ -1153,7 +1153,7 @@
     {
       "id": "INQ-0124",
       "client": "Wermany Techinical Services Contracting LLC",
-      "project": "",
+      "project": "Emirates Tower",
       "phone": "",
       "email": "engineering@warnersafety.com",
       "date": "2026-08-07",
@@ -1161,17 +1161,17 @@
       "service": "Other",
       "source": "WhatsApp",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-08-20",
       "followup": "",
       "scope": "RFQ--ROOM INTEGRITY TEST -DUBAI",
-      "remarks": "Shared the RFQ to DGM & Nosheen",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quotation shared by Faizan",
+      "quotNo": "9607",
+      "quotValue": 1312.5,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-07T11:48:58.393Z"
+      "lastUpdatedAt": "2026-08-20T07:31:44.071Z"
     },
     {
       "id": "INQ-0123",
@@ -3881,6 +3881,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0124",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-20T07:31:44.071Z"
+    },
+    {
+      "inquiryId": "INQ-0124",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-20T07:31:44.071Z"
+    },
     {
       "inquiryId": "INQ-0175",
       "action": "created",
