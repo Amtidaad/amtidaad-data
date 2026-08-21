@@ -195,17 +195,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-08-21",
       "followup": "",
       "scope": "BARTON HOUSE 1 - INVITATION TO TENDER FOR 2026 to 2028 - SPECIALIZED SERVICES  - FIRE ALARM & FIRE FIGHTING SYSTEMS",
-      "remarks": "",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quotation shared by Gary",
+      "quotNo": "9638",
+      "quotValue": 109725,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-19T08:43:30.880Z"
+      "lastUpdatedAt": "2026-08-21T12:02:40.249Z"
     },
     {
       "id": "INQ-0168",
@@ -3927,6 +3927,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0169",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-21T12:02:40.249Z"
+    },
+    {
+      "inquiryId": "INQ-0169",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-21T12:02:40.249Z"
+    },
     {
       "inquiryId": "INQ-0144",
       "action": "status_change",
