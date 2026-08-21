@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0178",
+      "client": "Al Rustamni Owner Association Management",
+      "project": "Gold Tower",
+      "phone": "",
+      "email": "lakeshore@alrustamanioam.com",
+      "date": "2026-08-13",
+      "location": "Jumeirah Lakae Towers",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-21",
+      "followup": "",
+      "scope": "Gold Tower - Generator & Fire System AMC Proposal",
+      "remarks": "quotation shared by Gary",
+      "quotNo": "9640",
+      "quotValue": 4725,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-21T13:01:40.366Z"
+    },
+    {
       "id": "INQ-0177",
       "client": "Fireco Technical Services LLC",
       "project": "",
@@ -3927,6 +3950,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0178",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-21T13:01:40.366Z"
+    },
     {
       "inquiryId": "INQ-0169",
       "action": "status_change",
