@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0179",
+      "client": "Al Rustamni Owner Association Management",
+      "project": "Gold Tower",
+      "phone": "",
+      "email": "lakeshore@alrustamanioam.com",
+      "date": "2026-08-13",
+      "location": "Jumeirah Lake Towers",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-21",
+      "followup": "",
+      "scope": "Gold Tower - Generator & Fire System AMC Proposal",
+      "remarks": "quotation shared by Gary",
+      "quotNo": "9639",
+      "quotValue": 23940,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-21T13:02:42.577Z"
+    },
+    {
       "id": "INQ-0178",
       "client": "Al Rustamni Owner Association Management",
       "project": "Gold Tower",
@@ -3950,6 +3973,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0179",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-21T13:02:42.577Z"
+    },
     {
       "inquiryId": "INQ-0178",
       "action": "created",
