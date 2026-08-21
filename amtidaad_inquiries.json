@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0177",
+      "client": "Fireco Technical Services LLC",
+      "project": "",
+      "phone": "",
+      "email": "engineer5@firecots.com",
+      "date": "2026-08-19",
+      "location": "",
+      "service": "Other",
+      "source": "Walk-in",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-21",
+      "followup": "",
+      "scope": "C02 - 5kg -21 No\nC02 - 2Kg - 1NO \nHydrotesting and refilling",
+      "remarks": "Quotation created and shared by Angelika",
+      "quotNo": "9626",
+      "quotValue": 2020.2,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-21T07:51:31.541Z"
+    },
+    {
       "id": "INQ-0176",
       "client": "Huda Beauty",
       "project": "Huda Beauty DMCC",
@@ -3904,6 +3927,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0177",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-21T07:51:31.542Z"
+    },
     {
       "inquiryId": "INQ-0176",
       "action": "created",
