@@ -2219,17 +2219,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "quotation",
+      "status": "awarded",
       "quotDate": "2026-07-24",
       "followup": "",
       "scope": "AMC Renewal for Fire Alarm & Fire Fighting System",
       "remarks": "",
       "quotNo": "9445",
       "quotValue": 1470,
-      "securedValue": null,
+      "securedValue": 1470,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-25T05:11:48.316Z"
+      "lastUpdatedAt": "2026-08-21T10:49:57.581Z"
     },
     {
       "id": "INQ-0079",
@@ -3927,6 +3927,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0080",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-21T10:49:57.581Z"
+    },
+    {
+      "inquiryId": "INQ-0080",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-21T10:49:57.581Z"
+    },
     {
       "inquiryId": "INQ-0177",
       "action": "created",
