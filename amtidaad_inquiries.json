@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0180",
+      "client": "Stratum",
+      "project": "Tamani Arts Offices",
+      "phone": "",
+      "email": "Procurement3@stratum.ae",
+      "date": "2026-08-21",
+      "location": "Business Bay",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "RFP_Request for Supplier Proposal –  Rectification of Fire Alarm System",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-21T13:33:34.673Z"
+    },
+    {
       "id": "INQ-0179",
       "client": "Al Rustamni Owner Association Management",
       "project": "Gold Tower",
@@ -3973,6 +3996,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0180",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-21T13:33:34.673Z"
+    },
     {
       "inquiryId": "INQ-0179",
       "action": "created",
