@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0183",
+      "client": "Tructec International FZE",
+      "project": "Tructec International FZE",
+      "phone": "",
+      "email": "p.dagalea@trucktec-international.com",
+      "date": "2026-08-22",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-22",
+      "followup": "",
+      "scope": "Trucktec International FZE - AMC Renewal Proposal",
+      "remarks": "quotation shared by Gary",
+      "quotNo": "9652",
+      "quotValue": 4620,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-22T09:40:03.076Z"
+    },
+    {
       "id": "INQ-0182",
       "client": "United Fidelity Insurance Company",
       "project": "Fidelity United Building",
@@ -4042,6 +4065,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0183",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-22T09:40:03.076Z"
+    },
     {
       "inquiryId": "INQ-0182",
       "action": "created",
