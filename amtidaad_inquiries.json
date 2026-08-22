@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0185",
+      "client": "The School of Research",
+      "project": "SRS 1",
+      "phone": "",
+      "email": "sudheesh.ab@srs.ae",
+      "date": "2026-08-22",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-22",
+      "followup": "",
+      "scope": "The School of Research Science LLC - SRS 1 & SRS 2",
+      "remarks": "Quotation for SRS 1 shared by Gary",
+      "quotNo": "9625",
+      "quotValue": 103635,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-22T09:43:40.496Z"
+    },
+    {
       "id": "INQ-0184",
       "client": "The School of Research",
       "project": "",
@@ -4088,6 +4111,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0185",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-22T09:43:40.496Z"
+    },
     {
       "inquiryId": "INQ-0184",
       "action": "created",
