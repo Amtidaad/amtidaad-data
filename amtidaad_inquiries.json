@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0181",
+      "client": "Whites Laundry LLC",
+      "project": "Golden Tulip Hotel - Whites Laundry (Old Laundry)",
+      "phone": "",
+      "email": "Iraq@whites.ae",
+      "date": "2026-08-22",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "2026-08-22",
+      "followup": "",
+      "scope": "Golden Tulip Hotel - Whites Laundry LLC - Fit out Proposal",
+      "remarks": "quotation shared by Gary",
+      "quotNo": "9643",
+      "quotValue": 16416.75,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-22T05:35:18.725Z"
+    },
+    {
       "id": "INQ-0180",
       "client": "Stratum",
       "project": "Tamani Arts Offices",
@@ -3996,6 +4019,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0181",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-22T05:35:18.725Z"
+    },
     {
       "inquiryId": "INQ-0180",
       "action": "created",
