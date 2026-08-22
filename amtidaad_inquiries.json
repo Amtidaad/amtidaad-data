@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0186",
+      "client": "Al Bwardy Engineering Enterprises",
+      "project": "Spinneys Kitchen - Creek Beach",
+      "phone": "",
+      "email": "sinto.s@albengg.com",
+      "date": "2026-08-22",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-22",
+      "followup": "",
+      "scope": "Albwardy Engineering Enterprises LLC - Spinneys Kitchen - AMC Renewal Proposal",
+      "remarks": "quotation shared by Gary",
+      "quotNo": "9653",
+      "quotValue": 3150,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-22T09:58:06.420Z"
+    },
+    {
       "id": "INQ-0185",
       "client": "The School of Research",
       "project": "SRS 1",
@@ -4111,6 +4134,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0186",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-22T09:58:06.420Z"
+    },
     {
       "inquiryId": "INQ-0184",
       "action": "edited",
