@@ -11,7 +11,7 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "quotation",
       "quotDate": "2026-08-22",
       "followup": "",
       "scope": "Golden Tulip Hotel - Whites Laundry LLC - Fit out Proposal",
@@ -21,7 +21,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-22T05:35:18.725Z"
+      "lastUpdatedAt": "2026-08-22T05:35:25.136Z"
     },
     {
       "id": "INQ-0180",
@@ -4019,6 +4019,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0181",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-22T05:35:25.136Z"
+    },
+    {
+      "inquiryId": "INQ-0181",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-22T05:35:25.136Z"
+    },
     {
       "inquiryId": "INQ-0181",
       "action": "created",
