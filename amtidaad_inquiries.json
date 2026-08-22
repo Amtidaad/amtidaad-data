@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0182",
+      "client": "United Fidelity Insurance Company",
+      "project": "Fidelity United Building",
+      "phone": "",
+      "email": "pm3@banke.ae",
+      "date": "2026-08-22",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-22",
+      "followup": "",
+      "scope": "Fidelity United Bldg.- FAFF AMC Renewal Proposal Request - (2026 to 2027)",
+      "remarks": "quotation shared by Gary",
+      "quotNo": "9651",
+      "quotValue": 28134.75,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-22T09:36:30.460Z"
+    },
+    {
       "id": "INQ-0181",
       "client": "Whites Laundry LLC",
       "project": "Golden Tulip Hotel - Whites Laundry (Old Laundry)",
@@ -4019,6 +4042,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0182",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-22T09:36:30.460Z"
+    },
     {
       "inquiryId": "INQ-0181",
       "action": "status_change",
