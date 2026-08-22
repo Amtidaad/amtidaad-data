@@ -26,7 +26,7 @@
     {
       "id": "INQ-0184",
       "client": "The School of Research",
-      "project": "",
+      "project": "SRS 2",
       "phone": "",
       "email": "sudheesh.ab@srs.ae",
       "date": "2026-08-22",
@@ -44,7 +44,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-22T09:42:30.065Z"
+      "lastUpdatedAt": "2026-08-22T09:43:47.466Z"
     },
     {
       "id": "INQ-0183",
@@ -4111,6 +4111,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0184",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-22T09:43:47.466Z"
+    },
     {
       "inquiryId": "INQ-0185",
       "action": "created",
