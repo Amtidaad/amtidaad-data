@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0190",
+      "client": "Rapidrop Middle East Trading LLC",
+      "project": "",
+      "phone": "",
+      "email": "Audrey.Salac@rapidrop.com",
+      "date": "2026-08-25",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "",
+      "status": "awarded",
+      "quotDate": "2026-08-25",
+      "followup": "",
+      "scope": "",
+      "remarks": "",
+      "quotNo": "9682",
+      "quotValue": 3591,
+      "securedValue": 3591,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-25T11:16:40.328Z"
+    },
+    {
       "id": "INQ-0189",
       "client": "Emaar",
       "project": "Creekside 18",
@@ -4203,6 +4226,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0190",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-25T11:16:40.328Z"
+    },
     {
       "inquiryId": "INQ-0189",
       "action": "created",
