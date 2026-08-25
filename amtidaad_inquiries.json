@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0189",
+      "client": "Emaar",
+      "project": "Creekside 18",
+      "phone": "",
+      "email": "jiju.ouseph@emrill.com",
+      "date": "2026-08-25",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-25",
+      "followup": "",
+      "scope": "Creekside 18 Fire Fighting - AMC Renewal Proposal",
+      "remarks": "quotation shared by Gary",
+      "quotNo": "9679",
+      "quotValue": 31500,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-25T10:03:51.740Z"
+    },
+    {
       "id": "INQ-0188",
       "client": "Boss General Trading",
       "project": "",
@@ -4180,6 +4203,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0189",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-25T10:03:51.740Z"
+    },
     {
       "inquiryId": "INQ-0188",
       "action": "created",
