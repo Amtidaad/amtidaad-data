@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0187",
+      "client": "DIFC Investment LLC",
+      "project": "DIFC GA ELECTRICAL ROOM",
+      "phone": "",
+      "email": "diya.jadallah@difc.ae",
+      "date": "2026-08-21",
+      "location": "DIFC, Dubai",
+      "service": "Other",
+      "source": "Phone Call",
+      "assigned": "Admin",
+      "status": "quotation",
+      "quotDate": "2026-08-25",
+      "followup": "",
+      "scope": "QUOTE SUPPLY & INSTALLATION OF FM200 FIRE SUPPRESSION SYSTEM DIFC GA ELECTRICAL ROOM",
+      "remarks": "Quotation shared by Mr. Ajmal",
+      "quotNo": "9642",
+      "quotValue": 803539.8,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-25T07:35:43.738Z"
+    },
+    {
       "id": "INQ-0186",
       "client": "Al Bwardy Engineering Enterprises",
       "project": "Spinneys Kitchen - Creek Beach",
@@ -4134,6 +4157,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0187",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-25T07:35:43.738Z"
+    },
     {
       "inquiryId": "INQ-0186",
       "action": "edited",
