@@ -172,17 +172,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "quotation",
+      "status": "awarded",
       "quotDate": "2026-08-22",
       "followup": "",
       "scope": "Trucktec International FZE - AMC Renewal Proposal",
       "remarks": "quotation shared by Gary",
       "quotNo": "9652",
       "quotValue": 4620,
-      "securedValue": null,
+      "securedValue": 4620,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-22T09:40:03.076Z"
+      "lastUpdatedAt": "2026-08-25T12:30:01.372Z"
     },
     {
       "id": "INQ-0182",
@@ -4226,6 +4226,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0183",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-25T12:30:01.372Z"
+    },
+    {
+      "inquiryId": "INQ-0183",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-25T12:30:01.372Z"
+    },
     {
       "inquiryId": "INQ-0190",
       "action": "created",
