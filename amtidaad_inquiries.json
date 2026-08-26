@@ -1828,17 +1828,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "REQUEST FOR PROPOSALS_EVERSHINE GARDEN_RECTIFICATION OF FIRE FIGHTING",
-      "remarks": "",
+      "remarks": "quotation not submitted deadline was 11th Aug 2026",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-05T11:52:29.466Z"
+      "lastUpdatedAt": "2026-08-26T11:03:03.329Z"
     },
     {
       "id": "INQ-0112",
@@ -4295,6 +4295,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0113",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-26T11:03:03.329Z"
+    },
+    {
+      "inquiryId": "INQ-0113",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-26T11:03:03.329Z"
+    },
     {
       "inquiryId": "INQ-0193",
       "action": "created",
