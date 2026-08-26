@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0192",
+      "client": "Emaar",
+      "project": "Downtown Views",
+      "phone": "",
+      "email": "SNadarajan@emaar.ae",
+      "date": "2026-08-26",
+      "location": "Downtown",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Action Required: You are invited to participate in Tender ECMOANEG-5000989 ( Supply and Replacement of CBS Batteries at Downtown Views I. End-user: Vishal Va )",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-26T06:07:23.294Z"
+    },
+    {
       "id": "INQ-0191",
       "client": "Emaar",
       "project": "Boulevard Point",
@@ -4249,6 +4272,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0192",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-26T06:07:23.294Z"
+    },
     {
       "inquiryId": "INQ-0191",
       "action": "created",
