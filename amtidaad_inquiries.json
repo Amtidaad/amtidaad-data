@@ -127,7 +127,7 @@
       "source": "Email",
       "assigned": "Estimation Team",
       "status": "quotation",
-      "quotDate": "2026-08-25",
+      "quotDate": "2026-08-26",
       "followup": "",
       "scope": "Creekside 18 Fire Fighting - AMC Renewal Proposal",
       "remarks": "quotation shared by Gary",
@@ -136,7 +136,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-26T13:36:05.886Z"
+      "lastUpdatedAt": "2026-08-26T13:36:20.608Z"
     },
     {
       "id": "INQ-0188",
@@ -4318,6 +4318,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0189",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-26T13:36:20.608Z"
+    },
     {
       "inquiryId": "INQ-0189",
       "action": "edited",
