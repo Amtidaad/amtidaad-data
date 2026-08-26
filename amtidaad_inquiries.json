@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0193",
+      "client": "Fireco Technical Services LLC",
+      "project": "",
+      "phone": "",
+      "email": "engineer1@firecoajm.com",
+      "date": "2026-08-24",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "ENQUIRY - FIKE FM 200 GAS CARTRIDGE ACTUATOR KIT - URGENT",
+      "remarks": "Assigned to Angelika",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-26T10:50:59.545Z"
+    },
+    {
       "id": "INQ-0192",
       "client": "Emaar",
       "project": "Downtown Views",
@@ -4272,6 +4295,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0193",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-26T10:50:59.545Z"
+    },
     {
       "inquiryId": "INQ-0192",
       "action": "created",
