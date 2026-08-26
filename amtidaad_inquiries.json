@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0194",
+      "client": "xpertcare Technical services",
+      "project": "",
+      "phone": "",
+      "email": "",
+      "date": "2026-08-26",
+      "location": "",
+      "service": "Fire Extinguisher Refilling",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "2026-08-25",
+      "followup": "",
+      "scope": "Refilling of CO2 5kg",
+      "remarks": "LPO no. 2621 received",
+      "quotNo": "9681",
+      "quotValue": 2467.5,
+      "securedValue": 2467.5,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-26T11:08:12.143Z"
+    },
+    {
       "id": "INQ-0193",
       "client": "Fireco Technical Services LLC",
       "project": "",
@@ -4295,6 +4318,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0194",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-26T11:08:12.144Z"
+    },
     {
       "inquiryId": "INQ-0120",
       "action": "status_change",
