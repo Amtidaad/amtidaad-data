@@ -1690,17 +1690,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "GLITZ 3 - REQUEST FOR PROPOSAL - RECTIFICATION OF FIRE FIGHTING EQUIPMENTS",
-      "remarks": "assigned to Gary",
+      "remarks": "assigned to Gary / survey done by Gary however proper detail or scope was not provided - quotation was not shared",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-07T09:48:25.619Z"
+      "lastUpdatedAt": "2026-08-26T11:03:42.835Z"
     },
     {
       "id": "INQ-0118",
@@ -4295,6 +4295,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0119",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-26T11:03:42.835Z"
+    },
+    {
+      "inquiryId": "INQ-0119",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-26T11:03:42.835Z"
+    },
     {
       "inquiryId": "INQ-0113",
       "action": "status_change",
