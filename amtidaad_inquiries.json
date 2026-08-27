@@ -3274,14 +3274,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "Yale Digital Rim Lock",
-      "remarks": "",
+      "remarks": "Not quoted from our end",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-08T12:07:58.976Z"
+      "lastUpdatedAt": "2026-08-27T08:14:50.934Z"
     },
     {
       "id": "INQ-0050",
@@ -4383,6 +4386,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0051",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T08:14:50.934Z"
+    },
+    {
+      "inquiryId": "INQ-0051",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T08:14:50.934Z"
+    },
     {
       "inquiryId": "INQ-0050",
       "action": "status_change",
