@@ -3024,17 +3024,17 @@
       "service": "New Installation - Fire Alarm",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "HEAD IONISATION SMOKE DETECTOR\n\nMAIN EQUIPMENT: FIRE ALARM\n\nSYSTEM BJH-31\n\nMAKE: AUTRONICA, NORWAY",
-      "remarks": "Assigned to Reshmi",
+      "remarks": "Assigned to Reshmi | Not quoted from our end",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-16T08:18:55.121Z"
+      "lastUpdatedAt": "2026-08-27T08:22:11.035Z"
     },
     {
       "id": "INQ-0062",
@@ -4389,6 +4389,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0063",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T08:22:11.035Z"
+    },
+    {
+      "inquiryId": "INQ-0063",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T08:22:11.035Z"
+    },
     {
       "inquiryId": "INQ-0061",
       "action": "status_change",
