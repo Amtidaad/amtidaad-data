@@ -2265,17 +2265,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "Supply and installation of Emergency Evacuation Plan map in DEC - (Dubai Expo Center)",
-      "remarks": "",
+      "remarks": "Not quoted form our end",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-30T05:34:58.732Z"
+      "lastUpdatedAt": "2026-08-27T10:47:25.987Z"
     },
     {
       "id": "INQ-0096",
@@ -4389,6 +4389,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0097",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T10:47:25.987Z"
+    },
+    {
+      "inquiryId": "INQ-0097",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T10:47:25.987Z"
+    },
     {
       "inquiryId": "INQ-0098",
       "action": "status_change",
