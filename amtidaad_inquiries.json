@@ -3724,14 +3724,17 @@
       "service": "Other",
       "source": "",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "Fire Alarm & Fighting System Break Down  ( JB1099-26-02617 )",
-      "remarks": "Assigned to Reshmi",
+      "remarks": "Assigned to Reshmi | Not Quoted",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-06T07:35:00.924Z"
+      "lastUpdatedAt": "2026-08-27T08:01:03.556Z"
     },
     {
       "id": "INQ-0029",
@@ -4350,6 +4353,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0030",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T08:01:03.556Z"
+    },
+    {
+      "inquiryId": "INQ-0030",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T08:01:03.556Z"
+    },
     {
       "inquiryId": "INQ-0029",
       "action": "status_change",
