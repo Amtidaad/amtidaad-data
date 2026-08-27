@@ -3357,7 +3357,7 @@
       "service": "Other",
       "source": "",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "Fire Alarm & Fighting System Services  ( JB4621-26-00031 )",
@@ -3367,7 +3367,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-27T08:12:51.070Z"
+      "lastUpdatedAt": "2026-08-27T08:12:58.222Z"
     },
     {
       "id": "INQ-0046",
@@ -4377,6 +4377,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0047",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T08:12:58.222Z"
+    },
+    {
+      "inquiryId": "INQ-0047",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T08:12:58.222Z"
+    },
     {
       "inquiryId": "INQ-0047",
       "action": "edited",
