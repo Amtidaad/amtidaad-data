@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0196",
+      "client": "Anwar Gargash Diplomat Academy",
+      "project": "Anwar Gargash Diplomat Academy",
+      "phone": "",
+      "email": "eduardo.guzman@agda.ac.ae",
+      "date": "2026-08-27",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "RFQ-396 For AGDA Fire Fighting and Fire Alarm System",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-27T08:29:58.082Z"
+    },
+    {
       "id": "INQ-0195",
       "client": "M/s Kingfield Owners Association Management trading as ASTECO",
       "project": "The Jewels",
@@ -4366,6 +4389,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0196",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T08:29:58.082Z"
+    },
     {
       "inquiryId": "INQ-0083",
       "action": "status_change",
