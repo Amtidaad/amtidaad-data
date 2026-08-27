@@ -1299,17 +1299,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "RFQ 227400 - Flame Detector Head",
-      "remarks": "",
+      "remarks": "not quoted from our end",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-10T08:58:45.529Z"
+      "lastUpdatedAt": "2026-08-27T11:06:52.720Z"
     },
     {
       "id": "INQ-0137",
@@ -4366,6 +4366,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0138",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T11:06:52.720Z"
+    },
+    {
+      "inquiryId": "INQ-0138",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T11:06:52.720Z"
+    },
     {
       "inquiryId": "INQ-0136",
       "action": "status_change",
