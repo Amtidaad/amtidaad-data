@@ -714,29 +714,6 @@
       "lastUpdatedAt": "2026-08-19T12:43:40.711Z"
     },
     {
-      "id": "INQ-0165",
-      "client": "Anwar Gargash Diplomatic Academy (AGDA)",
-      "project": "",
-      "phone": "",
-      "email": "eduardo.guzman@agda.ac.ae",
-      "date": "2026-08-17",
-      "location": "",
-      "service": "Other",
-      "source": "Email",
-      "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
-      "followup": "",
-      "scope": "RFQ-396 For AGDA Fire Fighting and Fire Alarm System",
-      "remarks": "",
-      "quotNo": null,
-      "quotValue": null,
-      "securedValue": null,
-      "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-18T05:09:17.318Z"
-    },
-    {
       "id": "INQ-0164",
       "client": "She Burger",
       "project": "Unfiltered Cafe & Bakery",
@@ -5567,15 +5544,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-18T08:38:17.721Z"
-    },
-    {
-      "inquiryId": "INQ-0165",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-18T05:09:17.318Z"
     },
     {
       "inquiryId": "INQ-0104",
