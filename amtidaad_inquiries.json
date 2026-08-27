@@ -2798,13 +2798,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "Fire Alarm & Fighting System Break Down  ( JB1099-26-02879 )",
-      "remarks": "Assigned to Reshmi | From Iskaan",
+      "remarks": "Assigned to Reshmi | From Iskaan | Not quoted from our end",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-24T06:19:02.744Z"
+      "lastUpdatedAt": "2026-08-27T10:52:13.539Z"
     },
     {
       "id": "INQ-0073",
@@ -4389,6 +4389,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0074",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T10:52:13.539Z"
+    },
     {
       "inquiryId": "INQ-0073",
       "action": "status_change",
