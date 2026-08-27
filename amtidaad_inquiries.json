@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0197",
+      "client": "Fireco Technical Services LLC",
+      "project": "",
+      "phone": "",
+      "email": "jomon@firecots.com",
+      "date": "2026-08-19",
+      "location": "",
+      "service": "Other",
+      "source": "Walk-in",
+      "assigned": "",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Fireco.Received fire extinguishers.co2 5kg 20 nos.dcp 6kg 02 nos.dcp 4kg 04 nos.dcp 4.5kg 14 nos.total 40 nos",
+      "remarks": "Assigned to Angelika",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-27T12:17:45.569Z"
+    },
+    {
       "id": "INQ-0196",
       "client": "Anwar Gargash Diplomat Academy",
       "project": "Anwar Gargash Diplomat Academy",
@@ -4366,6 +4389,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0197",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T12:17:45.569Z"
+    },
     {
       "inquiryId": "INQ-0147",
       "action": "status_change",
