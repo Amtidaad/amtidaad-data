@@ -195,7 +195,7 @@
       "service": "Other",
       "source": "Phone Call",
       "assigned": "Admin",
-      "status": "quotation",
+      "status": "lost",
       "quotDate": "2026-08-25",
       "followup": "",
       "scope": "QUOTE SUPPLY & INSTALLATION OF FM200 FIRE SUPPRESSION SYSTEM DIFC GA ELECTRICAL ROOM",
@@ -205,7 +205,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-25T07:35:43.738Z"
+      "lastUpdatedAt": "2026-08-27T07:37:43.330Z"
     },
     {
       "id": "INQ-0186",
@@ -4341,6 +4341,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0187",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "lost",
+      "remarks": "Building Contractor is Alarabia .DIFC wants very discounted prices.prices are higher as per their expectation even from existing AMC Contractor.Due to current market situation they will keep on hold.",
+      "user": "Admin",
+      "timestamp": "2026-08-27T07:37:43.330Z"
+    },
     {
       "inquiryId": "INQ-0195",
       "action": "created",
