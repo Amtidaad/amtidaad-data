@@ -3440,17 +3440,17 @@
       "service": "Other",
       "source": "",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "P1 Replacement of Fire Alarm Equipment, Fire Fighting Equipment, Fire Extinguisher & Voice Evacuation  ( JB004-26-02573 )",
-      "remarks": "Assigned to Reshmi",
+      "remarks": "Assigned to Reshmi | Not quoted from our end",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-14T12:34:34.165Z"
+      "lastUpdatedAt": "2026-08-27T08:09:11.062Z"
     },
     {
       "id": "INQ-0042",
@@ -4368,6 +4368,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0043",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T08:09:11.062Z"
+    },
+    {
+      "inquiryId": "INQ-0043",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T08:09:11.062Z"
+    },
     {
       "inquiryId": "INQ-0040",
       "action": "status_change",
