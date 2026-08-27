@@ -2196,17 +2196,17 @@
       "service": "New Installation - Fire Alarm",
       "source": "",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "(12 Months) Fire Alarm & Fighting System Contract  ( JB11484-26-00113 )",
-      "remarks": "",
+      "remarks": "Not quoted from our end",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-30T11:36:19.115Z"
+      "lastUpdatedAt": "2026-08-27T10:45:33.474Z"
     },
     {
       "id": "INQ-0099",
@@ -4389,6 +4389,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0100",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T10:45:33.474Z"
+    },
+    {
+      "inquiryId": "INQ-0100",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T10:45:33.474Z"
+    },
     {
       "inquiryId": "INQ-0124",
       "action": "status_change",
