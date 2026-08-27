@@ -1115,17 +1115,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-08-17",
       "followup": "",
       "scope": "Aims ref : 31460-ENQ-26-AUH -- For ADNOC HQ",
       "remarks": "",
-      "quotNo": null,
-      "quotValue": null,
+      "quotNo": "9598",
+      "quotValue": 8222.34,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-11T11:07:24.945Z"
+      "lastUpdatedAt": "2026-08-27T11:18:57.903Z"
     },
     {
       "id": "INQ-0146",
@@ -4366,6 +4366,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0147",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T11:18:57.903Z"
+    },
+    {
+      "inquiryId": "INQ-0147",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T11:18:57.903Z"
+    },
     {
       "inquiryId": "INQ-0146",
       "action": "status_change",
