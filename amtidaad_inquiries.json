@@ -195,7 +195,7 @@
       "service": "Other",
       "source": "Phone Call",
       "assigned": "Admin",
-      "status": "lost",
+      "status": "quotation",
       "quotDate": "2026-08-25",
       "followup": "",
       "scope": "QUOTE SUPPLY & INSTALLATION OF FM200 FIRE SUPPRESSION SYSTEM DIFC GA ELECTRICAL ROOM",
@@ -205,7 +205,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-27T07:37:43.330Z"
+      "lastUpdatedAt": "2026-08-25T07:35:43.738Z"
     },
     {
       "id": "INQ-0186",
@@ -3784,14 +3784,17 @@
       "service": "Other",
       "source": "",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "Replacement of Cracked Fire Hose Reel Pipe Inside Riser at 38th Floor Upper Level",
-      "remarks": "Assigned to Reshmi | Inquiry from Iskaan | Due Date 10 Jul 2026",
+      "remarks": "Assigned to Reshmi | Inquiry from Iskaan | Due Date 10 Jul 2026 | Not Quoted",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
       "createdBy": "BD Executive",
-      "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-07-02T12:11:48.937Z"
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-27T07:59:23.460Z"
     },
     {
       "id": "INQ-0026",
@@ -4342,13 +4345,22 @@
   ],
   "auditLog": [
     {
-      "inquiryId": "INQ-0187",
+      "inquiryId": "INQ-0027",
       "action": "status_change",
-      "from": "quotation",
+      "from": "new",
       "to": "lost",
-      "remarks": "Building Contractor is Alarabia .DIFC wants very discounted prices.prices are higher as per their expectation even from existing AMC Contractor.Due to current market situation they will keep on hold.",
+      "remarks": "",
       "user": "Admin",
-      "timestamp": "2026-08-27T07:37:43.330Z"
+      "timestamp": "2026-08-27T07:59:23.460Z"
+    },
+    {
+      "inquiryId": "INQ-0027",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T07:59:23.460Z"
     },
     {
       "inquiryId": "INQ-0195",
