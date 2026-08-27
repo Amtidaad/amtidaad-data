@@ -1253,17 +1253,17 @@
       "service": "Other",
       "source": "",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "Inq.149/2026",
-      "remarks": "",
+      "remarks": "not quoted from our end",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-10T11:44:05.111Z"
+      "lastUpdatedAt": "2026-08-27T11:08:23.775Z"
     },
     {
       "id": "INQ-0139",
@@ -4366,6 +4366,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0140",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T11:08:23.775Z"
+    },
+    {
+      "inquiryId": "INQ-0140",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T11:08:23.775Z"
+    },
     {
       "inquiryId": "INQ-0139",
       "action": "status_change",
