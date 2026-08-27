@@ -3417,17 +3417,17 @@
       "service": "Other",
       "source": "",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "P1  Replacement of Fire Alarm Equipment,Fire Fighting Equipment,Fire Extinguisher - IT Plaza  ( JB004-26-02574 )",
-      "remarks": "Assigned to Angelika",
+      "remarks": "Assigned to Angelika | Not quoted from our end closing date was 6th August",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-29T13:24:56.993Z"
+      "lastUpdatedAt": "2026-08-27T08:11:06.158Z"
     },
     {
       "id": "INQ-0043",
@@ -4368,6 +4368,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0044",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T08:11:06.158Z"
+    },
+    {
+      "inquiryId": "INQ-0044",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T08:11:06.158Z"
+    },
     {
       "inquiryId": "INQ-0043",
       "action": "status_change",
