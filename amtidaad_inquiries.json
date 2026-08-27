@@ -264,17 +264,17 @@
       "service": "AMC - Full Package",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "quotation",
+      "status": "awarded",
       "quotDate": "2026-08-22",
       "followup": "",
       "scope": "Albwardy Engineering Enterprises LLC - Spinneys Kitchen - AMC Renewal Proposal",
-      "remarks": "quotation shared by Gary",
+      "remarks": "quotation shared by Gary| LPO received on 27 Aug. LPO # 64871",
       "quotNo": "9653",
       "quotValue": 3150,
-      "securedValue": null,
+      "securedValue": 3150,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-25T06:27:32.404Z"
+      "lastUpdatedAt": "2026-08-27T12:21:17.988Z"
     },
     {
       "id": "INQ-0185",
@@ -4389,6 +4389,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0186",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T12:21:17.988Z"
+    },
+    {
+      "inquiryId": "INQ-0186",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T12:21:17.988Z"
+    },
     {
       "inquiryId": "INQ-0197",
       "action": "created",
