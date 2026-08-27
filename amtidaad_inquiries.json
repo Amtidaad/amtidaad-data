@@ -1345,17 +1345,17 @@
       "service": "AMC - Full Package",
       "source": "",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "2026-08-10",
+      "status": "quotation",
+      "quotDate": "2026-08-14",
       "followup": "",
       "scope": "Al Barsha Postponed Building -  Fire Alarm & Fire Fighting",
       "remarks": "",
-      "quotNo": null,
-      "quotValue": null,
+      "quotNo": "9595",
+      "quotValue": 8925,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-10T06:44:44.057Z"
+      "lastUpdatedAt": "2026-08-27T11:05:08.574Z"
     },
     {
       "id": "INQ-0135",
@@ -4366,6 +4366,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0136",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T11:05:08.574Z"
+    },
+    {
+      "inquiryId": "INQ-0136",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T11:05:08.574Z"
+    },
     {
       "inquiryId": "INQ-0127",
       "action": "status_change",
