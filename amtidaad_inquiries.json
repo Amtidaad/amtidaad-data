@@ -3361,10 +3361,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "Fire Alarm & Fighting System Services  ( JB4621-26-00031 )",
-      "remarks": "Assigned to Reshmi",
+      "remarks": "Assigned to Reshmi | Not quoted from our end",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-08T11:09:41.526Z"
+      "lastUpdatedAt": "2026-08-27T08:12:51.070Z"
     },
     {
       "id": "INQ-0046",
@@ -4374,6 +4377,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0047",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T08:12:51.070Z"
+    },
     {
       "inquiryId": "INQ-0046",
       "action": "status_change",
