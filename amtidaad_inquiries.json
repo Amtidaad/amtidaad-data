@@ -3616,10 +3616,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "Water Mist System",
-      "remarks": "",
+      "remarks": "Still not quoted as waiting for the prices",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-06T12:58:45.849Z"
+      "lastUpdatedAt": "2026-08-27T08:02:49.446Z"
     },
     {
       "id": "INQ-0034",
@@ -4353,6 +4356,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0035",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T08:02:49.446Z"
+    },
     {
       "inquiryId": "INQ-0030",
       "action": "status_change",
