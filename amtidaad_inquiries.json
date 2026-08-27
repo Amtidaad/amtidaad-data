@@ -3070,17 +3070,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-07-15",
       "followup": "",
       "scope": "Refilling for Nitrogen System",
       "remarks": "Assigned to Reshmi",
-      "quotNo": null,
-      "quotValue": null,
+      "quotNo": "9393",
+      "quotValue": 7350,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-15T07:50:14.409Z"
+      "lastUpdatedAt": "2026-08-27T08:20:22.506Z"
     },
     {
       "id": "INQ-0060",
@@ -4389,6 +4389,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0061",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T08:20:22.506Z"
+    },
+    {
+      "inquiryId": "INQ-0061",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T08:20:22.506Z"
+    },
     {
       "inquiryId": "INQ-0060",
       "action": "status_change",
