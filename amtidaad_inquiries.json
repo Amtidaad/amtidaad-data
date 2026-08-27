@@ -2357,17 +2357,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-07-29",
       "followup": "",
       "scope": "Request for Price Quote CSHSE26-00353 ( RFQ Reference in Mail)",
       "remarks": "",
-      "quotNo": null,
-      "quotValue": null,
+      "quotNo": "9489",
+      "quotValue": 20947.5,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-29T05:30:24.919Z"
+      "lastUpdatedAt": "2026-08-27T10:49:37.526Z"
     },
     {
       "id": "INQ-0092",
@@ -4389,6 +4389,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0093",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T10:49:37.526Z"
+    },
+    {
+      "inquiryId": "INQ-0093",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T10:49:37.526Z"
+    },
     {
       "inquiryId": "INQ-0097",
       "action": "status_change",
