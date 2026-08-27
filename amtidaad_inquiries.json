@@ -3764,14 +3764,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "Fire Fighting & Fire Alarm Rectification Works (Multiple Location",
-      "remarks": "Assigned to Reshmi",
+      "remarks": "Assigned to Reshmi | Not Quoted",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-03T13:16:43.999Z"
+      "lastUpdatedAt": "2026-08-27T07:59:57.844Z"
     },
     {
       "id": "INQ-0027",
@@ -4344,6 +4347,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0028",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T07:59:57.844Z"
+    },
+    {
+      "inquiryId": "INQ-0028",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T07:59:57.844Z"
+    },
     {
       "inquiryId": "INQ-0027",
       "action": "status_change",
