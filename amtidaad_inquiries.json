@@ -1644,17 +1644,17 @@
       "service": "Other",
       "source": "WhatsApp",
       "assigned": "Estimation Team",
-      "status": "quotation",
+      "status": "awarded",
       "quotDate": "2026-08-20",
       "followup": "",
       "scope": "RFQ--ROOM INTEGRITY TEST -DUBAI",
-      "remarks": "Quotation shared by Faizan",
+      "remarks": "Quotation shared by Faizan | LPO No. WTSC26-PO-021",
       "quotNo": "9607",
       "quotValue": 1312.5,
-      "securedValue": null,
+      "securedValue": 1312.5,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-20T07:31:44.071Z"
+      "lastUpdatedAt": "2026-08-27T10:35:41.455Z"
     },
     {
       "id": "INQ-0123",
@@ -4389,6 +4389,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0124",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T10:35:41.455Z"
+    },
+    {
+      "inquiryId": "INQ-0124",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T10:35:41.455Z"
+    },
     {
       "inquiryId": "INQ-0196",
       "action": "created",
