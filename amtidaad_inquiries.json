@@ -3093,17 +3093,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "Supply of Firefighters PPE",
-      "remarks": "Assigned to Reshmi",
+      "remarks": "Assigned to Reshmi | Not quoted form our end",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-15T06:35:18.344Z"
+      "lastUpdatedAt": "2026-08-27T08:18:38.715Z"
     },
     {
       "id": "INQ-0059",
@@ -4389,6 +4389,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0060",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T08:18:38.715Z"
+    },
+    {
+      "inquiryId": "INQ-0060",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T08:18:38.715Z"
+    },
     {
       "inquiryId": "INQ-0058",
       "action": "status_change",
