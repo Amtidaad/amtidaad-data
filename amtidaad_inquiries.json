@@ -1667,8 +1667,8 @@
       "service": "AMC - Fire Alarm",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "awarded",
+      "quotDate": "2026-08-10",
       "followup": "",
       "scope": "Request for Fire Alarm AMC – Diam Restaurant, Wasl Square | Non Comprehensive AMC",
       "remarks": "",
@@ -1677,7 +1677,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-10T10:15:32.698Z"
+      "lastUpdatedAt": "2026-08-27T11:01:09.050Z"
     },
     {
       "id": "INQ-0121",
@@ -4366,6 +4366,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0122",
+      "action": "status_change",
+      "from": "new",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T11:01:09.051Z"
+    },
+    {
+      "inquiryId": "INQ-0122",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T11:01:09.051Z"
+    },
     {
       "inquiryId": "INQ-0075",
       "action": "status_change",
