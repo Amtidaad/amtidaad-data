@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0195",
+      "client": "M/s Kingfield Owners Association Management trading as ASTECO",
+      "project": "The Jewels",
+      "phone": "",
+      "email": "a.sher@eifm.ae",
+      "date": "2026-08-27",
+      "location": "Dubai Marina",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Inquiry for Self-Contained Monitoring lighting system AMC 03 Years - The Jewels Tower",
+      "remarks": "Assigned to Faizan",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-27T06:41:48.412Z"
+    },
+    {
       "id": "INQ-0194",
       "client": "xpertcare Technical services",
       "project": "",
@@ -4318,6 +4341,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0195",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T06:41:48.412Z"
+    },
     {
       "inquiryId": "INQ-0189",
       "action": "edited",
