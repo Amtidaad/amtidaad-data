@@ -1276,17 +1276,17 @@
       "service": "Other",
       "source": "",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "ASD (Air Sampling Detector)",
-      "remarks": "",
+      "remarks": "not quoted from our end",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-10T10:46:32.801Z"
+      "lastUpdatedAt": "2026-08-27T11:07:49.932Z"
     },
     {
       "id": "INQ-0138",
@@ -4366,6 +4366,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0139",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T11:07:49.932Z"
+    },
+    {
+      "inquiryId": "INQ-0139",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T11:07:49.932Z"
+    },
     {
       "inquiryId": "INQ-0138",
       "action": "status_change",
