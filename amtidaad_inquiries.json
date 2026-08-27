@@ -3592,14 +3592,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "NOVEC & Foam Suppression system (RAR)",
-      "remarks": "",
+      "remarks": "Not Quoted from our end",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-06T12:58:33.984Z"
+      "lastUpdatedAt": "2026-08-27T08:03:35.822Z"
     },
     {
       "id": "INQ-0035",
@@ -4356,6 +4359,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0036",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T08:03:35.822Z"
+    },
+    {
+      "inquiryId": "INQ-0036",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T08:03:35.822Z"
+    },
     {
       "inquiryId": "INQ-0035",
       "action": "edited",
