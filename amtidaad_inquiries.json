@@ -2932,17 +2932,17 @@
       "service": "FM200 / Clean Agent",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "Novec Gas new Inquiry",
-      "remarks": "Assigned to Reshmi",
+      "remarks": "Assigned to Reshmi | Not quoted from our end",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-22T13:25:51.587Z"
+      "lastUpdatedAt": "2026-08-27T08:22:50.161Z"
     },
     {
       "id": "INQ-0066",
@@ -4389,6 +4389,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0067",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T08:22:50.161Z"
+    },
+    {
+      "inquiryId": "INQ-0067",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T08:22:50.161Z"
+    },
     {
       "inquiryId": "INQ-0063",
       "action": "status_change",
