@@ -3185,17 +3185,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "RFQ_BEVERLY BOULEVARD_ Rectification of Fire Suppression system.",
-      "remarks": "Assigned to Reshmi",
+      "remarks": "Assigned to Reshmi | Not quoted from our end",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-13T06:37:34.560Z"
+      "lastUpdatedAt": "2026-08-27T08:16:12.837Z"
     },
     {
       "id": "INQ-0055",
@@ -4389,6 +4389,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0056",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T08:16:12.837Z"
+    },
+    {
+      "inquiryId": "INQ-0056",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-27T08:16:12.837Z"
+    },
     {
       "inquiryId": "INQ-0053",
       "action": "status_change",
