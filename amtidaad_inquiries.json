@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0204",
+      "client": "xpertcare Technical services",
+      "project": "",
+      "phone": "",
+      "email": "Info@xpertcarets.com",
+      "date": "2026-08-31",
+      "location": "",
+      "service": "Fire Extinguisher Refilling",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-31",
+      "followup": "",
+      "scope": "Re: Quotation for Refilling (FM200)",
+      "remarks": "quotation shared by Reshmi",
+      "quotNo": "9696",
+      "quotValue": 1181.25,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-31T11:32:33.038Z"
+    },
+    {
       "id": "INQ-0203",
       "client": "ORC - Al Obour Real Estate & Investment",
       "project": "CLUSTER TH2 - EQUITERRA, GRAND POLO CLUB & RESORT",
@@ -4528,6 +4551,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0204",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T11:32:33.038Z"
+    },
+    {
       "inquiryId": "INQ-0192",
       "action": "status_change",
       "from": "quotation",
@@ -9017,15 +9049,6 @@
       "remarks": "",
       "user": "BD Executive",
       "timestamp": "2026-07-02T11:39:52.346Z"
-    },
-    {
-      "inquiryId": "INQ-0018",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T11:37:50.780Z"
     }
   ]
 }
