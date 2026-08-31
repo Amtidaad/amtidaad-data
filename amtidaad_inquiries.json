@@ -360,13 +360,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "RFQ-555 / DCP for refilling with TCP",
-      "remarks": "",
+      "remarks": "shared to both coordinators",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-25T08:05:40.662Z"
+      "lastUpdatedAt": "2026-08-31T07:20:07.954Z"
     },
     {
       "id": "INQ-0187",
@@ -4527,6 +4527,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0188",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T07:20:07.954Z"
+    },
     {
       "inquiryId": "INQ-0175",
       "action": "edited",
@@ -9014,15 +9023,6 @@
       "action": "status_change",
       "from": "new",
       "to": "quotation",
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T10:54:10.612Z"
-    },
-    {
-      "inquiryId": "INQ-0010",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "BD Executive",
       "timestamp": "2026-07-02T10:54:10.612Z"
