@@ -107,13 +107,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "Request for price (NORMALUX) B No 154",
-      "remarks": "",
+      "remarks": "shared to both coordinators",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-31T05:47:13.656Z"
+      "lastUpdatedAt": "2026-08-31T07:27:14.487Z"
     },
     {
       "id": "INQ-0198",
@@ -4527,6 +4527,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0199",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T07:27:14.487Z"
+    },
     {
       "inquiryId": "INQ-0198",
       "action": "edited",
@@ -9014,15 +9023,6 @@
       "action": "status_change",
       "from": "new",
       "to": "quotation",
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T11:03:04.632Z"
-    },
-    {
-      "inquiryId": "INQ-0012",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "BD Executive",
       "timestamp": "2026-07-02T11:03:04.632Z"
