@@ -264,17 +264,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "quotation",
-      "quotDate": "2026-08-31",
+      "status": "hold",
+      "quotDate": "",
       "followup": "",
       "scope": "Action Required: You are invited to participate in Tender ECMOANEG-5000989 ( Supply and Replacement of CBS Batteries at Downtown Views I. End-user: Vishal Va )",
-      "remarks": "Assigned to Gary - quotation shared by Gary on 31 Aug",
+      "remarks": "Assigned to Gary - quotation made on the 31 Aug but job closed already around 8.25am  same day",
       "quotNo": "9726",
       "quotValue": 49098,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-31T08:30:15.694Z"
+      "lastUpdatedAt": "2026-08-31T08:31:54.844Z"
     },
     {
       "id": "INQ-0191",
@@ -4527,6 +4527,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0192",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "hold",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T08:31:54.844Z"
+    },
+    {
+      "inquiryId": "INQ-0192",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T08:31:54.844Z"
+    },
     {
       "inquiryId": "INQ-0192",
       "action": "status_change",
@@ -9008,24 +9026,6 @@
       "remarks": "",
       "user": "BD Executive",
       "timestamp": "2026-07-02T11:37:50.780Z"
-    },
-    {
-      "inquiryId": "INQ-0017",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T11:36:53.345Z"
-    },
-    {
-      "inquiryId": "INQ-0016",
-      "action": "created",
-      "from": null,
-      "to": "awarded",
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T11:17:18.319Z"
     }
   ]
 }
