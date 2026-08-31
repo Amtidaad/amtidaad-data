@@ -268,13 +268,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "Action Required: You are invited to participate in Tender ECMOANEG-5000989 ( Supply and Replacement of CBS Batteries at Downtown Views I. End-user: Vishal Va )",
-      "remarks": "",
+      "remarks": "Assigned to Gary",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-26T06:07:23.294Z"
+      "lastUpdatedAt": "2026-08-31T07:24:30.073Z"
     },
     {
       "id": "INQ-0191",
@@ -4527,6 +4527,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0192",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T07:24:30.073Z"
+    },
     {
       "inquiryId": "INQ-0191",
       "action": "edited",
@@ -9017,15 +9026,6 @@
       "remarks": "",
       "user": "BD Executive",
       "timestamp": "2026-07-02T10:59:07.044Z"
-    },
-    {
-      "inquiryId": "INQ-0011",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T10:59:01.442Z"
     }
   ]
 }
