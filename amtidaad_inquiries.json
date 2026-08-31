@@ -263,18 +263,18 @@
       "location": "Downtown",
       "service": "Other",
       "source": "Email",
-      "assigned": "",
-      "status": "new",
-      "quotDate": "",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-31",
       "followup": "",
       "scope": "Action Required: You are invited to participate in Tender ECMOANEG-5000989 ( Supply and Replacement of CBS Batteries at Downtown Views I. End-user: Vishal Va )",
-      "remarks": "Assigned to Gary",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Assigned to Gary - quotation shared by Gary on 31 Aug",
+      "quotNo": "9726",
+      "quotValue": 49098,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-31T07:24:30.073Z"
+      "lastUpdatedAt": "2026-08-31T08:30:15.694Z"
     },
     {
       "id": "INQ-0191",
@@ -4527,6 +4527,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0192",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T08:30:15.694Z"
+    },
+    {
+      "inquiryId": "INQ-0192",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T08:30:15.694Z"
+    },
     {
       "inquiryId": "INQ-0201",
       "action": "edited",
@@ -9008,24 +9026,6 @@
       "remarks": "",
       "user": "BD Executive",
       "timestamp": "2026-07-02T11:17:18.319Z"
-    },
-    {
-      "inquiryId": "INQ-0015",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T11:16:07.449Z"
-    },
-    {
-      "inquiryId": "INQ-0014",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T11:11:53.697Z"
     }
   ]
 }
