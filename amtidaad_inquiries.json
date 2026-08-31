@@ -2196,17 +2196,17 @@
       "service": "AMC - Full Package",
       "source": "",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "(1 Years) Fire Alarm & Fighting System Contract  ( JB11727-26-00025 )",
-      "remarks": "",
+      "remarks": "did not quoted from our end",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-01T05:39:07.807Z"
+      "lastUpdatedAt": "2026-08-31T06:06:38.026Z"
     },
     {
       "id": "INQ-0105",
@@ -4527,6 +4527,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0106",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T06:06:38.026Z"
+    },
+    {
+      "inquiryId": "INQ-0106",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T06:06:38.026Z"
+    },
     {
       "inquiryId": "INQ-0087",
       "action": "status_change",
