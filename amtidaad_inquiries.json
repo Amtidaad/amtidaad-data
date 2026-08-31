@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0201",
+      "client": "Fireco Technical Services LLC",
+      "project": "",
+      "phone": "",
+      "email": "engineer2@firecoauh.com",
+      "date": "2026-08-28",
+      "location": "",
+      "service": "FM200 / Clean Agent",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Request for Best Proposal – FM-200 Refilling",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-31T05:49:46.852Z"
+    },
+    {
       "id": "INQ-0200",
       "client": "Prioritize General Trading LLC",
       "project": "",
@@ -4458,6 +4481,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0201",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T05:49:46.852Z"
+    },
     {
       "inquiryId": "INQ-0200",
       "action": "created",
