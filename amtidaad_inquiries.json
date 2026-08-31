@@ -912,13 +912,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "Mini Monitor Module",
-      "remarks": "",
+      "remarks": "inquiry forwarded to Coordinators",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-17T07:55:32.143Z"
+      "lastUpdatedAt": "2026-08-31T07:14:01.112Z"
     },
     {
       "id": "INQ-0162",
@@ -4527,6 +4527,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0163",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T07:14:01.112Z"
+    },
     {
       "inquiryId": "INQ-0084",
       "action": "status_change",
@@ -9017,15 +9026,6 @@
       "remarks": "",
       "user": "BD Executive",
       "timestamp": "2026-07-02T10:42:20.491Z"
-    },
-    {
-      "inquiryId": "INQ-0008",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T10:40:29.999Z"
     }
   ]
 }
