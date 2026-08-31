@@ -130,13 +130,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "RFQ-UNI-D-R0871-26 battery charger",
-      "remarks": "",
+      "remarks": "shared to both coordinators",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-31T05:42:28.033Z"
+      "lastUpdatedAt": "2026-08-31T07:26:28.908Z"
     },
     {
       "id": "INQ-0197",
@@ -4527,6 +4527,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0198",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T07:26:28.908Z"
+    },
     {
       "inquiryId": "INQ-0197",
       "action": "edited",
@@ -9017,15 +9026,6 @@
       "remarks": "",
       "user": "BD Executive",
       "timestamp": "2026-07-02T11:03:04.632Z"
-    },
-    {
-      "inquiryId": "INQ-0012",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T11:02:57.944Z"
     }
   ]
 }
