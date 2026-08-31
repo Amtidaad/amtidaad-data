@@ -2012,17 +2012,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "Action Required: You are invited to participate in Tender ECMOANEG-5000904 ( Rectification of Central Battery System in Travo, The Greens and Views  For site )",
-      "remarks": "",
+      "remarks": "not quoted from our end - needs proper checking/survey from Ops",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-31T06:08:30.858Z"
+      "lastUpdatedAt": "2026-08-31T06:41:15.241Z"
     },
     {
       "id": "INQ-0113",
@@ -4527,6 +4527,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0114",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T06:41:15.241Z"
+    },
+    {
+      "inquiryId": "INQ-0114",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T06:41:15.241Z"
+    },
     {
       "inquiryId": "INQ-0180",
       "action": "status_change",
@@ -9008,24 +9026,6 @@
       "remarks": "",
       "user": "BD Executive",
       "timestamp": "2026-07-02T10:21:18.699Z"
-    },
-    {
-      "inquiryId": "INQ-0003",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T10:06:35.325Z"
-    },
-    {
-      "inquiryId": "INQ-0002",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T10:03:23.464Z"
     }
   ]
 }
