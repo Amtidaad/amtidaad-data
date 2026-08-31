@@ -61,13 +61,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "Request for Best Proposal – FM-200 Refilling",
-      "remarks": "",
+      "remarks": "Assigned to Reshmi",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-31T05:49:46.852Z"
+      "lastUpdatedAt": "2026-08-31T07:28:09.208Z"
     },
     {
       "id": "INQ-0200",
@@ -4527,6 +4527,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0201",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T07:28:09.208Z"
+    },
     {
       "inquiryId": "INQ-0200",
       "action": "edited",
@@ -9017,15 +9026,6 @@
       "remarks": "",
       "user": "BD Executive",
       "timestamp": "2026-07-02T11:11:53.697Z"
-    },
-    {
-      "inquiryId": "INQ-0013",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T11:09:12.685Z"
     }
   ]
 }
