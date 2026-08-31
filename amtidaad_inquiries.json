@@ -977,17 +977,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "Request for Quotation - REF: (RNO-5RFQ006788) / Detector Marine Smoke",
-      "remarks": "",
+      "remarks": "not quoted from our end",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-15T06:45:38.923Z"
+      "lastUpdatedAt": "2026-08-31T06:18:31.124Z"
     },
     {
       "id": "INQ-0159",
@@ -4527,6 +4527,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0160",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T06:18:31.125Z"
+    },
+    {
+      "inquiryId": "INQ-0160",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T06:18:31.124Z"
+    },
     {
       "inquiryId": "INQ-0158",
       "action": "status_change",
@@ -9008,15 +9026,6 @@
       "remarks": "",
       "user": "BD Executive",
       "timestamp": "2026-07-02T09:59:37.610Z"
-    },
-    {
-      "inquiryId": "INQ-0002",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T09:59:14.371Z"
     }
   ]
 }
