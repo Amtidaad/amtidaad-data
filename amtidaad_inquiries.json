@@ -843,13 +843,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "Fire Extinguisher RFQ",
-      "remarks": "",
+      "remarks": "shared to coordinators",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-19T05:17:50.563Z"
+      "lastUpdatedAt": "2026-08-31T07:15:06.499Z"
     },
     {
       "id": "INQ-0166",
@@ -4527,6 +4527,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0167",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T07:15:06.499Z"
+    },
     {
       "inquiryId": "INQ-0163",
       "action": "edited",
@@ -9017,15 +9026,6 @@
       "remarks": "",
       "user": "BD Executive",
       "timestamp": "2026-07-02T10:51:32.288Z"
-    },
-    {
-      "inquiryId": "INQ-0005",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T10:42:20.491Z"
     }
   ]
 }
