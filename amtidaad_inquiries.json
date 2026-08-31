@@ -1372,13 +1372,13 @@
       "quotDate": "2026-08-21",
       "followup": "",
       "scope": "NATIONAL BONDS - 399 HILLS PARK TOWER B - INVITATION TO TENDER FOR 2026 to 2028 - SPECIALIZED SERVICES  - FIRE ALARM & FIRE FIGHTING SYSTEMS",
-      "remarks": "Quotation shared by Gary",
+      "remarks": "Quotation shared by Gary | Original price @ 127155, revised on the 31st Augusr",
       "quotNo": "9637",
-      "quotValue": 127155,
+      "quotValue": 89880,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-21T11:59:57.993Z"
+      "lastUpdatedAt": "2026-08-31T13:29:34.972Z"
     },
     {
       "id": "INQ-0143",
@@ -4550,6 +4550,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0144",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T13:29:34.973Z"
+    },
     {
       "inquiryId": "INQ-0197",
       "action": "edited",
@@ -9040,15 +9049,6 @@
       "remarks": "",
       "user": "BD Executive",
       "timestamp": "2026-07-02T11:46:49.652Z"
-    },
-    {
-      "inquiryId": "INQ-0022",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T11:45:35.486Z"
     }
   ]
 }
