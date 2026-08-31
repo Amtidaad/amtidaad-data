@@ -171,18 +171,18 @@
       "location": "",
       "service": "Other",
       "source": "Walk-in",
-      "assigned": "",
-      "status": "new",
-      "quotDate": "",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-31",
       "followup": "",
       "scope": "Fireco.Received fire extinguishers.co2 5kg 20 nos.dcp 6kg 02 nos.dcp 4kg 04 nos.dcp 4.5kg 14 nos.total 40 nos",
-      "remarks": "Assigned to Angelika",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Reshmi shared the quotation (initially assigned to Angelika)",
+      "quotNo": "9687",
+      "quotValue": 2929.5,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-31T07:25:44.169Z"
+      "lastUpdatedAt": "2026-08-31T12:31:07.856Z"
     },
     {
       "id": "INQ-0196",
@@ -4550,6 +4550,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0197",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T12:31:07.856Z"
+    },
+    {
+      "inquiryId": "INQ-0197",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T12:31:07.856Z"
+    },
     {
       "inquiryId": "INQ-0204",
       "action": "created",
@@ -9031,24 +9049,6 @@
       "remarks": "",
       "user": "BD Executive",
       "timestamp": "2026-07-02T11:42:51.494Z"
-    },
-    {
-      "inquiryId": "INQ-0020",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T11:41:07.858Z"
-    },
-    {
-      "inquiryId": "INQ-0019",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T11:39:52.346Z"
     }
   ]
 }
