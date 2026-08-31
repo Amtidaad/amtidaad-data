@@ -2656,17 +2656,17 @@
       "service": "FM200 / Clean Agent",
       "source": "",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-08-06",
       "followup": "",
       "scope": "Supply FM 200 system (256.49m2)\nNOVEC System  (256.49m2)",
-      "remarks": "",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "shared by Gary",
+      "quotNo": "9525",
+      "quotValue": 13062,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-28T05:06:53.362Z"
+      "lastUpdatedAt": "2026-08-31T06:04:29.287Z"
     },
     {
       "id": "INQ-0085",
@@ -4527,6 +4527,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0086",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T06:04:29.287Z"
+    },
+    {
+      "inquiryId": "INQ-0086",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T06:04:29.287Z"
+    },
     {
       "inquiryId": "INQ-0084",
       "action": "edited",
