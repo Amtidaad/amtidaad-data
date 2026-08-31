@@ -1092,17 +1092,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "GROSVENOR BUSINESS TOWER - REQUEST FOR PROPOSAL - FIRE FIGHTING AND CENTRAL BATTERY SYSTEM RECTIFICATION",
-      "remarks": "Inquiry forwarded by Shamsa",
+      "remarks": "Inquiry forwarded by Shamsa /not quoted from our end",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-14T06:49:05.922Z"
+      "lastUpdatedAt": "2026-08-31T06:15:58.916Z"
     },
     {
       "id": "INQ-0154",
@@ -4527,6 +4527,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0155",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T06:15:58.916Z"
+    },
+    {
+      "inquiryId": "INQ-0155",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T06:15:58.916Z"
+    },
     {
       "inquiryId": "INQ-0114",
       "action": "edited",
