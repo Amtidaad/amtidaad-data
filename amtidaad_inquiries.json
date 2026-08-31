@@ -176,13 +176,13 @@
       "quotDate": "2026-08-31",
       "followup": "",
       "scope": "Fireco.Received fire extinguishers.co2 5kg 20 nos.dcp 6kg 02 nos.dcp 4kg 04 nos.dcp 4.5kg 14 nos.total 40 nos",
-      "remarks": "Reshmi shared the quotation (initially assigned to Angelika)",
+      "remarks": "Reshmi shared the quotation (initially assigned to Angelika)/ revised quotation shared on 31 Aug",
       "quotNo": "9687",
-      "quotValue": 2929.5,
+      "quotValue": 1768.2,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-31T12:31:07.856Z"
+      "lastUpdatedAt": "2026-08-31T13:20:27.568Z"
     },
     {
       "id": "INQ-0196",
@@ -4550,6 +4550,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0197",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T13:20:27.568Z"
+    },
     {
       "inquiryId": "INQ-0197",
       "action": "status_change",
@@ -9040,15 +9049,6 @@
       "remarks": "",
       "user": "BD Executive",
       "timestamp": "2026-07-02T11:45:35.486Z"
-    },
-    {
-      "inquiryId": "INQ-0021",
-      "action": "created",
-      "from": null,
-      "to": "hold",
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T11:42:51.494Z"
     }
   ]
 }
