@@ -1069,17 +1069,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "100044474_AAMNA",
-      "remarks": "",
+      "remarks": "not quoted from our end",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-14T06:52:02.116Z"
+      "lastUpdatedAt": "2026-08-31T06:16:42.854Z"
     },
     {
       "id": "INQ-0155",
@@ -4527,6 +4527,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0156",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T06:16:42.854Z"
+    },
+    {
+      "inquiryId": "INQ-0156",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T06:16:42.854Z"
+    },
     {
       "inquiryId": "INQ-0155",
       "action": "status_change",
