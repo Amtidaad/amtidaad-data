@@ -2679,17 +2679,17 @@
       "service": "Other",
       "source": "",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "ENQUIRY-Consumable Stores-000355",
-      "remarks": "",
+      "remarks": "Did not quoted from our end",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-28T05:05:35.666Z"
+      "lastUpdatedAt": "2026-08-31T06:02:05.054Z"
     },
     {
       "id": "INQ-0084",
@@ -4527,6 +4527,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0085",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T06:02:05.054Z"
+    },
+    {
+      "inquiryId": "INQ-0085",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T06:02:05.054Z"
+    },
     {
       "inquiryId": "INQ-0076",
       "action": "status_change",
