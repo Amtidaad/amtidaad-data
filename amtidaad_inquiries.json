@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0203",
+      "client": "ORC - Al Obour Real Estate & Investment",
+      "project": "CLUSTER TH2 - EQUITERRA, GRAND POLO CLUB & RESORT",
+      "phone": "",
+      "email": "amira.ibrahim@orc-constructions.com",
+      "date": "2026-08-19",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-08-27",
+      "followup": "",
+      "scope": "CLUSTER TH2 - EQUITERRA, GRAND POLO CLUB & RESORT - FITOUT",
+      "remarks": "Quotation shared by DGM",
+      "quotNo": "9442",
+      "quotValue": 1579146,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-31T05:58:34.026Z"
+    },
+    {
       "id": "INQ-0202",
       "client": "Kaizen Asset Management",
       "project": "Vitality Residences",
@@ -4504,6 +4527,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0203",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T05:58:34.026Z"
+    },
     {
       "inquiryId": "INQ-0202",
       "action": "created",
