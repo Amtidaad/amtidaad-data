@@ -659,13 +659,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "TYCO Sprinkler / Request for Quotation – Original TYCO Fire Sprinklers",
-      "remarks": "",
+      "remarks": "shared the inquiry to both coordinators",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-20T05:34:26.332Z"
+      "lastUpdatedAt": "2026-08-31T07:19:24.578Z"
     },
     {
       "id": "INQ-0174",
@@ -4527,6 +4527,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0175",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T07:19:24.578Z"
+    },
     {
       "inquiryId": "INQ-0168",
       "action": "edited",
@@ -9017,15 +9026,6 @@
       "remarks": "",
       "user": "BD Executive",
       "timestamp": "2026-07-02T10:54:10.612Z"
-    },
-    {
-      "inquiryId": "INQ-0010",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T10:54:04.662Z"
     }
   ]
 }
