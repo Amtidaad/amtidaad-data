@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0202",
+      "client": "Kaizen Asset Management",
+      "project": "Vitality Residences",
+      "phone": "",
+      "email": "procurement@kaizenams.com",
+      "date": "2026-08-27",
+      "location": "Jumeirah Village Circle",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "RFP Vitality-Kaizen Asset Management Services : Tendering Invitation of Fire Fighting Maintenance Services AMC for the Project Vitality Residences Managed by Kaizen Owners Association Management Services LLC",
+      "remarks": "Forwarded to Faizan",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-31T05:51:54.164Z"
+    },
+    {
       "id": "INQ-0201",
       "client": "Fireco Technical Services LLC",
       "project": "",
@@ -4481,6 +4504,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0202",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T05:51:54.164Z"
+    },
     {
       "inquiryId": "INQ-0201",
       "action": "created",
