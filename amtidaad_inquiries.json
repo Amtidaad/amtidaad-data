@@ -2104,17 +2104,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "Request for Quotation - REF: (RNO-1RFQ007828) ( Alarm Smoke Automatic)",
-      "remarks": "",
+      "remarks": "did not quoted from our end",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-03T05:20:02.852Z"
+      "lastUpdatedAt": "2026-08-31T06:07:46.804Z"
     },
     {
       "id": "INQ-0109",
@@ -4527,6 +4527,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0110",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T06:07:46.804Z"
+    },
+    {
+      "inquiryId": "INQ-0110",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T06:07:46.804Z"
+    },
     {
       "inquiryId": "INQ-0108",
       "action": "status_change",
