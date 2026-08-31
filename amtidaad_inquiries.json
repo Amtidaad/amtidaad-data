@@ -1023,17 +1023,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "RFQ - Capacitors Replacement_DUBA46241658",
-      "remarks": "",
+      "remarks": "not quoted from our end",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-14T06:58:19.426Z"
+      "lastUpdatedAt": "2026-08-31T06:17:21.718Z"
     },
     {
       "id": "INQ-0157",
@@ -4527,6 +4527,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0158",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T06:17:21.718Z"
+    },
+    {
+      "inquiryId": "INQ-0158",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T06:17:21.718Z"
+    },
     {
       "inquiryId": "INQ-0156",
       "action": "status_change",
