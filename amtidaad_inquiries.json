@@ -2886,17 +2886,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "Replacement of Old and Damaged Fire Fighting Equipment in Panorama, The Greens a )",
-      "remarks": "Assigned to Reshmi",
+      "remarks": "Assigned to Reshmi - did not quoted from our end",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-24T10:15:18.939Z"
+      "lastUpdatedAt": "2026-08-31T06:00:47.124Z"
     },
     {
       "id": "INQ-0075",
@@ -4527,6 +4527,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0076",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T06:00:47.124Z"
+    },
+    {
+      "inquiryId": "INQ-0076",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T06:00:47.124Z"
+    },
     {
       "inquiryId": "INQ-0203",
       "action": "created",
