@@ -176,13 +176,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "RFQ-396 For AGDA Fire Fighting and Fire Alarm System",
-      "remarks": "",
+      "remarks": "shared to both coordinators",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-27T08:29:58.082Z"
+      "lastUpdatedAt": "2026-08-31T07:25:31.556Z"
     },
     {
       "id": "INQ-0195",
@@ -4527,6 +4527,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0196",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T07:25:31.556Z"
+    },
     {
       "inquiryId": "INQ-0192",
       "action": "edited",
@@ -9014,15 +9023,6 @@
       "action": "status_change",
       "from": "new",
       "to": "quotation",
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T10:59:07.044Z"
-    },
-    {
-      "inquiryId": "INQ-0011",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "BD Executive",
       "timestamp": "2026-07-02T10:59:07.044Z"
