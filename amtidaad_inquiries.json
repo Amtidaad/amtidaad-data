@@ -1736,17 +1736,17 @@
       "service": "Other",
       "source": "",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "Action Required: You are invited to participate in Tender ECMOANEG-5000451-2 ( ECMOAPR-5004164-CBS Upgradation at Zanzabeel at Old Town B, Downtown. For site v )",
-      "remarks": "",
+      "remarks": "not quoted from our end - needs proper checking/survey from Ops",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-07T12:30:01.694Z"
+      "lastUpdatedAt": "2026-08-31T06:41:43.519Z"
     },
     {
       "id": "INQ-0125",
@@ -4527,6 +4527,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0126",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T06:41:43.519Z"
+    },
+    {
+      "inquiryId": "INQ-0126",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T06:41:43.519Z"
+    },
     {
       "inquiryId": "INQ-0114",
       "action": "status_change",
@@ -9008,24 +9026,6 @@
       "remarks": "",
       "user": "BD Executive",
       "timestamp": "2026-07-02T10:34:55.038Z"
-    },
-    {
-      "inquiryId": "INQ-0006",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T10:33:19.865Z"
-    },
-    {
-      "inquiryId": "INQ-0005",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T10:21:18.699Z"
     }
   ]
 }
