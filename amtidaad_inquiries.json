@@ -540,17 +540,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "RFP_Request for Supplier Proposal –  Rectification of Fire Alarm System",
-      "remarks": "",
+      "remarks": "Not quoted from our end",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-21T13:33:34.673Z"
+      "lastUpdatedAt": "2026-08-31T06:32:11.394Z"
     },
     {
       "id": "INQ-0179",
@@ -4527,6 +4527,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0180",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T06:32:11.394Z"
+    },
+    {
+      "inquiryId": "INQ-0180",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T06:32:11.394Z"
+    },
     {
       "inquiryId": "INQ-0160",
       "action": "status_change",
@@ -9008,24 +9026,6 @@
       "remarks": "",
       "user": "BD Executive",
       "timestamp": "2026-07-02T10:03:23.464Z"
-    },
-    {
-      "inquiryId": "INQ-0002",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T10:02:22.683Z"
-    },
-    {
-      "inquiryId": "INQ-0002",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T09:59:37.610Z"
     }
   ]
 }
