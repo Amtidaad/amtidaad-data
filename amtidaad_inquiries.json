@@ -2587,17 +2587,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "Equipment Rental FM 200 | RFQ THN 1016",
-      "remarks": "",
+      "remarks": "did not quoted from our end",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-28T06:59:45.353Z"
+      "lastUpdatedAt": "2026-08-31T06:05:33.130Z"
     },
     {
       "id": "INQ-0088",
@@ -4527,6 +4527,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0089",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T06:05:33.130Z"
+    },
+    {
+      "inquiryId": "INQ-0089",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T06:05:33.130Z"
+    },
     {
       "inquiryId": "INQ-0086",
       "action": "status_change",
