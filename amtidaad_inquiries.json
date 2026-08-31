@@ -820,13 +820,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "ENS SCHOOL FM200 CYLINDER",
-      "remarks": "",
+      "remarks": "quotation assigned to Angelika - also shared with Reshmi",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-19T05:21:00.178Z"
+      "lastUpdatedAt": "2026-08-31T07:18:33.878Z"
     },
     {
       "id": "INQ-0167",
@@ -4527,6 +4527,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0168",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T07:18:33.878Z"
+    },
     {
       "inquiryId": "INQ-0167",
       "action": "edited",
@@ -9017,15 +9026,6 @@
       "remarks": "",
       "user": "BD Executive",
       "timestamp": "2026-07-02T10:54:04.662Z"
-    },
-    {
-      "inquiryId": "INQ-0009",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T10:51:32.288Z"
     }
   ]
 }
