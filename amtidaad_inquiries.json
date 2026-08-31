@@ -2702,17 +2702,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "ECMOAPR-5000170 - RFQ - Firefighting pipeline ZCV replacement work",
-      "remarks": "Assigned to Gary",
+      "remarks": "Assigned to Gary - not quoted from our end",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-31T06:02:14.476Z"
+      "lastUpdatedAt": "2026-08-31T06:44:42.005Z"
     },
     {
       "id": "INQ-0083",
@@ -4527,6 +4527,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0084",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T06:44:42.005Z"
+    },
+    {
+      "inquiryId": "INQ-0084",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T06:44:42.005Z"
+    },
     {
       "inquiryId": "INQ-0137",
       "action": "status_change",
@@ -9008,24 +9026,6 @@
       "remarks": "",
       "user": "BD Executive",
       "timestamp": "2026-07-02T10:40:29.999Z"
-    },
-    {
-      "inquiryId": "INQ-0008",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T10:40:29.999Z"
-    },
-    {
-      "inquiryId": "INQ-0008",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T10:40:21.228Z"
     }
   ]
 }
