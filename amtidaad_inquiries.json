@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0200",
+      "client": "Prioritize General Trading LLC",
+      "project": "",
+      "phone": "",
+      "email": "jawad@pgtae.com",
+      "date": "2026-08-29",
+      "location": "",
+      "service": "",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "URGENT RFQ – Apollo Smoke Detector ORB-OP-52028-APO",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-31T05:48:33.022Z"
+    },
+    {
       "id": "INQ-0199",
       "client": "Al Dhanim Fire Equipment",
       "project": "",
@@ -4435,6 +4458,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0200",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T05:48:33.022Z"
+    },
     {
       "inquiryId": "INQ-0199",
       "action": "created",
