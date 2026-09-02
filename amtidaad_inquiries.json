@@ -149,17 +149,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-09-01",
       "followup": "",
       "scope": "RFQ-UNI-D-R0871-26 battery charger",
-      "remarks": "shared to both coordinators",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quotation done and shared by Reshmi",
+      "quotNo": "9745",
+      "quotValue": 5985,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-31T07:26:28.908Z"
+      "lastUpdatedAt": "2026-09-02T04:51:43.426Z"
     },
     {
       "id": "INQ-0197",
@@ -4550,6 +4550,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0198",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-02T04:51:43.426Z"
+    },
+    {
+      "inquiryId": "INQ-0198",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-02T04:51:43.426Z"
+    },
     {
       "inquiryId": "INQ-0144",
       "action": "edited",
@@ -9031,24 +9049,6 @@
       "remarks": "",
       "user": "BD Executive",
       "timestamp": "2026-07-02T11:48:42.310Z"
-    },
-    {
-      "inquiryId": "INQ-0024",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T11:47:49.130Z"
-    },
-    {
-      "inquiryId": "INQ-0023",
-      "action": "created",
-      "from": null,
-      "to": "awarded",
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T11:46:49.652Z"
     }
   ]
 }
