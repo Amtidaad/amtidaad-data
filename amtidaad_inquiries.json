@@ -264,17 +264,17 @@
       "service": "Other",
       "source": "Walk-in",
       "assigned": "Estimation Team",
-      "status": "quotation",
+      "status": "awarded",
       "quotDate": "2026-08-31",
       "followup": "",
       "scope": "Fireco.Received fire extinguishers.co2 5kg 20 nos.dcp 6kg 02 nos.dcp 4kg 04 nos.dcp 4.5kg 14 nos.total 40 nos",
-      "remarks": "Reshmi shared the quotation (initially assigned to Angelika)/ revised quotation shared on 31 Aug",
+      "remarks": "Reshmi shared the quotation (initially assigned to Angelika)/ revised quotation shared on 31 Aug/ LPO  1102020 received on 2nd Sep",
       "quotNo": "9687",
       "quotValue": 1768.2,
-      "securedValue": null,
+      "securedValue": 1768.2,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-31T13:20:27.568Z"
+      "lastUpdatedAt": "2026-09-02T10:01:48.166Z"
     },
     {
       "id": "INQ-0196",
@@ -4642,6 +4642,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0197",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-02T10:01:48.167Z"
+    },
+    {
+      "inquiryId": "INQ-0197",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-02T10:01:48.166Z"
+    },
     {
       "inquiryId": "INQ-0204",
       "action": "edited",
@@ -9123,24 +9141,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-06T13:27:18.487Z"
-    },
-    {
-      "inquiryId": "INQ-0035",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-06T12:58:45.849Z"
-    },
-    {
-      "inquiryId": "INQ-0036",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-06T12:58:33.984Z"
     }
   ]
 }
