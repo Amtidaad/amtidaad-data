@@ -57,17 +57,17 @@
       "service": "AMC - Full Package",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "quotation",
+      "status": "approved",
       "quotDate": "2026-09-01",
       "followup": "",
       "scope": "AMC Quotation- Rivoli Eye Zone- Harbour View, Tower 1",
-      "remarks": "Quotation done and shared by Reshmi",
+      "remarks": "Quotation done and shared by Reshmi/ Email Approval given by client",
       "quotNo": "9741",
       "quotValue": 3675,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-02T04:53:54.576Z"
+      "lastUpdatedAt": "2026-09-02T09:53:42.489Z"
     },
     {
       "id": "INQ-0204",
@@ -4620,6 +4620,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0205",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "approved",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-02T09:53:42.489Z"
+    },
+    {
+      "inquiryId": "INQ-0205",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-02T09:53:42.489Z"
+    },
+    {
       "inquiryId": "INQ-0204",
       "action": "status_change",
       "from": "quotation",
@@ -9100,24 +9118,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-06T07:41:42.960Z"
-    },
-    {
-      "inquiryId": "INQ-0032",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-06T07:40:16.912Z"
-    },
-    {
-      "inquiryId": "INQ-0031",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-06T07:37:32.206Z"
     }
   ]
 }
