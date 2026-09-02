@@ -113,7 +113,7 @@
       "securedValue": 1181.25,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-02T10:00:11.601Z"
+      "lastUpdatedAt": "2026-09-02T10:00:19.972Z"
     },
     {
       "id": "INQ-0203",
@@ -4649,6 +4649,15 @@
       "to": null,
       "remarks": "",
       "user": "Admin",
+      "timestamp": "2026-09-02T10:00:19.972Z"
+    },
+    {
+      "inquiryId": "INQ-0204",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
       "timestamp": "2026-09-02T10:00:11.601Z"
     },
     {
@@ -9132,15 +9141,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-06T12:58:33.984Z"
-    },
-    {
-      "inquiryId": "INQ-0035",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-06T12:56:28.427Z"
     }
   ]
 }
