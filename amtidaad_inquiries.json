@@ -80,17 +80,17 @@
       "service": "Fire Extinguisher Refilling",
       "source": "",
       "assigned": "Estimation Team",
-      "status": "quotation",
+      "status": "awarded",
       "quotDate": "2026-08-31",
       "followup": "",
       "scope": "Re: Quotation for Refilling (FM200)",
-      "remarks": "quotation shared by Reshmi",
+      "remarks": "quotation shared by Reshmi./ LPO 26/24 received on 02 Sep",
       "quotNo": "9696",
       "quotValue": 1181.25,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-31T11:32:33.038Z"
+      "lastUpdatedAt": "2026-09-02T09:52:05.971Z"
     },
     {
       "id": "INQ-0203",
@@ -4620,6 +4620,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0204",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-02T09:52:05.971Z"
+    },
+    {
+      "inquiryId": "INQ-0204",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-02T09:52:05.971Z"
+    },
+    {
       "inquiryId": "INQ-0207",
       "action": "created",
       "from": null,
@@ -9100,24 +9118,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-06T07:37:32.206Z"
-    },
-    {
-      "inquiryId": "INQ-0030",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-06T07:35:00.924Z"
-    },
-    {
-      "inquiryId": "INQ-0029",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-06T05:01:01.847Z"
     }
   ]
 }
