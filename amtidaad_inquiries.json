@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0205",
+      "client": "Magrabi Optical Company",
+      "project": "Rivoli Eyezone  - Harbour View Tower 1",
+      "phone": "",
+      "email": "helpdesk1@rfmglobal.com",
+      "date": "2026-09-02",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-01",
+      "followup": "",
+      "scope": "AMC Quotation- Rivoli Eye Zone- Harbour View, Tower 1",
+      "remarks": "Quotation done and shared by Reshmi",
+      "quotNo": "9741",
+      "quotValue": 3675,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-02T04:53:54.576Z"
+    },
+    {
       "id": "INQ-0204",
       "client": "xpertcare Technical services",
       "project": "",
@@ -4551,6 +4574,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0205",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-02T04:53:54.576Z"
+    },
+    {
       "inquiryId": "INQ-0198",
       "action": "status_change",
       "from": "new",
@@ -9040,15 +9072,6 @@
       "remarks": "",
       "user": "BD Executive",
       "timestamp": "2026-07-02T11:49:31.704Z"
-    },
-    {
-      "inquiryId": "INQ-0025",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T11:48:42.310Z"
     }
   ]
 }
