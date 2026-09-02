@@ -126,17 +126,17 @@
       "service": "FM200 / Clean Agent",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-09-02",
       "followup": "",
       "scope": "Request for Best Proposal – FM-200 Refilling",
-      "remarks": "Assigned to Reshmi",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quotation done & shared by Reshmi",
+      "quotNo": "9750",
+      "quotValue": 29169,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-31T07:28:09.208Z"
+      "lastUpdatedAt": "2026-09-02T06:33:32.851Z"
     },
     {
       "id": "INQ-0200",
@@ -4596,6 +4596,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0201",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-02T06:33:32.851Z"
+    },
+    {
+      "inquiryId": "INQ-0201",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-02T06:33:32.851Z"
+    },
     {
       "inquiryId": "INQ-0206",
       "action": "created",
@@ -9077,24 +9095,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-03T13:16:43.999Z"
-    },
-    {
-      "inquiryId": "INQ-0022",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T12:59:22.942Z"
-    },
-    {
-      "inquiryId": "INQ-0027",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T12:11:48.937Z"
     }
   ]
 }
