@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0207",
+      "client": "xpertcare Technical services",
+      "project": "",
+      "phone": "",
+      "email": "info@xpertcarets.com",
+      "date": "2026-09-02",
+      "location": "",
+      "service": "Fire Extinguisher Refilling",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-02",
+      "followup": "",
+      "scope": "Re: Quotation for Refilling",
+      "remarks": "Quotation done and shared by Reshmi",
+      "quotNo": "9751",
+      "quotValue": 918.75,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-02T08:37:54.656Z"
+    },
+    {
       "id": "INQ-0206",
       "client": "Black Mustache Gentgs Salon",
       "project": "Creekside 18 Podium 115-0 - Black Mustache",
@@ -4597,6 +4620,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0207",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-02T08:37:54.656Z"
+    },
+    {
       "inquiryId": "INQ-0201",
       "action": "status_change",
       "from": "new",
@@ -9086,15 +9118,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-06T05:01:01.847Z"
-    },
-    {
-      "inquiryId": "INQ-0028",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-03T13:16:43.999Z"
     }
   ]
 }
