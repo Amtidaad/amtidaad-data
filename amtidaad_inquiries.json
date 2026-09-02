@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0206",
+      "client": "Black Mustache Gentgs Salon",
+      "project": "Creekside 18 Podium 115-0 - Black Mustache",
+      "phone": "",
+      "email": "tiffany.flowers@outlook.com",
+      "date": "2026-09-01",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-01",
+      "followup": "",
+      "scope": "Creekside 18 Podium 115-0 Black Mustache Gents Salon - AMC Renewal Proposal",
+      "remarks": "Quotation done and shared by Gary",
+      "quotNo": "9738",
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-02T04:59:52.464Z"
+    },
+    {
       "id": "INQ-0205",
       "client": "Magrabi Optical Company",
       "project": "Rivoli Eyezone  - Harbour View Tower 1",
@@ -4574,6 +4597,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0206",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-02T04:59:52.464Z"
+    },
+    {
       "inquiryId": "INQ-0205",
       "action": "created",
       "from": null,
@@ -9063,15 +9095,6 @@
       "remarks": "",
       "user": "BD Executive",
       "timestamp": "2026-07-02T12:11:48.937Z"
-    },
-    {
-      "inquiryId": "INQ-0026",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-07-02T11:49:31.704Z"
     }
   ]
 }
