@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0208",
+      "client": "Guard Master Safety Systems LLC",
+      "project": "rasulkhor",
+      "phone": "",
+      "email": "kumar@guardmaster.ae",
+      "date": "2026-09-02",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-02",
+      "followup": "",
+      "scope": "FM200 Quotation",
+      "remarks": "Quotation shared by Faizan",
+      "quotNo": "9752",
+      "quotValue": 9628.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-02T09:59:42.438Z"
+    },
+    {
       "id": "INQ-0207",
       "client": "xpertcare Technical services",
       "project": "",
@@ -4620,6 +4643,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0208",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-02T09:59:42.438Z"
+    },
+    {
       "inquiryId": "INQ-0205",
       "action": "status_change",
       "from": "quotation",
@@ -9109,15 +9141,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-06T12:07:40.132Z"
-    },
-    {
-      "inquiryId": "INQ-0033",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-06T07:41:42.960Z"
     }
   ]
 }
