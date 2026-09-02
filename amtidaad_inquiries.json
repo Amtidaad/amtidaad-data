@@ -363,10 +363,10 @@
       "remarks": "Assigned to Angelika / revised LPO shared by Reshmi on 2 Sep",
       "quotNo": "9678",
       "quotValue": 4095,
-      "securedValue": 4567.5,
+      "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-02T11:22:10.885Z"
+      "lastUpdatedAt": "2026-09-02T11:37:50.513Z"
     },
     {
       "id": "INQ-0192",
@@ -4642,6 +4642,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0193",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-02T11:37:50.513Z"
+    },
     {
       "inquiryId": "INQ-0193",
       "action": "edited",
@@ -9132,15 +9141,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-07T06:46:48.010Z"
-    },
-    {
-      "inquiryId": "INQ-0038",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-06T13:36:33.823Z"
     }
   ]
 }
