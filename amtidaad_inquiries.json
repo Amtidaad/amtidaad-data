@@ -360,13 +360,13 @@
       "quotDate": "2026-08-26",
       "followup": "",
       "scope": "ENQUIRY - FIKE FM 200 GAS CARTRIDGE ACTUATOR KIT - URGENT",
-      "remarks": "Assigned to Angelika / revised LPO shared by Reshmi on 2 Sep",
+      "remarks": "Assigned to Angelika / revised quote shared by Reshmi on 2 Sep",
       "quotNo": "9678",
-      "quotValue": 4095,
+      "quotValue": 3360,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-02T11:37:50.513Z"
+      "lastUpdatedAt": "2026-09-02T11:50:38.279Z"
     },
     {
       "id": "INQ-0192",
@@ -4642,6 +4642,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0193",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-02T11:50:38.280Z"
+    },
     {
       "inquiryId": "INQ-0193",
       "action": "edited",
@@ -9129,15 +9138,6 @@
       "action": "status_change",
       "from": "new",
       "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-07T06:46:48.010Z"
-    },
-    {
-      "inquiryId": "INQ-0032",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-07T06:46:48.010Z"
