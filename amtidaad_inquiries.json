@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0210",
+      "client": "Al Reyam Co",
+      "project": "",
+      "phone": "",
+      "email": "ali_fiqar62@yahoo.com",
+      "date": "2026-09-02",
+      "location": "Iraq",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Fire Fighting material",
+      "remarks": "Sent to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-03T05:22:02.977Z"
+    },
+    {
       "id": "INQ-0209",
       "client": "Techno Team",
       "project": "Server Room",
@@ -4666,6 +4689,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0210",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-03T05:22:02.977Z"
+    },
+    {
       "inquiryId": "INQ-0209",
       "action": "created",
       "from": null,
@@ -9152,15 +9184,6 @@
       "action": "status_change",
       "from": "new",
       "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-07T10:59:20.195Z"
-    },
-    {
-      "inquiryId": "INQ-0031",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-07T10:59:20.195Z"
