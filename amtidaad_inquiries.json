@@ -1000,17 +1000,17 @@
       "service": "FM200 / Clean Agent",
       "source": "",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-09-03",
       "followup": "",
       "scope": "ENS SCHOOL FM200 CYLINDER",
-      "remarks": "quotation assigned to Angelika - also shared with Reshmi",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "quotation assigned to Angelika - also shared with Reshmi/ quotation done and shared by Angelika",
+      "quotNo": "9615",
+      "quotValue": 19808.04,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-31T07:18:33.878Z"
+      "lastUpdatedAt": "2026-09-03T06:19:07.030Z"
     },
     {
       "id": "INQ-0167",
@@ -4711,6 +4711,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0168",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-03T06:19:07.030Z"
+    },
+    {
+      "inquiryId": "INQ-0168",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-03T06:19:07.030Z"
+    },
     {
       "inquiryId": "INQ-0211",
       "action": "created",
@@ -9192,24 +9210,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-08T07:28:06.785Z"
-    },
-    {
-      "inquiryId": "INQ-0040",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-08T06:47:44.461Z"
-    },
-    {
-      "inquiryId": "INQ-0039",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-08T05:40:56.617Z"
     }
   ]
 }
