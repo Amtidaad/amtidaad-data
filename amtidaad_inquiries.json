@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0213",
+      "client": "Cash Sales",
+      "project": "Atlantic Tower 1 - Unit 205",
+      "phone": "",
+      "email": "samueleserra@libero.ut",
+      "date": "2026-08-25",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "2026-08-25",
+      "followup": "",
+      "scope": "",
+      "remarks": "quoted by Faizan / Email confirmation received from client",
+      "quotNo": "9676",
+      "quotValue": 3097.5,
+      "securedValue": 3097.5,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-03T10:18:28.995Z"
+    },
+    {
       "id": "INQ-0212",
       "client": "Hupan Restaurant",
       "project": "Hu Pan Restaurant Lounge - Creek Branch",
@@ -4735,6 +4758,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0213",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-03T10:18:28.995Z"
+    },
+    {
       "inquiryId": "INQ-0212",
       "action": "created",
       "from": null,
@@ -9224,15 +9256,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-08T11:06:57.078Z"
-    },
-    {
-      "inquiryId": "INQ-0044",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-08T11:05:08.356Z"
     }
   ]
 }
