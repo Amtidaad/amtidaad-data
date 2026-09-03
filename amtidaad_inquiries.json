@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0211",
+      "client": "Gallega",
+      "project": "",
+      "phone": "",
+      "email": "derik.v@gallega.com",
+      "date": "2026-09-03",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Request for Quotation – Fire Extinguishers DCP",
+      "remarks": "Shared to Faizan",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-03T06:17:54.102Z"
+    },
+    {
       "id": "INQ-0210",
       "client": "Al Reyam Co",
       "project": "",
@@ -4689,6 +4712,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0211",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-03T06:17:54.102Z"
+    },
+    {
       "inquiryId": "INQ-0210",
       "action": "created",
       "from": null,
@@ -9178,15 +9210,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-08T05:40:56.617Z"
-    },
-    {
-      "inquiryId": "INQ-0031",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-07T10:59:20.195Z"
     }
   ]
 }
