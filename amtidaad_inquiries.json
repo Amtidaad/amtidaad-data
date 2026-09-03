@@ -173,16 +173,16 @@
       "source": "",
       "assigned": "Estimation Team",
       "status": "quotation",
-      "quotDate": "2026-09-01",
+      "quotDate": "2026-09-03",
       "followup": "",
       "scope": "Creekside 18 Podium 115-0 Black Mustache Gents Salon - AMC Renewal Proposal",
       "remarks": "Quotation done and shared by Gary",
       "quotNo": "9738",
-      "quotValue": null,
+      "quotValue": 2625,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-02T04:59:52.464Z"
+      "lastUpdatedAt": "2026-09-03T10:24:55.227Z"
     },
     {
       "id": "INQ-0205",
@@ -4758,6 +4758,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0206",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-03T10:24:55.227Z"
+    },
+    {
       "inquiryId": "INQ-0213",
       "action": "created",
       "from": null,
@@ -9247,15 +9256,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-08T11:08:24.990Z"
-    },
-    {
-      "inquiryId": "INQ-0045",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-08T11:06:57.078Z"
     }
   ]
 }
