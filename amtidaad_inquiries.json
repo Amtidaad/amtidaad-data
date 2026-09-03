@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0214",
+      "client": "ADT Trades",
+      "project": "Labor Camp 24B",
+      "phone": "",
+      "email": "sales@adttrades.com",
+      "date": "2026-09-03",
+      "location": "Jebel Ali",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "RFQ — Fire Alarm & Firefighting Materials_Gent",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-03T12:29:04.605Z"
+    },
+    {
       "id": "INQ-0213",
       "client": "Cash Sales",
       "project": "Atlantic Tower 1 - Unit 205",
@@ -4758,6 +4781,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0214",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-03T12:29:04.605Z"
+    },
+    {
       "inquiryId": "INQ-0212",
       "action": "edited",
       "from": null,
@@ -9247,15 +9279,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-08T11:53:08.492Z"
-    },
-    {
-      "inquiryId": "INQ-0049",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-08T11:11:38.306Z"
     }
   ]
 }
