@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0212",
+      "client": "Hupan Restaurant",
+      "project": "Hu Pan Restaurant Lounge - Creek Branch",
+      "phone": "",
+      "email": "hupan@yingji.me",
+      "date": "2026-09-01",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-03",
+      "followup": "",
+      "scope": "Request for Replacement of Smoke Detector and FACP Fault Rectification",
+      "remarks": "Quoted by Angelika",
+      "quotNo": "9742",
+      "quotValue": 1858.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-03T08:11:05.524Z"
+    },
+    {
       "id": "INQ-0211",
       "client": "Gallega",
       "project": "",
@@ -4712,6 +4735,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0212",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-03T08:11:05.524Z"
+    },
+    {
       "inquiryId": "INQ-0087",
       "action": "status_change",
       "from": "lost",
@@ -9201,15 +9233,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-08T11:05:08.356Z"
-    },
-    {
-      "inquiryId": "INQ-0043",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-08T11:02:58.557Z"
     }
   ]
 }
