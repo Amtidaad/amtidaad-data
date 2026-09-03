@@ -2817,17 +2817,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "lost",
+      "status": "new",
       "quotDate": "",
       "followup": "",
-      "scope": "Tender ECMOANEG-5000833 ( Replacement of Old and Damaged Fire Fighting Equipment in Panorama, The Greens a )\n\n\nSummarize this email",
-      "remarks": "did not quoted from our end",
+      "scope": "Tender ECMOANEG-5000833 ( Replacement of Old and Damaged Fire Fighting Equipment in Panorama, The Greens a )",
+      "remarks": "Extended until 7th Sept",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-31T06:06:13.770Z"
+      "lastUpdatedAt": "2026-09-03T06:27:50.452Z"
     },
     {
       "id": "INQ-0086",
@@ -4711,6 +4711,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0087",
+      "action": "status_change",
+      "from": "lost",
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-03T06:27:50.452Z"
+    },
+    {
+      "inquiryId": "INQ-0087",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-03T06:27:50.452Z"
+    },
     {
       "inquiryId": "INQ-0168",
       "action": "status_change",
@@ -9192,24 +9210,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-08T11:02:58.557Z"
-    },
-    {
-      "inquiryId": "INQ-0042",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-08T10:53:02.596Z"
-    },
-    {
-      "inquiryId": "INQ-0041",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-08T07:28:06.785Z"
     }
   ]
 }
