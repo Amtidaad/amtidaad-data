@@ -40,11 +40,11 @@
       "scope": "Request for Replacement of Smoke Detector and FACP Fault Rectification",
       "remarks": "Quoted by Angelika",
       "quotNo": "9742",
-      "quotValue": 1858.5,
+      "quotValue": 1732.5,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-03T08:11:05.524Z"
+      "lastUpdatedAt": "2026-09-03T12:26:56.395Z"
     },
     {
       "id": "INQ-0211",
@@ -4758,6 +4758,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0212",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-03T12:26:56.395Z"
+    },
+    {
       "inquiryId": "INQ-0087",
       "action": "status_change",
       "from": "new",
@@ -9247,15 +9256,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-08T11:11:38.306Z"
-    },
-    {
-      "inquiryId": "INQ-0048",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-08T11:10:36.301Z"
     }
   ]
 }
