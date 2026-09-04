@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0216",
+      "client": "Emaar",
+      "project": "Creek Beach Phase 4 & 5",
+      "phone": "",
+      "email": "SNadarajan@emaar.ae",
+      "date": "2026-09-01",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "2026-09-04",
+      "followup": "",
+      "scope": "Action Required: You are invited to participate in Tender ECMOANEG-5001017 ( Non-Comprehensive Annual Maintenance Contract of Central Battery System for 3 y",
+      "remarks": "quotation done and uploaded in portal by Reshmi",
+      "quotNo": "9762",
+      "quotValue": 170100,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-04T07:22:00.550Z"
+    },
+    {
       "id": "INQ-0215",
       "client": "Exotic Interior Decoration",
       "project": "Al Rostamani Wuto Service Center LLC - Tyre Service Station",
@@ -4804,6 +4827,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0216",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-04T07:22:00.550Z"
+    },
+    {
       "inquiryId": "INQ-0215",
       "action": "created",
       "from": null,
@@ -9293,15 +9325,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T07:47:52.626Z"
-    },
-    {
-      "inquiryId": "INQ-0048",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T06:22:19.442Z"
     }
   ]
 }
