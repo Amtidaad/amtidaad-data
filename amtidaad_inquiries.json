@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0215",
+      "client": "Exotic Interior Decoration",
+      "project": "Al Rostamani Wuto Service Center LLC - Tyre Service Station",
+      "phone": "",
+      "email": "estimation@exoticinteriors.me",
+      "date": "2026-09-04",
+      "location": "Al Barsha South",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-04",
+      "followup": "",
+      "scope": "Re: Al Rostamani Auto Service Center LLC - Tyre Service Station",
+      "remarks": "Quotation done and shared by Gary",
+      "quotNo": "9677",
+      "quotValue": 25782.75,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-04T06:18:46.704Z"
+    },
+    {
       "id": "INQ-0214",
       "client": "ADT Trades",
       "project": "Labor Camp 24B",
@@ -4781,6 +4804,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0215",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-04T06:18:46.704Z"
+    },
+    {
       "inquiryId": "INQ-0065",
       "action": "edited",
       "from": null,
@@ -9270,15 +9302,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T06:22:19.442Z"
-    },
-    {
-      "inquiryId": "INQ-0042",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-09T10:40:01.173Z"
     }
   ]
 }
