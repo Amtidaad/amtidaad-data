@@ -57,17 +57,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "quotation",
+      "status": "awarded",
       "quotDate": "2026-09-03",
       "followup": "",
       "scope": "Request for Replacement of Smoke Detector and FACP Fault Rectification",
-      "remarks": "Quoted by Angelika",
+      "remarks": "Quoted by Angelika/ email confirmation received",
       "quotNo": "9742",
       "quotValue": 1732.5,
-      "securedValue": null,
+      "securedValue": 1732.5,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-03T12:26:56.395Z"
+      "lastUpdatedAt": "2026-09-04T04:57:59.057Z"
     },
     {
       "id": "INQ-0211",
@@ -4781,6 +4781,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0212",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-04T04:57:59.057Z"
+    },
+    {
+      "inquiryId": "INQ-0212",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-04T04:57:59.057Z"
+    },
+    {
       "inquiryId": "INQ-0214",
       "action": "created",
       "from": null,
@@ -9261,24 +9279,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-08T12:07:58.976Z"
-    },
-    {
-      "inquiryId": "INQ-0050",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-08T11:55:23.192Z"
-    },
-    {
-      "inquiryId": "INQ-0039",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-08T11:53:08.492Z"
     }
   ]
 }
