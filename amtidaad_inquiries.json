@@ -4858,20 +4858,38 @@
       "service": "AMC - Full Package",
       "source": "",
       "assigned": "",
-      "status": "quotation",
+      "status": "lost",
       "quotDate": "2026-06-21",
       "followup": "",
       "scope": "AMC For Fire Alarm, Fire Fighting and Central Battery System, 2027-2029",
-      "remarks": "Assigned to Reshmi| Query from Iskaan  | Contact Person: Ms. Jane Dionisio | SO9214 - AED 124,740.00",
+      "remarks": "Assigned to Reshmi| Query from Iskaan  | Contact Person: Ms. Jane Dionisio | SO9214 - AED 124,740.00 | called and email several times but no answer",
       "quotNo": "9214",
       "quotValue": 124740,
       "securedValue": null,
       "createdBy": "BD Executive",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-10T11:36:09.912Z"
+      "lastUpdatedAt": "2026-09-04T08:35:48.833Z"
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0002",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-04T08:35:48.833Z"
+    },
+    {
+      "inquiryId": "INQ-0002",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-04T08:35:48.833Z"
+    },
     {
       "inquiryId": "INQ-0041",
       "action": "edited",
@@ -9353,24 +9371,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T11:06:19.321Z"
-    },
-    {
-      "inquiryId": "INQ-0054",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:05:59.566Z"
-    },
-    {
-      "inquiryId": "INQ-0048",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T10:42:41.835Z"
     }
   ]
 }
