@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0217",
+      "client": "Gallega",
+      "project": "",
+      "phone": "",
+      "email": "",
+      "date": "2026-09-04",
+      "location": "",
+      "service": "Other",
+      "source": "WhatsApp",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Nitrogen Top up",
+      "remarks": "Shared query to Faizan for assigning with coordinators",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-04T07:27:57.740Z"
+    },
+    {
       "id": "INQ-0216",
       "client": "Emaar",
       "project": "Creek Beach Phase 4 & 5",
@@ -4827,6 +4850,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0217",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-04T07:27:57.740Z"
+    },
+    {
       "inquiryId": "INQ-0216",
       "action": "status_change",
       "from": "new",
@@ -9316,15 +9348,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T08:23:07.231Z"
-    },
-    {
-      "inquiryId": "INQ-0041",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T08:22:40.459Z"
     }
   ]
 }
