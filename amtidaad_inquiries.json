@@ -11,7 +11,7 @@
       "service": "AMC - Full Package",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "quotation",
       "quotDate": "2026-09-04",
       "followup": "",
       "scope": "Action Required: You are invited to participate in Tender ECMOANEG-5001017 ( Non-Comprehensive Annual Maintenance Contract of Central Battery System for 3 y",
@@ -21,7 +21,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-04T07:22:00.550Z"
+      "lastUpdatedAt": "2026-09-04T07:22:11.068Z"
     },
     {
       "id": "INQ-0215",
@@ -4828,6 +4828,24 @@
   "auditLog": [
     {
       "inquiryId": "INQ-0216",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-04T07:22:11.068Z"
+    },
+    {
+      "inquiryId": "INQ-0216",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-04T07:22:11.068Z"
+    },
+    {
+      "inquiryId": "INQ-0216",
       "action": "created",
       "from": null,
       "to": "new",
@@ -9307,24 +9325,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T08:22:40.459Z"
-    },
-    {
-      "inquiryId": "INQ-0053",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T07:50:44.889Z"
-    },
-    {
-      "inquiryId": "INQ-0053",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T07:47:52.626Z"
     }
   ]
 }
