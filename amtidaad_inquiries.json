@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0218",
+      "client": "JDI Design and Contracting LLC",
+      "project": "Qasbah Lounge",
+      "phone": "",
+      "email": "krishna.jain@jddesign.ae",
+      "date": "2026-09-04",
+      "location": "Business Bay",
+      "service": "Other",
+      "source": "WhatsApp",
+      "assigned": "BD Executive",
+      "status": "quotation",
+      "quotDate": "2026-09-04",
+      "followup": "",
+      "scope": "New System Installation",
+      "remarks": "Quotation prepared by Gary & shared to client by Shamsa",
+      "quotNo": "9743",
+      "quotValue": 172520.25,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-04T07:40:02.166Z"
+    },
+    {
       "id": "INQ-0217",
       "client": "Gallega",
       "project": "",
@@ -4850,6 +4873,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0218",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-04T07:40:02.166Z"
+    },
+    {
       "inquiryId": "INQ-0217",
       "action": "created",
       "from": null,
@@ -9336,15 +9368,6 @@
       "action": "status_change",
       "from": "new",
       "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T08:23:07.231Z"
-    },
-    {
-      "inquiryId": "INQ-0041",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T08:23:07.231Z"
