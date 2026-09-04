@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0219",
+      "client": "Fireco Technical Services LLC",
+      "project": "",
+      "phone": "",
+      "email": "engineer5@firecots.com",
+      "date": "2026-09-04",
+      "location": "",
+      "service": "Fire Extinguisher Refilling",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Firex FM200 cylinder",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-04T12:43:34.267Z"
+    },
+    {
       "id": "INQ-0218",
       "client": "JDI Design and Contracting LLC",
       "project": "Qasbah Lounge",
@@ -4873,6 +4896,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0219",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-04T12:43:34.267Z"
+    },
+    {
       "inquiryId": "INQ-0055",
       "action": "status_change",
       "from": "quotation",
@@ -9362,15 +9394,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T11:07:04.532Z"
-    },
-    {
-      "inquiryId": "INQ-0041",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:06:49.982Z"
     }
   ]
 }
