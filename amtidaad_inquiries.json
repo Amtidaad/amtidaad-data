@@ -3991,16 +3991,16 @@
       "source": "Email",
       "assigned": "Estimation Team",
       "status": "quotation",
-      "quotDate": "2026-07-10",
+      "quotDate": "2026-09-04",
       "followup": "",
       "scope": "RFQ_UNIESTATE PRIME TOWER_RECTIFICATION OF FIRE FIGHTING",
-      "remarks": "Assigned to Reshmi | SO9362 - AED31,725.25 w/ VAT",
+      "remarks": "Assigned to Reshmi | SO9362 - AED31,725.25 w/ VAT | Revised quote shared by Reshmi",
       "quotNo": "9362",
-      "quotValue": 30675.75,
+      "quotValue": 21000,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-24T11:47:40.243Z"
+      "lastUpdatedAt": "2026-09-04T07:46:19.860Z"
     },
     {
       "id": "INQ-0040",
@@ -4872,6 +4872,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0041",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-04T07:46:19.860Z"
+    },
     {
       "inquiryId": "INQ-0193",
       "action": "status_change",
@@ -9359,15 +9368,6 @@
       "action": "status_change",
       "from": "new",
       "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T10:42:41.835Z"
-    },
-    {
-      "inquiryId": "INQ-0048",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T10:42:41.835Z"
