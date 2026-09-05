@@ -195,17 +195,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-09-05",
       "followup": "",
       "scope": "Request for Quotation – Fire Extinguishers DCP",
-      "remarks": "Shared to Faizan",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quoted by Angelika",
+      "quotNo": "9766",
+      "quotValue": 4557,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-03T06:17:54.102Z"
+      "lastUpdatedAt": "2026-09-05T06:24:56.272Z"
     },
     {
       "id": "INQ-0210",
@@ -4896,6 +4896,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0211",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-05T06:24:56.272Z"
+    },
+    {
+      "inquiryId": "INQ-0211",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-05T06:24:56.272Z"
+    },
+    {
       "inquiryId": "INQ-0166",
       "action": "edited",
       "from": null,
@@ -9376,24 +9394,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T11:07:52.136Z"
-    },
-    {
-      "inquiryId": "INQ-0032",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:07:36.836Z"
-    },
-    {
-      "inquiryId": "INQ-0034",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:07:18.312Z"
     }
   ]
 }
