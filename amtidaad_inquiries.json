@@ -1231,16 +1231,16 @@
       "source": "Email",
       "assigned": "Estimation Team",
       "status": "quotation",
-      "quotDate": "2026-08-19",
+      "quotDate": "2026-09-05",
       "followup": "",
       "scope": "FOAM refilling Enquiry -Kent college (FOAM 3% AFFF (NON UL))",
       "remarks": "Quotation shared by Angelika",
       "quotNo": "9606",
-      "quotValue": 4830,
+      "quotValue": 4620,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-19T12:43:40.711Z"
+      "lastUpdatedAt": "2026-09-05T06:23:18.566Z"
     },
     {
       "id": "INQ-0164",
@@ -4895,6 +4895,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0166",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-05T06:23:18.566Z"
+    },
     {
       "inquiryId": "INQ-0219",
       "action": "created",
@@ -9385,15 +9394,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T11:07:18.312Z"
-    },
-    {
-      "inquiryId": "INQ-0039",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:07:04.532Z"
     }
   ]
 }
