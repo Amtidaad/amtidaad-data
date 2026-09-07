@@ -57,17 +57,17 @@
       "service": "Fire Extinguisher Refilling",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-09-07",
       "followup": "",
       "scope": "Firex FM200 cylinder",
-      "remarks": "Assigned to Reshmi",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quotation done and shared by Reshmi",
+      "quotNo": "9779",
+      "quotValue": 8662.5,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-04T12:43:34.267Z"
+      "lastUpdatedAt": "2026-09-07T10:32:50.608Z"
     },
     {
       "id": "INQ-0218",
@@ -4942,6 +4942,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0219",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-07T10:32:50.608Z"
+    },
+    {
+      "inquiryId": "INQ-0219",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-07T10:32:50.608Z"
+    },
+    {
       "inquiryId": "INQ-0222",
       "action": "created",
       "from": null,
@@ -9422,24 +9440,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T11:09:26.712Z"
-    },
-    {
-      "inquiryId": "INQ-0031",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:08:35.348Z"
-    },
-    {
-      "inquiryId": "INQ-0026",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:08:29.552Z"
     }
   ]
 }
