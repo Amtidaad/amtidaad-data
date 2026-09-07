@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0222",
+      "client": "La Beaute DMCC",
+      "project": "Gold Crest Views - R02",
+      "phone": "",
+      "email": "",
+      "date": "2026-09-07",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "2026-09-07",
+      "followup": "",
+      "scope": "Fitness Certificate",
+      "remarks": "Quoted by Faizan/Email Confirmation",
+      "quotNo": "9781",
+      "quotValue": 525,
+      "securedValue": 525,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-07T08:40:33.132Z"
+    },
+    {
       "id": "INQ-0221",
       "client": "Integrated Electronics & Electromechanical Services",
       "project": "IES WH",
@@ -4918,6 +4941,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0222",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-07T08:40:33.132Z"
+    },
     {
       "inquiryId": "INQ-0221",
       "action": "created",
