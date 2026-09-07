@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0220",
+      "client": "Kingfield Owner Association Management  Services",
+      "project": "Cayan Business Center",
+      "phone": "",
+      "email": "",
+      "date": "2026-09-07",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "2026-09-07",
+      "followup": "",
+      "scope": "",
+      "remarks": "Quoted by Faizan",
+      "quotNo": "9782",
+      "quotValue": 76393.8,
+      "securedValue": 76393.8,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-07T08:04:59.940Z"
+    },
+    {
       "id": "INQ-0219",
       "client": "Fireco Technical Services LLC",
       "project": "",
@@ -4896,6 +4919,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0220",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-07T08:04:59.940Z"
+    },
+    {
       "inquiryId": "INQ-0211",
       "action": "status_change",
       "from": "new",
@@ -9385,15 +9417,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T11:08:05.020Z"
-    },
-    {
-      "inquiryId": "INQ-0031",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:07:52.136Z"
     }
   ]
 }
