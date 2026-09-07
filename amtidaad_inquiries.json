@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0221",
+      "client": "Integrated Electronics & Electromechanical Services",
+      "project": "IES WH",
+      "phone": "",
+      "email": "",
+      "date": "2026-09-07",
+      "location": "",
+      "service": "Fire Extinguisher Refilling",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "2026-09-01",
+      "followup": "",
+      "scope": "Refilling",
+      "remarks": "Quoted by Faizan/ LPO 26/PO/700262 received on 7th Sep",
+      "quotNo": "9740",
+      "quotValue": 702.45,
+      "securedValue": 702.45,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-07T08:09:41.099Z"
+    },
+    {
       "id": "INQ-0220",
       "client": "Kingfield Owner Association Management  Services",
       "project": "Cayan Business Center",
@@ -4919,6 +4942,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0221",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-07T08:09:41.099Z"
+    },
+    {
       "inquiryId": "INQ-0220",
       "action": "created",
       "from": null,
@@ -9408,15 +9440,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T11:08:29.552Z"
-    },
-    {
-      "inquiryId": "INQ-0026",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:08:05.020Z"
     }
   ]
 }
