@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0223",
+      "client": "Stratum",
+      "project": "Burj Al Nujoom",
+      "phone": "",
+      "email": "Procurement3@stratum.ae",
+      "date": "2026-09-03",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-08",
+      "followup": "",
+      "scope": "RFP_Request for Supplier Proposal – 1ST PPM FIRE RECTIFICATION WORKS Burj Al Nujoom",
+      "remarks": "Quoted by Reshmi",
+      "quotNo": "9764",
+      "quotValue": 110250,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-08T09:48:05.635Z"
+    },
+    {
       "id": "INQ-0222",
       "client": "La Beaute DMCC",
       "project": "Gold Crest Views - R02",
@@ -4942,6 +4965,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0223",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-08T09:48:05.635Z"
+    },
+    {
       "inquiryId": "INQ-0219",
       "action": "status_change",
       "from": "quotation",
@@ -9431,15 +9463,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T11:10:23.714Z"
-    },
-    {
-      "inquiryId": "INQ-0023",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:09:58.370Z"
     }
   ]
 }
