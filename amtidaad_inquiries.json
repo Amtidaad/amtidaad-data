@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0224",
+      "client": "Advanced Innovation System",
+      "project": "Choueifat School",
+      "phone": "",
+      "email": "mpelausa@aismena.com",
+      "date": "2026-09-08",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "PPM Requirement",
+      "remarks": "Inquiry shared by Faizan",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-08T10:19:01.165Z"
+    },
+    {
       "id": "INQ-0223",
       "client": "Stratum",
       "project": "Burj Al Nujoom",
@@ -4965,6 +4988,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0224",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-08T10:19:01.165Z"
+    },
+    {
       "inquiryId": "INQ-0223",
       "action": "created",
       "from": null,
@@ -9454,15 +9486,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T11:10:45.587Z"
-    },
-    {
-      "inquiryId": "INQ-0022",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:10:23.714Z"
     }
   ]
 }
