@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0226",
+      "client": "Rapidrop Middle East Trading LLC",
+      "project": "",
+      "phone": "+97148856671",
+      "email": "",
+      "date": "2026-09-09",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "2026-09-09",
+      "followup": "",
+      "scope": "Room Integrity Testing",
+      "remarks": "Quoted by Gary/ LPO 00008936 received on 9th Sep",
+      "quotNo": "9794",
+      "quotValue": 1995,
+      "securedValue": 1995,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-09T13:12:59.891Z"
+    },
+    {
       "id": "INQ-0225",
       "client": "Trojan Holding",
       "project": "TG2152 - Main Construction Works in Gardenia",
@@ -5011,6 +5034,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0226",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-09T13:12:59.891Z"
+    },
+    {
       "inquiryId": "INQ-0225",
       "action": "created",
       "from": null,
@@ -9500,15 +9532,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T11:11:33.236Z"
-    },
-    {
-      "inquiryId": "INQ-0019",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:11:11.062Z"
     }
   ]
 }
