@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0227",
+      "client": "Rapidrop Middle East Trading LLC",
+      "project": "",
+      "phone": "+97148856671",
+      "email": "",
+      "date": "2026-09-09",
+      "location": "AUH",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "2026-09-09",
+      "followup": "",
+      "scope": "Testing & Commissioning",
+      "remarks": "Quoted by Gary / LPO  00008935 received on 9th Sep",
+      "quotNo": "9795",
+      "quotValue": 1680,
+      "securedValue": 1680,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-09T13:14:45.137Z"
+    },
+    {
       "id": "INQ-0226",
       "client": "Rapidrop Middle East Trading LLC",
       "project": "",
@@ -5034,6 +5057,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0227",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-09T13:14:45.137Z"
+    },
+    {
       "inquiryId": "INQ-0226",
       "action": "created",
       "from": null,
@@ -9523,15 +9555,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T11:11:50.304Z"
-    },
-    {
-      "inquiryId": "INQ-0018",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:11:33.236Z"
     }
   ]
 }
