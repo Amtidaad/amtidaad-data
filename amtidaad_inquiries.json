@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0230",
+      "client": "Noon E-commerce AD Holding",
+      "project": "UAE_R4530_IR-6800 ( DXB-A7 Umm Ramool Ground Warehouse Maintenance Floor DXB-A7 Umm Ramool Mezzanine Floor Ibal Al GE, Jbal Ali_)",
+      "phone": "+918588822933",
+      "email": "apsharma@noon.com",
+      "date": "2026-09-10",
+      "location": "Umm Ramool",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-10",
+      "followup": "",
+      "scope": "Rectification",
+      "remarks": "Quoted by Faizan",
+      "quotNo": "9673",
+      "quotValue": 9528.75,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-10T08:36:50.656Z"
+    },
+    {
       "id": "INQ-0229",
       "client": "Noon E-commerce AD Holding",
       "project": "Fugistics & Supermall UAE",
@@ -5103,6 +5126,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0230",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-10T08:36:50.656Z"
+    },
+    {
       "inquiryId": "INQ-0229",
       "action": "created",
       "from": null,
@@ -9592,15 +9624,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T11:20:15.348Z"
-    },
-    {
-      "inquiryId": "INQ-0013",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:19:55.336Z"
     }
   ]
 }
