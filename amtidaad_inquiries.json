@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0236",
+      "client": "Professional Choice Real Estate",
+      "project": "The One",
+      "phone": "971581700134",
+      "email": "Susanta.Pradhan@thefirstcollection.ae",
+      "date": "2026-09-02",
+      "location": "Jumeirah Village Circle",
+      "service": "AMC - Full Package",
+      "source": "Website",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-10",
+      "followup": "",
+      "scope": "(2 Years) Fire Alarm & Fighting System AMC  ( JB6913-26-00233 )\nClient Contact: Susantha",
+      "remarks": "Quoted by Reshmi through Iskaan Portal",
+      "quotNo": "9775",
+      "quotValue": 20040,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-10T11:16:11.442Z"
+    },
+    {
       "id": "INQ-0235",
       "client": "Professional Choice Real Estate",
       "project": "Dolphin Tower",
@@ -5241,6 +5264,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0236",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-10T11:16:11.442Z"
+    },
+    {
       "inquiryId": "INQ-0235",
       "action": "created",
       "from": null,
@@ -9730,15 +9762,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T11:26:58.694Z"
-    },
-    {
-      "inquiryId": "INQ-0005",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:23:55.364Z"
     }
   ]
 }
