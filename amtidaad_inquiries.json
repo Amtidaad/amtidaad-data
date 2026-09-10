@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0235",
+      "client": "Professional Choice Real Estate",
+      "project": "Dolphin Tower",
+      "phone": "971522014963",
+      "email": "fathima@professionalchoicereal.com",
+      "date": "2026-09-01",
+      "location": "Business Bay",
+      "service": "",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-10",
+      "followup": "",
+      "scope": "(2 Years) Fire Alarm & Fighting System AMC  ( JB6913-26-00220 )\nClient Contact: Fathima Jalill",
+      "remarks": "Quoted by Reshmi through Iskaan Portal",
+      "quotNo": "9776",
+      "quotValue": 16800,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-10T11:14:02.340Z"
+    },
+    {
       "id": "INQ-0234",
       "client": "Professional Choice Real Estate",
       "project": "Skybay",
@@ -5218,6 +5241,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0235",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-10T11:14:02.340Z"
+    },
+    {
       "inquiryId": "INQ-0234",
       "action": "created",
       "from": null,
@@ -9707,15 +9739,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T11:23:55.364Z"
-    },
-    {
-      "inquiryId": "INQ-0006",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:23:36.320Z"
     }
   ]
 }
