@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0229",
+      "client": "Noon E-commerce AD Holding",
+      "project": "Fugistics & Supermall UAE",
+      "phone": "+918588822933",
+      "email": "apsharma@noon.com",
+      "date": "2026-09-10",
+      "location": "",
+      "service": "FM200 / Clean Agent",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Supply & Installation of FM-200 Fire Suppression System",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-10T08:34:20.585Z"
+    },
+    {
       "id": "INQ-0228",
       "client": "Maskeen Owner Association",
       "project": "NAMENI -TOWER =G+P5+32+RT)",
@@ -5080,6 +5103,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0229",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-10T08:34:20.585Z"
+    },
+    {
       "inquiryId": "INQ-0224",
       "action": "edited",
       "from": null,
@@ -9569,15 +9601,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T11:19:55.336Z"
-    },
-    {
-      "inquiryId": "INQ-0014",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:19:39.023Z"
     }
   ]
 }
