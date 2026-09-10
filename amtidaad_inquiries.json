@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0233",
+      "client": "Professional Choice Real Estate",
+      "project": "5th Avenue",
+      "phone": "971581895046",
+      "email": "engineer.5thavenue@ucwf.net",
+      "date": "2026-09-07",
+      "location": "Al Furjan",
+      "service": "AMC - Full Package",
+      "source": "Website",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-10",
+      "followup": "",
+      "scope": "(2 Years) Fire Alarm & Fighting System AMC  ( JB6913-26-00282 )\nClient Contact:  Sabish",
+      "remarks": "Quoted by Reshmi through Iskaan Portal",
+      "quotNo": "9798",
+      "quotValue": 12600,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-10T11:06:27.148Z"
+    },
+    {
       "id": "INQ-0232",
       "client": "Professional Choice Real Estate",
       "project": "Al Shahed Tower",
@@ -5172,6 +5195,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0233",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-10T11:06:27.148Z"
+    },
+    {
       "inquiryId": "INQ-0232",
       "action": "created",
       "from": null,
@@ -9661,15 +9693,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T11:23:12.884Z"
-    },
-    {
-      "inquiryId": "INQ-0008",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:22:52.628Z"
     }
   ]
 }
