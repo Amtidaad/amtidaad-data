@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0232",
+      "client": "Professional Choice Real Estate",
+      "project": "Al Shahed Tower",
+      "phone": "971567432039",
+      "email": "info@armanfacilities.com",
+      "date": "2026-09-09",
+      "location": "Barsha Heights",
+      "service": "AMC - Full Package",
+      "source": "Website",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-10",
+      "followup": "",
+      "scope": "(2 Years) Fire Alarm & Fighting System AMC  ( JB6913-26-00296 )",
+      "remarks": "Quoted by Reshmi through Iskaan Portal",
+      "quotNo": "9777",
+      "quotValue": 16800,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-10T11:03:19.289Z"
+    },
+    {
       "id": "INQ-0231",
       "client": "Maskeen Owner Association",
       "project": "NAMENI -TOWER =G+P5+32+RT)",
@@ -5149,6 +5172,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0232",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-10T11:03:19.289Z"
+    },
+    {
       "inquiryId": "INQ-0231",
       "action": "created",
       "from": null,
@@ -9638,15 +9670,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T11:22:52.628Z"
-    },
-    {
-      "inquiryId": "INQ-0010",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:22:11.860Z"
     }
   ]
 }
