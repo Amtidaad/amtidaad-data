@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0228",
+      "client": "Maskeen Owner Association",
+      "project": "NAMENI -TOWER =G+P5+32+RT)",
+      "phone": "",
+      "email": "",
+      "date": "2026-09-10",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "WhatsApp",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Non Comprehensive AMC for 1 year",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-10T05:51:22.829Z"
+    },
+    {
       "id": "INQ-0227",
       "client": "Rapidrop Middle East Trading LLC",
       "project": "",
@@ -5057,6 +5080,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0228",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-10T05:51:22.829Z"
+    },
+    {
       "inquiryId": "INQ-0227",
       "action": "created",
       "from": null,
@@ -9546,15 +9578,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T11:18:59.740Z"
-    },
-    {
-      "inquiryId": "INQ-0017",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:11:50.304Z"
     }
   ]
 }
