@@ -314,13 +314,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "RFQ — Fire Alarm & Firefighting Materials_Gent",
-      "remarks": "",
+      "remarks": "Assigned to Reshmi",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-03T12:29:04.605Z"
+      "lastUpdatedAt": "2026-09-10T06:34:24.326Z"
     },
     {
       "id": "INQ-0213",
@@ -5080,6 +5080,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0214",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-10T06:34:24.326Z"
+    },
+    {
       "inquiryId": "INQ-0228",
       "action": "created",
       "from": null,
@@ -9569,15 +9578,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T11:19:20.730Z"
-    },
-    {
-      "inquiryId": "INQ-0016",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:18:59.740Z"
     }
   ]
 }
