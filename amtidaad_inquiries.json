@@ -333,17 +333,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-09-10",
       "followup": "",
       "scope": "PPM Requirement",
-      "remarks": "Assigned to Reshmi",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quoted by Reshmi",
+      "quotNo": "9809",
+      "quotValue": 4798.5,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-10T06:36:08.931Z"
+      "lastUpdatedAt": "2026-09-10T13:07:17.933Z"
     },
     {
       "id": "INQ-0223",
@@ -5310,6 +5310,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0224",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-10T13:07:17.933Z"
+    },
+    {
+      "inquiryId": "INQ-0224",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-10T13:07:17.933Z"
+    },
+    {
       "inquiryId": "INQ-0238",
       "action": "created",
       "from": null,
@@ -9790,24 +9808,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T11:32:15.384Z"
-    },
-    {
-      "inquiryId": "INQ-0003",
-      "action": "status_change",
-      "from": "new",
-      "to": "hold",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:27:09.762Z"
-    },
-    {
-      "inquiryId": "INQ-0003",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:27:09.762Z"
     }
   ]
 }
