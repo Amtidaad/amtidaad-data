@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0238",
+      "client": "Khansaheb FMS LLC",
+      "project": "Makeen Properties at Dubai",
+      "phone": "971502147812",
+      "email": "kimberly.gumabon@khansaheb.com",
+      "date": "2026-09-10",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-10",
+      "followup": "",
+      "scope": "Makeen Properties at Dubai - AMC for FLS System",
+      "remarks": "Quoted by Faizan",
+      "quotNo": "9631",
+      "quotValue": 99225,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-10T11:24:18.977Z"
+    },
+    {
       "id": "INQ-0237",
       "client": "Professional Choice Real Estate",
       "project": "The One at Jumeirah Village Triangle",
@@ -5287,6 +5310,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0238",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-10T11:24:18.977Z"
+    },
+    {
       "inquiryId": "INQ-0237",
       "action": "created",
       "from": null,
@@ -9776,15 +9808,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T11:27:09.762Z"
-    },
-    {
-      "inquiryId": "INQ-0003",
-      "action": "status_change",
-      "from": "quotation",
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:26:58.694Z"
     }
   ]
 }
