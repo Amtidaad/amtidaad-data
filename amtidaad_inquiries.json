@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0234",
+      "client": "Professional Choice Real Estate",
+      "project": "Skybay",
+      "phone": "971522014963",
+      "email": "fathima@professionalchoicereal.com",
+      "date": "2026-08-31",
+      "location": "Business Bay",
+      "service": "AMC - Full Package",
+      "source": "Website",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-10",
+      "followup": "",
+      "scope": "(2 Years) Fire Alarm & Fighting System AMC  ( JB6913-26-00193 )\nClient Contact: Fathima Jalill",
+      "remarks": "Quoted by Reshmi through Iskaan",
+      "quotNo": "9777",
+      "quotValue": 16800,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-10T11:09:57.162Z"
+    },
+    {
       "id": "INQ-0233",
       "client": "Professional Choice Real Estate",
       "project": "5th Avenue",
@@ -5195,6 +5218,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0234",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-10T11:09:57.162Z"
+    },
+    {
       "inquiryId": "INQ-0233",
       "action": "created",
       "from": null,
@@ -9684,15 +9716,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T11:23:36.320Z"
-    },
-    {
-      "inquiryId": "INQ-0007",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:23:12.884Z"
     }
   ]
 }
