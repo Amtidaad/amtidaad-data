@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0237",
+      "client": "Professional Choice Real Estate",
+      "project": "The One at Jumeirah Village Triangle",
+      "phone": "971503996786",
+      "email": "Kabil.Gangu@hotellocaldubai.com",
+      "date": "2026-09-02",
+      "location": "Jumeirah Village Triangle",
+      "service": "AMC - Full Package",
+      "source": "Website",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-10",
+      "followup": "",
+      "scope": "(2 Years) Fire Alarm & Fighting System AMC  ( JB6913-26-00256 )\nClient Contact: Kabil",
+      "remarks": "Quoted by Reshmi through Iskaan Portal",
+      "quotNo": "9774",
+      "quotValue": 21000,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-10T11:18:03.938Z"
+    },
+    {
       "id": "INQ-0236",
       "client": "Professional Choice Real Estate",
       "project": "The One",
@@ -5264,6 +5287,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0237",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-10T11:18:03.938Z"
+    },
+    {
       "inquiryId": "INQ-0236",
       "action": "created",
       "from": null,
@@ -9750,15 +9782,6 @@
       "action": "status_change",
       "from": "quotation",
       "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:26:58.694Z"
-    },
-    {
-      "inquiryId": "INQ-0003",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T11:26:58.694Z"
