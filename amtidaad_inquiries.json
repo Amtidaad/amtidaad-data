@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0231",
+      "client": "Maskeen Owner Association",
+      "project": "NAMENI -TOWER =G+P5+32+RT)",
+      "phone": "0549968091",
+      "email": "",
+      "date": "2026-09-10",
+      "location": "",
+      "service": "Other",
+      "source": "WhatsApp",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "FAFF rectiifcation.",
+      "remarks": "Inquiry shared by Faizan",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-10T10:56:26.467Z"
+    },
+    {
       "id": "INQ-0230",
       "client": "Noon E-commerce AD Holding",
       "project": "UAE_R4530_IR-6800 ( DXB-A7 Umm Ramool Ground Warehouse Maintenance Floor DXB-A7 Umm Ramool Mezzanine Floor Ibal Al GE, Jbal Ali_)",
@@ -5126,6 +5149,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0231",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-10T10:56:26.467Z"
+    },
+    {
       "inquiryId": "INQ-0228",
       "action": "edited",
       "from": null,
@@ -9615,15 +9647,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T11:22:11.860Z"
-    },
-    {
-      "inquiryId": "INQ-0009",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:21:13.788Z"
     }
   ]
 }
