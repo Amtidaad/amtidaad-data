@@ -60,14 +60,14 @@
       "status": "new",
       "quotDate": "",
       "followup": "",
-      "scope": "TG2144 - Construction of Townhouses and Semi-Detached Villa",
+      "scope": "TG2144 - Construction of Townhouses and Semi-Detached Villa\nService and Refilling-Fire Extinguisher 4 KG DCP\nService and Refilling-Fire Extinguisher 2 KG CO2\nService and Refilling Fire Extinguisher CO2 5 KG\nService and Refilling-Fire Extinguisher 5 KG DCP\nervice and Refilling-Fire Extinguisher 2 KG DCP\nService and Refilling-Fire Extinguisher 9 KG DCP\nService and Refilling foam Fire Extinguisher 9 LTR With Abu Dhabi Civil Defense Approval",
       "remarks": "",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-11T09:49:38.605Z"
+      "lastUpdatedAt": "2026-09-11T09:54:04.337Z"
     },
     {
       "id": "INQ-0243",
@@ -5494,6 +5494,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0244",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-11T09:54:04.337Z"
+    },
+    {
       "inquiryId": "INQ-0225",
       "action": "edited",
       "from": null,
@@ -9983,15 +9992,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-15T05:08:21.803Z"
-    },
-    {
-      "inquiryId": "INQ-0059",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-14T12:35:13.966Z"
     }
   ]
 }
