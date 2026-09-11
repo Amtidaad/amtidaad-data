@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0243",
+      "client": "Coventry Technical Services LLC",
+      "project": "Villa E160",
+      "phone": "971551783102",
+      "email": "Info@coventryconstruction.ae",
+      "date": "2026-09-11",
+      "location": "",
+      "service": "Other",
+      "source": "WhatsApp",
+      "assigned": "Admin",
+      "status": "quotation",
+      "quotDate": "2026-09-11",
+      "followup": "",
+      "scope": "QUOTE FLS SERVICES\nContact Person: Mr. Graham",
+      "remarks": "Quoted by CEO",
+      "quotNo": "9814",
+      "quotValue": 11287.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-11T08:16:03.785Z"
+    },
+    {
       "id": "INQ-0242",
       "client": "Luxury Owners Association Management Services",
       "project": "Elegance Tower",
@@ -5402,6 +5425,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0243",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-11T08:16:03.785Z"
+    },
+    {
       "inquiryId": "INQ-0242",
       "action": "created",
       "from": null,
@@ -9891,15 +9923,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-14T06:07:53.884Z"
-    },
-    {
-      "inquiryId": "INQ-0057",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-14T06:07:46.662Z"
     }
   ]
 }
