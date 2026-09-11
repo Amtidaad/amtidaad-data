@@ -498,13 +498,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "Automatic Fire Extinguishing Device - Heat Aerosol (Tendering Job; posted in Portal)",
-      "remarks": "Boss is taking care",
+      "remarks": "",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-09T07:53:22.840Z"
+      "lastUpdatedAt": "2026-09-11T09:52:45.856Z"
     },
     {
       "id": "INQ-0224",
@@ -5494,6 +5494,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0225",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-11T09:52:45.856Z"
+    },
+    {
       "inquiryId": "INQ-0246",
       "action": "created",
       "from": null,
@@ -9983,15 +9992,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-14T12:35:13.966Z"
-    },
-    {
-      "inquiryId": "INQ-0043",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-14T12:34:34.165Z"
     }
   ]
 }
