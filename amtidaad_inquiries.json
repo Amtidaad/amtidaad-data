@@ -126,17 +126,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-09-11",
       "followup": "",
       "scope": "Tender for Elegance Tower – NOV 2026 - DEC 2029  - B6.08-Emergency Central Battery System",
-      "remarks": "Assigned to Reshmi",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quoted by Reshmi",
+      "quotNo": "9816",
+      "quotValue": 9975,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-11T08:12:43.065Z"
+      "lastUpdatedAt": "2026-09-11T10:18:11.813Z"
     },
     {
       "id": "INQ-0241",
@@ -5517,6 +5517,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0242",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-11T10:18:11.813Z"
+    },
+    {
+      "inquiryId": "INQ-0242",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-11T10:18:11.813Z"
+    },
+    {
       "inquiryId": "INQ-0247",
       "action": "created",
       "from": null,
@@ -9997,24 +10015,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-15T07:50:14.409Z"
-    },
-    {
-      "inquiryId": "INQ-0060",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-15T06:35:18.344Z"
-    },
-    {
-      "inquiryId": "INQ-0059",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-15T05:08:21.803Z"
     }
   ]
 }
