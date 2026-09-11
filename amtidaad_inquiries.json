@@ -94,7 +94,7 @@
     },
     {
       "id": "INQ-0245",
-      "client": "Trojan Holding",
+      "client": "Hi- Tech Concrete Products LLC",
       "project": "•4106 - AL AIN NEW FACTORY",
       "phone": "97125097245",
       "email": "shaikha.alhammadi@trojanholding.com",
@@ -107,13 +107,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "•4106 - AL AIN NEW FACTORY\nFire Extinguisher 2 KG CO2 With Kite Mark Approval and Civil Defense\nFire Extinguisher 6 Kg DCP With Kite Mark Approval With Civil Defense Approval\nFire Extinguisher 12 Ltr Foam With Kite Mark Approval and Civil Defense",
-      "remarks": "",
+      "remarks": "From Trojan Portal",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-11T09:51:43.833Z"
+      "lastUpdatedAt": "2026-09-11T12:59:04.675Z"
     },
     {
       "id": "INQ-0244",
@@ -5563,6 +5563,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0245",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-11T12:59:04.676Z"
+    },
+    {
       "inquiryId": "INQ-0230",
       "action": "edited",
       "from": null,
@@ -10052,15 +10061,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-17T05:38:35.682Z"
-    },
-    {
-      "inquiryId": "INQ-0063",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-16T08:18:55.122Z"
     }
   ]
 }
