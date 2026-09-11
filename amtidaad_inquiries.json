@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0245",
+      "client": "Trojan Holding",
+      "project": "•4106 - AL AIN NEW FACTORY",
+      "phone": "97125097245",
+      "email": "shaikha.alhammadi@trojanholding.com",
+      "date": "2026-09-11",
+      "location": "Al Ain",
+      "service": "Other",
+      "source": "",
+      "assigned": "",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "•4106 - AL AIN NEW FACTORY\nFire Extinguisher 2 KG CO2 With Kite Mark Approval and Civil Defense\nFire Extinguisher 6 Kg DCP With Kite Mark Approval With Civil Defense Approval\nFire Extinguisher 12 Ltr Foam With Kite Mark Approval and Civil Defense",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-11T09:51:43.833Z"
+    },
+    {
       "id": "INQ-0244",
       "client": "Trojan Holding",
       "project": "•TG2144 - Construction of Townhouses and Semi-Detached Villa",
@@ -5448,6 +5471,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0245",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-11T09:51:43.833Z"
+    },
+    {
       "inquiryId": "INQ-0244",
       "action": "created",
       "from": null,
@@ -9937,15 +9969,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-14T07:54:21.251Z"
-    },
-    {
-      "inquiryId": "INQ-0057",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-14T06:07:53.884Z"
     }
   ]
 }
