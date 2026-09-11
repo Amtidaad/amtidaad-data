@@ -5271,7 +5271,7 @@
       "location": "Dubai Marina",
       "service": "Other",
       "source": "",
-      "assigned": "",
+      "assigned": "Estimation Team",
       "status": "quotation",
       "quotDate": "2026-06-16",
       "followup": "",
@@ -5282,7 +5282,7 @@
       "securedValue": null,
       "createdBy": "BD Executive",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-10T11:23:55.364Z"
+      "lastUpdatedAt": "2026-09-11T06:46:11.125Z"
     },
     {
       "id": "INQ-0003",
@@ -5332,6 +5332,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0005",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-11T06:46:11.125Z"
+    },
     {
       "inquiryId": "INQ-0239",
       "action": "created",
@@ -9822,15 +9831,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T11:36:09.912Z"
-    },
-    {
-      "inquiryId": "INQ-0055",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:35:51.554Z"
     }
   ]
 }
