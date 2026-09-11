@@ -5156,7 +5156,7 @@
       "location": "",
       "service": "Fire Extinguisher Refilling",
       "source": "Email",
-      "assigned": "",
+      "assigned": "Estimation Team",
       "status": "quotation",
       "quotDate": "2026-06-10",
       "followup": "",
@@ -5167,7 +5167,7 @@
       "securedValue": null,
       "createdBy": "BD Executive",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-10T11:21:13.788Z"
+      "lastUpdatedAt": "2026-09-11T05:51:51.977Z"
     },
     {
       "id": "INQ-0008",
@@ -5309,6 +5309,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0009",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-11T05:51:51.978Z"
+    },
     {
       "inquiryId": "INQ-0224",
       "action": "status_change",
@@ -9799,15 +9808,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T11:33:06.136Z"
-    },
-    {
-      "inquiryId": "INQ-0002",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:32:15.384Z"
     }
   ]
 }
