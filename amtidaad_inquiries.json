@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0249",
+      "client": "Noon E-commerce AD Holding",
+      "project": "DXB-G3 Jebel Ali",
+      "phone": "+918588822933",
+      "email": "apsharma@noon.com",
+      "date": "2026-09-11",
+      "location": "Jebel Ali",
+      "service": "New Installation - Fire Fighting",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Complete Design, Supply & Installation of FM-200 Fire Suppression System with individual control panel\n4*4*3 =48 meter cub",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-11T11:55:39.926Z"
+    },
+    {
       "id": "INQ-0248",
       "client": "Noon E-commerce AD Holding",
       "project": "DXB G3",
@@ -5540,6 +5563,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0249",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-11T11:55:39.926Z"
+    },
+    {
       "inquiryId": "INQ-0248",
       "action": "created",
       "from": null,
@@ -10029,15 +10061,6 @@
       "remarks": "",
       "user": "Estimation Team",
       "timestamp": "2026-07-15T07:59:29.406Z"
-    },
-    {
-      "inquiryId": "INQ-0062",
-      "action": "created",
-      "from": null,
-      "to": "awarded",
-      "remarks": "",
-      "user": "Estimation Team",
-      "timestamp": "2026-07-15T07:58:54.907Z"
     }
   ]
 }
