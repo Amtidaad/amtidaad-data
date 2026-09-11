@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0240",
+      "client": "Integrated Electronics & Electromechanical Services",
+      "project": "",
+      "phone": "0561888739",
+      "email": "abdul.bilal@iesuae.com",
+      "date": "2026-09-10",
+      "location": "",
+      "service": "Fire Extinguisher Refilling",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "2026-09-11",
+      "followup": "",
+      "scope": "Inquiry - Refilling of Extinguishers",
+      "remarks": "Quoted by Faizan",
+      "quotNo": "9812",
+      "quotValue": 548.1,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-11T07:41:13.377Z"
+    },
+    {
       "id": "INQ-0239",
       "client": "Emaar",
       "project": "Boulevard Point",
@@ -5333,6 +5356,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0240",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-11T07:41:13.377Z"
+    },
+    {
       "inquiryId": "INQ-0005",
       "action": "edited",
       "from": null,
@@ -9822,15 +9854,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T11:36:25.917Z"
-    },
-    {
-      "inquiryId": "INQ-0002",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:36:09.912Z"
     }
   ]
 }
