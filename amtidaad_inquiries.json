@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0248",
+      "client": "Noon E-commerce AD Holding",
+      "project": "DXB G3",
+      "phone": "+918588822933",
+      "email": "apsharma@noon.com",
+      "date": "2026-09-11",
+      "location": "Jebel Ali",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Fire Protection works - Piping and Fitting Materials, Supplying and Installing",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-11T11:44:06.808Z"
+    },
+    {
       "id": "INQ-0247",
       "client": "Stratum",
       "project": "CHAIMAA AVENUE 2",
@@ -5517,6 +5540,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0248",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-11T11:44:06.809Z"
+    },
+    {
       "inquiryId": "INQ-0242",
       "action": "status_change",
       "from": "new",
@@ -10006,15 +10038,6 @@
       "remarks": "",
       "user": "Estimation Team",
       "timestamp": "2026-07-15T07:58:54.907Z"
-    },
-    {
-      "inquiryId": "INQ-0061",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-15T07:50:14.409Z"
     }
   ]
 }
