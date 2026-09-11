@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0244",
+      "client": "Trojan Holding",
+      "project": "•TG2144 - Construction of Townhouses and Semi-Detached Villa",
+      "phone": "97125097601",
+      "email": "obedullah.s@trojanholding.com",
+      "date": "2026-09-10",
+      "location": "",
+      "service": "Other",
+      "source": "Website",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "TG2144 - Construction of Townhouses and Semi-Detached Villa",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-11T09:49:38.605Z"
+    },
+    {
       "id": "INQ-0243",
       "client": "Coventry Technical Services LLC",
       "project": "Villa E160",
@@ -5425,6 +5448,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0244",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-11T09:49:38.605Z"
+    },
+    {
       "inquiryId": "INQ-0243",
       "action": "created",
       "from": null,
@@ -9911,15 +9943,6 @@
       "action": "status_change",
       "from": "new",
       "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-14T06:07:53.884Z"
-    },
-    {
-      "inquiryId": "INQ-0057",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-14T06:07:53.884Z"
