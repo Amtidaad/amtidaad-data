@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0242",
+      "client": "Luxury Owners Association Management Services",
+      "project": "Elegance Tower",
+      "phone": "97143763870",
+      "email": "Pravil.Rodirgues@loams.ae",
+      "date": "2026-09-11",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Tender for Elegance Tower – NOV 2026 - DEC 2029  - B6.08-Emergency Central Battery System",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-11T08:12:43.065Z"
+    },
+    {
       "id": "INQ-0241",
       "client": "Khansaheb FMS LLC",
       "project": "City Walk 1, 2 & Boulevard",
@@ -5379,6 +5402,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0242",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-11T08:12:43.065Z"
+    },
+    {
       "inquiryId": "INQ-0228",
       "action": "status_change",
       "from": "quotation",
@@ -9868,15 +9900,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-14T06:07:46.662Z"
-    },
-    {
-      "inquiryId": "INQ-0058",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-13T12:53:15.851Z"
     }
   ]
 }
