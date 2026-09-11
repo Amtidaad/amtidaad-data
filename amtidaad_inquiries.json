@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0241",
+      "client": "Khansaheb FMS LLC",
+      "project": "City Walk 1, 2 & Boulevard",
+      "phone": "971501803891",
+      "email": "hassan.qadri@khansaheb.com",
+      "date": "2026-09-10",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "RFP- AMC for Firefighting & PAVA System for City Walk 1, 2 & boulevard- Dubai",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-11T07:43:43.055Z"
+    },
+    {
       "id": "INQ-0240",
       "client": "Integrated Electronics & Electromechanical Services",
       "project": "",
@@ -5356,6 +5379,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0241",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-11T07:43:43.055Z"
+    },
+    {
       "inquiryId": "INQ-0240",
       "action": "status_change",
       "from": "new",
@@ -9845,15 +9877,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T13:24:24.731Z"
-    },
-    {
-      "inquiryId": "INQ-0023",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T13:23:48.207Z"
     }
   ]
 }
