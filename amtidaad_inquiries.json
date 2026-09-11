@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0239",
+      "client": "Emaar",
+      "project": "Boulevard Point",
+      "phone": "",
+      "email": "SNadarajan@emaar.ae",
+      "date": "2026-09-11",
+      "location": "Downtown",
+      "service": "Other",
+      "source": "Website",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Supply and Replacement of Emergency Lighting System at Boulevard Point Downtown",
+      "remarks": "Query from portal handled by Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-11T06:29:01.744Z"
+    },
+    {
       "id": "INQ-0238",
       "client": "Khansaheb FMS LLC",
       "project": "Makeen Properties at Dubai",
@@ -5310,6 +5333,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0239",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-11T06:29:01.744Z"
+    },
+    {
       "inquiryId": "INQ-0010",
       "action": "edited",
       "from": null,
@@ -9799,15 +9831,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-10T11:35:51.554Z"
-    },
-    {
-      "inquiryId": "INQ-0055",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-10T11:35:36.983Z"
     }
   ]
 }
