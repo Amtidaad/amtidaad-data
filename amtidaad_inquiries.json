@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0246",
+      "client": "Trojan Holding",
+      "project": "•RA4119 - Office Building Complex, Shahkbout, Abu Dhabi, UAE",
+      "phone": "97125097245",
+      "email": "shaikha.alhammadi@trojanholding.com",
+      "date": "2026-09-11",
+      "location": "AUH",
+      "service": "Other",
+      "source": "Website",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "•RA4119 - Office Building Complex, Shahkbout, Abu Dhabi, UAE\nTemporary Firefighting and fire alarm System Supply and Installation as per Civil Defense Requirement for site main offices",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-11T09:52:34.166Z"
+    },
+    {
       "id": "INQ-0245",
       "client": "Trojan Holding",
       "project": "•4106 - AL AIN NEW FACTORY",
@@ -5471,6 +5494,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0246",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-11T09:52:34.166Z"
+    },
+    {
       "inquiryId": "INQ-0245",
       "action": "created",
       "from": null,
@@ -9960,15 +9992,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-14T12:34:34.165Z"
-    },
-    {
-      "inquiryId": "INQ-0059",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-14T07:54:21.251Z"
     }
   ]
 }
