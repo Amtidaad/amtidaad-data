@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0247",
+      "client": "Stratum",
+      "project": "CHAIMAA AVENUE 2",
+      "phone": "97142826460",
+      "email": "Contracts1@stratum.ae",
+      "date": "2026-09-11",
+      "location": "Jumeirah Village Circle",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "REQUEST FOR PROPOSALS_CHAIMAA AVENUE 2_RECTIFICATION OF FIRE FIGHTING",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-11T10:15:24.178Z"
+    },
+    {
       "id": "INQ-0246",
       "client": "Trojan Holding",
       "project": "•RA4119 - Office Building Complex, Shahkbout, Abu Dhabi, UAE",
@@ -5494,6 +5517,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0247",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-11T10:15:24.178Z"
+    },
+    {
       "inquiryId": "INQ-0244",
       "action": "edited",
       "from": null,
@@ -9980,15 +10012,6 @@
       "action": "status_change",
       "from": "new",
       "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-15T05:08:21.803Z"
-    },
-    {
-      "inquiryId": "INQ-0059",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-15T05:08:21.803Z"
