@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0251",
+      "client": "RP Group of Companies",
+      "project": "DIC Camp",
+      "phone": "97168839099",
+      "email": "actproc2@rpgroupco.ae",
+      "date": "2026-09-12",
+      "location": "",
+      "service": "",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "RFQ- MR-1058/2026- DIC-CAMP, DUBAI",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-14T04:49:30.880Z"
+    },
+    {
       "id": "INQ-0250",
       "client": "Talent Technical Services CO LLC",
       "project": "",
@@ -5586,6 +5609,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0251",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-14T04:49:30.880Z"
+    },
+    {
       "inquiryId": "INQ-0250",
       "action": "created",
       "from": null,
@@ -10075,15 +10107,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-18T06:22:49.785Z"
-    },
-    {
-      "inquiryId": "INQ-0066",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-18T04:33:12.337Z"
     }
   ]
 }
