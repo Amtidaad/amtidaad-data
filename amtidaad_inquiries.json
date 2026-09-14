@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0250",
+      "client": "Talent Technical Services CO LLC",
+      "project": "",
+      "phone": "",
+      "email": "",
+      "date": "2026-09-12",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-12",
+      "followup": "",
+      "scope": "Room Integrity Test for 3 rooms",
+      "remarks": "Quoted by Reshmi",
+      "quotNo": "9822",
+      "quotValue": 5512.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-14T04:47:28.857Z"
+    },
+    {
       "id": "INQ-0249",
       "client": "Noon E-commerce AD Holding",
       "project": "DXB-G3 Jebel Ali",
@@ -5563,6 +5586,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0250",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-14T04:47:28.857Z"
+    },
+    {
       "inquiryId": "INQ-0223",
       "action": "edited",
       "from": null,
@@ -10052,15 +10084,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-18T04:33:12.337Z"
-    },
-    {
-      "inquiryId": "INQ-0065",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-17T05:39:53.894Z"
     }
   ]
 }
