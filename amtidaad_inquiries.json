@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0255",
+      "client": "Better Communities",
+      "project": "Aura by Grovy",
+      "phone": "971589406057",
+      "email": "julious@bcoam.com",
+      "date": "2026-09-14",
+      "location": "Jumeirah Village Circle",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-14",
+      "followup": "",
+      "scope": "Invitation to Tender for Generator Maintenance Services / AURA by Grovy",
+      "remarks": "Quoted by Gary",
+      "quotNo": "9824",
+      "quotValue": 15876,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-14T08:06:24.261Z"
+    },
+    {
       "id": "INQ-0254",
       "client": "Al Bonian",
       "project": "",
@@ -5678,6 +5701,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0255",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-14T08:06:24.261Z"
+    },
+    {
       "inquiryId": "INQ-0254",
       "action": "created",
       "from": null,
@@ -10167,15 +10199,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-22T13:25:37.389Z"
-    },
-    {
-      "inquiryId": "INQ-0071",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-22T13:25:23.693Z"
     }
   ]
 }
