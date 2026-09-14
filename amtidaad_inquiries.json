@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0254",
+      "client": "Al Bonian",
+      "project": "",
+      "phone": "971506218599",
+      "email": "shaji.p@albonian.fm",
+      "date": "2026-09-14",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "RFQ - Rectification of FA & FF System - UID03761",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-14T07:29:14.837Z"
+    },
+    {
       "id": "INQ-0253",
       "client": "Integrated Electronics & Electromechanical Services",
       "project": "",
@@ -5655,6 +5678,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0254",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-14T07:29:14.838Z"
+    },
+    {
       "inquiryId": "INQ-0253",
       "action": "created",
       "from": null,
@@ -10144,15 +10176,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-22T13:25:23.693Z"
-    },
-    {
-      "inquiryId": "INQ-0069",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-22T08:39:07.466Z"
     }
   ]
 }
