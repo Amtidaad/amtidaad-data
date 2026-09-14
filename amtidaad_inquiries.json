@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0253",
+      "client": "Integrated Electronics & Electromechanical Services",
+      "project": "",
+      "phone": "97143804436",
+      "email": "abdul.bilal@iesuae.com",
+      "date": "2026-09-12",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-14",
+      "followup": "",
+      "scope": "Refilling of Cylinders",
+      "remarks": "Quoted by Reshmi",
+      "quotNo": "9820",
+      "quotValue": 5764.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-14T06:57:50.505Z"
+    },
+    {
       "id": "INQ-0252",
       "client": "Euro Gulf",
       "project": "Burj Al Arab",
@@ -5632,6 +5655,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0253",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-14T06:57:50.505Z"
+    },
+    {
       "inquiryId": "INQ-0214",
       "action": "edited",
       "from": null,
@@ -10121,15 +10153,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-22T08:39:07.466Z"
-    },
-    {
-      "inquiryId": "INQ-0068",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-22T06:18:53.595Z"
     }
   ]
 }
