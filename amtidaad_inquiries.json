@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0252",
+      "client": "Euro Gulf",
+      "project": "Burj Al Arab",
+      "phone": "971566031188",
+      "email": "paul@eurogulfme.com",
+      "date": "2026-09-12",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "RFQ - CF143-Burj Al Arab - Fire Extinguisher",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-14T04:51:07.584Z"
+    },
+    {
       "id": "INQ-0251",
       "client": "RP Group of Companies",
       "project": "DIC Camp",
@@ -5609,6 +5632,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0252",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-14T04:51:07.584Z"
+    },
+    {
       "inquiryId": "INQ-0251",
       "action": "created",
       "from": null,
@@ -10098,15 +10130,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-18T06:22:58.613Z"
-    },
-    {
-      "inquiryId": "INQ-0066",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-18T06:22:49.785Z"
     }
   ]
 }
