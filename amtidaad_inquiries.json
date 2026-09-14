@@ -862,17 +862,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "RFQ — Fire Alarm & Firefighting Materials_Gent",
-      "remarks": "Assigned to Reshmi",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Assigned to Reshmi/ Awarded to another supplier",
+      "quotNo": "9786",
+      "quotValue": 26550.3,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-10T06:34:24.326Z"
+      "lastUpdatedAt": "2026-09-14T06:38:34.792Z"
     },
     {
       "id": "INQ-0213",
@@ -5632,6 +5632,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0214",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-14T06:38:34.792Z"
+    },
+    {
+      "inquiryId": "INQ-0214",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-14T06:38:34.792Z"
+    },
+    {
       "inquiryId": "INQ-0252",
       "action": "created",
       "from": null,
@@ -10112,24 +10130,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-18T09:44:19.725Z"
-    },
-    {
-      "inquiryId": "INQ-0066",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-18T06:22:58.613Z"
-    },
-    {
-      "inquiryId": "INQ-0066",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-18T06:22:58.613Z"
     }
   ]
 }
