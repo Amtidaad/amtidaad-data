@@ -287,17 +287,17 @@
       "service": "Other",
       "source": "",
       "assigned": "",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "•4106 - AL AIN NEW FACTORY\nFire Extinguisher 2 KG CO2 With Kite Mark Approval and Civil Defense\nFire Extinguisher 6 Kg DCP With Kite Mark Approval With Civil Defense Approval\nFire Extinguisher 12 Ltr Foam With Kite Mark Approval and Civil Defense",
-      "remarks": "From Trojan Portal",
+      "remarks": "From Trojan Portal/ tender closed was not able to submit as profile not activated yet",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-11T12:59:04.675Z"
+      "lastUpdatedAt": "2026-09-15T07:25:11.428Z"
     },
     {
       "id": "INQ-0244",
@@ -5747,6 +5747,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0245",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-15T07:25:11.428Z"
+    },
+    {
+      "inquiryId": "INQ-0245",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-15T07:25:11.428Z"
+    },
+    {
       "inquiryId": "INQ-0244",
       "action": "status_change",
       "from": "new",
@@ -10227,24 +10245,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-24T11:45:16.797Z"
-    },
-    {
-      "inquiryId": "INQ-0065",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-24T11:45:16.797Z"
-    },
-    {
-      "inquiryId": "INQ-0076",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-24T10:15:18.940Z"
     }
   ]
 }
