@@ -1510,13 +1510,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "Action Required: You are invited to participate in Tender ECMOANEG-5000988 ( Supply and Replacement of Emergency Lighting System at Boulevard Point Downtown. )",
-      "remarks": "Assigned to Faizan",
+      "remarks": "Assigned to Faizan, JOB is close we did not Quoted -",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-31T07:24:14.922Z"
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-09-15T07:44:11.413Z"
     },
     {
       "id": "INQ-0190",
@@ -5746,6 +5746,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0191",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-09-15T07:44:11.413Z"
+    },
     {
       "inquiryId": "INQ-0188",
       "action": "edited",
@@ -10236,15 +10245,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-24T11:46:35.083Z"
-    },
-    {
-      "inquiryId": "INQ-0064",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-24T11:46:25.060Z"
     }
   ]
 }
