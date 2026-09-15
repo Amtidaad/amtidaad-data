@@ -245,13 +245,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "REQUEST FOR PROPOSALS_CHAIMAA AVENUE 2_RECTIFICATION OF FIRE FIGHTING",
-      "remarks": "",
+      "remarks": "Reshmi is working on that",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-11T10:15:24.178Z"
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-09-15T07:59:07.479Z"
     },
     {
       "id": "INQ-0246",
@@ -5747,6 +5747,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0247",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-09-15T07:59:07.479Z"
+    },
+    {
       "inquiryId": "INQ-0246",
       "action": "edited",
       "from": null,
@@ -10236,15 +10245,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-25T06:46:33.184Z"
-    },
-    {
-      "inquiryId": "INQ-0080",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-25T05:11:48.316Z"
     }
   ]
 }
