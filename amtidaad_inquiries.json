@@ -310,17 +310,17 @@
       "service": "Other",
       "source": "Website",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "TG2144 - Construction of Townhouses and Semi-Detached Villa\nService and Refilling-Fire Extinguisher 4 KG DCP\nService and Refilling-Fire Extinguisher 2 KG CO2\nService and Refilling Fire Extinguisher CO2 5 KG\nService and Refilling-Fire Extinguisher 5 KG DCP\nervice and Refilling-Fire Extinguisher 2 KG DCP\nService and Refilling-Fire Extinguisher 9 KG DCP\nService and Refilling foam Fire Extinguisher 9 LTR With Abu Dhabi Civil Defense Approval",
-      "remarks": "",
+      "remarks": "Tender closed in the Portal - was not able to submit as profile was not approved",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-11T09:54:04.337Z"
+      "lastUpdatedAt": "2026-09-15T07:23:47.116Z"
     },
     {
       "id": "INQ-0243",
@@ -5747,6 +5747,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0244",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-15T07:23:47.116Z"
+    },
+    {
+      "inquiryId": "INQ-0244",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-15T07:23:47.116Z"
+    },
+    {
       "inquiryId": "INQ-0256",
       "action": "status_change",
       "from": "quotation",
@@ -10227,24 +10245,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-24T10:15:18.940Z"
-    },
-    {
-      "inquiryId": "INQ-0072",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-24T10:14:01.777Z"
-    },
-    {
-      "inquiryId": "INQ-0075",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-24T06:20:26.591Z"
     }
   ]
 }
