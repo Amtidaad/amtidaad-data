@@ -2068,7 +2068,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-09-15T07:41:20.797Z"
+      "lastUpdatedAt": "2026-09-15T07:41:46.162Z"
     },
     {
       "id": "INQ-0166",
@@ -5746,6 +5746,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0167",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-09-15T07:41:46.162Z"
+    },
     {
       "inquiryId": "INQ-0167",
       "action": "edited",
@@ -10236,15 +10245,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-24T11:45:16.797Z"
-    },
-    {
-      "inquiryId": "INQ-0076",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-24T10:15:18.940Z"
     }
   ]
 }
