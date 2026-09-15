@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0272",
+      "client": "Better Communities",
+      "project": "Binghatti Rose - Apt 113",
+      "phone": "",
+      "email": "",
+      "date": "2026-09-14",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "20266-09-15",
+      "followup": "",
+      "scope": "Supply & Replacement of Addressable Heat Detector with BAse",
+      "remarks": "Quoted by Gary / Payment transferred on 15 Sep",
+      "quotNo": "9829",
+      "quotValue": 519.75,
+      "securedValue": 519.75,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-15T12:59:13.387Z"
+    },
+    {
       "id": "INQ-0271",
       "client": "Red Chillies Interiors LLC",
       "project": "Trident Bayside Resident - Apt. 801",
@@ -6023,6 +6046,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0272",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-15T12:59:13.387Z"
+    },
+    {
       "inquiryId": "INQ-0271",
       "action": "created",
       "from": null,
@@ -10512,15 +10544,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-28T04:59:39.957Z"
-    },
-    {
-      "inquiryId": "INQ-0082",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-25T07:23:19.809Z"
     }
   ]
 }
