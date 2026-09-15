@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0258",
+      "client": "General International Technical Co. (LLC)",
+      "project": "Fairmont Dubai",
+      "phone": "",
+      "email": "",
+      "date": "2026-09-15",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-15",
+      "followup": "",
+      "scope": "Refilling of Cylinders",
+      "remarks": "Quotation shared by Faizan",
+      "quotNo": "9837",
+      "quotValue": 64926.75,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-15T10:49:17.032Z"
+    },
+    {
       "id": "INQ-0257",
       "client": "Lapita Hotel",
       "project": "Lapita Hotel",
@@ -5723,6 +5746,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0258",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-15T10:49:17.032Z"
+    },
     {
       "inquiryId": "INQ-0202",
       "action": "edited",
