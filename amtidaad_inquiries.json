@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0262",
+      "client": "DGM Properties LLC",
+      "project": "Eastern Star Residence",
+      "phone": "971545350287",
+      "email": "ghennerichard.baril@dgm-investment.com",
+      "date": "2026-09-15",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-15",
+      "followup": "",
+      "scope": "FIRE ALARM & FIGHTING AMC (OA BUILDINGS BY DGM PROPERTIES) - Comprehensive AMC",
+      "remarks": "Quoted by Gary",
+      "quotNo": "9840",
+      "quotValue": 20160,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-15T11:24:11.393Z"
+    },
+    {
       "id": "INQ-0261",
       "client": "DGM Properties LLC",
       "project": "Binghatti  East Boutique Suites",
@@ -5793,6 +5816,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0262",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-15T11:24:11.393Z"
+    },
+    {
       "inquiryId": "INQ-0261",
       "action": "created",
       "from": null,
@@ -10282,15 +10314,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-24T11:47:40.243Z"
-    },
-    {
-      "inquiryId": "INQ-0065",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-24T11:46:35.083Z"
     }
   ]
 }
