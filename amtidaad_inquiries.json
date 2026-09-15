@@ -1579,13 +1579,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "RFQ-555 / DCP for refilling with TCP",
-      "remarks": "shared to both coordinators",
+      "remarks": "Reshmi will share the Quotation.",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-31T07:20:07.954Z"
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-09-15T07:43:34.219Z"
     },
     {
       "id": "INQ-0187",
@@ -5746,6 +5746,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0188",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-09-15T07:43:34.219Z"
+    },
     {
       "inquiryId": "INQ-0175",
       "action": "edited",
@@ -10236,15 +10245,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-24T11:46:25.060Z"
-    },
-    {
-      "inquiryId": "INQ-0065",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-24T11:45:16.797Z"
     }
   ]
 }
