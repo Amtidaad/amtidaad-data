@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0259",
+      "client": "Noon E-commerce AD Holding",
+      "project": "Karama Supermall (DXBMS02) - RFX -5810",
+      "phone": "+918588822933",
+      "email": "apsharma@noon.com",
+      "date": "2026-09-15",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-15",
+      "followup": "",
+      "scope": "AMC CONTRACT",
+      "remarks": "Quoted by Faizan",
+      "quotNo": "9838",
+      "quotValue": 3675,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-15T11:05:41.842Z"
+    },
+    {
       "id": "INQ-0258",
       "client": "General International Technical Co. (LLC)",
       "project": "Fairmont Dubai",
@@ -5747,6 +5770,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0259",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-15T11:05:41.842Z"
+    },
+    {
       "inquiryId": "INQ-0258",
       "action": "created",
       "from": null,
@@ -10236,15 +10268,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-24T11:46:35.083Z"
-    },
-    {
-      "inquiryId": "INQ-0064",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-24T11:46:25.060Z"
     }
   ]
 }
