@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0260",
+      "client": "DGM Properties LLC",
+      "project": "Binghatti  East Boutique Suites",
+      "phone": "971545350287",
+      "email": "ghennerichard.baril@dgm-investment.com",
+      "date": "2026-09-15",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-15",
+      "followup": "",
+      "scope": "FIRE ALARM & FIGHTING AMC (OA BUILDINGS BY DGM PROPERTIE - Comprehensive AMC",
+      "remarks": "Quoted by Gary",
+      "quotNo": "9836",
+      "quotValue": 15750,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-15T11:21:27.665Z"
+    },
+    {
       "id": "INQ-0259",
       "client": "Noon E-commerce AD Holding",
       "project": "Karama Supermall (DXBMS02) - RFX -5810",
@@ -5746,6 +5769,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0260",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-15T11:21:27.665Z"
+    },
     {
       "inquiryId": "INQ-0259",
       "action": "created",
