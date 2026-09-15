@@ -41,10 +41,10 @@
       "remarks": "Quoted by Gary / LPO received on 15 Sept  - LPO No. POS-26-0004",
       "quotNo": "9787",
       "quotValue": 378,
-      "securedValue": null,
+      "securedValue": 378,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-15T12:57:01.911Z"
+      "lastUpdatedAt": "2026-09-15T12:59:26.475Z"
     },
     {
       "id": "INQ-0270",
@@ -6046,6 +6046,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0271",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-15T12:59:26.475Z"
+    },
+    {
       "inquiryId": "INQ-0272",
       "action": "created",
       "from": null,
@@ -10535,15 +10544,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-28T05:01:11.437Z"
-    },
-    {
-      "inquiryId": "INQ-0083",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-28T04:59:39.957Z"
     }
   ]
 }
