@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0268",
+      "client": "DGM Properties LLC",
+      "project": "Westar Residence La Sol",
+      "phone": "971545350287",
+      "email": "ghennerichard.baril@dgm-investment.com",
+      "date": "2026-09-15",
+      "location": "Jumeirah Village Circle",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-15",
+      "followup": "",
+      "scope": "FIRE ALARM & FIGHTING AMC (OA BUILDINGS BY DGM PROPERTIES) - Comprehensive AMC",
+      "remarks": "Quoted by Gary",
+      "quotNo": "9842",
+      "quotValue": 9450,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-15T11:32:14.535Z"
+    },
+    {
       "id": "INQ-0267",
       "client": "DGM Properties LLC",
       "project": "Vision 1",
@@ -5931,6 +5954,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0268",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-15T11:32:14.535Z"
+    },
+    {
       "inquiryId": "INQ-0267",
       "action": "created",
       "from": null,
@@ -10417,15 +10449,6 @@
       "action": "status_change",
       "from": "new",
       "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-25T05:02:58.095Z"
-    },
-    {
-      "inquiryId": "INQ-0078",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-25T05:02:58.095Z"
