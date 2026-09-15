@@ -268,13 +268,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "•RA4119 - Office Building Complex, Shahkbout, Abu Dhabi, UAE\nTemporary Firefighting and fire alarm System Supply and Installation as per Civil Defense Requirement for site main offices",
-      "remarks": "",
+      "remarks": "From Faizan - NOT PARTICIPATING",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-11T09:52:34.166Z"
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-09-15T07:58:33.988Z"
     },
     {
       "id": "INQ-0245",
@@ -5747,6 +5747,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0246",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-09-15T07:58:33.988Z"
+    },
+    {
       "inquiryId": "INQ-0244",
       "action": "edited",
       "from": null,
@@ -10233,15 +10242,6 @@
       "action": "status_change",
       "from": "new",
       "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-25T05:02:58.095Z"
-    },
-    {
-      "inquiryId": "INQ-0078",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-25T05:02:58.095Z"
