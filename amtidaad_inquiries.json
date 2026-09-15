@@ -678,17 +678,17 @@
       "service": "AMC - Full Package",
       "source": "WhatsApp",
       "assigned": "Estimation Team",
-      "status": "hold",
+      "status": "quotation",
       "quotDate": "2026-09-10",
       "followup": "",
       "scope": "Non Comprehensive AMC for 1 year",
-      "remarks": "Quotation done by Reshmi/ Still on hold for sending the quote as per CEO\nClient Contact: Mr. Jawad",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quotation shared by Reshmi\nClient Contact: Mr. Jawad",
+      "quotNo": "9806",
+      "quotValue": 19425,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-11T08:06:04.986Z"
+      "lastUpdatedAt": "2026-09-15T04:32:55.487Z"
     },
     {
       "id": "INQ-0227",
@@ -5747,6 +5747,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0228",
+      "action": "status_change",
+      "from": "hold",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-15T04:32:55.487Z"
+    },
+    {
+      "inquiryId": "INQ-0228",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-15T04:32:55.487Z"
+    },
+    {
       "inquiryId": "INQ-0257",
       "action": "created",
       "from": null,
@@ -10227,24 +10245,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-23T08:49:30.609Z"
-    },
-    {
-      "inquiryId": "INQ-0033",
-      "action": "status_change",
-      "from": "new",
-      "to": "hold",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-23T08:49:20.521Z"
-    },
-    {
-      "inquiryId": "INQ-0033",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-23T08:49:20.521Z"
     }
   ]
 }
