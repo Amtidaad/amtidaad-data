@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0271",
+      "client": "Red Chillies Interiors LLC",
+      "project": "Trident Bayside Resident - Apt. 801",
+      "phone": "",
+      "email": "",
+      "date": "2026-09-08",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "2026-09-08",
+      "followup": "",
+      "scope": "Removal & Re-fixing of Existing Fire Alarm Devices",
+      "remarks": "Quoted by Gary / LPO received on 15 Sept  - LPO No. POS-26-0004",
+      "quotNo": "9787",
+      "quotValue": 378,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-15T12:57:01.911Z"
+    },
+    {
       "id": "INQ-0270",
       "client": "Abu Dhabi Real Estate Co. LLC",
       "project": "",
@@ -6000,6 +6023,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0271",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-15T12:57:01.911Z"
+    },
+    {
       "inquiryId": "INQ-0270",
       "action": "created",
       "from": null,
@@ -10489,15 +10521,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-25T07:23:19.809Z"
-    },
-    {
-      "inquiryId": "INQ-0081",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-25T06:46:33.184Z"
     }
   ]
 }
