@@ -679,7 +679,7 @@
       "source": "WhatsApp",
       "assigned": "Estimation Team",
       "status": "quotation",
-      "quotDate": "2026-09-10",
+      "quotDate": "2026-09-14",
       "followup": "",
       "scope": "Non Comprehensive AMC for 1 year",
       "remarks": "Quotation shared by Reshmi\nClient Contact: Mr. Jawad",
@@ -688,7 +688,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-15T04:32:55.487Z"
+      "lastUpdatedAt": "2026-09-15T04:33:57.453Z"
     },
     {
       "id": "INQ-0227",
@@ -5747,6 +5747,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0228",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-15T04:33:57.453Z"
+    },
+    {
       "inquiryId": "INQ-0231",
       "action": "status_change",
       "from": "new",
@@ -10236,15 +10245,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-24T06:16:56.531Z"
-    },
-    {
-      "inquiryId": "INQ-0073",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-24T06:15:17.498Z"
     }
   ]
 }
