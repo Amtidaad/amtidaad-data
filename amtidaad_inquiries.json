@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0266",
+      "client": "DGM Properties LLC",
+      "project": "Vision 1",
+      "phone": "971545350287",
+      "email": "ghennerichard.baril@dgm-investment.com",
+      "date": "2026-09-15",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-15",
+      "followup": "",
+      "scope": "FIRE ALARM & FIGHTING AMC (OA BUILDINGS BY DGM PROPERTIES) - Comprehensive AMC",
+      "remarks": "Quoted by Gary",
+      "quotNo": "9841",
+      "quotValue": 15750,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-15T11:29:48.840Z"
+    },
+    {
       "id": "INQ-0265",
       "client": "DGM Properties LLC",
       "project": "Harmony Point Building",
@@ -5885,6 +5908,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0266",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-15T11:29:48.841Z"
+    },
+    {
       "inquiryId": "INQ-0265",
       "action": "created",
       "from": null,
@@ -10374,15 +10406,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-25T05:00:28.734Z"
-    },
-    {
-      "inquiryId": "INQ-0078",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-24T12:27:29.698Z"
     }
   ]
 }
