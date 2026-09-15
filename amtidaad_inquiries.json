@@ -287,17 +287,17 @@
       "service": "Other",
       "source": "",
       "assigned": "",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "•4106 - AL AIN NEW FACTORY\nFire Extinguisher 2 KG CO2 With Kite Mark Approval and Civil Defense\nFire Extinguisher 6 Kg DCP With Kite Mark Approval With Civil Defense Approval\nFire Extinguisher 12 Ltr Foam With Kite Mark Approval and Civil Defense",
-      "remarks": "From Trojan Portal",
+      "remarks": "From Trojan Portal/ tender closed was not able to submit as profile not activated yet",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-11T12:59:04.675Z"
+      "lastUpdatedAt": "2026-09-15T07:25:11.428Z"
     },
     {
       "id": "INQ-0244",
@@ -310,17 +310,17 @@
       "service": "Other",
       "source": "Website",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "TG2144 - Construction of Townhouses and Semi-Detached Villa\nService and Refilling-Fire Extinguisher 4 KG DCP\nService and Refilling-Fire Extinguisher 2 KG CO2\nService and Refilling Fire Extinguisher CO2 5 KG\nService and Refilling-Fire Extinguisher 5 KG DCP\nervice and Refilling-Fire Extinguisher 2 KG DCP\nService and Refilling-Fire Extinguisher 9 KG DCP\nService and Refilling foam Fire Extinguisher 9 LTR With Abu Dhabi Civil Defense Approval",
-      "remarks": "",
+      "remarks": "Tender closed in the Portal - was not able to submit as profile was not approved",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-11T09:54:04.337Z"
+      "lastUpdatedAt": "2026-09-15T07:23:47.116Z"
     },
     {
       "id": "INQ-0243",
@@ -1257,13 +1257,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "RFP Vitality-Kaizen Asset Management Services : Tendering Invitation of Fire Fighting Maintenance Services AMC for the Project Vitality Residences Managed by Kaizen Owners Association Management Services LLC",
-      "remarks": "Forwarded to Faizan,\nAngelika will work on that.",
+      "remarks": "Assigned to Angelika",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
-      "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-09-15T07:50:26.009Z"
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-15T07:50:52.231Z"
     },
     {
       "id": "INQ-0201",
@@ -1331,8 +1331,8 @@
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
-      "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-09-15T07:46:15.321Z"
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-31T07:27:14.487Z"
     },
     {
       "id": "INQ-0198",
@@ -1395,13 +1395,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "RFQ-396 For AGDA Fire Fighting and Fire Alarm System",
-      "remarks": "Reshmi will share the Quotation",
+      "remarks": "shared to both coordinators",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
-      "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-09-15T07:46:05.172Z"
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-31T07:25:31.556Z"
     },
     {
       "id": "INQ-0195",
@@ -1510,13 +1510,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "Action Required: You are invited to participate in Tender ECMOANEG-5000988 ( Supply and Replacement of Emergency Lighting System at Boulevard Point Downtown. )",
-      "remarks": "Assigned to Faizan, JOB is close we did not Quoted -",
+      "remarks": "Assigned to Faizan",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
-      "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-09-15T07:44:11.413Z"
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-31T07:24:14.922Z"
     },
     {
       "id": "INQ-0190",
@@ -1579,13 +1579,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "RFQ-555 / DCP for refilling with TCP",
-      "remarks": "Reshmi will share the Quotation.",
+      "remarks": "shared to both coordinators",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
-      "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-09-15T07:43:34.219Z"
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-31T07:20:07.954Z"
     },
     {
       "id": "INQ-0187",
@@ -1883,8 +1883,8 @@
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
-      "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-09-15T07:42:27.185Z"
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-31T07:19:24.578Z"
     },
     {
       "id": "INQ-0174",
@@ -2062,13 +2062,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "Fire Extinguisher RFQ",
-      "remarks": "Reshmi will share the Quotation.",
+      "remarks": "shared to coordinators",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
-      "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-09-15T07:41:46.162Z"
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-31T07:15:06.499Z"
     },
     {
       "id": "INQ-0166",
@@ -5006,13 +5006,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "Water Mist System",
-      "remarks": "Still not quoted as waiting for the prices\n\nMr. Ajmal is handling this one.",
+      "remarks": "Still not quoted as waiting for the prices",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
-      "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-09-15T07:37:11.258Z"
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-08-27T08:02:49.446Z"
     },
     {
       "id": "INQ-0034",
@@ -5752,89 +5752,44 @@
       "from": null,
       "to": null,
       "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-09-15T07:50:26.009Z"
+      "user": "Admin",
+      "timestamp": "2026-09-15T07:50:52.231Z"
     },
     {
-      "inquiryId": "INQ-0199",
+      "inquiryId": "INQ-0245",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-15T07:25:11.428Z"
+    },
+    {
+      "inquiryId": "INQ-0245",
       "action": "edited",
       "from": null,
       "to": null,
       "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-09-15T07:46:15.321Z"
+      "user": "Admin",
+      "timestamp": "2026-09-15T07:25:11.428Z"
     },
     {
-      "inquiryId": "INQ-0196",
+      "inquiryId": "INQ-0244",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-15T07:23:47.116Z"
+    },
+    {
+      "inquiryId": "INQ-0244",
       "action": "edited",
       "from": null,
       "to": null,
       "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-09-15T07:46:05.172Z"
-    },
-    {
-      "inquiryId": "INQ-0196",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-09-15T07:44:48.605Z"
-    },
-    {
-      "inquiryId": "INQ-0191",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-09-15T07:44:11.413Z"
-    },
-    {
-      "inquiryId": "INQ-0188",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-09-15T07:43:34.219Z"
-    },
-    {
-      "inquiryId": "INQ-0175",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-09-15T07:42:27.185Z"
-    },
-    {
-      "inquiryId": "INQ-0167",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-09-15T07:41:46.162Z"
-    },
-    {
-      "inquiryId": "INQ-0167",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-09-15T07:41:20.797Z"
-    },
-    {
-      "inquiryId": "INQ-0035",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-09-15T07:37:11.258Z"
+      "user": "Admin",
+      "timestamp": "2026-09-15T07:23:47.116Z"
     },
     {
       "inquiryId": "INQ-0256",
@@ -10245,6 +10200,51 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-24T12:27:29.698Z"
+    },
+    {
+      "inquiryId": "INQ-0077",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-24T11:54:56.724Z"
+    },
+    {
+      "inquiryId": "INQ-0022",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-24T11:48:40.926Z"
+    },
+    {
+      "inquiryId": "INQ-0041",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-24T11:47:40.243Z"
+    },
+    {
+      "inquiryId": "INQ-0065",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-24T11:46:35.083Z"
+    },
+    {
+      "inquiryId": "INQ-0064",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-24T11:46:25.060Z"
     }
   ]
 }
