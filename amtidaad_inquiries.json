@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0257",
+      "client": "Lapita Hotel",
+      "project": "Lapita Hotel",
+      "phone": "971565263467",
+      "email": "Cevat.Arslan@autographhotels.com",
+      "date": "2026-08-03",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-14",
+      "followup": "2026-12-07",
+      "scope": "FLS Upgrade Project in 2027 - Lapita Dubai Parks",
+      "remarks": "Quoted by Reshmi",
+      "quotNo": "9819",
+      "quotValue": 187897.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-15T04:29:13.883Z"
+    },
+    {
       "id": "INQ-0256",
       "client": "xpertcare Technical services",
       "project": "",
@@ -5724,6 +5747,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0257",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-15T04:29:13.884Z"
+    },
+    {
       "inquiryId": "INQ-0256",
       "action": "created",
       "from": null,
@@ -10213,15 +10245,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-23T08:49:20.521Z"
-    },
-    {
-      "inquiryId": "INQ-0072",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-23T05:30:47.795Z"
     }
   ]
 }
