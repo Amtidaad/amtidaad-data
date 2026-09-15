@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0256",
+      "client": "xpertcare Technical services",
+      "project": "",
+      "phone": "",
+      "email": "info@xpertcarets.com",
+      "date": "2026-09-14",
+      "location": "",
+      "service": "Fire Extinguisher Refilling",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-14",
+      "followup": "",
+      "scope": "Refilling",
+      "remarks": "Quoted by Reshmi",
+      "quotNo": "9834",
+      "quotValue": 223.65,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-15T04:26:37.573Z"
+    },
+    {
       "id": "INQ-0255",
       "client": "Better Communities",
       "project": "Aura by Grovy",
@@ -5701,6 +5724,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0256",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-15T04:26:37.574Z"
+    },
+    {
       "inquiryId": "INQ-0195",
       "action": "status_change",
       "from": "new",
@@ -10190,15 +10222,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-23T05:30:47.795Z"
-    },
-    {
-      "inquiryId": "INQ-0064",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-22T13:34:25.251Z"
     }
   ]
 }
