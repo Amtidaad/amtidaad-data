@@ -287,17 +287,17 @@
       "service": "Other",
       "source": "",
       "assigned": "",
-      "status": "lost",
+      "status": "new",
       "quotDate": "",
       "followup": "",
       "scope": "•4106 - AL AIN NEW FACTORY\nFire Extinguisher 2 KG CO2 With Kite Mark Approval and Civil Defense\nFire Extinguisher 6 Kg DCP With Kite Mark Approval With Civil Defense Approval\nFire Extinguisher 12 Ltr Foam With Kite Mark Approval and Civil Defense",
-      "remarks": "From Trojan Portal/ tender closed was not able to submit as profile not activated yet",
+      "remarks": "From Trojan Portal",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-15T07:25:11.428Z"
+      "lastUpdatedAt": "2026-09-11T12:59:04.675Z"
     },
     {
       "id": "INQ-0244",
@@ -310,17 +310,17 @@
       "service": "Other",
       "source": "Website",
       "assigned": "Estimation Team",
-      "status": "lost",
+      "status": "new",
       "quotDate": "",
       "followup": "",
       "scope": "TG2144 - Construction of Townhouses and Semi-Detached Villa\nService and Refilling-Fire Extinguisher 4 KG DCP\nService and Refilling-Fire Extinguisher 2 KG CO2\nService and Refilling Fire Extinguisher CO2 5 KG\nService and Refilling-Fire Extinguisher 5 KG DCP\nervice and Refilling-Fire Extinguisher 2 KG DCP\nService and Refilling-Fire Extinguisher 9 KG DCP\nService and Refilling foam Fire Extinguisher 9 LTR With Abu Dhabi Civil Defense Approval",
-      "remarks": "Tender closed in the Portal - was not able to submit as profile was not approved",
+      "remarks": "",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-15T07:23:47.116Z"
+      "lastUpdatedAt": "2026-09-11T09:54:04.337Z"
     },
     {
       "id": "INQ-0243",
@@ -5006,13 +5006,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "Water Mist System",
-      "remarks": "Still not quoted as waiting for the prices",
+      "remarks": "Still not quoted as waiting for the prices\n\nMr. Ajmal is handling this one.",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-27T08:02:49.446Z"
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-09-15T07:37:11.258Z"
     },
     {
       "id": "INQ-0034",
@@ -5747,40 +5747,13 @@
   ],
   "auditLog": [
     {
-      "inquiryId": "INQ-0245",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T07:25:11.428Z"
-    },
-    {
-      "inquiryId": "INQ-0245",
+      "inquiryId": "INQ-0035",
       "action": "edited",
       "from": null,
       "to": null,
       "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T07:25:11.428Z"
-    },
-    {
-      "inquiryId": "INQ-0244",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T07:23:47.116Z"
-    },
-    {
-      "inquiryId": "INQ-0244",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T07:23:47.116Z"
+      "user": "BD Executive",
+      "timestamp": "2026-09-15T07:37:11.258Z"
     },
     {
       "inquiryId": "INQ-0256",
@@ -10245,6 +10218,33 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-24T11:45:16.797Z"
+    },
+    {
+      "inquiryId": "INQ-0065",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-24T11:45:16.797Z"
+    },
+    {
+      "inquiryId": "INQ-0076",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-24T10:15:18.940Z"
+    },
+    {
+      "inquiryId": "INQ-0072",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-24T10:14:01.777Z"
     }
   ]
 }
