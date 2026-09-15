@@ -1,282 +1,6 @@
 {
   "inquiries": [
     {
-      "id": "INQ-0269",
-      "client": "DGM Properties LLC",
-      "project": "Westar Residence La Sol",
-      "phone": "971545350287",
-      "email": "ghennerichard.baril@dgm-investment.com",
-      "date": "2026-09-15",
-      "location": "Jumeirah Village Circle",
-      "service": "AMC - Full Package",
-      "source": "Email",
-      "assigned": "Estimation Team",
-      "status": "quotation",
-      "quotDate": "2026-09-15",
-      "followup": "",
-      "scope": "FIRE ALARM & FIGHTING AMC (OA BUILDINGS BY DGM PROPERTIES) - Non Comprehensive AMC",
-      "remarks": "Quoted by Gary",
-      "quotNo": "9847",
-      "quotValue": 5460,
-      "securedValue": null,
-      "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-15T11:33:21.792Z"
-    },
-    {
-      "id": "INQ-0268",
-      "client": "DGM Properties LLC",
-      "project": "Westar Residence La Sol",
-      "phone": "971545350287",
-      "email": "ghennerichard.baril@dgm-investment.com",
-      "date": "2026-09-15",
-      "location": "Jumeirah Village Circle",
-      "service": "AMC - Full Package",
-      "source": "Email",
-      "assigned": "Estimation Team",
-      "status": "quotation",
-      "quotDate": "2026-09-15",
-      "followup": "",
-      "scope": "FIRE ALARM & FIGHTING AMC (OA BUILDINGS BY DGM PROPERTIES) - Comprehensive AMC",
-      "remarks": "Quoted by Gary",
-      "quotNo": "9842",
-      "quotValue": 9450,
-      "securedValue": null,
-      "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-15T11:32:14.535Z"
-    },
-    {
-      "id": "INQ-0267",
-      "client": "DGM Properties LLC",
-      "project": "Vision 1",
-      "phone": "971545350287",
-      "email": "ghennerichard.baril@dgm-investment.com",
-      "date": "2026-09-15",
-      "location": "",
-      "service": "AMC - Full Package",
-      "source": "Email",
-      "assigned": "Estimation Team",
-      "status": "quotation",
-      "quotDate": "2026-09-15",
-      "followup": "",
-      "scope": "FIRE ALARM & FIGHTING AMC (OA BUILDINGS BY DGM PROPERTIES) - Non Comprehensive AMC",
-      "remarks": "Quoted by Gary",
-      "quotNo": "9846",
-      "quotValue": 6825,
-      "securedValue": null,
-      "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-15T11:30:51.030Z"
-    },
-    {
-      "id": "INQ-0266",
-      "client": "DGM Properties LLC",
-      "project": "Vision 1",
-      "phone": "971545350287",
-      "email": "ghennerichard.baril@dgm-investment.com",
-      "date": "2026-09-15",
-      "location": "",
-      "service": "AMC - Full Package",
-      "source": "",
-      "assigned": "Estimation Team",
-      "status": "quotation",
-      "quotDate": "2026-09-15",
-      "followup": "",
-      "scope": "FIRE ALARM & FIGHTING AMC (OA BUILDINGS BY DGM PROPERTIES) - Comprehensive AMC",
-      "remarks": "Quoted by Gary",
-      "quotNo": "9841",
-      "quotValue": 15750,
-      "securedValue": null,
-      "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-15T11:29:48.840Z"
-    },
-    {
-      "id": "INQ-0265",
-      "client": "DGM Properties LLC",
-      "project": "Harmony Point Building",
-      "phone": "971545350287",
-      "email": "ghennerichard.baril@dgm-investment.com",
-      "date": "2026-09-15",
-      "location": "",
-      "service": "AMC - Full Package",
-      "source": "Email",
-      "assigned": "Estimation Team",
-      "status": "quotation",
-      "quotDate": "2026-09-15",
-      "followup": "",
-      "scope": "FIRE ALARM & FIGHTING AMC (OA BUILDINGS BY DGM PROPERTIES) - Non Comprehensive AMC",
-      "remarks": "Quoted by Gary",
-      "quotNo": "9845",
-      "quotValue": 5502,
-      "securedValue": null,
-      "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-15T11:28:34.070Z"
-    },
-    {
-      "id": "INQ-0264",
-      "client": "DGM Properties LLC",
-      "project": "Harmony Point Building",
-      "phone": "971545350287",
-      "email": "ghennerichard.baril@dgm-investment.com",
-      "date": "2026-09-15",
-      "location": "",
-      "service": "AMC - Full Package",
-      "source": "Email",
-      "assigned": "Estimation Team",
-      "status": "quotation",
-      "quotDate": "2026-09-15",
-      "followup": "",
-      "scope": "FIRE ALARM & FIGHTING AMC (OA BUILDINGS BY DGM PROPERTIES) - Comprehensive AMC",
-      "remarks": "Quoted by Gary",
-      "quotNo": "9839",
-      "quotValue": 14700,
-      "securedValue": null,
-      "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-15T11:27:17.859Z"
-    },
-    {
-      "id": "INQ-0263",
-      "client": "DGM Properties LLC",
-      "project": "Eastern Star Residence",
-      "phone": "971545350287",
-      "email": "ghennerichard.baril@dgm-investment.com",
-      "date": "2026-09-15",
-      "location": "",
-      "service": "AMC - Full Package",
-      "source": "Email",
-      "assigned": "Estimation Team",
-      "status": "quotation",
-      "quotDate": "2026-09-15",
-      "followup": "",
-      "scope": "FIRE ALARM & FIGHTING AMC (OA BUILDINGS BY DGM PROPERTIES) - Non Comprehensive AMC",
-      "remarks": "Quoted by Gary",
-      "quotNo": "9844",
-      "quotValue": 9975,
-      "securedValue": null,
-      "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-15T11:25:10.055Z"
-    },
-    {
-      "id": "INQ-0262",
-      "client": "DGM Properties LLC",
-      "project": "Eastern Star Residence",
-      "phone": "971545350287",
-      "email": "ghennerichard.baril@dgm-investment.com",
-      "date": "2026-09-15",
-      "location": "",
-      "service": "AMC - Full Package",
-      "source": "Email",
-      "assigned": "Estimation Team",
-      "status": "quotation",
-      "quotDate": "2026-09-15",
-      "followup": "",
-      "scope": "FIRE ALARM & FIGHTING AMC (OA BUILDINGS BY DGM PROPERTIES) - Comprehensive AMC",
-      "remarks": "Quoted by Gary",
-      "quotNo": "9840",
-      "quotValue": 20160,
-      "securedValue": null,
-      "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-15T11:24:11.393Z"
-    },
-    {
-      "id": "INQ-0261",
-      "client": "DGM Properties LLC",
-      "project": "Binghatti  East Boutique Suites",
-      "phone": "971545350287",
-      "email": "ghennerichard.baril@dgm-investment.com",
-      "date": "2026-09-15",
-      "location": "",
-      "service": "AMC - Full Package",
-      "source": "Email",
-      "assigned": "Estimation Team",
-      "status": "quotation",
-      "quotDate": "2026-09-15",
-      "followup": "",
-      "scope": "FIRE ALARM & FIGHTING AMC (OA BUILDINGS BY DGM PROPERTIES) - Non Comprehensive AMC",
-      "remarks": "Quoted by Gary",
-      "quotNo": "9843",
-      "quotValue": 7770,
-      "securedValue": null,
-      "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-15T11:22:44.321Z"
-    },
-    {
-      "id": "INQ-0260",
-      "client": "DGM Properties LLC",
-      "project": "Binghatti  East Boutique Suites",
-      "phone": "971545350287",
-      "email": "ghennerichard.baril@dgm-investment.com",
-      "date": "2026-09-15",
-      "location": "",
-      "service": "AMC - Full Package",
-      "source": "Email",
-      "assigned": "Estimation Team",
-      "status": "quotation",
-      "quotDate": "2026-09-15",
-      "followup": "",
-      "scope": "FIRE ALARM & FIGHTING AMC (OA BUILDINGS BY DGM PROPERTIE - Comprehensive AMC",
-      "remarks": "Quoted by Gary",
-      "quotNo": "9836",
-      "quotValue": 15750,
-      "securedValue": null,
-      "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-15T11:21:27.665Z"
-    },
-    {
-      "id": "INQ-0259",
-      "client": "Noon E-commerce AD Holding",
-      "project": "Karama Supermall (DXBMS02) - RFX -5810",
-      "phone": "+918588822933",
-      "email": "apsharma@noon.com",
-      "date": "2026-09-15",
-      "location": "",
-      "service": "AMC - Full Package",
-      "source": "Email",
-      "assigned": "Estimation Team",
-      "status": "quotation",
-      "quotDate": "2026-09-15",
-      "followup": "",
-      "scope": "AMC CONTRACT",
-      "remarks": "Quoted by Faizan",
-      "quotNo": "9838",
-      "quotValue": 3675,
-      "securedValue": null,
-      "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-15T11:05:41.842Z"
-    },
-    {
-      "id": "INQ-0258",
-      "client": "General International Technical Co. (LLC)",
-      "project": "Fairmont Dubai",
-      "phone": "",
-      "email": "",
-      "date": "2026-09-15",
-      "location": "",
-      "service": "Other",
-      "source": "Email",
-      "assigned": "Estimation Team",
-      "status": "quotation",
-      "quotDate": "2026-09-15",
-      "followup": "",
-      "scope": "Refilling of Cylinders",
-      "remarks": "Quotation shared by Faizan",
-      "quotNo": "9837",
-      "quotValue": 64926.75,
-      "securedValue": null,
-      "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-15T10:49:17.032Z"
-    },
-    {
       "id": "INQ-0257",
       "client": "Lapita Hotel",
       "project": "Lapita Hotel",
@@ -434,8 +158,8 @@
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-14T04:49:30.880Z"
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-09-15T11:53:38.266Z"
     },
     {
       "id": "INQ-0250",
@@ -480,8 +204,31 @@
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-09-15T07:59:55.144Z"
+    },
+    {
+      "id": "INQ-0248",
+      "client": "Noon E-commerce AD Holding",
+      "project": "DXB G3",
+      "phone": "+918588822933",
+      "email": "apsharma@noon.com",
+      "date": "2026-09-11",
+      "location": "Jebel Ali",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Fire Protection works - Piping and Fitting Materials, Supplying and Installing",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-11T11:55:39.926Z"
+      "lastUpdatedAt": "2026-09-11T11:44:06.808Z"
     },
     {
       "id": "INQ-0247",
@@ -498,13 +245,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "REQUEST FOR PROPOSALS_CHAIMAA AVENUE 2_RECTIFICATION OF FIRE FIGHTING",
-      "remarks": "",
+      "remarks": "Reshmi is working on that",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-11T10:15:24.178Z"
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-09-15T07:59:07.479Z"
     },
     {
       "id": "INQ-0246",
@@ -521,13 +268,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "•RA4119 - Office Building Complex, Shahkbout, Abu Dhabi, UAE\nTemporary Firefighting and fire alarm System Supply and Installation as per Civil Defense Requirement for site main offices",
-      "remarks": "",
+      "remarks": "From Faizan - NOT PARTICIPATING",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-11T09:52:34.166Z"
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-09-15T07:58:50.032Z"
     },
     {
       "id": "INQ-0245",
@@ -540,17 +287,17 @@
       "service": "Other",
       "source": "",
       "assigned": "",
-      "status": "lost",
+      "status": "new",
       "quotDate": "",
       "followup": "",
       "scope": "•4106 - AL AIN NEW FACTORY\nFire Extinguisher 2 KG CO2 With Kite Mark Approval and Civil Defense\nFire Extinguisher 6 Kg DCP With Kite Mark Approval With Civil Defense Approval\nFire Extinguisher 12 Ltr Foam With Kite Mark Approval and Civil Defense",
-      "remarks": "From Trojan Portal/ tender closed was not able to submit as profile not activated yet",
+      "remarks": "From Trojan Portal",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-15T07:25:11.428Z"
+      "lastUpdatedAt": "2026-09-11T12:59:04.675Z"
     },
     {
       "id": "INQ-0244",
@@ -563,17 +310,17 @@
       "service": "Other",
       "source": "Website",
       "assigned": "Estimation Team",
-      "status": "lost",
+      "status": "new",
       "quotDate": "",
       "followup": "",
       "scope": "TG2144 - Construction of Townhouses and Semi-Detached Villa\nService and Refilling-Fire Extinguisher 4 KG DCP\nService and Refilling-Fire Extinguisher 2 KG CO2\nService and Refilling Fire Extinguisher CO2 5 KG\nService and Refilling-Fire Extinguisher 5 KG DCP\nervice and Refilling-Fire Extinguisher 2 KG DCP\nService and Refilling-Fire Extinguisher 9 KG DCP\nService and Refilling foam Fire Extinguisher 9 LTR With Abu Dhabi Civil Defense Approval",
-      "remarks": "Tender closed in the Portal - was not able to submit as profile was not approved",
+      "remarks": "Reshmi is working on that",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-15T07:23:47.116Z"
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-09-15T07:57:09.320Z"
     },
     {
       "id": "INQ-0243",
@@ -917,8 +664,8 @@
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-10T08:34:20.585Z"
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-09-15T07:59:38.196Z"
     },
     {
       "id": "INQ-0228",
@@ -1510,13 +1257,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "RFP Vitality-Kaizen Asset Management Services : Tendering Invitation of Fire Fighting Maintenance Services AMC for the Project Vitality Residences Managed by Kaizen Owners Association Management Services LLC",
-      "remarks": "Assigned to Angelika",
+      "remarks": "Forwarded to Faizan,\nAngelika will work on that.",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-15T07:50:52.231Z"
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-09-15T07:50:26.009Z"
     },
     {
       "id": "INQ-0201",
@@ -1584,8 +1331,8 @@
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-31T07:27:14.487Z"
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-09-15T07:46:15.321Z"
     },
     {
       "id": "INQ-0198",
@@ -1648,13 +1395,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "RFQ-396 For AGDA Fire Fighting and Fire Alarm System",
-      "remarks": "shared to both coordinators",
+      "remarks": "Reshmi will share the Quotation",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-31T07:25:31.556Z"
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-09-15T07:46:05.172Z"
     },
     {
       "id": "INQ-0195",
@@ -1749,6 +1496,29 @@
       "lastUpdatedAt": "2026-08-31T08:31:54.844Z"
     },
     {
+      "id": "INQ-0191",
+      "client": "Emaar",
+      "project": "Boulevard Point",
+      "phone": "",
+      "email": "SNadarajan@emaar.ae",
+      "date": "2026-08-26",
+      "location": "Downtown",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Action Required: You are invited to participate in Tender ECMOANEG-5000988 ( Supply and Replacement of Emergency Lighting System at Boulevard Point Downtown. )",
+      "remarks": "Assigned to Faizan, JOB is close we did not Quoted -",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-09-15T07:44:11.413Z"
+    },
+    {
       "id": "INQ-0190",
       "client": "Rapidrop Middle East Trading LLC",
       "project": "",
@@ -1809,13 +1579,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "RFQ-555 / DCP for refilling with TCP",
-      "remarks": "shared to both coordinators",
+      "remarks": "Reshmi will share the Quotation.",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-31T07:20:07.954Z"
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-09-15T07:43:34.219Z"
     },
     {
       "id": "INQ-0187",
@@ -2113,8 +1883,8 @@
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-31T07:19:24.578Z"
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-09-15T07:42:27.185Z"
     },
     {
       "id": "INQ-0174",
@@ -2292,13 +2062,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "Fire Extinguisher RFQ",
-      "remarks": "shared to coordinators",
+      "remarks": "Reshmi will share the Quotation.",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-31T07:15:06.499Z"
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-09-15T07:41:46.162Z"
     },
     {
       "id": "INQ-0166",
@@ -5236,13 +5006,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "Water Mist System",
-      "remarks": "Still not quoted as waiting for the prices",
+      "remarks": "Still not quoted as waiting for the prices\n\nMr. Ajmal is handling this one.",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-27T08:02:49.446Z"
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-09-15T07:37:11.258Z"
     },
     {
       "id": "INQ-0034",
@@ -5977,112 +5747,76 @@
   ],
   "auditLog": [
     {
-      "inquiryId": "INQ-0269",
-      "action": "created",
+      "inquiryId": "INQ-0251",
+      "action": "edited",
       "from": null,
-      "to": "quotation",
+      "to": null,
       "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T11:33:21.792Z"
+      "user": "BD Executive",
+      "timestamp": "2026-09-15T11:53:38.267Z"
     },
     {
-      "inquiryId": "INQ-0268",
-      "action": "created",
+      "inquiryId": "INQ-0249",
+      "action": "edited",
       "from": null,
-      "to": "quotation",
+      "to": null,
       "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T11:32:14.535Z"
+      "user": "BD Executive",
+      "timestamp": "2026-09-15T07:59:55.144Z"
     },
     {
-      "inquiryId": "INQ-0267",
-      "action": "created",
+      "inquiryId": "INQ-0229",
+      "action": "edited",
       "from": null,
-      "to": "quotation",
+      "to": null,
       "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T11:30:51.030Z"
+      "user": "BD Executive",
+      "timestamp": "2026-09-15T07:59:38.196Z"
     },
     {
-      "inquiryId": "INQ-0266",
-      "action": "created",
+      "inquiryId": "INQ-0247",
+      "action": "edited",
       "from": null,
-      "to": "quotation",
+      "to": null,
       "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T11:29:48.841Z"
+      "user": "BD Executive",
+      "timestamp": "2026-09-15T07:59:07.479Z"
     },
     {
-      "inquiryId": "INQ-0265",
-      "action": "created",
+      "inquiryId": "INQ-0246",
+      "action": "edited",
       "from": null,
-      "to": "quotation",
+      "to": null,
       "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T11:28:34.070Z"
+      "user": "BD Executive",
+      "timestamp": "2026-09-15T07:58:50.032Z"
     },
     {
-      "inquiryId": "INQ-0264",
-      "action": "created",
+      "inquiryId": "INQ-0246",
+      "action": "edited",
       "from": null,
-      "to": "quotation",
+      "to": null,
       "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T11:27:17.859Z"
+      "user": "BD Executive",
+      "timestamp": "2026-09-15T07:58:33.988Z"
     },
     {
-      "inquiryId": "INQ-0263",
-      "action": "created",
+      "inquiryId": "INQ-0244",
+      "action": "edited",
       "from": null,
-      "to": "quotation",
+      "to": null,
       "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T11:25:10.055Z"
+      "user": "BD Executive",
+      "timestamp": "2026-09-15T07:57:09.320Z"
     },
     {
-      "inquiryId": "INQ-0262",
-      "action": "created",
+      "inquiryId": "INQ-0244",
+      "action": "edited",
       "from": null,
-      "to": "quotation",
+      "to": null,
       "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T11:24:11.393Z"
-    },
-    {
-      "inquiryId": "INQ-0261",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T11:22:44.321Z"
-    },
-    {
-      "inquiryId": "INQ-0260",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T11:21:27.665Z"
-    },
-    {
-      "inquiryId": "INQ-0259",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T11:05:41.842Z"
-    },
-    {
-      "inquiryId": "INQ-0258",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T10:49:17.032Z"
+      "user": "BD Executive",
+      "timestamp": "2026-09-15T07:57:02.847Z"
     },
     {
       "inquiryId": "INQ-0202",
@@ -6090,44 +5824,89 @@
       "from": null,
       "to": null,
       "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T07:50:52.231Z"
+      "user": "BD Executive",
+      "timestamp": "2026-09-15T07:50:26.009Z"
     },
     {
-      "inquiryId": "INQ-0245",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T07:25:11.428Z"
-    },
-    {
-      "inquiryId": "INQ-0245",
+      "inquiryId": "INQ-0199",
       "action": "edited",
       "from": null,
       "to": null,
       "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T07:25:11.428Z"
+      "user": "BD Executive",
+      "timestamp": "2026-09-15T07:46:15.321Z"
     },
     {
-      "inquiryId": "INQ-0244",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T07:23:47.116Z"
-    },
-    {
-      "inquiryId": "INQ-0244",
+      "inquiryId": "INQ-0196",
       "action": "edited",
       "from": null,
       "to": null,
       "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T07:23:47.116Z"
+      "user": "BD Executive",
+      "timestamp": "2026-09-15T07:46:05.172Z"
+    },
+    {
+      "inquiryId": "INQ-0196",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-09-15T07:44:48.605Z"
+    },
+    {
+      "inquiryId": "INQ-0191",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-09-15T07:44:11.413Z"
+    },
+    {
+      "inquiryId": "INQ-0188",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-09-15T07:43:34.219Z"
+    },
+    {
+      "inquiryId": "INQ-0175",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-09-15T07:42:27.185Z"
+    },
+    {
+      "inquiryId": "INQ-0167",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-09-15T07:41:46.162Z"
+    },
+    {
+      "inquiryId": "INQ-0167",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-09-15T07:41:20.797Z"
+    },
+    {
+      "inquiryId": "INQ-0035",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-09-15T07:37:11.258Z"
     },
     {
       "inquiryId": "INQ-0256",
@@ -6362,6 +6141,15 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-11T11:55:39.926Z"
+    },
+    {
+      "inquiryId": "INQ-0248",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-11T11:44:06.809Z"
     },
     {
       "inquiryId": "INQ-0242",
@@ -7442,6 +7230,15 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T07:24:30.073Z"
+    },
+    {
+      "inquiryId": "INQ-0191",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T07:24:14.922Z"
     },
     {
       "inquiryId": "INQ-0188",
@@ -8828,6 +8625,15 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-26T06:07:23.294Z"
+    },
+    {
+      "inquiryId": "INQ-0191",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-26T06:06:12.443Z"
     },
     {
       "inquiryId": "INQ-0183",
@@ -10439,42 +10245,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-28T05:01:11.437Z"
-    },
-    {
-      "inquiryId": "INQ-0083",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-28T04:59:39.957Z"
-    },
-    {
-      "inquiryId": "INQ-0082",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-25T07:23:19.809Z"
-    },
-    {
-      "inquiryId": "INQ-0081",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-25T06:46:33.184Z"
-    },
-    {
-      "inquiryId": "INQ-0080",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-25T05:11:48.316Z"
     }
   ]
 }
