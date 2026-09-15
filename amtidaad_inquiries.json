@@ -1257,13 +1257,13 @@
       "quotDate": "",
       "followup": "",
       "scope": "RFP Vitality-Kaizen Asset Management Services : Tendering Invitation of Fire Fighting Maintenance Services AMC for the Project Vitality Residences Managed by Kaizen Owners Association Management Services LLC",
-      "remarks": "Forwarded to Faizan",
+      "remarks": "Forwarded to Faizan,\nAngelika will work on that.",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-31T05:51:54.164Z"
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-09-15T07:50:26.009Z"
     },
     {
       "id": "INQ-0201",
@@ -5746,6 +5746,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0202",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-09-15T07:50:26.009Z"
+    },
     {
       "inquiryId": "INQ-0199",
       "action": "edited",
@@ -10236,15 +10245,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-24T12:27:29.698Z"
-    },
-    {
-      "inquiryId": "INQ-0077",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-24T11:54:56.724Z"
     }
   ]
 }
