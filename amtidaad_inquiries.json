@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0274",
+      "client": "Abu Dhabi Real Estate Co. LLC",
+      "project": "HIDD AL Sadiyat",
+      "phone": "",
+      "email": "procurement@adu-re.com",
+      "date": "2026-09-16",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Hidd Al Saadiyat - Fire-Related Work",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-16T08:27:08.032Z"
+    },
+    {
       "id": "INQ-0273",
       "client": "Al Rustamni Owner Association Management",
       "project": "One Lake Plaza, Cluster T",
@@ -6069,6 +6092,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0274",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-16T08:27:08.032Z"
+    },
+    {
       "inquiryId": "INQ-0167",
       "action": "status_change",
       "from": "new",
@@ -10558,15 +10590,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-28T10:21:31.514Z"
-    },
-    {
-      "inquiryId": "INQ-0088",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-28T07:11:21.645Z"
     }
   ]
 }
