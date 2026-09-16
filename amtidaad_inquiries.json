@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0273",
+      "client": "Al Rustamni Owner Association Management",
+      "project": "One Lake Plaza, Cluster T",
+      "phone": "971521112489",
+      "email": "1lakeplaza@alrustumanioam.com",
+      "date": "2026-09-15",
+      "location": "Jumeirah Lakae Towers",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Annual Generator Maintenance Services for our One Lake Plaza, Cluster T, JLT",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-16T05:27:30.585Z"
+    },
+    {
       "id": "INQ-0272",
       "client": "Better Communities",
       "project": "Binghatti Rose - Apt 113",
@@ -5672,8 +5695,8 @@
       "quotValue": 8925,
       "securedValue": null,
       "createdBy": "BD Executive",
-      "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-09-15T13:39:24.719Z"
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-07-10T11:11:11.062Z"
     },
     {
       "id": "INQ-0018",
@@ -6046,13 +6069,13 @@
   ],
   "auditLog": [
     {
-      "inquiryId": "INQ-0019",
-      "action": "edited",
+      "inquiryId": "INQ-0273",
+      "action": "created",
       "from": null,
-      "to": null,
+      "to": "new",
       "remarks": "",
-      "user": "BD Executive",
-      "timestamp": "2026-09-15T13:39:24.719Z"
+      "user": "Admin",
+      "timestamp": "2026-09-16T05:27:30.585Z"
     },
     {
       "inquiryId": "INQ-0271",
