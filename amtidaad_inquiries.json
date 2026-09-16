@@ -43,8 +43,8 @@
       "quotValue": 519.75,
       "securedValue": 519.75,
       "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-15T12:59:13.387Z"
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-09-16T13:02:14.122Z"
     },
     {
       "id": "INQ-0271",
@@ -6069,6 +6069,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0272",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "BD Executive",
+      "timestamp": "2026-09-16T13:02:14.122Z"
+    },
+    {
       "inquiryId": "INQ-0273",
       "action": "edited",
       "from": null,
@@ -10558,15 +10567,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-28T10:44:07.007Z"
-    },
-    {
-      "inquiryId": "INQ-0090",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-28T10:21:31.514Z"
     }
   ]
 }
