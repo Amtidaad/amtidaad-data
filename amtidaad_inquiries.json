@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0276",
+      "client": "Khansaheb FMS LLC",
+      "project": "City Walk 1, 2 & boulevard- Dubai",
+      "phone": "",
+      "email": "hassan.qadri@khansaheb.com",
+      "date": "2026-09-10",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-16",
+      "followup": "",
+      "scope": "Re: RFP- AMC for Firefighting & PAVA System for City Walk 1, 2 & boulevard- Dubai  / Semi Comprehensive AMC",
+      "remarks": "Quoted by Reshmi",
+      "quotNo": "9053",
+      "quotValue": 708750,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-16T11:50:09.787Z"
+    },
+    {
       "id": "INQ-0275",
       "client": "Distinguished Real Estate",
       "project": "Al Aweer 8 Set Warehouse",
@@ -6115,6 +6138,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0276",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-16T11:50:09.787Z"
+    },
+    {
       "inquiryId": "INQ-0241",
       "action": "status_change",
       "from": "new",
@@ -10604,15 +10636,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-28T12:30:18.909Z"
-    },
-    {
-      "inquiryId": "INQ-0081",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-28T12:30:10.003Z"
     }
   ]
 }
