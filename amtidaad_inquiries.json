@@ -2380,17 +2380,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-09-15",
       "followup": "",
       "scope": "Fire Extinguisher RFQ",
-      "remarks": "shared to coordinators",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quoted by Reshmi",
+      "quotNo": "9848",
+      "quotValue": 2054.06,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-31T07:15:06.499Z"
+      "lastUpdatedAt": "2026-09-16T05:30:19.450Z"
     },
     {
       "id": "INQ-0166",
@@ -6068,6 +6068,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0167",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-16T05:30:19.450Z"
+    },
+    {
+      "inquiryId": "INQ-0167",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-16T05:30:19.450Z"
+    },
     {
       "inquiryId": "INQ-0188",
       "action": "status_change",
@@ -10549,24 +10567,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-28T07:11:21.645Z"
-    },
-    {
-      "inquiryId": "INQ-0088",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-28T07:11:21.645Z"
-    },
-    {
-      "inquiryId": "INQ-0089",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-28T06:59:45.353Z"
     }
   ]
 }
