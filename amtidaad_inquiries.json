@@ -1,75 +1,6 @@
 {
   "inquiries": [
     {
-      "id": "INQ-0276",
-      "client": "Khansaheb FMS LLC",
-      "project": "City Walk 1, 2 & boulevard- Dubai",
-      "phone": "",
-      "email": "hassan.qadri@khansaheb.com",
-      "date": "2026-09-10",
-      "location": "",
-      "service": "AMC - Full Package",
-      "source": "Email",
-      "assigned": "Estimation Team",
-      "status": "quotation",
-      "quotDate": "2026-09-16",
-      "followup": "",
-      "scope": "Re: RFP- AMC for Firefighting & PAVA System for City Walk 1, 2 & boulevard- Dubai  / Semi Comprehensive AMC - City Walk 2",
-      "remarks": "Quoted by Reshmi",
-      "quotNo": "9053",
-      "quotValue": 708750,
-      "securedValue": null,
-      "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-16T11:50:50.766Z"
-    },
-    {
-      "id": "INQ-0275",
-      "client": "Distinguished Real Estate",
-      "project": "Al Aweer 8 Set Warehouse",
-      "phone": "97143438302",
-      "email": "shahzad.saquib@dreuae.ae",
-      "date": "2026-09-16",
-      "location": "",
-      "service": "AMC - Full Package",
-      "source": "Email",
-      "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
-      "followup": "",
-      "scope": "3 Years Non-Comprehensive AMC of Firefighting & Fire Alarm at Al Aweer 8 Set Warehouse | Closing Date: 19-09-2026.",
-      "remarks": "Assigned to Reshmi",
-      "quotNo": null,
-      "quotValue": null,
-      "securedValue": null,
-      "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-16T11:05:31.884Z"
-    },
-    {
-      "id": "INQ-0274",
-      "client": "Abu Dhabi Real Estate Co. LLC",
-      "project": "HIDD AL Sadiyat",
-      "phone": "",
-      "email": "procurement@adu-re.com",
-      "date": "2026-09-16",
-      "location": "",
-      "service": "Other",
-      "source": "Email",
-      "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
-      "followup": "",
-      "scope": "Hidd Al Saadiyat - Fire-Related Work",
-      "remarks": "Assigned to Reshmi",
-      "quotNo": null,
-      "quotValue": null,
-      "securedValue": null,
-      "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-16T08:27:08.032Z"
-    },
-    {
       "id": "INQ-0273",
       "client": "Al Rustamni Owner Association Management",
       "project": "One Lake Plaza, Cluster T",
@@ -89,8 +20,8 @@
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-16T05:27:30.585Z"
+      "lastUpdatedBy": "BD Executive",
+      "lastUpdatedAt": "2026-09-16T13:00:42.703Z"
     },
     {
       "id": "INQ-0272",
@@ -747,17 +678,17 @@
       "service": "Other",
       "source": "WhatsApp",
       "assigned": "Admin",
-      "status": "awarded",
+      "status": "quotation",
       "quotDate": "2026-09-11",
       "followup": "",
       "scope": "QUOTE FLS SERVICES\nContact Person: Mr. Graham",
       "remarks": "Quoted by CEO",
       "quotNo": "9814",
       "quotValue": 11287.5,
-      "securedValue": 11287.5,
+      "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-16T12:09:54.119Z"
+      "lastUpdatedAt": "2026-09-11T08:16:03.785Z"
     },
     {
       "id": "INQ-0242",
@@ -793,17 +724,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "quotation",
-      "quotDate": "2026-09-16",
+      "status": "new",
+      "quotDate": "",
       "followup": "",
-      "scope": "RFP- AMC for Firefighting & PAVA System for City Walk 1, 2 & boulevard- Dubai ? Non Comprehensive AMC - City Walk 2",
-      "remarks": "Quoted by Reshmi",
-      "quotNo": "9851",
-      "quotValue": 215250,
+      "scope": "RFP- AMC for Firefighting & PAVA System for City Walk 1, 2 & boulevard- Dubai",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-16T11:50:39.964Z"
+      "lastUpdatedAt": "2026-09-11T07:43:43.055Z"
     },
     {
       "id": "INQ-0240",
@@ -6138,85 +6069,13 @@
   ],
   "auditLog": [
     {
-      "inquiryId": "INQ-0243",
-      "action": "status_change",
-      "from": "quotation",
-      "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-16T12:09:54.119Z"
-    },
-    {
-      "inquiryId": "INQ-0243",
+      "inquiryId": "INQ-0273",
       "action": "edited",
       "from": null,
       "to": null,
       "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-16T12:09:54.119Z"
-    },
-    {
-      "inquiryId": "INQ-0276",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-16T11:50:50.766Z"
-    },
-    {
-      "inquiryId": "INQ-0241",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-16T11:50:39.964Z"
-    },
-    {
-      "inquiryId": "INQ-0276",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-16T11:50:09.787Z"
-    },
-    {
-      "inquiryId": "INQ-0241",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-16T11:47:58.098Z"
-    },
-    {
-      "inquiryId": "INQ-0241",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-16T11:47:58.098Z"
-    },
-    {
-      "inquiryId": "INQ-0275",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-16T11:05:31.884Z"
-    },
-    {
-      "inquiryId": "INQ-0274",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-16T08:27:08.032Z"
+      "user": "BD Executive",
+      "timestamp": "2026-09-16T13:00:42.703Z"
     },
     {
       "inquiryId": "INQ-0167",
@@ -10636,6 +10495,78 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-28T12:33:34.609Z"
+    },
+    {
+      "inquiryId": "INQ-0082",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-28T12:31:01.257Z"
+    },
+    {
+      "inquiryId": "INQ-0082",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-28T12:31:01.257Z"
+    },
+    {
+      "inquiryId": "INQ-0081",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-28T12:30:18.909Z"
+    },
+    {
+      "inquiryId": "INQ-0081",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-28T12:30:18.909Z"
+    },
+    {
+      "inquiryId": "INQ-0081",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-28T12:30:10.003Z"
+    },
+    {
+      "inquiryId": "INQ-0071",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-28T12:25:47.417Z"
+    },
+    {
+      "inquiryId": "INQ-0091",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-28T10:44:07.007Z"
+    },
+    {
+      "inquiryId": "INQ-0090",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-07-28T10:21:31.514Z"
     }
   ]
 }
