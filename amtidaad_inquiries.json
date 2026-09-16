@@ -14,14 +14,14 @@
       "status": "quotation",
       "quotDate": "2026-09-16",
       "followup": "",
-      "scope": "Re: RFP- AMC for Firefighting & PAVA System for City Walk 1, 2 & boulevard- Dubai  / Semi Comprehensive AMC",
+      "scope": "Re: RFP- AMC for Firefighting & PAVA System for City Walk 1, 2 & boulevard- Dubai  / Semi Comprehensive AMC - City Walk 2",
       "remarks": "Quoted by Reshmi",
       "quotNo": "9053",
       "quotValue": 708750,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-16T11:50:09.787Z"
+      "lastUpdatedAt": "2026-09-16T11:50:50.766Z"
     },
     {
       "id": "INQ-0275",
@@ -6138,6 +6138,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0276",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-16T11:50:50.766Z"
+    },
+    {
       "inquiryId": "INQ-0241",
       "action": "edited",
       "from": null,
@@ -10627,15 +10636,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-28T12:31:01.257Z"
-    },
-    {
-      "inquiryId": "INQ-0081",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-28T12:30:18.909Z"
     }
   ]
 }
