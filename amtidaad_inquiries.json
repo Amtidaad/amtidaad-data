@@ -770,17 +770,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-09-16",
       "followup": "",
       "scope": "RFP- AMC for Firefighting & PAVA System for City Walk 1, 2 & boulevard- Dubai",
-      "remarks": "Assigned to Reshmi",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quoted by Reshmi",
+      "quotNo": "9851",
+      "quotValue": 215250,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-11T07:43:43.055Z"
+      "lastUpdatedAt": "2026-09-16T11:47:58.098Z"
     },
     {
       "id": "INQ-0240",
@@ -6115,6 +6115,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0241",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-16T11:47:58.098Z"
+    },
+    {
+      "inquiryId": "INQ-0241",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-16T11:47:58.098Z"
+    },
+    {
       "inquiryId": "INQ-0275",
       "action": "created",
       "from": null,
@@ -10595,24 +10613,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-28T12:30:10.003Z"
-    },
-    {
-      "inquiryId": "INQ-0071",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-28T12:25:47.417Z"
-    },
-    {
-      "inquiryId": "INQ-0091",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-28T10:44:07.007Z"
     }
   ]
 }
