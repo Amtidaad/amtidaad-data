@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0275",
+      "client": "Distinguished Real Estate",
+      "project": "Al Aweer 8 Set Warehouse",
+      "phone": "97143438302",
+      "email": "shahzad.saquib@dreuae.ae",
+      "date": "2026-09-16",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "3 Years Non-Comprehensive AMC of Firefighting & Fire Alarm at Al Aweer 8 Set Warehouse | Closing Date: 19-09-2026.",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-16T11:05:31.884Z"
+    },
+    {
       "id": "INQ-0274",
       "client": "Abu Dhabi Real Estate Co. LLC",
       "project": "HIDD AL Sadiyat",
@@ -6092,6 +6115,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0275",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-16T11:05:31.884Z"
+    },
+    {
       "inquiryId": "INQ-0274",
       "action": "created",
       "from": null,
@@ -10581,15 +10613,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-28T10:44:07.007Z"
-    },
-    {
-      "inquiryId": "INQ-0090",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-28T10:21:31.514Z"
     }
   ]
 }
