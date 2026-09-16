@@ -1897,17 +1897,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-09-15",
       "followup": "",
       "scope": "RFQ-555 / DCP for refilling with TCP",
-      "remarks": "shared to both coordinators",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quoted by Reshmi",
+      "quotNo": "9849",
+      "quotValue": 1706.25,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-31T07:20:07.954Z"
+      "lastUpdatedAt": "2026-09-16T05:29:32.634Z"
     },
     {
       "id": "INQ-0187",
@@ -6068,6 +6068,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0188",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-16T05:29:32.634Z"
+    },
+    {
+      "inquiryId": "INQ-0188",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-16T05:29:32.634Z"
+    },
     {
       "inquiryId": "INQ-0196",
       "action": "status_change",
@@ -10549,24 +10567,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-28T06:59:45.353Z"
-    },
-    {
-      "inquiryId": "INQ-0088",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-28T06:06:09.741Z"
-    },
-    {
-      "inquiryId": "INQ-0087",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-28T05:08:32.344Z"
     }
   ]
 }
