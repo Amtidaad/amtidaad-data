@@ -954,17 +954,17 @@
       "service": "Fire Extinguisher Refilling",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "quotation",
+      "status": "awarded",
       "quotDate": "2026-09-11",
       "followup": "",
       "scope": "Inquiry - Refilling of Extinguishers",
-      "remarks": "Quoted by Faizan",
+      "remarks": "Quoted by Faizan / email confirmation received on 17th Sep",
       "quotNo": "9812",
-      "quotValue": 548.1,
-      "securedValue": null,
+      "quotValue": 1201.2,
+      "securedValue": 1201.2,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-11T07:41:19.921Z"
+      "lastUpdatedAt": "2026-09-17T10:56:17.743Z"
     },
     {
       "id": "INQ-0239",
@@ -6276,6 +6276,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0240",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-17T10:56:17.743Z"
+    },
+    {
+      "inquiryId": "INQ-0240",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-17T10:56:17.743Z"
+    },
+    {
       "inquiryId": "INQ-0282",
       "action": "edited",
       "from": null,
@@ -10756,24 +10774,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-03T05:18:26.329Z"
-    },
-    {
-      "inquiryId": "INQ-0101",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-01T09:29:33.762Z"
-    },
-    {
-      "inquiryId": "INQ-0101",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-01T09:29:33.762Z"
     }
   ]
 }
