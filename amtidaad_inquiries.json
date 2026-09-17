@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0285",
+      "client": "Persona Salon DMCC",
+      "project": "Shop 3 Lakeside Residence",
+      "phone": "",
+      "email": "",
+      "date": "2026-09-17",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "2026-09-17",
+      "followup": "",
+      "scope": "AMC Fire Alarm & Fire Extinguisher",
+      "remarks": "Quoted by Faizan / approval received on 17 Sep",
+      "quotNo": "9872",
+      "quotValue": 2100,
+      "securedValue": 2100,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-17T12:24:25.447Z"
+    },
+    {
       "id": "INQ-0284",
       "client": "Deira Waterfront Hotel",
       "project": "Adagio Dubai Gold District",
@@ -6322,6 +6345,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0285",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-17T12:24:25.447Z"
+    },
+    {
       "inquiryId": "INQ-0284",
       "action": "created",
       "from": null,
@@ -10811,15 +10843,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-05T08:00:08.772Z"
-    },
-    {
-      "inquiryId": "INQ-0111",
-      "action": "created",
-      "from": null,
-      "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-05T05:10:09.988Z"
     }
   ]
 }
