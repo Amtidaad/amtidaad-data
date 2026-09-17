@@ -1621,17 +1621,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "Fire Fighting material",
-      "remarks": "Sent to Reshmi",
+      "remarks": "Not participating (did not share quotation)",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-03T05:22:02.977Z"
+      "lastUpdatedAt": "2026-09-17T08:31:06.113Z"
     },
     {
       "id": "INQ-0209",
@@ -6276,6 +6276,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0210",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-17T08:31:06.113Z"
+    },
+    {
+      "inquiryId": "INQ-0210",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-17T08:31:06.113Z"
+    },
+    {
       "inquiryId": "INQ-0200",
       "action": "status_change",
       "from": "new",
@@ -10756,24 +10774,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-01T05:04:37.565Z"
-    },
-    {
-      "inquiryId": "INQ-0102",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-01T05:03:56.026Z"
-    },
-    {
-      "inquiryId": "INQ-0088",
-      "action": "status_change",
-      "from": "quotation",
-      "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-01T04:46:34.800Z"
     }
   ]
 }
