@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0283",
+      "client": "HOAM - Highrise Owners Association Management",
+      "project": "Divine Residence",
+      "phone": "",
+      "email": "cas.t1@hoam.me",
+      "date": "2026-09-14",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Admin",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "JB004-26-04208 (RF)- Replacement of Fire Alarm, Voice evacuation & Fighting Equipment - Divine Residence",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-17T12:18:40.631Z"
+    },
+    {
       "id": "INQ-0282",
       "client": "Al Wasel Fire Fighting LLC",
       "project": "",
@@ -6276,6 +6299,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0283",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-17T12:18:40.631Z"
+    },
+    {
       "inquiryId": "INQ-0240",
       "action": "status_change",
       "from": "quotation",
@@ -10765,15 +10797,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-03T05:20:02.852Z"
-    },
-    {
-      "inquiryId": "INQ-0108",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-03T05:18:26.329Z"
     }
   ]
 }
