@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0284",
+      "client": "Deira Waterfront Hotel",
+      "project": "Adagio Dubai Gold District",
+      "phone": "971551212403",
+      "email": "Mohammad.KHAN@accor.com",
+      "date": "2026-09-17",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-17",
+      "followup": "",
+      "scope": "Central Battery System Faulty Component Replacement ---- Adagio Dubai Gold District",
+      "remarks": "quoted by Faizan",
+      "quotNo": "9874",
+      "quotValue": 46987.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-17T12:21:55.331Z"
+    },
+    {
       "id": "INQ-0283",
       "client": "HOAM - Highrise Owners Association Management",
       "project": "Divine Residence",
@@ -6299,6 +6322,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0284",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-17T12:21:55.331Z"
+    },
+    {
       "inquiryId": "INQ-0283",
       "action": "created",
       "from": null,
@@ -10788,15 +10820,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-05T05:10:09.988Z"
-    },
-    {
-      "inquiryId": "INQ-0110",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-03T05:20:02.852Z"
     }
   ]
 }
