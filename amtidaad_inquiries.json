@@ -15,13 +15,13 @@
       "quotDate": "2026-09-17",
       "followup": "",
       "scope": "REQUEST FOR QUOTE ( Fire Extingusher)",
-      "remarks": "Quoted by Faizan",
+      "remarks": "Quoted by Faizan\n\nContact Person - Shafir (Purchase) - 055122857",
       "quotNo": "9864",
       "quotValue": 132126.75,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-17T09:57:49.992Z"
+      "lastUpdatedAt": "2026-09-17T10:24:54.441Z"
     },
     {
       "id": "INQ-0281",
@@ -6282,6 +6282,15 @@
       "to": null,
       "remarks": "",
       "user": "Admin",
+      "timestamp": "2026-09-17T10:24:54.441Z"
+    },
+    {
+      "inquiryId": "INQ-0282",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
       "timestamp": "2026-09-17T09:57:49.992Z"
     },
     {
@@ -10765,15 +10774,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-01T09:29:33.762Z"
-    },
-    {
-      "inquiryId": "INQ-0109",
-      "action": "created",
-      "from": null,
-      "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-01T09:28:01.388Z"
     }
   ]
 }
