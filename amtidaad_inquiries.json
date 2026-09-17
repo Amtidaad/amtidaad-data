@@ -11,17 +11,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-09-17",
       "followup": "",
       "scope": "REQUEST FOR QUOTE ( Fire Extingusher)",
-      "remarks": "",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quoted by Faizan",
+      "quotNo": "9864",
+      "quotValue": 132126.75,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-17T04:46:52.497Z"
+      "lastUpdatedAt": "2026-09-17T09:56:54.606Z"
     },
     {
       "id": "INQ-0281",
@@ -6276,6 +6276,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0282",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-17T09:56:54.606Z"
+    },
+    {
+      "inquiryId": "INQ-0282",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-17T09:56:54.606Z"
+    },
+    {
       "inquiryId": "INQ-0225",
       "action": "status_change",
       "from": "new",
@@ -10756,24 +10774,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-01T08:23:26.712Z"
-    },
-    {
-      "inquiryId": "INQ-0107",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-01T07:29:01.230Z"
-    },
-    {
-      "inquiryId": "INQ-0106",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-01T05:39:07.807Z"
     }
   ]
 }
