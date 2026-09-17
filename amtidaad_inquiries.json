@@ -1460,17 +1460,17 @@
       "service": "Other",
       "source": "WhatsApp",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "Nitrogen Top up",
-      "remarks": "Shared query to Faizan for assigning with coordinators",
+      "remarks": "Not participating (did not share quotation)",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-04T07:27:57.740Z"
+      "lastUpdatedAt": "2026-09-17T08:31:17.066Z"
     },
     {
       "id": "INQ-0216",
@@ -6276,6 +6276,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0217",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-17T08:31:17.066Z"
+    },
+    {
+      "inquiryId": "INQ-0217",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-17T08:31:17.066Z"
+    },
+    {
       "inquiryId": "INQ-0210",
       "action": "status_change",
       "from": "new",
@@ -10756,24 +10774,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-01T05:09:52.422Z"
-    },
-    {
-      "inquiryId": "INQ-0103",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-01T05:06:32.108Z"
-    },
-    {
-      "inquiryId": "INQ-0088",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-01T05:04:37.565Z"
     }
   ]
 }
