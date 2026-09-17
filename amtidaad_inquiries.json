@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0280",
+      "client": "Tritec",
+      "project": "",
+      "phone": "97165584690 ext 448",
+      "email": "ashley@tritectr.com",
+      "date": "2026-09-16",
+      "location": "Sharjah",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Request for the quote/GINC-26-00429/BRK Battery Smoke Alarm &KIDDE Carbon Monoxide Alarm",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-17T04:27:25.227Z"
+    },
+    {
       "id": "INQ-0279",
       "client": "Unimec Industrial Equipments Supplies &  Services LLC",
       "project": "",
@@ -6207,6 +6230,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0280",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-17T04:27:25.227Z"
+    },
+    {
       "inquiryId": "INQ-0279",
       "action": "created",
       "from": null,
@@ -10696,15 +10728,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-29T13:24:56.993Z"
-    },
-    {
-      "inquiryId": "INQ-0096",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-29T13:24:23.519Z"
     }
   ]
 }
