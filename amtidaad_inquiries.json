@@ -1874,17 +1874,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "Request for price (NORMALUX) B No 154",
-      "remarks": "shared to both coordinators",
+      "remarks": "Not participating (did not share quotation)",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-31T07:27:14.487Z"
+      "lastUpdatedAt": "2026-09-17T08:30:40.106Z"
     },
     {
       "id": "INQ-0198",
@@ -6275,6 +6275,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0199",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-17T08:30:40.106Z"
+    },
+    {
+      "inquiryId": "INQ-0199",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-17T08:30:40.106Z"
+    },
     {
       "inquiryId": "INQ-0175",
       "action": "status_change",
@@ -10756,24 +10774,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-31T08:02:43.136Z"
-    },
-    {
-      "inquiryId": "INQ-0101",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-31T07:07:16.709Z"
-    },
-    {
-      "inquiryId": "INQ-0100",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-30T11:36:19.115Z"
     }
   ]
 }
