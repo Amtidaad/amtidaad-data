@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0282",
+      "client": "Al Wasel Fire Fighting LLC",
+      "project": "",
+      "phone": "",
+      "email": "purchase@alwaselfirefighting.com",
+      "date": "2026-09-17",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "REQUEST FOR QUOTE ( Fire Extingusher)",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-17T04:46:52.497Z"
+    },
+    {
       "id": "INQ-0281",
       "client": "Dalkia EDF Group",
       "project": "",
@@ -6253,6 +6276,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0282",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-17T04:46:52.497Z"
+    },
+    {
       "inquiryId": "INQ-0281",
       "action": "created",
       "from": null,
@@ -10742,15 +10774,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-30T05:36:04.526Z"
-    },
-    {
-      "inquiryId": "INQ-0097",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-30T05:34:58.732Z"
     }
   ]
 }
