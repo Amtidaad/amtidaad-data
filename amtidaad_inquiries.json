@@ -4,7 +4,7 @@
       "id": "INQ-0282",
       "client": "Al Wasel Fire Fighting LLC",
       "project": "",
-      "phone": "",
+      "phone": "97143370027",
       "email": "purchase@alwaselfirefighting.com",
       "date": "2026-09-17",
       "location": "",
@@ -21,7 +21,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-17T09:56:54.606Z"
+      "lastUpdatedAt": "2026-09-17T09:57:49.992Z"
     },
     {
       "id": "INQ-0281",
@@ -6277,6 +6277,15 @@
   "auditLog": [
     {
       "inquiryId": "INQ-0282",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-17T09:57:49.992Z"
+    },
+    {
+      "inquiryId": "INQ-0282",
       "action": "status_change",
       "from": "new",
       "to": "quotation",
@@ -10765,15 +10774,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-01T09:28:01.388Z"
-    },
-    {
-      "inquiryId": "INQ-0108",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-01T08:23:26.712Z"
     }
   ]
 }
