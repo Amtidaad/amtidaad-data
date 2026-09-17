@@ -57,17 +57,17 @@
       "service": "AMC - Full Package",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-09-16",
       "followup": "",
       "scope": "3 Years Non-Comprehensive AMC of Firefighting & Fire Alarm at Al Aweer 8 Set Warehouse | Closing Date: 19-09-2026.",
-      "remarks": "Assigned to Reshmi",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quoted by Reshmi",
+      "quotNo": "9856",
+      "quotValue": 11025,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-16T11:05:31.884Z"
+      "lastUpdatedAt": "2026-09-17T04:22:30.287Z"
     },
     {
       "id": "INQ-0274",
@@ -6161,6 +6161,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0275",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-17T04:22:30.287Z"
+    },
+    {
+      "inquiryId": "INQ-0275",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-17T04:22:30.287Z"
+    },
+    {
       "inquiryId": "INQ-0277",
       "action": "created",
       "from": null,
@@ -10641,24 +10659,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-29T12:22:15.378Z"
-    },
-    {
-      "inquiryId": "INQ-0044",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-29T07:21:54.507Z"
-    },
-    {
-      "inquiryId": "INQ-0093",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-29T05:30:24.919Z"
     }
   ]
 }
