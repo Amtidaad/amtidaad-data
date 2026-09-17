@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0278",
+      "client": "Gungen Denizcilik ve Ticaret A.S.",
+      "project": "OTTOMAN EQUITY / HHI1962  ",
+      "phone": "+902165565656",
+      "email": "purchasing@gungen.com",
+      "date": "2026-09-16",
+      "location": "Fujairah",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "GUNGEN MARITIME // OTEYSP202600101***//Quotation//OTTOMAN EQUITY //  @FUJAIRAH",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-17T04:24:41.024Z"
+    },
+    {
       "id": "INQ-0277",
       "client": "JAMS Logistics",
       "project": "JAMS Logistics",
@@ -6161,6 +6184,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0278",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-17T04:24:41.024Z"
+    },
+    {
       "inquiryId": "INQ-0275",
       "action": "status_change",
       "from": "new",
@@ -10650,15 +10682,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-29T13:06:53.999Z"
-    },
-    {
-      "inquiryId": "INQ-0094",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-29T12:22:15.378Z"
     }
   ]
 }
