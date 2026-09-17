@@ -2656,17 +2656,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "Mini Monitor Module",
-      "remarks": "inquiry forwarded to Coordinators",
+      "remarks": "Not participating (did not share quotation)",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-31T07:14:01.112Z"
+      "lastUpdatedAt": "2026-09-17T08:30:16.262Z"
     },
     {
       "id": "INQ-0162",
@@ -6275,6 +6275,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0163",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-17T08:30:16.262Z"
+    },
+    {
+      "inquiryId": "INQ-0163",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-17T08:30:16.262Z"
+    },
     {
       "inquiryId": "INQ-0229",
       "action": "status_change",
@@ -10756,24 +10774,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-30T11:11:51.759Z"
-    },
-    {
-      "inquiryId": "INQ-0071",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-30T11:11:51.759Z"
-    },
-    {
-      "inquiryId": "INQ-0095",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-30T11:08:56.416Z"
     }
   ]
 }
