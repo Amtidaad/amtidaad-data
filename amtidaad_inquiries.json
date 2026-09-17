@@ -2403,17 +2403,17 @@
       "service": "Other",
       "source": "",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "TYCO Sprinkler / Request for Quotation – Original TYCO Fire Sprinklers",
-      "remarks": "shared the inquiry to both coordinators",
+      "remarks": "Not participating (did not share quotation)",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-31T07:19:24.578Z"
+      "lastUpdatedAt": "2026-09-17T08:30:27.234Z"
     },
     {
       "id": "INQ-0174",
@@ -6275,6 +6275,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0175",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-17T08:30:27.234Z"
+    },
+    {
+      "inquiryId": "INQ-0175",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-17T08:30:27.234Z"
+    },
     {
       "inquiryId": "INQ-0163",
       "action": "status_change",
@@ -10756,24 +10774,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-30T11:36:19.115Z"
-    },
-    {
-      "inquiryId": "INQ-0099",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-30T11:14:10.618Z"
-    },
-    {
-      "inquiryId": "INQ-0071",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-30T11:11:51.759Z"
     }
   ]
 }
