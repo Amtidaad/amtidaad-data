@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0279",
+      "client": "Unimec Industrial Equipments Supplies &  Services LLC",
+      "project": "",
+      "phone": "971566998797",
+      "email": "sales@unimecgroup.com",
+      "date": "2026-09-16",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "RFQ-UNI-D-R0983-26 FIRE DETECTOR",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-17T04:26:03.377Z"
+    },
+    {
       "id": "INQ-0278",
       "client": "Gungen Denizcilik ve Ticaret A.S.",
       "project": "OTTOMAN EQUITY / HHI1962  ",
@@ -6184,6 +6207,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0279",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-17T04:26:03.377Z"
+    },
+    {
       "inquiryId": "INQ-0278",
       "action": "created",
       "from": null,
@@ -10673,15 +10705,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-29T13:24:23.519Z"
-    },
-    {
-      "inquiryId": "INQ-0095",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-29T13:06:53.999Z"
     }
   ]
 }
