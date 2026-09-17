@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0281",
+      "client": "Dalkia EDF Group",
+      "project": "",
+      "phone": "971505597874",
+      "email": "mulk.muhammad@dalkia-me.com",
+      "date": "2026-09-16",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Capacitor bank replacement for MDB 5- ERFA.",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-17T04:28:28.011Z"
+    },
+    {
       "id": "INQ-0280",
       "client": "Tritec",
       "project": "",
@@ -6230,6 +6253,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0281",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-17T04:28:28.011Z"
+    },
+    {
       "inquiryId": "INQ-0280",
       "action": "created",
       "from": null,
@@ -10719,15 +10751,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-07-30T05:34:58.732Z"
-    },
-    {
-      "inquiryId": "INQ-0044",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-07-29T13:24:56.993Z"
     }
   ]
 }
