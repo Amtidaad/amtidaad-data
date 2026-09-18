@@ -333,17 +333,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-09-18",
       "followup": "",
       "scope": "Annual Generator Maintenance Services for our One Lake Plaza, Cluster T, JLT",
-      "remarks": "Assigned to Reshmi",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quoted by Reshmi",
+      "quotNo": "9887",
+      "quotValue": 4200,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-16T05:27:30.585Z"
+      "lastUpdatedAt": "2026-09-18T10:19:06.820Z"
     },
     {
       "id": "INQ-0272",
@@ -6391,6 +6391,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0273",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-18T10:19:06.820Z"
+    },
+    {
+      "inquiryId": "INQ-0273",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-18T10:19:06.820Z"
+    },
+    {
       "inquiryId": "INQ-0287",
       "action": "created",
       "from": null,
@@ -10871,24 +10889,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-07T06:50:55.415Z"
-    },
-    {
-      "inquiryId": "INQ-0117",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-06T12:40:51.640Z"
-    },
-    {
-      "inquiryId": "INQ-0116",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-06T11:13:18.723Z"
     }
   ]
 }
