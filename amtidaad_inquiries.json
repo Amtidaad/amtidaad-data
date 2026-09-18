@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0287",
+      "client": "N89 Restaurant & Lounge DMCC",
+      "project": "Goldcrest View - N89 Restaurant & Lounge DMCC",
+      "phone": "",
+      "email": "Sujith@brandlabs.com",
+      "date": "2026-09-07",
+      "location": "",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-18",
+      "followup": "",
+      "scope": "N89 Restaurant and Lounge DMCC - Quotation for AMC Renewal (Non Comprehensive AMC)",
+      "remarks": "Quoted by Angelika",
+      "quotNo": "9783",
+      "quotValue": 1995,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-18T09:56:20.928Z"
+    },
+    {
       "id": "INQ-0286",
       "client": "Astrea Technical Services",
       "project": "AG19965 - SAS Al Nakhl (SAN) JOC Interior Construction",
@@ -6368,6 +6391,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0287",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-18T09:56:20.928Z"
+    },
+    {
       "inquiryId": "INQ-0229",
       "action": "status_change",
       "from": "approved",
@@ -10857,15 +10889,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-06T11:13:18.723Z"
-    },
-    {
-      "inquiryId": "INQ-0115",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-06T08:12:29.596Z"
     }
   ]
 }
