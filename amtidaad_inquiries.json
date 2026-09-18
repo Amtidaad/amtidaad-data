@@ -1299,17 +1299,17 @@
       "service": "FM200 / Clean Agent",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "approved",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-09-18",
       "followup": "",
       "scope": "Supply & Installation of FM-200 Fire Suppression System",
-      "remarks": "Closed already",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quoted by Faizan",
+      "quotNo": "9883",
+      "quotValue": 47722.5,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-17T08:28:42.328Z"
+      "lastUpdatedAt": "2026-09-18T09:52:24.605Z"
     },
     {
       "id": "INQ-0228",
@@ -6368,6 +6368,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0229",
+      "action": "status_change",
+      "from": "approved",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-18T09:52:24.606Z"
+    },
+    {
+      "inquiryId": "INQ-0229",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-18T09:52:24.605Z"
+    },
+    {
       "inquiryId": "INQ-0247",
       "action": "status_change",
       "from": "new",
@@ -10848,24 +10866,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-06T08:12:29.596Z"
-    },
-    {
-      "inquiryId": "INQ-0114",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-06T06:05:03.481Z"
-    },
-    {
-      "inquiryId": "INQ-0113",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-05T11:52:29.466Z"
     }
   ]
 }
