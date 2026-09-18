@@ -885,17 +885,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-09-18",
       "followup": "",
       "scope": "REQUEST FOR PROPOSALS_CHAIMAA AVENUE 2_RECTIFICATION OF FIRE FIGHTING",
-      "remarks": "",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quoted by Reshmi",
+      "quotNo": "9833",
+      "quotValue": 22050,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-11T10:15:24.178Z"
+      "lastUpdatedAt": "2026-09-18T06:49:35.153Z"
     },
     {
       "id": "INQ-0246",
@@ -6368,6 +6368,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0247",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-18T06:49:35.153Z"
+    },
+    {
+      "inquiryId": "INQ-0247",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-18T06:49:35.153Z"
+    },
+    {
       "inquiryId": "INQ-0286",
       "action": "created",
       "from": null,
@@ -10848,24 +10866,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-05T11:52:29.466Z"
-    },
-    {
-      "inquiryId": "INQ-0112",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-05T08:06:06.780Z"
-    },
-    {
-      "inquiryId": "INQ-0077",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-05T08:00:08.772Z"
     }
   ]
 }
