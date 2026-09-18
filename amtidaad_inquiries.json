@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0286",
+      "client": "Astrea Technical Services",
+      "project": "AG19965 - SAS Al Nakhl (SAN) JOC Interior Construction",
+      "phone": "+639567000302",
+      "email": "eufronio@astreagroup.com",
+      "date": "2026-09-17",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-18",
+      "followup": "",
+      "scope": "RFQ: Supply and Delivery of Fire Alarm & Life Safety (AG19965 - SAS Al Nakhl (SAN) JOC Interior Construction)",
+      "remarks": "Quoted by Faizan",
+      "quotNo": "9880",
+      "quotValue": 22417.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-18T06:09:00.493Z"
+    },
+    {
       "id": "INQ-0285",
       "client": "Persona Salon DMCC",
       "project": "Shop 3 Lakeside Residence",
@@ -6345,6 +6368,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0286",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-18T06:09:00.493Z"
+    },
+    {
       "inquiryId": "INQ-0285",
       "action": "created",
       "from": null,
@@ -10831,15 +10863,6 @@
       "action": "status_change",
       "from": "new",
       "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-05T08:00:08.772Z"
-    },
-    {
-      "inquiryId": "INQ-0077",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-05T08:00:08.772Z"
