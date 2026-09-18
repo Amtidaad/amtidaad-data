@@ -1553,16 +1553,16 @@
       "source": "WhatsApp",
       "assigned": "BD Executive",
       "status": "quotation",
-      "quotDate": "2026-09-04",
+      "quotDate": "2026-09-18",
       "followup": "",
       "scope": "New System Installation",
-      "remarks": "Quotation prepared by Gary & shared to client by Shamsa",
-      "quotNo": "9743",
-      "quotValue": 172520.25,
+      "remarks": "Quotation prepared by Gary & shared to client by Shamsa/revised quotation shared by reshmi (original SO 9743)",
+      "quotNo": "9888",
+      "quotValue": 170163,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-04T07:40:02.166Z"
+      "lastUpdatedAt": "2026-09-18T13:28:59.636Z"
     },
     {
       "id": "INQ-0217",
@@ -6391,6 +6391,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0218",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-18T13:28:59.636Z"
+    },
+    {
       "inquiryId": "INQ-0273",
       "action": "status_change",
       "from": "new",
@@ -10880,15 +10889,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-07T09:38:10.769Z"
-    },
-    {
-      "inquiryId": "INQ-0118",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-07T06:50:55.415Z"
     }
   ]
 }
