@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0288",
+      "client": "Stratum",
+      "project": "Kappa Acca 4",
+      "phone": "971561755411",
+      "email": "Procurement3@stratum.ae",
+      "date": "2026-09-19",
+      "location": "Dubai South",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "RFP_Request for Supplier Proposal – Rectification of Fire System",
+      "remarks": "Assigned to Reshmi\nContact Person: Mr. Yawar",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-19T06:48:59.476Z"
+    },
+    {
       "id": "INQ-0287",
       "client": "N89 Restaurant & Lounge DMCC",
       "project": "Goldcrest View - N89 Restaurant & Lounge DMCC",
@@ -6391,6 +6414,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0288",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-19T06:48:59.476Z"
+    },
+    {
       "inquiryId": "INQ-0218",
       "action": "edited",
       "from": null,
@@ -10877,15 +10909,6 @@
       "action": "status_change",
       "from": "new",
       "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-07T09:38:10.769Z"
-    },
-    {
-      "inquiryId": "INQ-0112",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-07T09:38:10.769Z"
