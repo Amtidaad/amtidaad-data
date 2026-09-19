@@ -1115,17 +1115,17 @@
       "service": "Other",
       "source": "Website",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "lost",
       "quotDate": "",
       "followup": "",
       "scope": "Supply and Replacement of Emergency Lighting System at Boulevard Point Downtown",
-      "remarks": "Query from portal handled by Reshmi",
+      "remarks": "Query from portal handled by Reshmi/\nRFP Closed Quotation not submitted",
       "quotNo": null,
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-11T06:29:01.744Z"
+      "lastUpdatedAt": "2026-09-19T07:46:55.800Z"
     },
     {
       "id": "INQ-0238",
@@ -6414,6 +6414,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0239",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-19T07:46:55.800Z"
+    },
+    {
+      "inquiryId": "INQ-0239",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-19T07:46:55.800Z"
+    },
+    {
       "inquiryId": "INQ-0288",
       "action": "created",
       "from": null,
@@ -10894,24 +10912,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-07T09:49:35.828Z"
-    },
-    {
-      "inquiryId": "INQ-0119",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-07T09:48:25.619Z"
-    },
-    {
-      "inquiryId": "INQ-0112",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-07T09:38:10.769Z"
     }
   ]
 }
