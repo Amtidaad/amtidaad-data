@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0289",
+      "client": "Wermany Techinical Services Contracting LLC",
+      "project": "RAK Room INtegrity Testing",
+      "phone": "",
+      "email": "",
+      "date": "2026-09-21",
+      "location": "RAK",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "2026-09-21",
+      "followup": "",
+      "scope": "Room INtegrity Testing",
+      "remarks": "Quoted by Reshmi / LPO WTSC26-PO-024",
+      "quotNo": "9904",
+      "quotValue": 3465,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-21T13:21:04.102Z"
+    },
+    {
       "id": "INQ-0288",
       "client": "Stratum",
       "project": "Kappa Acca 4",
@@ -6394,6 +6417,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0289",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-21T13:21:04.102Z"
+    },
+    {
       "inquiryId": "INQ-0024",
       "action": "edited",
       "from": null,
@@ -10883,15 +10915,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-07T10:44:09.463Z"
-    },
-    {
-      "inquiryId": "INQ-0123",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-07T10:44:00.341Z"
     }
   ]
 }
