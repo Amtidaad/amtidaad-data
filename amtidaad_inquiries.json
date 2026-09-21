@@ -5904,9 +5904,12 @@
       "followup": "",
       "scope": "refilling of FM 200",
       "remarks": "Assigned to Reshmi | SO9280 - AED 7,225",
+      "quotNo": "9280",
+      "quotValue": 7586.25,
+      "securedValue": null,
       "createdBy": "BD Executive",
-      "lastUpdatedBy": "BD Executive",
-      "lastUpdatedAt": "2026-07-02T11:47:49.130Z"
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-21T12:04:19.146Z"
     },
     {
       "id": "INQ-0023",
@@ -6390,6 +6393,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0024",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-21T12:04:19.146Z"
+    },
     {
       "inquiryId": "INQ-0283",
       "action": "status_change",
@@ -10880,15 +10892,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-07T10:28:40.819Z"
-    },
-    {
-      "inquiryId": "INQ-0121",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-07T09:52:34.891Z"
     }
   ]
 }
