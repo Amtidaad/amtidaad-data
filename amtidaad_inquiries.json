@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0294",
+      "client": "Costco Mini Mart LLC",
+      "project": "Pinnacle Retail - Shop 04",
+      "phone": "971529356945",
+      "email": "accounts2@alosooll.com",
+      "date": "2026-09-22",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-22",
+      "followup": "",
+      "scope": "AMC Renewal",
+      "remarks": "Quoted by Angelika",
+      "quotNo": "9912",
+      "quotValue": 2000,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-22T13:07:33.188Z"
+    },
+    {
       "id": "INQ-0293",
       "client": "Royal Data Systems",
       "project": "",
@@ -6509,6 +6532,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0294",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-22T13:07:33.188Z"
+    },
+    {
       "inquiryId": "INQ-0293",
       "action": "created",
       "from": null,
@@ -10998,15 +11030,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-08T04:36:36.501Z"
-    },
-    {
-      "inquiryId": "INQ-0127",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-07T13:00:16.111Z"
     }
   ]
 }
