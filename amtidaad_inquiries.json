@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0292",
+      "client": "Dubai World Trade Center",
+      "project": "",
+      "phone": "",
+      "email": "Ajay.Raghavan@dwtc.com>",
+      "date": "2026-09-18",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Emergency Exits Boards",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-22T10:08:07.258Z"
+    },
+    {
       "id": "INQ-0291",
       "client": "SG Community Management Services LLC",
       "project": "Centrium Tower",
@@ -6463,6 +6486,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0292",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-22T10:08:07.258Z"
+    },
+    {
       "inquiryId": "INQ-0291",
       "action": "created",
       "from": null,
@@ -10952,15 +10984,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-07T12:30:01.694Z"
-    },
-    {
-      "inquiryId": "INQ-0125",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-07T12:01:09.306Z"
     }
   ]
 }
