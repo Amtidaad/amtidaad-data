@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0290",
+      "client": "Stratum",
+      "project": "Palm Couture Residence",
+      "phone": "97142826460",
+      "email": "Contracts1@stratum.ae",
+      "date": "2026-09-21",
+      "location": "Palm Jumeirah",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "REQUEST FOR PROPOSALS_PALM COUTURE RESIDENCE_RECTIFICATION OF FIRE FIGHTING SYSTEM",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-22T05:14:22.167Z"
+    },
+    {
       "id": "INQ-0289",
       "client": "Wermany Techinical Services Contracting LLC",
       "project": "RAK Room INtegrity Testing",
@@ -6417,6 +6440,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0290",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-22T05:14:22.167Z"
+    },
+    {
       "inquiryId": "INQ-0289",
       "action": "created",
       "from": null,
@@ -10903,15 +10935,6 @@
       "action": "status_change",
       "from": "new",
       "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-07T10:44:09.463Z"
-    },
-    {
-      "inquiryId": "INQ-0123",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-07T10:44:09.463Z"
