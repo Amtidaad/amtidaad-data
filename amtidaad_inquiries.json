@@ -1018,22 +1018,22 @@
       "project": "•TG2144 - Construction of Townhouses and Semi-Detached Villa",
       "phone": "97125097601",
       "email": "obedullah.s@trojanholding.com",
-      "date": "2026-09-10",
+      "date": "2026-09-21",
       "location": "",
       "service": "Other",
       "source": "Website",
       "assigned": "Estimation Team",
-      "status": "lost",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-09-22",
       "followup": "",
       "scope": "TG2144 - Construction of Townhouses and Semi-Detached Villa\nService and Refilling-Fire Extinguisher 4 KG DCP\nService and Refilling-Fire Extinguisher 2 KG CO2\nService and Refilling Fire Extinguisher CO2 5 KG\nService and Refilling-Fire Extinguisher 5 KG DCP\nervice and Refilling-Fire Extinguisher 2 KG DCP\nService and Refilling-Fire Extinguisher 9 KG DCP\nService and Refilling foam Fire Extinguisher 9 LTR With Abu Dhabi Civil Defense Approval",
-      "remarks": "Tender closed in the Portal - was not able to submit as profile was not approved",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quotation Submitted in the portal by Reshmi",
+      "quotNo": "9908",
+      "quotValue": 557440.25,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-15T07:23:47.116Z"
+      "lastUpdatedAt": "2026-09-22T07:54:59.556Z"
     },
     {
       "id": "INQ-0243",
@@ -6440,6 +6440,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0244",
+      "action": "status_change",
+      "from": "lost",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-22T07:54:59.556Z"
+    },
+    {
+      "inquiryId": "INQ-0244",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-22T07:54:59.556Z"
+    },
+    {
       "inquiryId": "INQ-0290",
       "action": "created",
       "from": null,
@@ -10920,24 +10938,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-07T12:00:54.894Z"
-    },
-    {
-      "inquiryId": "INQ-0124",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-07T11:48:58.393Z"
-    },
-    {
-      "inquiryId": "INQ-0123",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-07T10:44:09.463Z"
     }
   ]
 }
