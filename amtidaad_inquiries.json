@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0291",
+      "client": "SG Community Management Services LLC",
+      "project": "Centrium Tower",
+      "phone": "971503214257",
+      "email": "Procurement@strata-global.com",
+      "date": "2026-09-15",
+      "location": "Dubai Production City",
+      "service": "Other",
+      "source": "Website",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-22",
+      "followup": "",
+      "scope": "(1 Years) Fire Alarm & Fighting System AMC  ( JB1099-26-03303 )",
+      "remarks": "Quotation submitted by Reshmi through Iskaan Portal",
+      "quotNo": "9906",
+      "quotValue": 42000,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-22T08:01:56.062Z"
+    },
+    {
       "id": "INQ-0290",
       "client": "Stratum",
       "project": "Palm Couture Residence",
@@ -6440,6 +6463,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0291",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-22T08:01:56.062Z"
+    },
+    {
       "inquiryId": "INQ-0244",
       "action": "status_change",
       "from": "lost",
@@ -10929,15 +10961,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-07T12:01:09.306Z"
-    },
-    {
-      "inquiryId": "INQ-0125",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-07T12:00:54.894Z"
     }
   ]
 }
