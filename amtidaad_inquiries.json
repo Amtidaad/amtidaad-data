@@ -27,7 +27,7 @@
       "id": "INQ-0298",
       "client": "Flora Bay Tecnical Works LLC",
       "project": "G+4 Labour Accommodation",
-      "phone": "0568502852",
+      "phone": "971568502852",
       "email": "fbtw.mep@gmail.com",
       "date": "2026-09-23",
       "location": "",
@@ -44,7 +44,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-23T07:40:49.816Z"
+      "lastUpdatedAt": "2026-09-23T07:42:40.994Z"
     },
     {
       "id": "INQ-0297",
@@ -6647,6 +6647,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0298",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-23T07:42:40.994Z"
+    },
+    {
       "inquiryId": "INQ-0299",
       "action": "created",
       "from": null,
@@ -11136,15 +11145,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-08T05:08:03.352Z"
-    },
-    {
-      "inquiryId": "INQ-0131",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-08T05:07:57.740Z"
     }
   ]
 }
