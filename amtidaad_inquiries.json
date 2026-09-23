@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0307",
+      "client": "Renovators Interior Decoration LLC",
+      "project": "Cayan 801 & 902",
+      "phone": "",
+      "email": "",
+      "date": "2026-09-23",
+      "location": "",
+      "service": "Other",
+      "source": "WhatsApp",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-23",
+      "followup": "",
+      "scope": "Rectification Woork",
+      "remarks": "Quoted by Faizan",
+      "quotNo": "9534",
+      "quotValue": 17010,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-23T11:33:50.077Z"
+    },
+    {
       "id": "INQ-0306",
       "client": "Sales Bin Haider Engineering & Contracting LLC",
       "project": "Hamariya Building G+3",
@@ -6808,6 +6831,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0307",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-23T11:33:50.077Z"
+    },
+    {
       "inquiryId": "INQ-0306",
       "action": "created",
       "from": null,
@@ -11297,15 +11329,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-10T05:16:22.207Z"
-    },
-    {
-      "inquiryId": "INQ-0135",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-10T05:05:24.735Z"
     }
   ]
 }
