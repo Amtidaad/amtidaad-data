@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0297",
+      "client": "FMTECH",
+      "project": "",
+      "phone": "971507867086",
+      "email": "admin@fmtechuae.com",
+      "date": "2026-09-22",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Enquiry for NAF 125",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-23T07:36:24.457Z"
+    },
+    {
       "id": "INQ-0296",
       "client": "Abdul Rahman Faraidooni &Ismail Faraidooni",
       "project": "G+8 Faraidooni Bldg",
@@ -6578,6 +6601,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0297",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-23T07:36:24.457Z"
+    },
+    {
       "inquiryId": "INQ-0296",
       "action": "created",
       "from": null,
@@ -11067,15 +11099,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-08T05:04:05.544Z"
-    },
-    {
-      "inquiryId": "INQ-0130",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-08T04:41:30.155Z"
     }
   ]
 }
