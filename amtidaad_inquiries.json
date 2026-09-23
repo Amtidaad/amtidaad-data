@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0298",
+      "client": "Flora Bay Tecnical Works LLC",
+      "project": "G+4 Labour Accommodation",
+      "phone": "0568502852",
+      "email": "fbtw.mep@gmail.com",
+      "date": "2026-09-23",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Request Quotation for G+4 Labour Accommodation",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-23T07:40:49.816Z"
+    },
+    {
       "id": "INQ-0297",
       "client": "FMTECH",
       "project": "",
@@ -6601,6 +6624,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0298",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-23T07:40:49.816Z"
+    },
+    {
       "inquiryId": "INQ-0297",
       "action": "created",
       "from": null,
@@ -11087,15 +11119,6 @@
       "action": "status_change",
       "from": "new",
       "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-08T05:04:05.544Z"
-    },
-    {
-      "inquiryId": "INQ-0069",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-08T05:04:05.544Z"
