@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0305",
+      "client": "Golden Tulip Hotel",
+      "project": "Golden Tulip Hotel",
+      "phone": "97144489888",
+      "email": "engineering@goldentulipmediahotel.com",
+      "date": "2026-09-23",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-23",
+      "followup": "",
+      "scope": "Re: Service Report_September 18, 2026 (CBS Fire Suppression)",
+      "remarks": "Quoted by Gary",
+      "quotNo": "9389",
+      "quotValue": 13981.8,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-23T11:22:42.666Z"
+    },
+    {
       "id": "INQ-0304",
       "client": "Golden Tulip Hotel",
       "project": "Golden Tulip Hotel",
@@ -6762,6 +6785,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0305",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-23T11:22:42.666Z"
+    },
+    {
       "inquiryId": "INQ-0304",
       "action": "created",
       "from": null,
@@ -11251,15 +11283,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-10T05:03:13.191Z"
-    },
-    {
-      "inquiryId": "INQ-0133",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-10T05:00:55.515Z"
     }
   ]
 }
