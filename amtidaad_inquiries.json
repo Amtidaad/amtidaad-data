@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0308",
+      "client": "Sales Bin Haider Engineering & Contracting LLC",
+      "project": "Umm Ramool WH",
+      "phone": "971547939355",
+      "email": "sunoj.dasappan@sobh-group.com",
+      "date": "2026-09-23",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-23",
+      "followup": "",
+      "scope": "AMC Renewal",
+      "remarks": "Quoted by Angelika",
+      "quotNo": "9931",
+      "quotValue": 1260,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-23T11:46:27.720Z"
+    },
+    {
       "id": "INQ-0307",
       "client": "Renovators Interior Decoration LLC",
       "project": "Cayan 801 & 902",
@@ -6831,6 +6854,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0308",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-23T11:46:27.720Z"
+    },
+    {
       "inquiryId": "INQ-0307",
       "action": "created",
       "from": null,
@@ -11317,15 +11349,6 @@
       "action": "status_change",
       "from": "quotation",
       "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-10T05:16:22.207Z"
-    },
-    {
-      "inquiryId": "INQ-0116",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-10T05:16:22.207Z"
