@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0296",
+      "client": "Abdul Rahman Faraidooni &Ismail Faraidooni",
+      "project": "G+8 Faraidooni Bldg",
+      "phone": "",
+      "email": "",
+      "date": "2026-09-23",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "WhatsApp",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-23",
+      "followup": "",
+      "scope": "Non Comprehensive AMC",
+      "remarks": "Quoted by Reshmi",
+      "quotNo": "9923",
+      "quotValue": 7875,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-23T07:17:43.958Z"
+    },
+    {
       "id": "INQ-0295",
       "client": "Streaks Beauty Salon DMCC",
       "project": "GCV Unit #R03",
@@ -6555,6 +6578,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0296",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-23T07:17:43.958Z"
+    },
+    {
       "inquiryId": "INQ-0295",
       "action": "created",
       "from": null,
@@ -11044,15 +11076,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-08T04:41:30.155Z"
-    },
-    {
-      "inquiryId": "INQ-0129",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-08T04:39:55.409Z"
     }
   ]
 }
