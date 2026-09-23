@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0295",
+      "client": "Streaks Beauty Salon DMCC",
+      "project": "GCV Unit #R03",
+      "phone": "",
+      "email": "info@streaksuae.com",
+      "date": "2026-09-22",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-22",
+      "followup": "",
+      "scope": "Non Comprehensive AMC Renewal Quote",
+      "remarks": "Quotation shared by Angelika",
+      "quotNo": "9914",
+      "quotValue": 2500,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-23T04:06:38.855Z"
+    },
+    {
       "id": "INQ-0294",
       "client": "Costco Mini Mart LLC",
       "project": "Pinnacle Retail - Shop 04",
@@ -6532,6 +6555,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0295",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-23T04:06:38.855Z"
+    },
+    {
       "inquiryId": "INQ-0294",
       "action": "created",
       "from": null,
@@ -11021,15 +11053,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-08T04:39:55.409Z"
-    },
-    {
-      "inquiryId": "INQ-0128",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-08T04:36:36.501Z"
     }
   ]
 }
