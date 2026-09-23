@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0304",
+      "client": "Golden Tulip Hotel",
+      "project": "Golden Tulip Hotel",
+      "phone": "97144489888",
+      "email": "engineering@goldentulipmediahotel.com",
+      "date": "2026-09-23",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-23",
+      "followup": "",
+      "scope": "Re: Service Report_September 18, 2026 (Fire Alarm & Fire Fighting)",
+      "remarks": "Quoted by Gary",
+      "quotNo": "9387",
+      "quotValue": 54694.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-23T11:21:20.541Z"
+    },
+    {
       "id": "INQ-0303",
       "client": "Grand Tulip Media Hotel",
       "project": "Grand Tulip Media Hotel",
@@ -6739,6 +6762,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0304",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-23T11:21:20.541Z"
+    },
+    {
       "inquiryId": "INQ-0303",
       "action": "created",
       "from": null,
@@ -11228,15 +11260,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-10T05:00:55.515Z"
-    },
-    {
-      "inquiryId": "INQ-0132",
-      "action": "status_change",
-      "from": "quotation",
-      "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-08T08:50:00.883Z"
     }
   ]
 }
