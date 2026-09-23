@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0306",
+      "client": "Sales Bin Haider Engineering & Contracting LLC",
+      "project": "Hamariya Building G+3",
+      "phone": "971547939355",
+      "email": "sunoj.dasappan@sobh-group.com",
+      "date": "2026-09-23",
+      "location": "Bur Dubai",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-23",
+      "followup": "",
+      "scope": "AMC Renewal",
+      "remarks": "Quoted BY Angelika",
+      "quotNo": "9930",
+      "quotValue": 2522.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-23T11:25:13.572Z"
+    },
+    {
       "id": "INQ-0305",
       "client": "Golden Tulip Hotel",
       "project": "Golden Tulip Hotel",
@@ -6785,6 +6808,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0306",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-23T11:25:13.572Z"
+    },
+    {
       "inquiryId": "INQ-0305",
       "action": "created",
       "from": null,
@@ -11274,15 +11306,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-10T05:05:24.735Z"
-    },
-    {
-      "inquiryId": "INQ-0134",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-10T05:03:13.191Z"
     }
   ]
 }
