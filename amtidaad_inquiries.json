@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0301",
+      "client": "Herald Contracting Co LLC",
+      "project": "Jassim Al Hassani AlQallaf Building",
+      "phone": "",
+      "email": "muneer@heraldgroup.ae",
+      "date": "2026-09-23",
+      "location": "Bur Dubai",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-23",
+      "followup": "",
+      "scope": "AMC Renewal",
+      "remarks": "Quoted by Angelika",
+      "quotNo": "9924",
+      "quotValue": 2100,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-23T07:59:04.316Z"
+    },
+    {
       "id": "INQ-0300",
       "client": "Fedary",
       "project": "Reem Five and One Reem island",
@@ -6670,6 +6693,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0301",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-23T07:59:04.316Z"
+    },
+    {
       "inquiryId": "INQ-0300",
       "action": "created",
       "from": null,
@@ -11159,15 +11191,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-08T06:44:10.759Z"
-    },
-    {
-      "inquiryId": "INQ-0131",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-08T05:08:03.352Z"
     }
   ]
 }
