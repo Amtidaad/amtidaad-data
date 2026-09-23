@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0302",
+      "client": "Creme London Cafe",
+      "project": "Shop 54 - Dar Al Wasl",
+      "phone": "",
+      "email": "cjtimothy.s@belhasa.ae",
+      "date": "2026-09-23",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-23",
+      "followup": "",
+      "scope": "CREME - AL WASL - Quotation for AMC Renewal",
+      "remarks": "Quoted by Angelika",
+      "quotNo": "9927",
+      "quotValue": 2625,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-23T10:38:46.273Z"
+    },
+    {
       "id": "INQ-0301",
       "client": "Herald Contracting Co LLC",
       "project": "Jassim Al Hassani AlQallaf Building",
@@ -6693,6 +6716,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0302",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-23T10:38:46.273Z"
+    },
+    {
       "inquiryId": "INQ-0301",
       "action": "created",
       "from": null,
@@ -11182,15 +11214,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-08T08:50:00.883Z"
-    },
-    {
-      "inquiryId": "INQ-0132",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-08T06:44:10.759Z"
     }
   ]
 }
