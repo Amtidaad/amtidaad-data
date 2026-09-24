@@ -325,7 +325,7 @@
     {
       "id": "INQ-0300",
       "client": "Fedary",
-      "project": "Reem Five and One Reem island",
+      "project": "Reem Five",
       "phone": "971506124778",
       "email": "Mohammad.si@fedary.com",
       "date": "2026-09-23",
@@ -333,17 +333,17 @@
       "service": "AMC - Full Package",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-09-24",
       "followup": "",
       "scope": "Request for proposal  for Fire Alarm & Fire Fighting System AMC - Reem Five and One Reem island building - SAAS properties Abu Dhabi",
-      "remarks": "Assigned to Reshmi",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quotation Shared by Faizan",
+      "quotNo": "9938",
+      "quotValue": 43312.5,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-23T07:44:09.874Z"
+      "lastUpdatedAt": "2026-09-24T08:52:24.851Z"
     },
     {
       "id": "INQ-0299",
@@ -6992,6 +6992,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0300",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-24T08:52:24.851Z"
+    },
+    {
+      "inquiryId": "INQ-0300",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-24T08:52:24.851Z"
+    },
+    {
       "inquiryId": "INQ-0297",
       "action": "status_change",
       "from": "new",
@@ -11472,24 +11490,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-11T07:34:04.653Z"
-    },
-    {
-      "inquiryId": "INQ-0118",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-11T07:34:04.653Z"
-    },
-    {
-      "inquiryId": "INQ-0141",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-11T05:29:10.719Z"
     }
   ]
 }
