@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0313",
+      "client": "Al Reem Safety Systems",
+      "project": "Al Reem Safety Systems",
+      "phone": "",
+      "email": "",
+      "date": "2026-09-24",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Hydrostatic Testing & Cylinder Refilling",
+      "remarks": "Quoted by Faizan/Approved by client",
+      "quotNo": "9937",
+      "quotValue": 136.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-24T06:27:06.624Z"
+    },
+    {
       "id": "INQ-0312",
       "client": "Maskeen Owner Association",
       "project": "Trident Bayside Residence - Emergency Callout",
@@ -6946,6 +6969,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0313",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-24T06:27:06.624Z"
+    },
+    {
       "inquiryId": "INQ-0277",
       "action": "status_change",
       "from": "quotation",
@@ -11435,15 +11467,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-10T11:18:20.347Z"
-    },
-    {
-      "inquiryId": "INQ-0139",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-10T10:46:32.802Z"
     }
   ]
 }
