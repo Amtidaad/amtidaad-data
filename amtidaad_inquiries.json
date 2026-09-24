@@ -394,7 +394,7 @@
     {
       "id": "INQ-0297",
       "client": "FMTECH",
-      "project": "",
+      "project": "RAK & Dubai Buildings",
       "phone": "971507867086",
       "email": "admin@fmtechuae.com",
       "date": "2026-09-22",
@@ -402,17 +402,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-09-24",
       "followup": "",
       "scope": "Enquiry for NAF 125",
-      "remarks": "Assigned to Reshmi",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Assigned to Reshmi/ Quotation shared by Faizan",
+      "quotNo": "9915",
+      "quotValue": 395861.55,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-23T07:36:24.457Z"
+      "lastUpdatedAt": "2026-09-24T08:04:47.060Z"
     },
     {
       "id": "INQ-0296",
@@ -6992,6 +6992,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0297",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-24T08:04:47.060Z"
+    },
+    {
+      "inquiryId": "INQ-0297",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-24T08:04:47.060Z"
+    },
+    {
       "inquiryId": "INQ-0202",
       "action": "status_change",
       "from": "new",
@@ -11472,24 +11490,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-11T05:29:10.719Z"
-    },
-    {
-      "inquiryId": "INQ-0039",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-10T13:18:53.969Z"
-    },
-    {
-      "inquiryId": "INQ-0039",
-      "action": "status_change",
-      "from": "quotation",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-10T13:18:19.700Z"
     }
   ]
 }
