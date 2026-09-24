@@ -816,17 +816,17 @@
       "service": "AMC - Full Package",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "quotation",
+      "status": "awarded",
       "quotDate": "2026-09-16",
       "followup": "",
       "scope": "Non Comprehensive AMC",
-      "remarks": "Quoted by Faizan",
+      "remarks": "Quoted by Faizan / confirmation approval given",
       "quotNo": "9857",
       "quotValue": 6300,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-17T04:21:39.125Z"
+      "lastUpdatedAt": "2026-09-24T06:25:19.544Z"
     },
     {
       "id": "INQ-0276",
@@ -6946,6 +6946,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0277",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-24T06:25:19.544Z"
+    },
+    {
+      "inquiryId": "INQ-0277",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-24T06:25:19.544Z"
+    },
+    {
       "inquiryId": "INQ-0312",
       "action": "created",
       "from": null,
@@ -11426,24 +11444,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-10T10:46:32.802Z"
-    },
-    {
-      "inquiryId": "INQ-0122",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-10T10:15:32.698Z"
-    },
-    {
-      "inquiryId": "INQ-0122",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-10T10:10:51.462Z"
     }
   ]
 }
