@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0314",
+      "client": "Stratum",
+      "project": "Crystal Residence",
+      "phone": "97142826460",
+      "email": "Contracts1@stratum.ae",
+      "date": "2026-09-17",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "REQUEST FOR PROPOSALS_CRYSTAL RESIDENCE_ELECTRIC VERTICAL TURBINE FIRE PUMP - REPAIR WORK",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-24T06:45:37.696Z"
+    },
+    {
       "id": "INQ-0313",
       "client": "Al Reem Safety Systems",
       "project": "Al Reem Safety Systems",
@@ -6969,6 +6992,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0314",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-24T06:45:37.696Z"
+    },
+    {
       "inquiryId": "INQ-0313",
       "action": "created",
       "from": null,
@@ -11458,15 +11490,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-10T11:44:05.111Z"
-    },
-    {
-      "inquiryId": "INQ-0079",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-10T11:18:20.347Z"
     }
   ]
 }
