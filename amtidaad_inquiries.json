@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0316",
+      "client": "Tructec International FZE",
+      "project": "Trucktec International",
+      "phone": "97148832701",
+      "email": "I.Ibrahim@trucktec-international.com",
+      "date": "2026-09-24",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "2026-09-09",
+      "followup": "",
+      "scope": "Rectification (Trucktec International FZE [ Quarter 1 PPM Findings ])",
+      "remarks": "Quoted by Gary / LPO No. 2271 received on 24th September",
+      "quotNo": "9796",
+      "quotValue": 8736,
+      "securedValue": 8736,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-24T10:29:35.200Z"
+    },
+    {
       "id": "INQ-0315",
       "client": "Fedary",
       "project": "One Reem Island",
@@ -7015,6 +7038,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0316",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-24T10:29:35.200Z"
+    },
+    {
       "inquiryId": "INQ-0278",
       "action": "status_change",
       "from": "new",
@@ -11504,15 +11536,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-11T10:47:52.363Z"
-    },
-    {
-      "inquiryId": "INQ-0145",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-11T10:39:39.856Z"
     }
   ]
 }
