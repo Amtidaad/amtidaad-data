@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0312",
+      "client": "Maskeen Owner Association",
+      "project": "Trident Bayside Residence - Emergency Callout",
+      "phone": "",
+      "email": "",
+      "date": "2026-09-24",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "2026-09-23",
+      "followup": "",
+      "scope": "Rectification",
+      "remarks": "Quoted by Gary / LPO no. L2026001285 received on 24th Sepember",
+      "quotNo": "9922",
+      "quotValue": 2520,
+      "securedValue": 2520,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-24T04:51:00.169Z"
+    },
+    {
       "id": "INQ-0311",
       "client": "Manaal Alhammadi Design",
       "project": "Al Wasl 51",
@@ -6923,6 +6946,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0312",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-24T04:51:00.169Z"
+    },
+    {
       "inquiryId": "INQ-0311",
       "action": "created",
       "from": null,
@@ -11412,15 +11444,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-10T10:10:51.462Z"
-    },
-    {
-      "inquiryId": "INQ-0138",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-10T08:58:45.529Z"
     }
   ]
 }
