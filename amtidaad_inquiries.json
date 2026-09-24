@@ -2518,17 +2518,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-09-21",
       "followup": "",
       "scope": "RFP Vitality-Kaizen Asset Management Services : Tendering Invitation of Fire Fighting Maintenance Services AMC for the Project Vitality Residences Managed by Kaizen Owners Association Management Services LLC",
-      "remarks": "Assigned to Angelika",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quoted by Angelika",
+      "quotNo": "9899",
+      "quotValue": 28350,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-15T07:50:52.231Z"
+      "lastUpdatedAt": "2026-09-24T07:05:57.796Z"
     },
     {
       "id": "INQ-0201",
@@ -6991,6 +6991,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0202",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-24T07:05:57.796Z"
+    },
+    {
+      "inquiryId": "INQ-0202",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-24T07:05:57.796Z"
+    },
     {
       "inquiryId": "INQ-0314",
       "action": "created",
@@ -11472,24 +11490,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-10T13:18:19.700Z"
-    },
-    {
-      "inquiryId": "INQ-0039",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-10T13:18:19.700Z"
-    },
-    {
-      "inquiryId": "INQ-0140",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-10T11:44:05.111Z"
     }
   ]
 }
