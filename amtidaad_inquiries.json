@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0318",
+      "client": "Production Technology LLC",
+      "project": "mpeclarino@protecevents.com",
+      "phone": "",
+      "email": "",
+      "date": "2026-09-24",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-24",
+      "followup": "",
+      "scope": "Production Technology - AMC Proposal (Non Comprehensive AMC)",
+      "remarks": "Quoted by Gary",
+      "quotNo": "8563",
+      "quotValue": 4725,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-24T12:57:37.702Z"
+    },
+    {
       "id": "INQ-0317",
       "client": "Bab Al Qasr",
       "project": "Bab Al Qasr Hotel",
@@ -7061,6 +7084,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0318",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-24T12:57:37.702Z"
+    },
+    {
       "inquiryId": "INQ-0317",
       "action": "created",
       "from": null,
@@ -11550,15 +11582,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-11T12:33:59.732Z"
-    },
-    {
-      "inquiryId": "INQ-0147",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-11T11:07:24.945Z"
     }
   ]
 }
