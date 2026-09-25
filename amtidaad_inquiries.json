@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0320",
+      "client": "xpertcare Technical services",
+      "project": "",
+      "phone": "",
+      "email": "Info@xpertcarets.com",
+      "date": "2026-09-25",
+      "location": "",
+      "service": "",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-25",
+      "followup": "",
+      "scope": "Quotation for Refilling",
+      "remarks": "Quoted by Reshmi",
+      "quotNo": "9948",
+      "quotValue": 267.75,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-25T09:40:45.781Z"
+    },
+    {
       "id": "INQ-0319",
       "client": "Fireco Technical Services LLC",
       "project": "",
@@ -7107,6 +7130,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0320",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-25T09:40:45.781Z"
+    },
+    {
       "inquiryId": "INQ-0319",
       "action": "created",
       "from": null,
@@ -11596,15 +11628,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-14T06:32:34.299Z"
-    },
-    {
-      "inquiryId": "INQ-0149",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-11T12:35:10.332Z"
     }
   ]
 }
