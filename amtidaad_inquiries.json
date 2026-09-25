@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0321",
+      "client": "Trojan Holding",
+      "project": "Al Maha Modular Industries",
+      "phone": "97125097307",
+      "email": "aiswarya.r@trojanholding.com",
+      "date": "2026-09-25",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "Website",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Annual Maintenance Contract for Fire Protection System (from trojan portal)",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-25T09:44:07.040Z"
+    },
+    {
       "id": "INQ-0320",
       "client": "xpertcare Technical services",
       "project": "",
@@ -7130,6 +7153,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0321",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-25T09:44:07.040Z"
+    },
+    {
       "inquiryId": "INQ-0320",
       "action": "created",
       "from": null,
@@ -11619,15 +11651,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-14T06:35:11.268Z"
-    },
-    {
-      "inquiryId": "INQ-0150",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-14T06:32:34.299Z"
     }
   ]
 }
