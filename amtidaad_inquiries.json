@@ -126,17 +126,17 @@
       "service": "Other",
       "source": "WhatsApp",
       "assigned": "Estimation Team",
-      "status": "quotation",
+      "status": "awarded",
       "quotDate": "2026-09-25",
       "followup": "",
       "scope": "Quotation- Hydrostatic Test and Refilling",
-      "remarks": "Quoted by Reshmi",
+      "remarks": "Quoted by Reshmi/ LPO No. 1102126 received on 25th September",
       "quotNo": "9947",
       "quotValue": 2308.95,
-      "securedValue": null,
+      "securedValue": 2308.95,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-25T09:39:14.030Z"
+      "lastUpdatedAt": "2026-09-25T12:16:20.962Z"
     },
     {
       "id": "INQ-0318",
@@ -7222,6 +7222,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0319",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-25T12:16:20.963Z"
+    },
+    {
+      "inquiryId": "INQ-0319",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-25T12:16:20.963Z"
+    },
+    {
       "inquiryId": "INQ-0324",
       "action": "created",
       "from": null,
@@ -11702,24 +11720,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-14T06:47:09.769Z"
-    },
-    {
-      "inquiryId": "INQ-0153",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-14T06:42:48.835Z"
-    },
-    {
-      "inquiryId": "INQ-0152",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-14T06:38:17.272Z"
     }
   ]
 }
