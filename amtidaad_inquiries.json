@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0319",
+      "client": "Fireco Technical Services LLC",
+      "project": "",
+      "phone": "971553463885",
+      "email": "sales@firecots.com",
+      "date": "2026-09-25",
+      "location": "",
+      "service": "Other",
+      "source": "WhatsApp",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-25",
+      "followup": "",
+      "scope": "Quotation- Hydrostatic Test and Refilling",
+      "remarks": "Quoted by Reshmi",
+      "quotNo": "9947",
+      "quotValue": 2308.95,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-25T09:39:14.030Z"
+    },
+    {
       "id": "INQ-0318",
       "client": "Production Technology LLC",
       "project": "mpeclarino@protecevents.com",
@@ -7084,6 +7107,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0319",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-25T09:39:14.031Z"
+    },
+    {
       "inquiryId": "INQ-0318",
       "action": "created",
       "from": null,
@@ -11573,15 +11605,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-11T12:35:10.332Z"
-    },
-    {
-      "inquiryId": "INQ-0148",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-11T12:33:59.732Z"
     }
   ]
 }
