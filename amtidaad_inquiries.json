@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0323",
+      "client": "Trojan Holding",
+      "project": "•TEW1008 - EWEC 2.6 GW SOLAR PV AND 9.6 GWH BESS (L&T)",
+      "phone": "97125097208",
+      "email": "muhammad.anas@trojanholding.com",
+      "date": "2026-09-25",
+      "location": "",
+      "service": "Other",
+      "source": "Website",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "•TEW1008 - EWEC 2.6 GW SOLAR PV AND 9.6 GWH BESS (L&T) -",
+      "remarks": "assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-25T09:46:51.157Z"
+    },
+    {
       "id": "INQ-0322",
       "client": "Trojan Holding",
       "project": "•4117 - BALGHAIYLAM FACTORY 2,3,4",
@@ -7176,6 +7199,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0323",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-25T09:46:51.157Z"
+    },
+    {
       "inquiryId": "INQ-0322",
       "action": "created",
       "from": null,
@@ -11665,15 +11697,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-14T06:36:34.466Z"
-    },
-    {
-      "inquiryId": "INQ-0121",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-14T06:35:11.268Z"
     }
   ]
 }
