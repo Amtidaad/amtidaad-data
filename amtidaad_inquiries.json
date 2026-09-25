@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0322",
+      "client": "Trojan Holding",
+      "project": "•4117 - BALGHAIYLAM FACTORY 2,3,4",
+      "phone": "97125097307",
+      "email": "aiswarya.r@trojanholding.com",
+      "date": "2026-09-25",
+      "location": "",
+      "service": "",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "•Hi-Tech Concrete Products LLC (Fire Extinguisher - DCP) from Trojan portal",
+      "remarks": "assigned to reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-25T09:45:50.230Z"
+    },
+    {
       "id": "INQ-0321",
       "client": "Trojan Holding",
       "project": "Al Maha Modular Industries",
@@ -7153,6 +7176,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0322",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-25T09:45:50.230Z"
+    },
+    {
       "inquiryId": "INQ-0321",
       "action": "created",
       "from": null,
@@ -11639,15 +11671,6 @@
       "action": "status_change",
       "from": "new",
       "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-14T06:35:11.268Z"
-    },
-    {
-      "inquiryId": "INQ-0121",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-14T06:35:11.268Z"
