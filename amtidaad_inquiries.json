@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0324",
+      "client": "Mansion Owners Association",
+      "project": "Zen Tower",
+      "phone": "971564122328",
+      "email": "Edward.Maratas@emrill.com",
+      "date": "2026-09-25",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-25",
+      "followup": "",
+      "scope": "Re: Zen Tower - Monthly Generator PPM 2026",
+      "remarks": "Quoted by Gary",
+      "quotNo": "7059",
+      "quotValue": 882,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-25T10:12:22.235Z"
+    },
+    {
       "id": "INQ-0323",
       "client": "Trojan Holding",
       "project": "•TEW1008 - EWEC 2.6 GW SOLAR PV AND 9.6 GWH BESS (L&T)",
@@ -7199,6 +7222,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0324",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-25T10:12:22.235Z"
+    },
+    {
       "inquiryId": "INQ-0323",
       "action": "created",
       "from": null,
@@ -11688,15 +11720,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-14T06:38:17.272Z"
-    },
-    {
-      "inquiryId": "INQ-0151",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-14T06:36:34.466Z"
     }
   ]
 }
