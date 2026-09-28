@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0332",
+      "client": "UNIFIS INTERIORS LLC",
+      "project": "CAYAN 302",
+      "phone": "",
+      "email": "",
+      "date": "2026-09-22",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "2026-09-28",
+      "followup": "",
+      "scope": "FITOUT",
+      "remarks": "LPO 199 received on 28th Sep",
+      "quotNo": "9911",
+      "quotValue": 31500,
+      "securedValue": 31500,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-28T12:34:32.741Z"
+    },
+    {
       "id": "INQ-0331",
       "client": "Dubai World Trade Center",
       "project": "",
@@ -7383,6 +7406,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0332",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-28T12:34:32.741Z"
+    },
+    {
       "inquiryId": "INQ-0331",
       "action": "created",
       "from": null,
@@ -11869,15 +11901,6 @@
       "action": "status_change",
       "from": "new",
       "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-17T07:56:50.440Z"
-    },
-    {
-      "inquiryId": "INQ-0153",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-17T07:56:50.440Z"
