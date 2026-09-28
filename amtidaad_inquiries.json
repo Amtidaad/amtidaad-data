@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0329",
+      "client": "Ascor Engineering Development LLC",
+      "project": "Ascor Engineering Development LLC",
+      "phone": "",
+      "email": "Muhammad.bilal@ascor-eng.com",
+      "date": "2026-09-25",
+      "location": "",
+      "service": "Fire Extinguisher Refilling",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-25",
+      "followup": "",
+      "scope": "Quotation- Refilling of Fire Suppression Cylinder",
+      "remarks": "Quoted by Reshmi",
+      "quotNo": "9952",
+      "quotValue": 18257.4,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-28T05:35:51.984Z"
+    },
+    {
       "id": "INQ-0328",
       "client": "Luxury Owners Association Management Services",
       "project": "Damac The Signature",
@@ -7314,6 +7337,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0329",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-28T05:35:51.984Z"
+    },
+    {
       "inquiryId": "INQ-0328",
       "action": "created",
       "from": null,
@@ -11803,15 +11835,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-14T06:58:19.426Z"
-    },
-    {
-      "inquiryId": "INQ-0158",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-14T06:58:04.739Z"
     }
   ]
 }
