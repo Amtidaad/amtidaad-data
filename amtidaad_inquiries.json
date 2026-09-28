@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0327",
+      "client": "Stratum",
+      "project": "Al Marsoumi Building",
+      "phone": "97142826460",
+      "email": "Procurement3@stratum.ae",
+      "date": "2026-09-26",
+      "location": "International City",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "RFP_Al Marsoumy_Request for Supplier Proposal –   Fire Fighting System",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-28T05:32:22.546Z"
+    },
+    {
       "id": "INQ-0326",
       "client": "Pulse Point For Owner Association Management Services EST",
       "project": "Views 2",
@@ -7268,6 +7291,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0327",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-28T05:32:22.546Z"
+    },
+    {
       "inquiryId": "INQ-0326",
       "action": "created",
       "from": null,
@@ -11757,15 +11789,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-14T06:56:38.017Z"
-    },
-    {
-      "inquiryId": "INQ-0156",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-14T06:52:02.117Z"
     }
   ]
 }
