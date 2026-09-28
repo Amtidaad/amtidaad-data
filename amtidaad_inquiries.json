@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0328",
+      "client": "Luxury Owners Association Management Services",
+      "project": "Damac The Signature",
+      "phone": "",
+      "email": "",
+      "date": "2026-09-28",
+      "location": "",
+      "service": "FM200 / Clean Agent",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-25",
+      "followup": "",
+      "scope": "FM200-Quotation",
+      "remarks": "Quoted by Faizan",
+      "quotNo": "8345",
+      "quotValue": 29610,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-28T05:34:12.288Z"
+    },
+    {
       "id": "INQ-0327",
       "client": "Stratum",
       "project": "Al Marsoumi Building",
@@ -7291,6 +7314,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0328",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-28T05:34:12.288Z"
+    },
+    {
       "inquiryId": "INQ-0327",
       "action": "created",
       "from": null,
@@ -11780,15 +11812,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-14T06:58:04.739Z"
-    },
-    {
-      "inquiryId": "INQ-0157",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-14T06:56:38.017Z"
     }
   ]
 }
