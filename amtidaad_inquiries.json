@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0330",
+      "client": "Flametech Firefighting Equipments",
+      "project": "",
+      "phone": "",
+      "email": "",
+      "date": "2026-09-28",
+      "location": "",
+      "service": "Other",
+      "source": "WhatsApp",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "2026-09-28",
+      "followup": "",
+      "scope": "Nitrogen Top-UP",
+      "remarks": "Quoted by Faizan / Verbal Approval for LPO received on 28th Sep",
+      "quotNo": "9959",
+      "quotValue": 1312.5,
+      "securedValue": 1312.5,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-28T08:40:46.258Z"
+    },
+    {
       "id": "INQ-0329",
       "client": "Ascor Engineering Development LLC",
       "project": "Ascor Engineering Development LLC",
@@ -7337,6 +7360,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0330",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-28T08:40:46.258Z"
+    },
+    {
       "inquiryId": "INQ-0320",
       "action": "status_change",
       "from": "quotation",
@@ -11826,15 +11858,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-17T07:50:10.589Z"
-    },
-    {
-      "inquiryId": "INQ-0160",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-15T06:45:38.923Z"
     }
   ]
 }
