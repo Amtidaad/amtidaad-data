@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0334",
+      "client": "OSOOL ASSET MANAGEMENT SERVICES L.L.C",
+      "project": "AL GHURAIR RESIDENCE 5",
+      "phone": "971559550568",
+      "email": "engineer.alghurair5@ucwf.net",
+      "date": "2026-09-22",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "Website",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-28",
+      "followup": "",
+      "scope": "Fire Alarm & Fighting System AMC  ( JB11974-26-00065 )",
+      "remarks": "quotation submitted by Reshmi via Iskaan portal",
+      "quotNo": "9962",
+      "quotValue": 9450,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-28T13:13:29.964Z"
+    },
+    {
       "id": "INQ-0333",
       "client": "FIREBASE INSTALLATION & REPAIR OF SAFETY",
       "project": "",
@@ -7429,6 +7452,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0334",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-28T13:13:29.964Z"
+    },
+    {
       "inquiryId": "INQ-0333",
       "action": "created",
       "from": null,
@@ -11918,15 +11950,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-17T10:24:25.076Z"
-    },
-    {
-      "inquiryId": "INQ-0065",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-17T09:55:50.849Z"
     }
   ]
 }
