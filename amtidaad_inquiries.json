@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0333",
+      "client": "FIREBASE INSTALLATION & REPAIR OF SAFETY",
+      "project": "",
+      "phone": "971524712244",
+      "email": "mohamed.elsaadany@firebase.ae",
+      "date": "2026-09-28",
+      "location": "ABU DHABI",
+      "service": "Other",
+      "source": "WhatsApp",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-28",
+      "followup": "",
+      "scope": "ROOM INTEGRITY TEST",
+      "remarks": "Quotation shared by Faizan",
+      "quotNo": "9963",
+      "quotValue": 5775,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-28T12:49:53.614Z"
+    },
+    {
       "id": "INQ-0332",
       "client": "UNIFIS INTERIORS LLC",
       "project": "CAYAN 302",
@@ -7406,6 +7429,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0333",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-28T12:49:53.614Z"
+    },
+    {
       "inquiryId": "INQ-0332",
       "action": "created",
       "from": null,
@@ -11895,15 +11927,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-17T09:55:50.849Z"
-    },
-    {
-      "inquiryId": "INQ-0153",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-17T07:56:50.440Z"
     }
   ]
 }
