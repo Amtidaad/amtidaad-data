@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0331",
+      "client": "Dubai World Trade Center",
+      "project": "",
+      "phone": "",
+      "email": "Ajay.Raghavan@dwtc.com",
+      "date": "2026-09-22",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-28",
+      "followup": "",
+      "scope": "Emergency Exits Boards",
+      "remarks": "Quoted by Reshmi",
+      "quotNo": "9916",
+      "quotValue": 95550,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-28T11:17:09.339Z"
+    },
+    {
       "id": "INQ-0330",
       "client": "Flametech Firefighting Equipments",
       "project": "",
@@ -7360,6 +7383,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0331",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-28T11:17:09.339Z"
+    },
+    {
       "inquiryId": "INQ-0321",
       "action": "status_change",
       "from": "new",
@@ -11849,15 +11881,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-17T07:56:50.440Z"
-    },
-    {
-      "inquiryId": "INQ-0163",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-17T07:55:32.143Z"
     }
   ]
 }
