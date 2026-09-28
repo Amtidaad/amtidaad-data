@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0326",
+      "client": "Pulse Point For Owner Association Management Services EST",
+      "project": "Views 2",
+      "phone": "",
+      "email": "info@pulsepoint.ae",
+      "date": "2026-09-26",
+      "location": "Dubai South",
+      "service": "",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-26",
+      "followup": "",
+      "scope": "Re: AMC Renewal Quotation for 2027 to 2028 - Pulse Point For Owner Association Management Services EST.  - [ Views-2 (G+4+RT)-Dubai South ]",
+      "remarks": "Quoted by Angelika",
+      "quotNo": "9953",
+      "quotValue": 4095,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-28T05:29:35.432Z"
+    },
+    {
       "id": "INQ-0325",
       "client": "INFINITY PLUS CONTRACTING",
       "project": "",
@@ -7245,6 +7268,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0326",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-28T05:29:35.432Z"
+    },
+    {
       "inquiryId": "INQ-0325",
       "action": "created",
       "from": null,
@@ -11734,15 +11766,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-14T06:52:02.117Z"
-    },
-    {
-      "inquiryId": "INQ-0155",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-14T06:49:05.922Z"
     }
   ]
 }
