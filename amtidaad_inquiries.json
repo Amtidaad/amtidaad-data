@@ -218,17 +218,17 @@
       "service": "",
       "source": "",
       "assigned": "Estimation Team",
-      "status": "quotation",
+      "status": "awarded",
       "quotDate": "2026-09-25",
       "followup": "",
       "scope": "Quotation for Refilling",
-      "remarks": "Quoted by Reshmi",
+      "remarks": "Quoted by Reshmi/ LPO No. 2626 received on 28th Sep",
       "quotNo": "9948",
       "quotValue": 267.75,
-      "securedValue": null,
+      "securedValue": 267.75,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-25T09:40:45.781Z"
+      "lastUpdatedAt": "2026-09-28T07:41:11.370Z"
     },
     {
       "id": "INQ-0319",
@@ -7337,6 +7337,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0320",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-28T07:41:11.370Z"
+    },
+    {
+      "inquiryId": "INQ-0320",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-28T07:41:11.370Z"
+    },
+    {
       "inquiryId": "INQ-0329",
       "action": "created",
       "from": null,
@@ -11817,24 +11835,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-15T06:45:38.923Z"
-    },
-    {
-      "inquiryId": "INQ-0159",
-      "action": "created",
-      "from": null,
-      "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-15T06:44:00.467Z"
-    },
-    {
-      "inquiryId": "INQ-0158",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-14T06:58:19.426Z"
     }
   ]
 }
