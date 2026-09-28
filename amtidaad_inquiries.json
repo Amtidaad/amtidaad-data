@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0325",
+      "client": "INFINITY PLUS CONTRACTING",
+      "project": "",
+      "phone": "971505749909",
+      "email": "eng-dept@ipcdxb.com",
+      "date": "2026-09-26",
+      "location": "",
+      "service": "",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Request for Quotation – DCD work- j119",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-28T05:03:10.013Z"
+    },
+    {
       "id": "INQ-0324",
       "client": "Mansion Owners Association",
       "project": "Zen Tower",
@@ -7222,6 +7245,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0325",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-28T05:03:10.013Z"
+    },
+    {
       "inquiryId": "INQ-0319",
       "action": "status_change",
       "from": "quotation",
@@ -11711,15 +11743,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-14T06:49:05.922Z"
-    },
-    {
-      "inquiryId": "INQ-0154",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-14T06:47:09.769Z"
     }
   ]
 }
