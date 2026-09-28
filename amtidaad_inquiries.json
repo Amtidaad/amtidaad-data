@@ -218,17 +218,17 @@
       "service": "AMC - Full Package",
       "source": "Website",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-09-28",
       "followup": "",
       "scope": "Annual Maintenance Contract for Fire Protection System (from trojan portal)",
-      "remarks": "Assigned to Reshmi",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Tender quotation submitted by Reshmi in Trojan Portal",
+      "quotNo": "9961",
+      "quotValue": 9450,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-25T09:44:07.040Z"
+      "lastUpdatedAt": "2026-09-28T10:33:22.920Z"
     },
     {
       "id": "INQ-0320",
@@ -7360,6 +7360,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0321",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-28T10:33:22.920Z"
+    },
+    {
+      "inquiryId": "INQ-0321",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-28T10:33:22.920Z"
+    },
+    {
       "inquiryId": "INQ-0330",
       "action": "created",
       "from": null,
@@ -11840,24 +11858,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-17T07:55:32.143Z"
-    },
-    {
-      "inquiryId": "INQ-0162",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-17T07:54:09.813Z"
-    },
-    {
-      "inquiryId": "INQ-0161",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-17T07:50:10.589Z"
     }
   ]
 }
