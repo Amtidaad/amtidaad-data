@@ -48,26 +48,26 @@
     },
     {
       "id": "INQ-0333",
-      "client": "FIREBASE INSTALLATION & REPAIR OF SAFETY",
+      "client": "DOUBLE H GENERAL CONTRACTING  & MAINTENANCE LLC",
       "project": "",
       "phone": "971524712244",
-      "email": "mohamed.elsaadany@firebase.ae",
+      "email": "doublehconstructions@gmail.com",
       "date": "2026-09-28",
       "location": "ABU DHABI",
       "service": "Other",
       "source": "WhatsApp",
       "assigned": "Estimation Team",
-      "status": "quotation",
+      "status": "awarded",
       "quotDate": "2026-09-28",
       "followup": "",
       "scope": "ROOM INTEGRITY TEST",
-      "remarks": "Quotation shared by Faizan",
+      "remarks": "Quotation shared by Faizan / LPO NO. DH-1002 received on 29 September",
       "quotNo": "9963",
       "quotValue": 5775,
-      "securedValue": null,
+      "securedValue": 5775,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-28T12:49:53.614Z"
+      "lastUpdatedAt": "2026-09-29T13:05:49.921Z"
     },
     {
       "id": "INQ-0332",
@@ -7475,6 +7475,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0333",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-29T13:05:49.921Z"
+    },
+    {
+      "inquiryId": "INQ-0333",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-29T13:05:49.921Z"
+    },
+    {
       "inquiryId": "INQ-0335",
       "action": "created",
       "from": null,
@@ -11955,24 +11973,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-19T05:17:50.564Z"
-    },
-    {
-      "inquiryId": "INQ-0166",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-18T08:38:17.721Z"
-    },
-    {
-      "inquiryId": "INQ-0104",
-      "action": "status_change",
-      "from": "quotation",
-      "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-18T05:05:24.026Z"
     }
   ]
 }
