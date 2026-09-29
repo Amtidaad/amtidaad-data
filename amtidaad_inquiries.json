@@ -816,17 +816,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-09-28",
       "followup": "",
       "scope": "Request Quotation for G+M Workshop",
-      "remarks": "Assigned to Reshmi",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quotation shared by Faizan to client",
+      "quotNo": "9944",
+      "quotValue": 765975,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-23T07:42:28.446Z"
+      "lastUpdatedAt": "2026-09-29T04:13:04.105Z"
     },
     {
       "id": "INQ-0298",
@@ -7452,6 +7452,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0299",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-29T04:13:04.105Z"
+    },
+    {
+      "inquiryId": "INQ-0299",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-29T04:13:04.105Z"
+    },
+    {
       "inquiryId": "INQ-0334",
       "action": "created",
       "from": null,
@@ -11932,24 +11950,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-18T05:05:24.026Z"
-    },
-    {
-      "inquiryId": "INQ-0164",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-17T12:45:21.481Z"
-    },
-    {
-      "inquiryId": "INQ-0064",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-17T10:24:25.076Z"
     }
   ]
 }
