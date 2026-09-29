@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0335",
+      "client": "xpertcare Technical services",
+      "project": "",
+      "phone": "",
+      "email": "info@xpertcarets.com",
+      "date": "2026-09-29",
+      "location": "",
+      "service": "Fire Extinguisher Refilling",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-29",
+      "followup": "",
+      "scope": "Re: Quotation for Refilling",
+      "remarks": "Quotation shared by Reshmi",
+      "quotNo": "9969",
+      "quotValue": 216.3,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-29T12:26:24.621Z"
+    },
+    {
       "id": "INQ-0334",
       "client": "OSOOL ASSET MANAGEMENT SERVICES L.L.C",
       "project": "AL GHURAIR RESIDENCE 5",
@@ -7452,6 +7475,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0335",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-29T12:26:24.621Z"
+    },
+    {
       "inquiryId": "INQ-0299",
       "action": "status_change",
       "from": "new",
@@ -11938,15 +11970,6 @@
       "action": "status_change",
       "from": "quotation",
       "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-18T05:05:24.026Z"
-    },
-    {
-      "inquiryId": "INQ-0104",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-18T05:05:24.026Z"
