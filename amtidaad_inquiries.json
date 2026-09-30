@@ -908,17 +908,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-09-30",
       "followup": "",
       "scope": "Request Quotation for G+4 Labour Accommodation",
-      "remarks": "Assigned to Reshmi",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "quotation shared by Faizan",
+      "quotNo": "9960",
+      "quotValue": 883155,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-23T07:42:40.994Z"
+      "lastUpdatedAt": "2026-09-30T13:22:01.019Z"
     },
     {
       "id": "INQ-0297",
@@ -7521,6 +7521,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0298",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-30T13:22:01.019Z"
+    },
+    {
+      "inquiryId": "INQ-0298",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-30T13:22:01.019Z"
+    },
+    {
       "inquiryId": "INQ-0337",
       "action": "created",
       "from": null,
@@ -12001,24 +12019,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-19T12:56:42.586Z"
-    },
-    {
-      "inquiryId": "INQ-0166",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-19T12:43:40.711Z"
-    },
-    {
-      "inquiryId": "INQ-0169",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-19T08:43:30.880Z"
     }
   ]
 }
