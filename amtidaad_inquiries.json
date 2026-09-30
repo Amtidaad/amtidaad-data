@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0337",
+      "client": "Easy Lease",
+      "project": "Easy Lease",
+      "phone": "971522148923",
+      "email": "purchase@easylease.ae",
+      "date": "2026-09-25",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-30",
+      "followup": "",
+      "scope": "Re: Enquiry for Fire Safety Services, AMC & Civil Defense Certification",
+      "remarks": "Quotation shared by Faizan",
+      "quotNo": "9971",
+      "quotValue": 41002.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-30T13:06:32.106Z"
+    },
+    {
       "id": "INQ-0336",
       "client": "IBN SINA GROUP PHARMACIES",
       "project": "Creek Horizon GF-R-001 - Binsina Pharmacy",
@@ -7498,6 +7521,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0337",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-30T13:06:32.106Z"
+    },
+    {
       "inquiryId": "INQ-0113",
       "action": "status_change",
       "from": "lost",
@@ -11987,15 +12019,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-19T08:43:30.880Z"
-    },
-    {
-      "inquiryId": "INQ-0166",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-19T07:57:51.132Z"
     }
   ]
 }
