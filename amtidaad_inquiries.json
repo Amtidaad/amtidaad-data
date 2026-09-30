@@ -5002,17 +5002,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "lost",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-09-30",
       "followup": "",
       "scope": "REQUEST FOR PROPOSALS_EVERSHINE GARDEN_RECTIFICATION OF FIRE FIGHTING",
-      "remarks": "quotation not submitted deadline was 11th Aug 2026",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "quoted by Reshmi",
+      "quotNo": "9968",
+      "quotValue": 28927.5,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-26T11:03:03.329Z"
+      "lastUpdatedAt": "2026-09-30T12:37:07.405Z"
     },
     {
       "id": "INQ-0112",
@@ -7497,6 +7497,24 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0113",
+      "action": "status_change",
+      "from": "lost",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-30T12:37:07.405Z"
+    },
+    {
+      "inquiryId": "INQ-0113",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-30T12:37:07.405Z"
+    },
     {
       "inquiryId": "INQ-0336",
       "action": "created",
@@ -11978,24 +11996,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-19T07:57:51.132Z"
-    },
-    {
-      "inquiryId": "INQ-0166",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-19T07:57:51.132Z"
-    },
-    {
-      "inquiryId": "INQ-0168",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-19T05:21:00.178Z"
     }
   ]
 }
