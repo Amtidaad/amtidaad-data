@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0336",
+      "client": "IBN SINA GROUP PHARMACIES",
+      "project": "Creek Horizon GF-R-001 - Binsina Pharmacy",
+      "phone": "971508958316",
+      "email": "hannah.p@akigroup.com",
+      "date": "2026-09-04",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "2026-09-04",
+      "followup": "",
+      "scope": "Re: Binsina Pharmacy Creek Horizon GF-RT-001 - AMC Renewal",
+      "remarks": "Quoted by Gary/ LPO No. 3113873 received on 30th Sep",
+      "quotNo": "9768",
+      "quotValue": 2100,
+      "securedValue": 2100,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-09-30T05:58:19.036Z"
+    },
+    {
       "id": "INQ-0335",
       "client": "xpertcare Technical services",
       "project": "",
@@ -7475,6 +7498,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0336",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-09-30T05:58:19.036Z"
+    },
+    {
       "inquiryId": "INQ-0333",
       "action": "status_change",
       "from": "quotation",
@@ -11964,15 +11996,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-19T05:21:00.178Z"
-    },
-    {
-      "inquiryId": "INQ-0167",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-19T05:17:50.564Z"
     }
   ]
 }
