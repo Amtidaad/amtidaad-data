@@ -5049,16 +5049,16 @@
       "source": "Email",
       "assigned": "Estimation Team",
       "status": "quotation",
-      "quotDate": "2026-09-30",
+      "quotDate": "2026-10-01",
       "followup": "",
       "scope": "REQUEST FOR PROPOSALS_EVERSHINE GARDEN_RECTIFICATION OF FIRE FIGHTING",
-      "remarks": "quoted by Reshmi",
+      "remarks": "Rev 1 quotation shared by Reshmi",
       "quotNo": "9968",
-      "quotValue": 28927.5,
+      "quotValue": 24937.5,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-30T12:37:07.405Z"
+      "lastUpdatedAt": "2026-10-01T06:24:49.135Z"
     },
     {
       "id": "INQ-0112",
@@ -7543,6 +7543,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0113",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-01T06:24:49.135Z"
+    },
     {
       "inquiryId": "INQ-0338",
       "action": "created",
@@ -12033,15 +12042,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-20T05:09:24.811Z"
-    },
-    {
-      "inquiryId": "INQ-0173",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-20T05:07:43.557Z"
     }
   ]
 }
