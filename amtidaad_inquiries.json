@@ -35,16 +35,16 @@
       "source": "Email",
       "assigned": "Estimation Team",
       "status": "quotation",
-      "quotDate": "2026-09-30",
+      "quotDate": "2026-10-01",
       "followup": "",
       "scope": "Re: Enquiry for Fire Safety Services, AMC & Civil Defense Certification",
-      "remarks": "Quotation shared by Faizan",
+      "remarks": "Revised Quotation shared by Faizan",
       "quotNo": "9971",
-      "quotValue": 41002.5,
+      "quotValue": 32445,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-30T13:06:32.106Z"
+      "lastUpdatedAt": "2026-10-01T08:31:38.553Z"
     },
     {
       "id": "INQ-0336",
@@ -7544,6 +7544,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0337",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-01T08:31:38.553Z"
+    },
+    {
       "inquiryId": "INQ-0113",
       "action": "edited",
       "from": null,
@@ -12033,15 +12042,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-20T05:09:40.605Z"
-    },
-    {
-      "inquiryId": "INQ-0174",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-20T05:09:24.811Z"
     }
   ]
 }
