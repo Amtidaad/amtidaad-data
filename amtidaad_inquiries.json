@@ -1912,7 +1912,7 @@
     {
       "id": "INQ-0254",
       "client": "Al Bonian",
-      "project": "",
+      "project": "Service Centre",
       "phone": "971506218599",
       "email": "shaji.p@albonian.fm",
       "date": "2026-09-14",
@@ -1920,17 +1920,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-09-30",
       "followup": "",
       "scope": "RFQ - Rectification of FA & FF System - UID03761",
-      "remarks": "",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quoted by Faizan",
+      "quotNo": "9878",
+      "quotValue": 4672.5,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-14T07:29:14.837Z"
+      "lastUpdatedAt": "2026-10-01T04:32:49.878Z"
     },
     {
       "id": "INQ-0253",
@@ -7521,6 +7521,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0254",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-01T04:32:49.878Z"
+    },
+    {
+      "inquiryId": "INQ-0254",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-01T04:32:49.878Z"
+    },
+    {
       "inquiryId": "INQ-0298",
       "action": "status_change",
       "from": "new",
@@ -12001,24 +12019,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-20T04:55:17.345Z"
-    },
-    {
-      "inquiryId": "INQ-0171",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-19T13:23:50.757Z"
-    },
-    {
-      "inquiryId": "INQ-0170",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-19T12:56:42.586Z"
     }
   ]
 }
