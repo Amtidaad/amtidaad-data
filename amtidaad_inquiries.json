@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0339",
+      "client": "Mansion Owners Association",
+      "project": "XXII Carat Hotel",
+      "phone": "",
+      "email": "",
+      "date": "2026-10-01",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-01",
+      "followup": "",
+      "scope": "Rectification",
+      "remarks": "Quoted by Gary",
+      "quotNo": "9977",
+      "quotValue": 14332.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-01T12:21:55.193Z"
+    },
+    {
       "id": "INQ-0338",
       "client": "Emirates Fire & Safety Services LLC",
       "project": "Warehouse",
@@ -7544,6 +7567,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0339",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-01T12:21:55.193Z"
+    },
+    {
       "inquiryId": "INQ-0335",
       "action": "status_change",
       "from": "quotation",
@@ -12033,15 +12065,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-20T08:33:56.402Z"
-    },
-    {
-      "inquiryId": "INQ-0124",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-20T07:31:44.071Z"
     }
   ]
 }
