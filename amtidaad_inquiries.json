@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0338",
+      "client": "Emirates Fire & Safety Services LLC",
+      "project": "Warehouse",
+      "phone": "",
+      "email": "",
+      "date": "2026-10-01",
+      "location": "",
+      "service": "Fire Extinguisher Refilling",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-09-30",
+      "followup": "",
+      "scope": "Cylinder Refilling",
+      "remarks": "Quoted by Faizan",
+      "quotNo": "9976",
+      "quotValue": 4462.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-01T04:35:04.646Z"
+    },
+    {
       "id": "INQ-0337",
       "client": "Easy Lease",
       "project": "Easy Lease",
@@ -7521,6 +7544,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0338",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-01T04:35:04.646Z"
+    },
+    {
       "inquiryId": "INQ-0254",
       "action": "status_change",
       "from": "new",
@@ -12010,15 +12042,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-20T05:07:43.557Z"
-    },
-    {
-      "inquiryId": "INQ-0172",
-      "action": "created",
-      "from": null,
-      "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-20T04:55:17.345Z"
     }
   ]
 }
