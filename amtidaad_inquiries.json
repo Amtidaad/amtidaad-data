@@ -495,16 +495,16 @@
       "source": "Email",
       "assigned": "Estimation Team",
       "status": "quotation",
-      "quotDate": "2026-09-24",
+      "quotDate": "2026-10-01",
       "followup": "",
       "scope": "Re: Retrotec Integrity testing services for 13 rooms protected by gas suppression systems - REQUEST FOR QUOTE",
-      "remarks": "Quoted by Faizan",
+      "remarks": "Revised Quoted by Faizan",
       "quotNo": "9940",
-      "quotValue": 32340,
+      "quotValue": 22417.5,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-24T12:03:32.565Z"
+      "lastUpdatedAt": "2026-10-01T11:07:54.072Z"
     },
     {
       "id": "INQ-0316",
@@ -7544,6 +7544,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0317",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-01T11:07:54.073Z"
+    },
+    {
       "inquiryId": "INQ-0337",
       "action": "edited",
       "from": null,
@@ -12033,15 +12042,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-20T05:34:26.332Z"
-    },
-    {
-      "inquiryId": "INQ-0173",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-20T05:09:40.605Z"
     }
   ]
 }
