@@ -35,16 +35,16 @@
       "source": "Email",
       "assigned": "Estimation Team",
       "status": "quotation",
-      "quotDate": "2026-10-01",
+      "quotDate": "2026-10-02",
       "followup": "",
       "scope": "Rectification",
-      "remarks": "Quoted by Gary",
+      "remarks": "Revised quotation shared\n by Gary",
       "quotNo": "9977",
-      "quotValue": 14332.5,
+      "quotValue": 9660,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-10-01T12:21:55.193Z"
+      "lastUpdatedAt": "2026-10-02T06:58:57.398Z"
     },
     {
       "id": "INQ-0338",
@@ -7590,6 +7590,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0339",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-02T06:58:57.398Z"
+    },
+    {
       "inquiryId": "INQ-0292",
       "action": "status_change",
       "from": "new",
@@ -12076,15 +12085,6 @@
       "action": "status_change",
       "from": "quotation",
       "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-21T10:49:57.581Z"
-    },
-    {
-      "inquiryId": "INQ-0080",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-21T10:49:57.581Z"
