@@ -1115,17 +1115,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-09-22",
       "followup": "",
       "scope": "Emergency Exits Boards",
       "remarks": "Assigned to Reshmi",
-      "quotNo": null,
-      "quotValue": null,
+      "quotNo": "9916",
+      "quotValue": 95550,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-22T10:08:07.258Z"
+      "lastUpdatedAt": "2026-10-02T06:24:45.197Z"
     },
     {
       "id": "INQ-0291",
@@ -7590,6 +7590,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0292",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-02T06:24:45.198Z"
+    },
+    {
+      "inquiryId": "INQ-0292",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-02T06:24:45.198Z"
+    },
+    {
       "inquiryId": "INQ-0340",
       "action": "created",
       "from": null,
@@ -12070,24 +12088,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-21T10:49:57.581Z"
-    },
-    {
-      "inquiryId": "INQ-0177",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-21T07:51:31.542Z"
-    },
-    {
-      "inquiryId": "INQ-0176",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-20T10:21:34.825Z"
     }
   ]
 }
