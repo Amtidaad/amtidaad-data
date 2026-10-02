@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0341",
+      "client": "Advance Innov Fire Fighting & Sfty Eqpt Inst LLC",
+      "project": "Adigo Palm Jumeirah",
+      "phone": "971523571867",
+      "email": "mpelausa@aismena.com",
+      "date": "2026-09-30",
+      "location": "Palm Jumeirah",
+      "service": "Fire Extinguisher Refilling",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-02",
+      "followup": "",
+      "scope": "Re: Adagio Palm Jumeirah - PPM Requirements",
+      "remarks": "Quoted by Reshmi",
+      "quotNo": "9986",
+      "quotValue": 19131,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-02T12:33:05.785Z"
+    },
+    {
       "id": "INQ-0340",
       "client": "Emaar",
       "project": "Creek Beach 1 &2",
@@ -7590,6 +7613,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0341",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-02T12:33:05.785Z"
+    },
+    {
       "inquiryId": "INQ-0339",
       "action": "edited",
       "from": null,
@@ -12079,15 +12111,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-21T11:59:57.993Z"
-    },
-    {
-      "inquiryId": "INQ-0080",
-      "action": "status_change",
-      "from": "quotation",
-      "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-21T10:49:57.581Z"
     }
   ]
 }
