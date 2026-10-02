@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0340",
+      "client": "Emaar",
+      "project": "Creek Beach 1 &2",
+      "phone": "",
+      "email": "Ragesh.Govindan@emrill.com",
+      "date": "2026-10-01",
+      "location": "",
+      "service": "Fire Extinguisher Refilling",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-01",
+      "followup": "",
+      "scope": "Re: RFQ- Creek Beach Breeze LV room FM200 refilling.",
+      "remarks": "Quoted by Gary",
+      "quotNo": "9982",
+      "quotValue": 55952.4,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-02T04:07:32.589Z"
+    },
+    {
       "id": "INQ-0339",
       "client": "Mansion Owners Association",
       "project": "XXII Carat Hotel",
@@ -7567,6 +7590,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0340",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-02T04:07:32.590Z"
+    },
+    {
       "inquiryId": "INQ-0339",
       "action": "created",
       "from": null,
@@ -12056,15 +12088,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-20T10:21:34.825Z"
-    },
-    {
-      "inquiryId": "INQ-0171",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-20T08:33:56.402Z"
     }
   ]
 }
