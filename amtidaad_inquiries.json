@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0343",
+      "client": "Persona Salon DMCC",
+      "project": "Persona Salon DMCC",
+      "phone": "",
+      "email": "",
+      "date": "2026-09-21",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "2026-09-21",
+      "followup": "",
+      "scope": "Supply & Installation",
+      "remarks": "Email confirmation received on 5th Oct",
+      "quotNo": "9901",
+      "quotValue": 13388.55,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-05T11:08:36.817Z"
+    },
+    {
       "id": "INQ-0342",
       "client": "General International Technical Co. (LLC)",
       "project": "",
@@ -7636,6 +7659,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0343",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-05T11:08:36.817Z"
+    },
+    {
       "inquiryId": "INQ-0223",
       "action": "status_change",
       "from": "quotation",
@@ -12125,15 +12157,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-21T13:33:34.673Z"
-    },
-    {
-      "inquiryId": "INQ-0179",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-21T13:02:42.577Z"
     }
   ]
 }
