@@ -609,17 +609,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "quotation",
+      "status": "lost",
       "quotDate": "2026-10-01",
       "followup": "",
       "scope": "Re: Retrotec Integrity testing services for 13 rooms protected by gas suppression systems - REQUEST FOR QUOTE",
-      "remarks": "Revised Quoted by Faizan",
+      "remarks": "Revised Quoted by Faizan\nAwarded to Sibca due to high price",
       "quotNo": "9940",
       "quotValue": 22417.5,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-10-01T11:07:54.072Z"
+      "lastUpdatedAt": "2026-10-05T11:14:14.352Z"
     },
     {
       "id": "INQ-0316",
@@ -7659,6 +7659,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0317",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-05T11:14:14.352Z"
+    },
+    {
+      "inquiryId": "INQ-0317",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-05T11:14:14.352Z"
+    },
+    {
       "inquiryId": "INQ-0231",
       "action": "status_change",
       "from": "quotation",
@@ -12139,24 +12157,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-22T09:42:30.065Z"
-    },
-    {
-      "inquiryId": "INQ-0183",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-22T09:40:03.076Z"
-    },
-    {
-      "inquiryId": "INQ-0182",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-22T09:36:30.460Z"
     }
   ]
 }
