@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0346",
+      "client": "Golositalia",
+      "project": "Golositalia FZCO",
+      "phone": "",
+      "email": "golositaliajlt@gmail.com",
+      "date": "2026-10-05",
+      "location": "",
+      "service": "Fire Extinguisher Refilling",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-05",
+      "followup": "",
+      "scope": "Golositalia FZCO - Quarter 4 PPM report with Proposal",
+      "remarks": "Quoted by Gary",
+      "quotNo": "9991",
+      "quotValue": 99,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-05T12:10:06.558Z"
+    },
+    {
       "id": "INQ-0345",
       "client": "Aduba Safety",
       "project": "DMC 135",
@@ -7705,6 +7728,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0346",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-05T12:10:06.559Z"
+    },
+    {
       "inquiryId": "INQ-0345",
       "action": "created",
       "from": null,
@@ -12194,15 +12226,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-26T11:03:03.329Z"
-    },
-    {
-      "inquiryId": "INQ-0193",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-26T10:50:59.545Z"
     }
   ]
 }
