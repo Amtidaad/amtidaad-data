@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0342",
+      "client": "General International Technical Co. (LLC)",
+      "project": "",
+      "phone": "",
+      "email": "",
+      "date": "2026-10-03",
+      "location": "",
+      "service": "Fire Extinguisher Refilling",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-03",
+      "followup": "",
+      "scope": "Quotation- Refilling of Cylinders- IG541",
+      "remarks": "Quoted by Reshmi",
+      "quotNo": "9910",
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-05T04:22:04.164Z"
+    },
+    {
       "id": "INQ-0341",
       "client": "Advance Innov Fire Fighting & Sfty Eqpt Inst LLC",
       "project": "Adigo Palm Jumeirah",
@@ -7613,6 +7636,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0342",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-05T04:22:04.164Z"
+    },
+    {
       "inquiryId": "INQ-0341",
       "action": "edited",
       "from": null,
@@ -12102,15 +12134,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-21T12:02:40.249Z"
-    },
-    {
-      "inquiryId": "INQ-0144",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-21T11:59:57.993Z"
     }
   ]
 }
