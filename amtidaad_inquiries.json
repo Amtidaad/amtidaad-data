@@ -697,21 +697,21 @@
       "phone": "97142826460",
       "email": "Contracts1@stratum.ae",
       "date": "2026-09-17",
-      "location": "",
+      "location": "Jumeirah Village Circle",
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-09-25",
       "followup": "",
       "scope": "REQUEST FOR PROPOSALS_CRYSTAL RESIDENCE_ELECTRIC VERTICAL TURBINE FIRE PUMP - REPAIR WORK",
-      "remarks": "Assigned to Reshmi",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quotation shared to boss",
+      "quotNo": "9951",
+      "quotValue": 27037.5,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-24T06:45:37.696Z"
+      "lastUpdatedAt": "2026-10-05T12:00:58.500Z"
     },
     {
       "id": "INQ-0313",
@@ -7682,6 +7682,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0314",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-05T12:00:58.500Z"
+    },
+    {
+      "inquiryId": "INQ-0314",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-05T12:00:58.500Z"
+    },
+    {
       "inquiryId": "INQ-0327",
       "action": "status_change",
       "from": "new",
@@ -12162,24 +12180,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-25T10:03:51.740Z"
-    },
-    {
-      "inquiryId": "INQ-0188",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-25T08:05:40.662Z"
-    },
-    {
-      "inquiryId": "INQ-0187",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-25T07:35:43.738Z"
     }
   ]
 }
