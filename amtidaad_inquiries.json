@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0345",
+      "client": "Aduba Safety",
+      "project": "DMC 135",
+      "phone": "971588256943",
+      "email": "sabahat@adubasafety.com",
+      "date": "2026-09-08",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-05",
+      "followup": "",
+      "scope": "Re: INQUIRY - Installation Certifiactes - DMC",
+      "remarks": "Quotation shared by Gary",
+      "quotNo": "9917",
+      "quotValue": 4200,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-05T12:07:52.768Z"
+    },
+    {
       "id": "INQ-0344",
       "client": "INFINITY PLUS CONTRACTING",
       "project": "DCD work- j118",
@@ -7682,6 +7705,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0345",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-05T12:07:52.768Z"
+    },
+    {
       "inquiryId": "INQ-0288",
       "action": "status_change",
       "from": "new",
@@ -12171,15 +12203,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-26T10:50:59.545Z"
-    },
-    {
-      "inquiryId": "INQ-0192",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-26T06:07:23.294Z"
     }
   ]
 }
