@@ -1253,17 +1253,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-09-21",
       "followup": "",
       "scope": "REQUEST FOR PROPOSALS_PALM COUTURE RESIDENCE_RECTIFICATION OF FIRE FIGHTING SYSTEM",
-      "remarks": "",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Shared to Boss",
+      "quotNo": "9905",
+      "quotValue": 17193.75,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-22T05:14:22.167Z"
+      "lastUpdatedAt": "2026-10-05T12:01:53.470Z"
     },
     {
       "id": "INQ-0289",
@@ -7682,6 +7682,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0290",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-05T12:01:53.470Z"
+    },
+    {
+      "inquiryId": "INQ-0290",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-05T12:01:53.470Z"
+    },
+    {
       "inquiryId": "INQ-0314",
       "action": "status_change",
       "from": "new",
@@ -12162,24 +12180,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-25T12:30:01.372Z"
-    },
-    {
-      "inquiryId": "INQ-0190",
-      "action": "created",
-      "from": null,
-      "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-25T11:16:40.328Z"
-    },
-    {
-      "inquiryId": "INQ-0189",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-25T10:03:51.740Z"
     }
   ]
 }
