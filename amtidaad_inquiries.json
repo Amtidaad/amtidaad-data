@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0344",
+      "client": "INFINITY PLUS CONTRACTING",
+      "project": "DCD work- j118",
+      "phone": "971505749909",
+      "email": "eng-dept@ipcdxb.com",
+      "date": "2026-09-26",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-05",
+      "followup": "",
+      "scope": "Request for Quotation – DCD work- j118",
+      "remarks": "Quoted by Reshmi",
+      "quotNo": "9992",
+      "quotValue": 407662.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-05T11:17:49.933Z"
+    },
+    {
       "id": "INQ-0343",
       "client": "Persona Salon DMCC",
       "project": "Persona Salon DMCC",
@@ -7659,6 +7682,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0344",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-05T11:17:49.933Z"
+    },
+    {
       "inquiryId": "INQ-0325",
       "action": "status_change",
       "from": "new",
@@ -12148,15 +12180,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-22T09:58:06.420Z"
-    },
-    {
-      "inquiryId": "INQ-0184",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-22T09:43:47.466Z"
     }
   ]
 }
