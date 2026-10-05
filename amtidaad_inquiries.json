@@ -2610,17 +2610,17 @@
       "service": "AMC - Full Package",
       "source": "WhatsApp",
       "assigned": "Estimation Team",
-      "status": "quotation",
+      "status": "lost",
       "quotDate": "2026-09-14",
       "followup": "",
       "scope": "Non Comprehensive AMC for 1 year",
-      "remarks": "Quotation shared by Reshmi\nClient Contact: Mr. Jawad",
+      "remarks": "Quotation shared by Reshmi\nClient Contact: Mr. Jawad\nAwarded to OEM",
       "quotNo": "9806",
       "quotValue": 19425,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-15T04:33:57.453Z"
+      "lastUpdatedAt": "2026-10-05T11:13:00.934Z"
     },
     {
       "id": "INQ-0227",
@@ -7659,6 +7659,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0228",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-05T11:13:00.935Z"
+    },
+    {
+      "inquiryId": "INQ-0228",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-05T11:13:00.935Z"
+    },
+    {
       "inquiryId": "INQ-0343",
       "action": "created",
       "from": null,
@@ -12139,24 +12157,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-22T05:35:25.136Z"
-    },
-    {
-      "inquiryId": "INQ-0181",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-22T05:35:18.725Z"
-    },
-    {
-      "inquiryId": "INQ-0180",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-21T13:33:34.673Z"
     }
   ]
 }
