@@ -2702,17 +2702,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "quotation",
+      "status": "awarded",
       "quotDate": "2026-09-08",
       "followup": "",
       "scope": "RFP_Request for Supplier Proposal – 1ST PPM FIRE RECTIFICATION WORKS Burj Al Nujoom",
-      "remarks": "Quoted by Reshmi",
+      "remarks": "Quoted by Reshmi/ LPO no. 75 received on 3rd Oct",
       "quotNo": "9764",
       "quotValue": 110250,
-      "securedValue": null,
+      "securedValue": 110250,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-12T05:40:17.321Z"
+      "lastUpdatedAt": "2026-10-05T06:01:53.960Z"
     },
     {
       "id": "INQ-0222",
@@ -7636,6 +7636,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0223",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-05T06:01:53.960Z"
+    },
+    {
+      "inquiryId": "INQ-0223",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-05T06:01:53.960Z"
+    },
+    {
       "inquiryId": "INQ-0342",
       "action": "edited",
       "from": null,
@@ -12116,24 +12134,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-21T13:02:42.577Z"
-    },
-    {
-      "inquiryId": "INQ-0178",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-21T13:01:40.366Z"
-    },
-    {
-      "inquiryId": "INQ-0169",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-21T12:02:40.249Z"
     }
   ]
 }
