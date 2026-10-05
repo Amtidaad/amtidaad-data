@@ -5,7 +5,7 @@
       "client": "General International Technical Co. (LLC)",
       "project": "",
       "phone": "",
-      "email": "",
+      "email": "Mshehzad@generalintlgroup.com",
       "date": "2026-10-03",
       "location": "",
       "service": "Fire Extinguisher Refilling",
@@ -21,7 +21,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-10-05T04:22:04.164Z"
+      "lastUpdatedAt": "2026-10-05T04:22:20.833Z"
     },
     {
       "id": "INQ-0341",
@@ -7637,6 +7637,15 @@
   "auditLog": [
     {
       "inquiryId": "INQ-0342",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-05T04:22:20.833Z"
+    },
+    {
+      "inquiryId": "INQ-0342",
       "action": "created",
       "from": null,
       "to": "quotation",
@@ -12122,15 +12131,6 @@
       "action": "status_change",
       "from": "new",
       "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-21T12:02:40.249Z"
-    },
-    {
-      "inquiryId": "INQ-0169",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-21T12:02:40.249Z"
