@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0347",
+      "client": "Naga",
+      "project": "Mr. Shams Frond N Villa 13B",
+      "phone": "971505816906",
+      "email": "khmahmoud@naga.ae",
+      "date": "2026-10-05",
+      "location": "Palm Jumeirah",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-05",
+      "followup": "",
+      "scope": "Re: AMC services for Fire Alarm system at Villa 13B, Palm Jumeirah",
+      "remarks": "Quotation shared by Gary (Cash Sales)",
+      "quotNo": "9258",
+      "quotValue": 8465,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-05T12:14:06.442Z"
+    },
+    {
       "id": "INQ-0346",
       "client": "Golositalia",
       "project": "Golositalia FZCO",
@@ -7728,6 +7751,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0347",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-05T12:14:06.442Z"
+    },
+    {
       "inquiryId": "INQ-0346",
       "action": "created",
       "from": null,
@@ -12214,15 +12246,6 @@
       "action": "status_change",
       "from": "new",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-26T11:03:03.329Z"
-    },
-    {
-      "inquiryId": "INQ-0113",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-26T11:03:03.329Z"
