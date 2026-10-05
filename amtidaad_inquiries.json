@@ -402,17 +402,17 @@
       "service": "Other",
       "source": "",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-09-28",
       "followup": "",
       "scope": "RFP_Al Marsoumy_Request for Supplier Proposal –   Fire Fighting System",
-      "remarks": "",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quoted shared to boss",
+      "quotNo": "9958",
+      "quotValue": 66276,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-28T05:32:22.546Z"
+      "lastUpdatedAt": "2026-10-05T11:59:47.808Z"
     },
     {
       "id": "INQ-0326",
@@ -7682,6 +7682,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0327",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-05T11:59:47.808Z"
+    },
+    {
+      "inquiryId": "INQ-0327",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-05T11:59:47.808Z"
+    },
+    {
       "inquiryId": "INQ-0344",
       "action": "created",
       "from": null,
@@ -12162,24 +12180,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-25T07:35:43.738Z"
-    },
-    {
-      "inquiryId": "INQ-0186",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-25T06:27:32.405Z"
-    },
-    {
-      "inquiryId": "INQ-0186",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-22T09:58:06.420Z"
     }
   ]
 }
