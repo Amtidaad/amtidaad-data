@@ -425,17 +425,17 @@
       "service": "",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-10-05",
       "followup": "",
       "scope": "Request for Quotation – DCD work- j119",
-      "remarks": "",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quoted by Reshmi",
+      "quotNo": "9993",
+      "quotValue": 448717.5,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-28T05:03:10.013Z"
+      "lastUpdatedAt": "2026-10-05T11:15:46.372Z"
     },
     {
       "id": "INQ-0324",
@@ -7659,6 +7659,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0325",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-05T11:15:46.372Z"
+    },
+    {
+      "inquiryId": "INQ-0325",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-05T11:15:46.372Z"
+    },
+    {
       "inquiryId": "INQ-0317",
       "action": "status_change",
       "from": "quotation",
@@ -12139,24 +12157,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-22T09:43:47.466Z"
-    },
-    {
-      "inquiryId": "INQ-0185",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-22T09:43:40.496Z"
-    },
-    {
-      "inquiryId": "INQ-0184",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-22T09:42:30.065Z"
     }
   ]
 }
