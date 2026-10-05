@@ -1299,17 +1299,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-09-19",
       "followup": "",
       "scope": "RFP_Request for Supplier Proposal – Rectification of Fire System",
-      "remarks": "Assigned to Reshmi\nContact Person: Mr. Yawar",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Assigned to Reshmi/Quotation shared with Boss\nContact Person: Mr. Yawar",
+      "quotNo": "9895",
+      "quotValue": 45617.25,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-19T06:48:59.476Z"
+      "lastUpdatedAt": "2026-10-05T12:03:01.426Z"
     },
     {
       "id": "INQ-0287",
@@ -7682,6 +7682,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0288",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-05T12:03:01.426Z"
+    },
+    {
+      "inquiryId": "INQ-0288",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-05T12:03:01.426Z"
+    },
+    {
       "inquiryId": "INQ-0290",
       "action": "status_change",
       "from": "new",
@@ -12162,24 +12180,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-26T06:07:23.294Z"
-    },
-    {
-      "inquiryId": "INQ-0183",
-      "action": "status_change",
-      "from": "quotation",
-      "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-25T12:30:01.372Z"
-    },
-    {
-      "inquiryId": "INQ-0183",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-25T12:30:01.372Z"
     }
   ]
 }
