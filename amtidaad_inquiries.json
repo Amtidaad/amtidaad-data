@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0350",
+      "client": "Distinguished Real Estate",
+      "project": "151 Residence & Gate Residence 2",
+      "phone": "97143438302",
+      "email": "shahzad.saquib@dreuae.ae",
+      "date": "2026-10-06",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "URGENT!!! 3 Years Non-Comprehensive AMC for Fire Fighting & Fire Alarm Systems at 151 Residence and Gate Residence 2 | Closing Date: 09/10/2026",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-06T12:32:57.308Z"
+    },
+    {
       "id": "INQ-0349",
       "client": "Strata Global",
       "project": "Waha Living",
@@ -7797,6 +7820,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0350",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-06T12:32:57.308Z"
+    },
+    {
       "inquiryId": "INQ-0022",
       "action": "edited",
       "from": null,
@@ -12286,15 +12318,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T07:59:23.460Z"
-    },
-    {
-      "inquiryId": "INQ-0195",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T06:41:48.412Z"
     }
   ]
 }
