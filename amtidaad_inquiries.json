@@ -2265,17 +2265,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "quotation",
+      "status": "awarded",
       "quotDate": "2026-09-12",
       "followup": "",
       "scope": "Room Integrity Test for 3 rooms",
-      "remarks": "Quoted by Reshmi",
+      "remarks": "Quoted by Reshmi/LPO No. 1304",
       "quotNo": "9822",
       "quotValue": 5512.5,
-      "securedValue": null,
+      "securedValue": 5512.5,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-14T04:47:28.857Z"
+      "lastUpdatedAt": "2026-10-06T06:26:28.414Z"
     },
     {
       "id": "INQ-0247",
@@ -7774,6 +7774,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0250",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-06T06:26:28.414Z"
+    },
+    {
+      "inquiryId": "INQ-0250",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-06T06:26:28.414Z"
+    },
+    {
       "inquiryId": "INQ-0348",
       "action": "created",
       "from": null,
@@ -12254,24 +12272,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-26T11:04:04.871Z"
-    },
-    {
-      "inquiryId": "INQ-0120",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-26T11:04:04.871Z"
-    },
-    {
-      "inquiryId": "INQ-0119",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-26T11:03:42.835Z"
     }
   ]
 }
