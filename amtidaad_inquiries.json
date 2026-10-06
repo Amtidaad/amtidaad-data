@@ -3550,7 +3550,7 @@
       "email": "jiju.ouseph@emrill.com",
       "date": "2026-08-25",
       "location": "",
-      "service": "AMC - Full Package",
+      "service": "AMC - Fire Fighting",
       "source": "Email",
       "assigned": "Estimation Team",
       "status": "quotation",
@@ -3559,11 +3559,11 @@
       "scope": "Creekside 18 Fire Fighting - AMC Renewal Proposal",
       "remarks": "quotation shared by Gary",
       "quotNo": "9679",
-      "quotValue": 21861,
+      "quotValue": 46200,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-08-26T13:36:20.608Z"
+      "lastUpdatedAt": "2026-10-06T05:24:38.197Z"
     },
     {
       "id": "INQ-0188",
@@ -7750,6 +7750,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0189",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-06T05:24:38.197Z"
+    },
     {
       "inquiryId": "INQ-0347",
       "action": "created",
@@ -12240,15 +12249,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-26T11:03:42.835Z"
-    },
-    {
-      "inquiryId": "INQ-0113",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-26T11:03:03.329Z"
     }
   ]
 }
