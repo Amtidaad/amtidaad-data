@@ -2081,17 +2081,17 @@
       "service": "AMC - Full Package",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "quotation",
+      "status": "awarded",
       "quotDate": "2026-09-15",
       "followup": "",
       "scope": "AMC CONTRACT",
-      "remarks": "Quoted by Faizan",
+      "remarks": "Quoted by Faizan/ LPO No. MSABJ8CSXAENY",
       "quotNo": "9838",
-      "quotValue": 3675,
-      "securedValue": null,
+      "quotValue": 2310,
+      "securedValue": 2310,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-15T11:05:41.842Z"
+      "lastUpdatedAt": "2026-10-06T10:00:19.589Z"
     },
     {
       "id": "INQ-0258",
@@ -7797,6 +7797,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0259",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-06T10:00:19.589Z"
+    },
+    {
+      "inquiryId": "INQ-0259",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-06T10:00:19.589Z"
+    },
+    {
       "inquiryId": "INQ-0338",
       "action": "status_change",
       "from": "quotation",
@@ -12277,24 +12295,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-26T13:36:20.608Z"
-    },
-    {
-      "inquiryId": "INQ-0189",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-26T13:36:05.886Z"
-    },
-    {
-      "inquiryId": "INQ-0193",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-26T11:10:16.035Z"
     }
   ]
 }
