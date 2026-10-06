@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0348",
+      "client": "Emaar",
+      "project": "Creekside 18",
+      "phone": "971545431963",
+      "email": "MPitchai@emaar.ae",
+      "date": "2026-10-06",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-06",
+      "followup": "",
+      "scope": "Re: Creek side 18 CBS AMC",
+      "remarks": "Quoted by Gary",
+      "quotNo": "9420",
+      "quotValue": 10954.55,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-06T05:26:33.218Z"
+    },
+    {
       "id": "INQ-0347",
       "client": "Naga",
       "project": "Mr. Shams Frond N Villa 13B",
@@ -7751,6 +7774,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0348",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-06T05:26:33.218Z"
+    },
+    {
       "inquiryId": "INQ-0189",
       "action": "edited",
       "from": null,
@@ -12237,15 +12269,6 @@
       "action": "status_change",
       "from": "new",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-26T11:03:42.835Z"
-    },
-    {
-      "inquiryId": "INQ-0119",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-26T11:03:42.835Z"
