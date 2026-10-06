@@ -7349,16 +7349,16 @@
       "source": "",
       "assigned": "",
       "status": "quotation",
-      "quotDate": "2026-07-02",
+      "quotDate": "2026-10-06",
       "followup": "",
       "scope": "Rectification",
-      "remarks": "Assigned to Reshmi | Quote sent to client | SO9268 - AED47,745",
+      "remarks": "Assigned to Reshmi | Quote sent to client",
       "quotNo": "9268",
-      "quotValue": 18632.25,
+      "quotValue": 50384.25,
       "securedValue": null,
       "createdBy": "BD Executive",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-07-24T11:48:40.926Z"
+      "lastUpdatedAt": "2026-10-06T11:00:57.582Z"
     },
     {
       "id": "INQ-0021",
@@ -7796,6 +7796,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0022",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-06T11:00:57.582Z"
+    },
     {
       "inquiryId": "INQ-0259",
       "action": "status_change",
@@ -12286,15 +12295,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T06:41:48.412Z"
-    },
-    {
-      "inquiryId": "INQ-0189",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-26T13:36:20.608Z"
     }
   ]
 }
