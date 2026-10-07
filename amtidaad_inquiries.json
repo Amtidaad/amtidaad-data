@@ -218,17 +218,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-10-07",
       "followup": "",
       "scope": "Waha Living - RFP For Generator Maintenance AMC Proposal",
-      "remarks": "Assigned to Reshmi",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quoted by Reshmi / Correct SO No. 10011",
+      "quotNo": "1001",
+      "quotValue": 7875,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-10-06T07:04:45.981Z"
+      "lastUpdatedAt": "2026-10-07T10:45:25.438Z"
     },
     {
       "id": "INQ-0348",
@@ -8004,6 +8004,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0349",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-07T10:45:25.438Z"
+    },
+    {
+      "inquiryId": "INQ-0349",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-07T10:45:25.438Z"
+    },
+    {
       "inquiryId": "INQ-0358",
       "action": "created",
       "from": null,
@@ -12484,24 +12502,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:06:13.904Z"
-    },
-    {
-      "inquiryId": "INQ-0037",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:04:41.884Z"
-    },
-    {
-      "inquiryId": "INQ-0037",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:04:41.884Z"
     }
   ]
 }
