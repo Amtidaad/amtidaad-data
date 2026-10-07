@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0356",
+      "client": "Professional Choice Real Estate",
+      "project": "Dolphin Tower",
+      "phone": "971522014963",
+      "email": "fathima@professionalchoicereal.com",
+      "date": "2026-09-30",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Reference No# JB6913-26-00308 Initiated By Fathima Jalill /Re: Request for Proposals - UPS System /Emergency Central Battery System Maintenance -AMC 2027 & 2028",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-07T08:47:54.586Z"
+    },
+    {
       "id": "INQ-0355",
       "client": "Professional Choice Real Estate",
       "project": "The One",
@@ -7935,6 +7958,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0356",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-07T08:47:54.586Z"
+    },
+    {
       "inquiryId": "INQ-0355",
       "action": "created",
       "from": null,
@@ -12424,15 +12456,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:03:35.822Z"
-    },
-    {
-      "inquiryId": "INQ-0035",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:02:49.446Z"
     }
   ]
 }
