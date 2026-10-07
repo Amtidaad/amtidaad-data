@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0354",
+      "client": "Oprell",
+      "project": "O Ten Building",
+      "phone": "",
+      "email": "asedero@oprell.ae",
+      "date": "2026-10-02",
+      "location": "Jaddaf",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-07",
+      "followup": "",
+      "scope": "Re: Request for Quotation – Fire Fighting, Fire Alarm & Emergency Systems | O TEN Building, Al Jaddaf",
+      "remarks": "Qouted by Faizan / Correct SO 10007",
+      "quotNo": "1007",
+      "quotValue": 151527.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-07T08:22:43.706Z"
+    },
+    {
       "id": "INQ-0353",
       "client": "Emaar",
       "project": "Harbour Tower 1 & 2 ( Exit Lights)",
@@ -7889,6 +7912,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0354",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-07T08:22:43.706Z"
+    },
+    {
       "inquiryId": "INQ-0341",
       "action": "edited",
       "from": null,
@@ -12375,15 +12407,6 @@
       "action": "status_change",
       "from": "new",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:00:29.454Z"
-    },
-    {
-      "inquiryId": "INQ-0029",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:00:29.454Z"
