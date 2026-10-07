@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0361",
+      "client": "Safari Decor",
+      "project": "City Timber Factory",
+      "phone": "97142671675",
+      "email": "info@safaridecor.ae",
+      "date": "2026-10-07",
+      "location": "",
+      "service": "AMC - Fire Fighting",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-07",
+      "followup": "",
+      "scope": "Re: City Timber Factory LLC - AMC Renewal Proposal",
+      "remarks": "Quoted by Gary/ Correct SO No. 10009",
+      "quotNo": "1009",
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-07T10:54:11.466Z"
+    },
+    {
       "id": "INQ-0360",
       "client": "Distinguished Real Estate",
       "project": "Gate 2",
@@ -8050,6 +8073,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0361",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-07T10:54:11.466Z"
+    },
+    {
       "inquiryId": "INQ-0360",
       "action": "created",
       "from": null,
@@ -12536,15 +12568,6 @@
       "action": "status_change",
       "from": "new",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:09:11.062Z"
-    },
-    {
-      "inquiryId": "INQ-0043",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:09:11.062Z"
