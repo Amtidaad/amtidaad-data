@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0355",
+      "client": "Professional Choice Real Estate",
+      "project": "The One",
+      "phone": "971522014963",
+      "email": "fathima@professionalchoicereal.com",
+      "date": "2026-09-30",
+      "location": "Jumeirah Village Circle",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Reference No# JB6913-26-00271 I / Re: Request for Proposals - UPS System /Emergency Central Battery System Maintenance -AMC 2027 & 2028",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-07T08:46:33.086Z"
+    },
+    {
       "id": "INQ-0354",
       "client": "Oprell",
       "project": "O Ten Building",
@@ -7912,6 +7935,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0355",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-07T08:46:33.086Z"
+    },
+    {
       "inquiryId": "INQ-0346",
       "action": "status_change",
       "from": "quotation",
@@ -12401,15 +12433,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:02:49.446Z"
-    },
-    {
-      "inquiryId": "INQ-0030",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:01:03.556Z"
     }
   ]
 }
