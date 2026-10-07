@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0359",
+      "client": "Skinny Slice Restaurant LLC",
+      "project": "Skinny Slice Restaurant",
+      "phone": "971552814564",
+      "email": "info@eatkrave.com",
+      "date": "2026-10-07",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Re: AMC Renewal Proposal in Skinny Slice Restaurant LLC - Marina View Tower",
+      "remarks": "Quoted by Gary",
+      "quotNo": "3417",
+      "quotValue": 7142.25,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-07T10:48:22.414Z"
+    },
+    {
       "id": "INQ-0358",
       "client": "Professional Choice Real Estate",
       "project": "Sky Bay",
@@ -8004,6 +8027,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0359",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-07T10:48:22.414Z"
+    },
+    {
       "inquiryId": "INQ-0349",
       "action": "status_change",
       "from": "new",
@@ -12490,15 +12522,6 @@
       "action": "status_change",
       "from": "new",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:06:13.904Z"
-    },
-    {
-      "inquiryId": "INQ-0038",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:06:13.904Z"
