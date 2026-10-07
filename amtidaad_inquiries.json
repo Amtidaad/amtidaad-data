@@ -17,11 +17,11 @@
       "scope": "Re: City Timber Factory LLC - AMC Renewal Proposal",
       "remarks": "Quoted by Gary/ Correct SO No. 10009",
       "quotNo": "1009",
-      "quotValue": null,
+      "quotValue": 5067.3,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-10-07T10:54:11.466Z"
+      "lastUpdatedAt": "2026-10-07T11:00:41.246Z"
     },
     {
       "id": "INQ-0360",
@@ -8074,6 +8074,15 @@
   "auditLog": [
     {
       "inquiryId": "INQ-0361",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-07T11:00:41.246Z"
+    },
+    {
+      "inquiryId": "INQ-0361",
       "action": "created",
       "from": null,
       "to": "quotation",
@@ -12562,15 +12571,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:11:06.158Z"
-    },
-    {
-      "inquiryId": "INQ-0043",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:09:11.062Z"
     }
   ]
 }
