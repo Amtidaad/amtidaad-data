@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0360",
+      "client": "Distinguished Real Estate",
+      "project": "Gate 2",
+      "phone": "97143438302",
+      "email": "mahmoud.elnagar@dreuae.ae",
+      "date": "2026-10-06",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-07",
+      "followup": "",
+      "scope": "Re: 3 Years Non-Comprehensive AMC of Firefighting & Fire Alarm at 151RESIDENCE&GATE2  | Closing Date: 10-10-2026.",
+      "remarks": "Quoted by Reshmi / Correct SO No. 10006",
+      "quotNo": "1006",
+      "quotValue": 23625,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-07T10:52:01.085Z"
+    },
+    {
       "id": "INQ-0359",
       "client": "Skinny Slice Restaurant LLC",
       "project": "Skinny Slice Restaurant",
@@ -8027,6 +8050,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0360",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-07T10:52:01.085Z"
+    },
+    {
       "inquiryId": "INQ-0350",
       "action": "status_change",
       "from": "new",
@@ -12516,15 +12548,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:09:11.062Z"
-    },
-    {
-      "inquiryId": "INQ-0040",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:07:51.619Z"
     }
   ]
 }
