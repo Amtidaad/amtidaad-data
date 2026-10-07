@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0358",
+      "client": "Professional Choice Real Estate",
+      "project": "Sky Bay",
+      "phone": "971522014963",
+      "email": "fathima@professionalchoicereal.com",
+      "date": "2026-09-30",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Reference No# JB6913-26-00205 Initiated By Fathima Jalill / Re: Request for Proposals - UPS System /Emergency Central Battery System Maintenance -AMC 2027 & 2028",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-07T08:52:19.200Z"
+    },
+    {
       "id": "INQ-0357",
       "client": "Professional Choice Real Estate",
       "project": "The One",
@@ -7981,6 +8004,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0358",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-07T08:52:19.200Z"
+    },
+    {
       "inquiryId": "INQ-0357",
       "action": "created",
       "from": null,
@@ -12470,15 +12502,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:04:41.884Z"
-    },
-    {
-      "inquiryId": "INQ-0036",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:03:35.822Z"
     }
   ]
 }
