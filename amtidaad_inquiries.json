@@ -289,15 +289,15 @@
       "assigned": "Estimation Team",
       "status": "quotation",
       "quotDate": "2026-10-02",
-      "followup": "",
+      "followup": "2026-10-14",
       "scope": "Re: Adagio Palm Jumeirah - PPM Requirements",
-      "remarks": "revised quotation shared by Reshmi",
+      "remarks": "revised quotation shared by Reshmi\n> Spoke with Michael and this is under review with the end user, once there is feedback he will let us know",
       "quotNo": "9986",
       "quotValue": 9922.5,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-10-02T12:41:14.615Z"
+      "lastUpdatedAt": "2026-10-07T06:28:50.329Z"
     },
     {
       "id": "INQ-0340",
@@ -7889,6 +7889,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0341",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-07T06:28:50.329Z"
+    },
+    {
       "inquiryId": "INQ-0353",
       "action": "created",
       "from": null,
@@ -12378,15 +12387,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:00:29.454Z"
-    },
-    {
-      "inquiryId": "INQ-0028",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T07:59:57.844Z"
     }
   ]
 }
