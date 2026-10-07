@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0353",
+      "client": "Emaar",
+      "project": "Harbour Tower 1 & 2 ( Exit Lights)",
+      "phone": "",
+      "email": "vijaya.prakash@emrill.com",
+      "date": "2026-10-06",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-06",
+      "followup": "",
+      "scope": "Re: Harbour Gate Tower 1 & 2 - Quarter 3 PPM Reports",
+      "remarks": "Quoted by Gary",
+      "quotNo": "9999",
+      "quotValue": 24990,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-07T04:49:10.717Z"
+    },
+    {
       "id": "INQ-0352",
       "client": "She Burger",
       "project": "She Burger - Nag Al Hammar",
@@ -7866,6 +7889,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0353",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-07T04:49:10.717Z"
+    },
+    {
       "inquiryId": "INQ-0352",
       "action": "created",
       "from": null,
@@ -12352,15 +12384,6 @@
       "action": "status_change",
       "from": "new",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T07:59:57.844Z"
-    },
-    {
-      "inquiryId": "INQ-0028",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T07:59:57.844Z"
