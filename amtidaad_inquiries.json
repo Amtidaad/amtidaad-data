@@ -210,7 +210,7 @@
     {
       "id": "INQ-0350",
       "client": "Distinguished Real Estate",
-      "project": "151 Residence & Gate Residence 2",
+      "project": "151 Residence",
       "phone": "97143438302",
       "email": "shahzad.saquib@dreuae.ae",
       "date": "2026-10-06",
@@ -218,17 +218,17 @@
       "service": "AMC - Full Package",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-10-07",
       "followup": "",
       "scope": "URGENT!!! 3 Years Non-Comprehensive AMC for Fire Fighting & Fire Alarm Systems at 151 Residence and Gate Residence 2 | Closing Date: 09/10/2026",
-      "remarks": "Assigned to Reshmi",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quoted by Reshmi / Correct SO No. 10004",
+      "quotNo": "1004",
+      "quotValue": 23625,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-10-06T12:32:57.308Z"
+      "lastUpdatedAt": "2026-10-07T10:50:03.600Z"
     },
     {
       "id": "INQ-0349",
@@ -8027,6 +8027,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0350",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-07T10:50:03.600Z"
+    },
+    {
+      "inquiryId": "INQ-0350",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-07T10:50:03.600Z"
+    },
+    {
       "inquiryId": "INQ-0359",
       "action": "created",
       "from": null,
@@ -12507,24 +12525,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:07:51.619Z"
-    },
-    {
-      "inquiryId": "INQ-0040",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:07:51.619Z"
-    },
-    {
-      "inquiryId": "INQ-0038",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:06:13.904Z"
     }
   ]
 }
