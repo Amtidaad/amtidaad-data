@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0367",
+      "client": "Idama Facilities Management",
+      "project": "Rahaba Residence",
+      "phone": "",
+      "email": "pavan.kumar@idama.ae",
+      "date": "2026-10-08",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-08",
+      "followup": "",
+      "scope": "Fire Pump Quotation - Rahaba - Residence",
+      "remarks": "Quoted by Faizan/ Correct SO No. 10026",
+      "quotNo": "1026",
+      "quotValue": 24974.25,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-08T12:46:04.704Z"
+    },
+    {
       "id": "INQ-0366",
       "client": "xpertcare Technical services",
       "project": "",
@@ -8188,6 +8211,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0367",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-08T12:46:04.704Z"
+    },
+    {
       "inquiryId": "INQ-0366",
       "action": "created",
       "from": null,
@@ -12677,15 +12709,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:12:51.070Z"
-    },
-    {
-      "inquiryId": "INQ-0046",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:12:27.329Z"
     }
   ]
 }
