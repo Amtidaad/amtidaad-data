@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0365",
+      "client": "Liblib Restaurant",
+      "project": "Liblib Restaurant",
+      "phone": "971529567580",
+      "email": "admin@sheburger.com",
+      "date": "2026-10-07",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-07",
+      "followup": "",
+      "scope": "Re: LibLib Restaurant - AMC Renewal Proposal",
+      "remarks": "Quoted by Gary/ Correct SO No. 10005",
+      "quotNo": "1005",
+      "quotValue": 2079,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-08T03:58:52.314Z"
+    },
+    {
       "id": "INQ-0364",
       "client": "Izdihar Real Estate Fund",
       "project": "Binghatti Vista",
@@ -8142,6 +8165,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0365",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-08T03:58:52.314Z"
+    },
+    {
       "inquiryId": "INQ-0364",
       "action": "created",
       "from": null,
@@ -12631,15 +12663,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:12:27.329Z"
-    },
-    {
-      "inquiryId": "INQ-0045",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:11:45.060Z"
     }
   ]
 }
