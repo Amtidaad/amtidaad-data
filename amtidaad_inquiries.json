@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0366",
+      "client": "xpertcare Technical services",
+      "project": "",
+      "phone": "",
+      "email": "Info@xpertcarets.com",
+      "date": "2026-10-08",
+      "location": "",
+      "service": "Fire Extinguisher Refilling",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-08",
+      "followup": "",
+      "scope": "Re: Quotation for Refilling",
+      "remarks": "Quoted by Reshmi/ Correct SO No. 10017",
+      "quotNo": "1017",
+      "quotValue": 472.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-08T12:00:08.188Z"
+    },
+    {
       "id": "INQ-0365",
       "client": "Liblib Restaurant",
       "project": "Liblib Restaurant",
@@ -8165,6 +8188,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0366",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-08T12:00:08.188Z"
+    },
+    {
       "inquiryId": "INQ-0365",
       "action": "created",
       "from": null,
@@ -12651,15 +12683,6 @@
       "action": "status_change",
       "from": "new",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:12:27.329Z"
-    },
-    {
-      "inquiryId": "INQ-0046",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:12:27.329Z"
