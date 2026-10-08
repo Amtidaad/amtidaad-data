@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0364",
+      "client": "Izdihar Real Estate Fund",
+      "project": "Binghatti Vista",
+      "phone": "",
+      "email": "pm3@banke.ae",
+      "date": "2026-10-07",
+      "location": "Dubai Silicon Oasis",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-07",
+      "followup": "",
+      "scope": "Binghatti Vista - AMC Renewal Proposal Year 2026-2027 (Non Comprehensive AMC)",
+      "remarks": "Quoted by Gary/ Correct SO No. 10014",
+      "quotNo": "1014",
+      "quotValue": 4935,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-08T03:56:14.212Z"
+    },
+    {
       "id": "INQ-0363",
       "client": "Malgudy Restaurant",
       "project": "Malgudy Restaurant",
@@ -8119,6 +8142,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0364",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-08T03:56:14.212Z"
+    },
+    {
       "inquiryId": "INQ-0363",
       "action": "created",
       "from": null,
@@ -12605,15 +12637,6 @@
       "action": "status_change",
       "from": "new",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:11:45.060Z"
-    },
-    {
-      "inquiryId": "INQ-0045",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:11:45.060Z"
