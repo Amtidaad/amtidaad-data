@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0363",
+      "client": "Malgudy Restaurant",
+      "project": "Malgudy Restaurant",
+      "phone": "",
+      "email": "er.suryaarora@gmail.com",
+      "date": "2026-10-07",
+      "location": "",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-07",
+      "followup": "",
+      "scope": "Malgudy Restaurant LLC - AMC Renewal Proposal Year 2026-2027 (Non Comprehensive AMC)",
+      "remarks": "Quoted by Gary/ Correct SO NO. 10005",
+      "quotNo": "1005",
+      "quotValue": 1575,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-08T03:52:35.810Z"
+    },
+    {
       "id": "INQ-0362",
       "client": "United Fidelity Insurance Company",
       "project": "Fidelity United Building",
@@ -8096,6 +8119,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0363",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-08T03:52:35.810Z"
+    },
+    {
       "inquiryId": "INQ-0362",
       "action": "created",
       "from": null,
@@ -12585,15 +12617,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:11:45.060Z"
-    },
-    {
-      "inquiryId": "INQ-0044",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:11:06.158Z"
     }
   ]
 }
