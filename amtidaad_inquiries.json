@@ -1736,17 +1736,17 @@
       "service": "FM200 / Clean Agent",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-10-08",
       "followup": "",
       "scope": "FM200 SOLUTION REQ.",
-      "remarks": "Assigned to Reshmi",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quoted by Faizan",
+      "quotNo": "9987",
+      "quotValue": 268779,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-22T10:09:48.468Z"
+      "lastUpdatedAt": "2026-10-09T04:41:18.627Z"
     },
     {
       "id": "INQ-0292",
@@ -8234,6 +8234,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0293",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-09T04:41:18.627Z"
+    },
+    {
+      "inquiryId": "INQ-0293",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-09T04:41:18.627Z"
+    },
+    {
       "inquiryId": "INQ-0368",
       "action": "created",
       "from": null,
@@ -12714,24 +12732,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:13:30.220Z"
-    },
-    {
-      "inquiryId": "INQ-0047",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:12:58.222Z"
-    },
-    {
-      "inquiryId": "INQ-0047",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:12:58.222Z"
     }
   ]
 }
