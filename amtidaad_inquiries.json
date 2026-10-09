@@ -2679,17 +2679,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "quotation",
+      "status": "awarded",
       "quotDate": "2026-09-14",
       "followup": "",
       "scope": "Refilling of Cylinders",
-      "remarks": "Quoted by Reshmi",
+      "remarks": "Quoted by Reshmi/ LPO No. 26/PO/700317 received on 9th Oct",
       "quotNo": "9820",
-      "quotValue": 5764.5,
-      "securedValue": null,
+      "quotValue": 5250,
+      "securedValue": 5250,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-14T06:57:50.505Z"
+      "lastUpdatedAt": "2026-10-09T11:43:31.359Z"
     },
     {
       "id": "INQ-0252",
@@ -8257,6 +8257,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0253",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-09T11:43:31.359Z"
+    },
+    {
+      "inquiryId": "INQ-0253",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-09T11:43:31.359Z"
+    },
+    {
       "inquiryId": "INQ-0354",
       "action": "edited",
       "from": null,
@@ -12737,24 +12755,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:15:32.508Z"
-    },
-    {
-      "inquiryId": "INQ-0051",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:14:50.934Z"
-    },
-    {
-      "inquiryId": "INQ-0051",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:14:50.934Z"
     }
   ]
 }
