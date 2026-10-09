@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0370",
+      "client": "Integrated Electronics & Electromechanical Services",
+      "project": "",
+      "phone": "",
+      "email": "",
+      "date": "2026-09-19",
+      "location": "",
+      "service": "Fire Extinguisher Refilling",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "2026-09-19",
+      "followup": "",
+      "scope": "Refilling of Cylinder",
+      "remarks": "LPO No. 26/PO/700289 received on 9th Oct",
+      "quotNo": "9812",
+      "quotValue": 928.2,
+      "securedValue": 928.2,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-09T11:46:46.401Z"
+    },
+    {
       "id": "INQ-0369",
       "client": "Cash Sales",
       "project": "Palm Jumeirah Al Mirziban, I Frond Villa i11 - Mona Kattan",
@@ -8257,6 +8280,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0370",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-09T11:46:46.401Z"
+    },
+    {
       "inquiryId": "INQ-0253",
       "action": "status_change",
       "from": "quotation",
@@ -12743,15 +12775,6 @@
       "action": "status_change",
       "from": "new",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:15:32.508Z"
-    },
-    {
-      "inquiryId": "INQ-0053",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:15:32.508Z"
