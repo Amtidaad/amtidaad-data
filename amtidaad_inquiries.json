@@ -357,16 +357,16 @@
       "source": "Email",
       "assigned": "Estimation Team",
       "status": "quotation",
-      "quotDate": "2026-10-07",
+      "quotDate": "2026-10-09",
       "followup": "",
       "scope": "Re: Request for Quotation – Fire Fighting, Fire Alarm & Emergency Systems | O TEN Building, Al Jaddaf",
       "remarks": "Qouted by Faizan / Correct SO 10007",
       "quotNo": "1007",
-      "quotValue": 151527.5,
+      "quotValue": 127502.55,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-10-07T08:22:43.706Z"
+      "lastUpdatedAt": "2026-10-09T11:30:57.360Z"
     },
     {
       "id": "INQ-0353",
@@ -8257,6 +8257,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0354",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-09T11:30:57.361Z"
+    },
+    {
       "inquiryId": "INQ-0369",
       "action": "created",
       "from": null,
@@ -12746,15 +12755,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:14:50.934Z"
-    },
-    {
-      "inquiryId": "INQ-0050",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:14:11.459Z"
     }
   ]
 }
