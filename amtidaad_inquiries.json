@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0368",
+      "client": "General International Technical Co. (LLC)",
+      "project": "General International Technical LLC",
+      "phone": "971529108811",
+      "email": "mshehzad@generalintlgroup.com",
+      "date": "2026-10-08",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-08",
+      "followup": "",
+      "scope": "Supply & Installation of FM200 (HFC227ae) System",
+      "remarks": "Quoted by Reshmi/ Correct SO No. 10024",
+      "quotNo": "1024",
+      "quotValue": 29400,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-09T04:40:10.445Z"
+    },
+    {
       "id": "INQ-0367",
       "client": "Idama Facilities Management",
       "project": "Rahaba Residence",
@@ -8211,6 +8234,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0368",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-09T04:40:10.445Z"
+    },
+    {
       "inquiryId": "INQ-0367",
       "action": "created",
       "from": null,
@@ -12700,15 +12732,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:12:58.222Z"
-    },
-    {
-      "inquiryId": "INQ-0047",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:12:51.070Z"
     }
   ]
 }
