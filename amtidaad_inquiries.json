@@ -149,17 +149,17 @@
       "service": "AMC - Full Package",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "quotation",
+      "status": "awarded",
       "quotDate": "2026-10-07",
       "followup": "",
       "scope": "Binghatti Vista - AMC Renewal Proposal Year 2026-2027 (Non Comprehensive AMC)",
       "remarks": "Quoted by Gary/ Correct SO No. 10014",
       "quotNo": "1014",
       "quotValue": 4935,
-      "securedValue": null,
+      "securedValue": 4935,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-10-08T03:56:14.212Z"
+      "lastUpdatedAt": "2026-10-09T12:05:29.377Z"
     },
     {
       "id": "INQ-0363",
@@ -8280,6 +8280,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0364",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-09T12:05:29.377Z"
+    },
+    {
+      "inquiryId": "INQ-0364",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-09T12:05:29.377Z"
+    },
+    {
       "inquiryId": "INQ-0370",
       "action": "created",
       "from": null,
@@ -12760,24 +12778,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:16:12.837Z"
-    },
-    {
-      "inquiryId": "INQ-0056",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:16:12.837Z"
-    },
-    {
-      "inquiryId": "INQ-0053",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:15:32.508Z"
     }
   ]
 }
