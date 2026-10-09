@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0369",
+      "client": "Cash Sales",
+      "project": "Palm Jumeirah Al Mirziban, I Frond Villa i11 - Mona Kattan",
+      "phone": "",
+      "email": "",
+      "date": "2026-10-05",
+      "location": "",
+      "service": "AMC - Fire Alarm",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "2026-10-05",
+      "followup": "",
+      "scope": "Fire Alarm AMC",
+      "remarks": "Quoted by Gary/ Proof of Transfer payment shared on 9 Oct/ REF NO. EPBCOP28209GCDB9",
+      "quotNo": "9921",
+      "quotValue": 1575,
+      "securedValue": 1575,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-09T10:40:37.928Z"
+    },
+    {
       "id": "INQ-0368",
       "client": "General International Technical Co. (LLC)",
       "project": "General International Technical LLC",
@@ -8234,6 +8257,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0369",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-09T10:40:37.928Z"
+    },
+    {
       "inquiryId": "INQ-0366",
       "action": "status_change",
       "from": "quotation",
@@ -12720,15 +12752,6 @@
       "action": "status_change",
       "from": "new",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:14:11.459Z"
-    },
-    {
-      "inquiryId": "INQ-0050",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:14:11.459Z"
