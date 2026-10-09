@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0371",
+      "client": "Professional Choice Real Estate",
+      "project": "5th Avenue Residence",
+      "phone": "",
+      "email": "fathima@professionalchoicereal.com",
+      "date": "2026-10-07",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-09",
+      "followup": "",
+      "scope": "Quotation for Rectification- 5th Avenue residence",
+      "remarks": "Quoted by Reshmi",
+      "quotNo": "1013",
+      "quotValue": 19687.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-09T12:41:48.460Z"
+    },
+    {
       "id": "INQ-0370",
       "client": "Integrated Electronics & Electromechanical Services",
       "project": "",
@@ -8280,6 +8303,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0371",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-09T12:41:48.461Z"
+    },
+    {
       "inquiryId": "INQ-0364",
       "action": "status_change",
       "from": "quotation",
@@ -12769,15 +12801,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:17:53.143Z"
-    },
-    {
-      "inquiryId": "INQ-0056",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:16:12.837Z"
     }
   ]
 }
