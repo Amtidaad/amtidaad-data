@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0372",
+      "client": "Acuity Safety Equipment",
+      "project": "",
+      "phone": "971525343862",
+      "email": "sales@acuityuae.com",
+      "date": "2026-10-09",
+      "location": "Dubai",
+      "service": "Fire Extinguisher Refilling",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-09",
+      "followup": "",
+      "scope": "Quotation for FM-200 Cylinder Refilling, Gas Recovery & Hydrostatic Testing",
+      "remarks": "Quoted by Faizan",
+      "quotNo": "1039",
+      "quotValue": 91518,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-10T04:39:28.948Z"
+    },
+    {
       "id": "INQ-0371",
       "client": "Professional Choice Real Estate",
       "project": "5th Avenue Residence",
@@ -8303,6 +8326,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0372",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-10T04:39:28.948Z"
+    },
+    {
       "inquiryId": "INQ-0371",
       "action": "created",
       "from": null,
@@ -12789,15 +12821,6 @@
       "action": "status_change",
       "from": "new",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:17:53.143Z"
-    },
-    {
-      "inquiryId": "INQ-0058",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:17:53.143Z"
