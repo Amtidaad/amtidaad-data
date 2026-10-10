@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0373",
+      "client": "IEMECH (Instant Power Electro Mechanical Works)",
+      "project": "",
+      "phone": "",
+      "email": "info@iemech.com",
+      "date": "2026-10-09",
+      "location": "",
+      "service": "Fire Extinguisher Refilling",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-09",
+      "followup": "",
+      "scope": "Refilling of Cylinder",
+      "remarks": "Correct SO No. 10037",
+      "quotNo": "1037",
+      "quotValue": 3517.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-10T04:44:02.421Z"
+    },
+    {
       "id": "INQ-0372",
       "client": "Acuity Safety Equipment",
       "project": "",
@@ -8326,6 +8349,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0373",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-10T04:44:02.421Z"
+    },
+    {
       "inquiryId": "INQ-0372",
       "action": "created",
       "from": null,
@@ -12815,15 +12847,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:18:38.715Z"
-    },
-    {
-      "inquiryId": "INQ-0058",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:17:53.143Z"
     }
   ]
 }
