@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0386",
+      "client": "Integrated Electronics & Electromechanical Services",
+      "project": "IEMECH",
+      "phone": "",
+      "email": "",
+      "date": "2026-10-13",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-13",
+      "followup": "",
+      "scope": "Supply & Installaion",
+      "remarks": "Quoted by Faizan/Correct SO No. 10065",
+      "quotNo": "1065",
+      "quotValue": 34650,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-14T05:35:38.228Z"
+    },
+    {
       "id": "INQ-0385",
       "client": "Noon E-commerce AD Holding",
       "project": "RA5777",
@@ -8625,6 +8648,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0386",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-14T05:35:38.228Z"
+    },
+    {
       "inquiryId": "INQ-0385",
       "action": "created",
       "from": null,
@@ -13111,15 +13143,6 @@
       "action": "status_change",
       "from": "new",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T10:47:25.987Z"
-    },
-    {
-      "inquiryId": "INQ-0097",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T10:47:25.987Z"
