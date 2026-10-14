@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0375",
+      "client": "Mindware Technology Trading",
+      "project": "Cayan-203",
+      "phone": "",
+      "email": "M.Kookkal@mdsuae.ae",
+      "date": "2026-10-13",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-13",
+      "followup": "",
+      "scope": "Quotation- Cayan 203_Supply and Installation of Fire Alarm and Firefighting Devices",
+      "remarks": "Quoted by Reshmi",
+      "quotNo": "1054",
+      "quotValue": 19661.25,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-14T04:32:30.533Z"
+    },
+    {
       "id": "INQ-0374",
       "client": "Kaizen Asset Managementq",
       "project": "D1 Tower",
@@ -8372,6 +8395,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0375",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-14T04:32:30.533Z"
+    },
+    {
       "inquiryId": "INQ-0367",
       "action": "edited",
       "from": null,
@@ -12858,15 +12890,6 @@
       "action": "status_change",
       "from": "new",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:22:50.161Z"
-    },
-    {
-      "inquiryId": "INQ-0067",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:22:50.161Z"
