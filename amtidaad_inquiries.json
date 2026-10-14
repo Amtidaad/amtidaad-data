@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0385",
+      "client": "Noon E-commerce AD Holding",
+      "project": "RA5777",
+      "phone": "",
+      "email": "",
+      "date": "2026-10-12",
+      "location": "DIP 2",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-12",
+      "followup": "",
+      "scope": "Supply and Installation",
+      "remarks": "Quoted by Reshmi",
+      "quotNo": "1061",
+      "quotValue": 6142.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-14T05:33:22.044Z"
+    },
+    {
       "id": "INQ-0384",
       "client": "National Projects & Construction LLC",
       "project": "I065 - Saadiyat Lagoons Dev Packages 2,3 &4",
@@ -8602,6 +8625,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0385",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-14T05:33:22.044Z"
+    },
+    {
       "inquiryId": "INQ-0384",
       "action": "created",
       "from": null,
@@ -13091,15 +13123,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T10:47:25.987Z"
-    },
-    {
-      "inquiryId": "INQ-0098",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T10:46:28.147Z"
     }
   ]
 }
