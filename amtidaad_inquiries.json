@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0382",
+      "client": "Itihad Community Management",
+      "project": "Marina View Tower",
+      "phone": "971588251511",
+      "email": "pme.vishnu@gmail.com",
+      "date": "2026-10-08",
+      "location": "",
+      "service": "Other",
+      "source": "Website",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-12",
+      "followup": "",
+      "scope": "Fire Alarm, Fire Fighting & Emergency Lighting Systems (AMC) 2026  ( JB2190-26-00297 )",
+      "remarks": "Quoted by Reshmi via Iskaan/ Correct SO No. 10051",
+      "quotNo": "1051",
+      "quotValue": 44100,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-14T05:20:14.677Z"
+    },
+    {
       "id": "INQ-0381",
       "client": "Better Communities",
       "project": "Med-84 (Emergency & Exit Lights)",
@@ -8533,6 +8556,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0382",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-14T05:20:14.677Z"
+    },
+    {
       "inquiryId": "INQ-0171",
       "action": "status_change",
       "from": "quotation",
@@ -13022,15 +13054,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T10:45:33.474Z"
-    },
-    {
-      "inquiryId": "INQ-0124",
-      "action": "status_change",
-      "from": "quotation",
-      "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T10:35:41.455Z"
     }
   ]
 }
