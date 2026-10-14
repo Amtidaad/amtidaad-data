@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0388",
+      "client": "Talent Technical Services CO LLC",
+      "project": "Building P/2264",
+      "phone": "",
+      "email": "",
+      "date": "2026-10-14",
+      "location": "AUH",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-14",
+      "followup": "",
+      "scope": "Room Integrity Test",
+      "remarks": "Quoted by Faizan",
+      "quotNo": "1068",
+      "quotValue": 3675,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-14T06:51:49.579Z"
+    },
+    {
       "id": "INQ-0387",
       "client": "Engie Solutions",
       "project": "MBHRE",
@@ -8671,6 +8694,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0388",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-14T06:51:49.579Z"
+    },
+    {
       "inquiryId": "INQ-0387",
       "action": "created",
       "from": null,
@@ -13157,15 +13189,6 @@
       "action": "status_change",
       "from": "new",
       "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T10:49:37.526Z"
-    },
-    {
-      "inquiryId": "INQ-0093",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T10:49:37.526Z"
