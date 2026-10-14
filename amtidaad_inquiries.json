@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0378",
+      "client": "Better Communities",
+      "project": "Tranquil Wellness Tower",
+      "phone": "",
+      "email": "suroor@bcoam.com",
+      "date": "2026-10-12",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-12",
+      "followup": "",
+      "scope": "Re: Scheduling of Fire System PPM Inside Units - Tranquil well ness",
+      "remarks": "Quoted by Gary",
+      "quotNo": "1048",
+      "quotValue": 13923,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-14T04:46:42.526Z"
+    },
+    {
       "id": "INQ-0377",
       "client": "Talent Technical Services CO LLC",
       "project": "",
@@ -8441,6 +8464,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0378",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-14T04:46:42.526Z"
+    },
+    {
       "inquiryId": "INQ-0377",
       "action": "created",
       "from": null,
@@ -12927,15 +12959,6 @@
       "action": "status_change",
       "from": "new",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:25:31.677Z"
-    },
-    {
-      "inquiryId": "INQ-0072",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:25:31.677Z"
