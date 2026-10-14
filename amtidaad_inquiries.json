@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0391",
+      "client": "Engie Solutions",
+      "project": "MBHRE",
+      "phone": "971567293606",
+      "email": "sanju.veetil@engie.com",
+      "date": "2026-10-07",
+      "location": "Al Quoz",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-14",
+      "followup": "",
+      "scope": "Re: MBHRE - ELV FFFA - 001",
+      "remarks": "Quoted by Faizan / Correct SO No. 10067",
+      "quotNo": "1067",
+      "quotValue": 4725,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-14T11:42:46.340Z"
+    },
+    {
       "id": "INQ-0390",
       "client": "Emirates Safety & Security Services",
       "project": "Dubai South",
@@ -8740,6 +8763,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0391",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-14T11:42:46.341Z"
+    },
+    {
       "inquiryId": "INQ-0387",
       "action": "status_change",
       "from": "new",
@@ -13226,15 +13258,6 @@
       "action": "status_change",
       "from": "new",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T10:52:20.417Z"
-    },
-    {
-      "inquiryId": "INQ-0074",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T10:52:20.417Z"
