@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0387",
+      "client": "Engie Solutions",
+      "project": "MBHRE",
+      "phone": "971569957223",
+      "email": "farwa.ashraf@engie.com",
+      "date": "2026-10-07",
+      "location": "Al Quoz",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "MBHRE - ELV FFFA - 001",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-14T05:55:29.639Z"
+    },
+    {
       "id": "INQ-0386",
       "client": "Integrated Electronics & Electromechanical Services",
       "project": "IEMECH",
@@ -8648,6 +8671,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0387",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-14T05:55:29.639Z"
+    },
+    {
       "inquiryId": "INQ-0386",
       "action": "created",
       "from": null,
@@ -13137,15 +13169,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T10:49:37.526Z"
-    },
-    {
-      "inquiryId": "INQ-0097",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T10:47:25.987Z"
     }
   ]
 }
