@@ -1989,17 +1989,17 @@
       "service": "Other",
       "source": "",
       "assigned": "Estimation Team",
-      "status": "quotation",
+      "status": "awarded",
       "quotDate": "2026-09-18",
       "followup": "",
       "scope": "N89 Restaurant and Lounge DMCC - Quotation for AMC Renewal (Non Comprehensive AMC)",
-      "remarks": "Quoted by Angelika",
+      "remarks": "Quoted by Angelika/ Proof of payment shared on 13th October",
       "quotNo": "9783",
       "quotValue": 1995,
-      "securedValue": null,
+      "securedValue": 1995,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-18T09:56:20.928Z"
+      "lastUpdatedAt": "2026-10-14T04:14:16.574Z"
     },
     {
       "id": "INQ-0286",
@@ -8349,6 +8349,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0287",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-14T04:14:16.574Z"
+    },
+    {
+      "inquiryId": "INQ-0287",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-14T04:14:16.574Z"
+    },
+    {
       "inquiryId": "INQ-0373",
       "action": "created",
       "from": null,
@@ -12829,24 +12847,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:20:22.506Z"
-    },
-    {
-      "inquiryId": "INQ-0060",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:18:38.715Z"
-    },
-    {
-      "inquiryId": "INQ-0060",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:18:38.715Z"
     }
   ]
 }
