@@ -1,6 +1,52 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0377",
+      "client": "Talent Technical Services CO LLC",
+      "project": "",
+      "phone": "",
+      "email": "Maintenance@ttsuae.com",
+      "date": "2026-10-10",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "2026-10-10",
+      "followup": "",
+      "scope": "RE: Quotation- Room Integrity Test",
+      "remarks": "Quoted by Reshmi/ Correct SO No. 10041 / LPO No. 1325 received on 12th Oct",
+      "quotNo": "1041",
+      "quotValue": 1837.5,
+      "securedValue": 1837.5,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-14T04:43:39.098Z"
+    },
+    {
+      "id": "INQ-0376",
+      "client": "Easy Lease",
+      "project": "Easy Lease Vehicles Rental - Al Quoz Workshop",
+      "phone": "",
+      "email": "purchase@easylease.ae",
+      "date": "2026-10-14",
+      "location": "Al Quoz, Dubai",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-13",
+      "followup": "",
+      "scope": "Quotation -FAFF-AL Quoz Work Shop",
+      "remarks": "Quoted by Faizan/ Correct SO No. 10050",
+      "quotNo": "1050",
+      "quotValue": 118818,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-14T04:40:04.082Z"
+    },
+    {
       "id": "INQ-0375",
       "client": "Mindware Technology Trading",
       "project": "Cayan-203",
@@ -8395,6 +8441,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0377",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-14T04:43:39.098Z"
+    },
+    {
+      "inquiryId": "INQ-0376",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-14T04:40:04.082Z"
+    },
+    {
       "inquiryId": "INQ-0372",
       "action": "edited",
       "from": null,
@@ -12875,24 +12939,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:25:31.677Z"
-    },
-    {
-      "inquiryId": "INQ-0068",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:23:22.387Z"
-    },
-    {
-      "inquiryId": "INQ-0068",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:23:22.387Z"
     }
   ]
 }
