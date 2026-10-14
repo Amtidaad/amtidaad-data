@@ -3277,17 +3277,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "quotation",
+      "status": "awarded",
       "quotDate": "2026-09-10",
       "followup": "",
       "scope": "Rectification",
-      "remarks": "Quoted by Faizan",
+      "remarks": "Quoted by Faizan? LPO NO. MSAZ2A3CX8J7KA received on 13h October",
       "quotNo": "9673",
       "quotValue": 9528.75,
-      "securedValue": null,
+      "securedValue": 9528.75,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-11T11:58:02.034Z"
+      "lastUpdatedAt": "2026-10-14T04:25:19.159Z"
     },
     {
       "id": "INQ-0229",
@@ -8372,6 +8372,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0230",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-14T04:25:19.160Z"
+    },
+    {
+      "inquiryId": "INQ-0230",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-14T04:25:19.159Z"
+    },
+    {
       "inquiryId": "INQ-0374",
       "action": "created",
       "from": null,
@@ -12852,24 +12870,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:22:11.035Z"
-    },
-    {
-      "inquiryId": "INQ-0063",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:22:11.035Z"
-    },
-    {
-      "inquiryId": "INQ-0061",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:20:22.506Z"
     }
   ]
 }
