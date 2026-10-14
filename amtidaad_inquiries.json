@@ -80,17 +80,17 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "",
+      "status": "quotation",
+      "quotDate": "2026-10-14",
       "followup": "",
       "scope": "MBHRE - ELV FFFA - 001",
-      "remarks": "",
-      "quotNo": null,
-      "quotValue": null,
+      "remarks": "Quoted by Faizan/Correct SO No. 10066",
+      "quotNo": "1066",
+      "quotValue": 4725,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-10-14T05:55:29.639Z"
+      "lastUpdatedAt": "2026-10-14T11:40:24.754Z"
     },
     {
       "id": "INQ-0386",
@@ -8740,6 +8740,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0387",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-14T11:40:24.754Z"
+    },
+    {
+      "inquiryId": "INQ-0387",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-14T11:40:24.754Z"
+    },
+    {
       "inquiryId": "INQ-0390",
       "action": "created",
       "from": null,
@@ -13220,24 +13238,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T10:52:20.417Z"
-    },
-    {
-      "inquiryId": "INQ-0074",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T10:52:13.539Z"
-    },
-    {
-      "inquiryId": "INQ-0073",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T10:51:45.722Z"
     }
   ]
 }
