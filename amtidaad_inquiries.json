@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0389",
+      "client": "Mansion Owners Association",
+      "project": "Easy 19",
+      "phone": "971504647536",
+      "email": "mufti@uvc.ae",
+      "date": "2026-10-14",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-14",
+      "followup": "",
+      "scope": "Re: Easy18 & Easy19-Scheduled PPM Maintenance – FAS, FFS & Emergency/Exit Lights",
+      "remarks": "Quoted by Gary/Correct SO No. 10072",
+      "quotNo": "1072",
+      "quotValue": 10620.75,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-14T11:21:07.557Z"
+    },
+    {
       "id": "INQ-0388",
       "client": "Talent Technical Services CO LLC",
       "project": "Building P/2264",
@@ -8694,6 +8717,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0389",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-14T11:21:07.557Z"
+    },
+    {
       "inquiryId": "INQ-0388",
       "action": "created",
       "from": null,
@@ -13183,15 +13215,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T10:51:45.722Z"
-    },
-    {
-      "inquiryId": "INQ-0093",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T10:49:37.526Z"
     }
   ]
 }
