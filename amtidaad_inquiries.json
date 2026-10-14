@@ -173,16 +173,16 @@
       "source": "Email",
       "assigned": "Estimation Team",
       "status": "quotation",
-      "quotDate": "2026-10-08",
+      "quotDate": "2026-10-13",
       "followup": "",
       "scope": "Fire Pump Quotation - Rahaba - Residence",
       "remarks": "Quoted by Faizan/ Correct SO No. 10026",
       "quotNo": "1026",
-      "quotValue": 24974.25,
+      "quotValue": 23100,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-10-08T12:46:04.704Z"
+      "lastUpdatedAt": "2026-10-14T04:28:00.919Z"
     },
     {
       "id": "INQ-0366",
@@ -8372,6 +8372,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0367",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-14T04:28:00.919Z"
+    },
+    {
       "inquiryId": "INQ-0230",
       "action": "status_change",
       "from": "quotation",
@@ -12861,15 +12870,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:22:50.161Z"
-    },
-    {
-      "inquiryId": "INQ-0063",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:22:11.035Z"
     }
   ]
 }
