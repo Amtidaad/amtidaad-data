@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0390",
+      "client": "Emirates Safety & Security Services",
+      "project": "Dubai South",
+      "phone": "",
+      "email": "shafeek@emsafe.ae",
+      "date": "2026-10-14",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-14",
+      "followup": "",
+      "scope": "Quotation- Room Integrity Test",
+      "remarks": "Quoted by Reshmi/ Correct SO No. 10074",
+      "quotNo": "1074",
+      "quotValue": 3675,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-14T11:27:05.655Z"
+    },
+    {
       "id": "INQ-0389",
       "client": "Mansion Owners Association",
       "project": "Easy 19",
@@ -8717,6 +8740,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0390",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-14T11:27:05.655Z"
+    },
+    {
       "inquiryId": "INQ-0389",
       "action": "created",
       "from": null,
@@ -13203,15 +13235,6 @@
       "action": "status_change",
       "from": "new",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T10:51:45.722Z"
-    },
-    {
-      "inquiryId": "INQ-0073",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T10:51:45.722Z"
