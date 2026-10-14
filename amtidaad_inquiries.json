@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0374",
+      "client": "Kaizen Asset Managementq",
+      "project": "D1 Tower",
+      "phone": "971554507183",
+      "email": "Ajay.k@kaizenams.com",
+      "date": "2026-10-13",
+      "location": "Jaddaf, Dubai",
+      "service": "AMC - Fire Fighting",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Subject : Kaizen Asset Management Services : Tendering Invitation for the Fire fighting services for the project D1 Tower Managed by Kaizen Owners Association Management Services LLC",
+      "remarks": "Assigned to Angelika",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-14T04:19:05.571Z"
+    },
+    {
       "id": "INQ-0373",
       "client": "IEMECH (Instant Power Electro Mechanical Works)",
       "project": "",
@@ -8349,6 +8372,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0374",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-14T04:19:05.571Z"
+    },
+    {
       "inquiryId": "INQ-0287",
       "action": "status_change",
       "from": "quotation",
@@ -12835,15 +12867,6 @@
       "action": "status_change",
       "from": "new",
       "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:20:22.506Z"
-    },
-    {
-      "inquiryId": "INQ-0061",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:20:22.506Z"
