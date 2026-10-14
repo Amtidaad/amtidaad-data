@@ -84,13 +84,13 @@
       "quotDate": "2026-10-09",
       "followup": "",
       "scope": "Quotation for FM-200 Cylinder Refilling, Gas Recovery & Hydrostatic Testing",
-      "remarks": "Quoted by Faizan",
+      "remarks": "Quoted by Faizan/ Revised quotation shared on 13th Oct",
       "quotNo": "1039",
-      "quotValue": 91518,
+      "quotValue": 74882.25,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-10-10T04:39:28.948Z"
+      "lastUpdatedAt": "2026-10-14T04:35:17.006Z"
     },
     {
       "id": "INQ-0371",
@@ -8395,6 +8395,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0372",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-14T04:35:17.006Z"
+    },
+    {
       "inquiryId": "INQ-0375",
       "action": "created",
       "from": null,
@@ -12884,15 +12893,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:23:22.387Z"
-    },
-    {
-      "inquiryId": "INQ-0067",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:22:50.161Z"
     }
   ]
 }
