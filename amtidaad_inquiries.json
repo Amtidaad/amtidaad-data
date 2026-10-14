@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0384",
+      "client": "National Projects & Construction LLC",
+      "project": "I065 - Saadiyat Lagoons Dev Packages 2,3 &4",
+      "phone": "",
+      "email": "",
+      "date": "2026-10-12",
+      "location": "Saadiyat Islang AUH",
+      "service": "Fire Extinguisher Refilling",
+      "source": "Website",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-12",
+      "followup": "",
+      "scope": "Tender No. 257758",
+      "remarks": "Quoted by Reshmi in Trojan Portal/Correct SO No. 10060",
+      "quotNo": "1060",
+      "quotValue": 3701.25,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-14T05:31:10.229Z"
+    },
+    {
       "id": "INQ-0383",
       "client": "HOAM - Highrise Owners Association Management",
       "project": "Gold Crest Views",
@@ -8579,6 +8602,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0384",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-14T05:31:10.229Z"
+    },
+    {
       "inquiryId": "INQ-0383",
       "action": "created",
       "from": null,
@@ -13065,15 +13097,6 @@
       "action": "status_change",
       "from": "new",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T10:46:28.147Z"
-    },
-    {
-      "inquiryId": "INQ-0098",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T10:46:28.147Z"
