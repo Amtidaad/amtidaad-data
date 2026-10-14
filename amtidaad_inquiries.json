@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0383",
+      "client": "HOAM - Highrise Owners Association Management",
+      "project": "Gold Crest Views",
+      "phone": "",
+      "email": "cas.t1@hoam.me",
+      "date": "2026-10-08",
+      "location": "",
+      "service": "Other",
+      "source": "Website",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-12",
+      "followup": "",
+      "scope": "Rectification of Fire Fighting System - Water Submersion - GoldCrest Views  ( JB004-26-04797 )",
+      "remarks": "Quoted by Reshmi in Iskaan/Correct So No. 10010",
+      "quotNo": "1010",
+      "quotValue": 47785.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-14T05:25:57.269Z"
+    },
+    {
       "id": "INQ-0382",
       "client": "Itihad Community Management",
       "project": "Marina View Tower",
@@ -8556,6 +8579,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0383",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-14T05:25:57.269Z"
+    },
+    {
       "inquiryId": "INQ-0382",
       "action": "edited",
       "from": null,
@@ -13045,15 +13077,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T10:46:28.147Z"
-    },
-    {
-      "inquiryId": "INQ-0100",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T10:45:33.474Z"
     }
   ]
 }
