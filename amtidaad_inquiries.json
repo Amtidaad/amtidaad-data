@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0381",
+      "client": "Better Communities",
+      "project": "Med-84 (Emergency & Exit Lights)",
+      "phone": "",
+      "email": "zain@bcoam.com",
+      "date": "2026-10-10",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-10",
+      "followup": "",
+      "scope": "Re: FAFF PPM Quarter 3 For DG Buildings",
+      "remarks": "Quoted by Gary",
+      "quotNo": "8642",
+      "quotValue": 4940.25,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-14T04:55:21.377Z"
+    },
+    {
       "id": "INQ-0380",
       "client": "Better Communities",
       "project": "Med-84 (Fire Fighting System)",
@@ -8510,6 +8533,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0381",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-14T04:55:21.377Z"
+    },
+    {
       "inquiryId": "INQ-0380",
       "action": "created",
       "from": null,
@@ -12999,15 +13031,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T08:29:58.082Z"
-    },
-    {
-      "inquiryId": "INQ-0083",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T08:27:17.039Z"
     }
   ]
 }
