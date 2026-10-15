@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0393",
+      "client": "Integrated Electronics & Electromechanical Services",
+      "project": "Integrated Electronics and Electromechanical Services LLC",
+      "phone": "",
+      "email": "",
+      "date": "2026-10-09",
+      "location": "",
+      "service": "Fire Extinguisher Refilling",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "2026-10-09",
+      "followup": "",
+      "scope": "Refilling of Cylinders",
+      "remarks": "Correct SO No. 10038/LPO No. 26/PO/700321 received on 15th October",
+      "quotNo": "1038",
+      "quotValue": 888.3,
+      "securedValue": 888.3,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-15T09:06:27.755Z"
+    },
+    {
       "id": "INQ-0392",
       "client": "Talent Technical Services CO LLC",
       "project": "Basement electrical room",
@@ -8786,6 +8809,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0393",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-15T09:06:27.755Z"
+    },
+    {
       "inquiryId": "INQ-0392",
       "action": "edited",
       "from": null,
@@ -13272,15 +13304,6 @@
       "action": "status_change",
       "from": "new",
       "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T11:01:09.051Z"
-    },
-    {
-      "inquiryId": "INQ-0122",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T11:01:09.051Z"
