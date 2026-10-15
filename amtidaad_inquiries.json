@@ -15,13 +15,13 @@
       "quotDate": "2026-10-15",
       "followup": "",
       "scope": "Room Integrity Test",
-      "remarks": "Quote shared by Reshmi/Correct SO No. 10077/ Verbal approval received as per Faizan",
+      "remarks": "Quote shared by Reshmi/Correct SO No. 10077/ LPO NO. 1331 received on 15th October",
       "quotNo": "1077",
       "quotValue": 2310,
       "securedValue": 2310,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-10-15T08:00:33.421Z"
+      "lastUpdatedAt": "2026-10-15T08:23:59.993Z"
     },
     {
       "id": "INQ-0391",
@@ -8787,6 +8787,15 @@
   "auditLog": [
     {
       "inquiryId": "INQ-0392",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-15T08:23:59.994Z"
+    },
+    {
+      "inquiryId": "INQ-0392",
       "action": "created",
       "from": null,
       "to": "awarded",
@@ -13275,15 +13284,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T11:01:09.051Z"
-    },
-    {
-      "inquiryId": "INQ-0075",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T10:52:51.457Z"
     }
   ]
 }
