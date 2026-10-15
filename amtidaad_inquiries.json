@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0394",
+      "client": "Coventry Technical Services LLC",
+      "project": "Villa E160",
+      "phone": "971551783102",
+      "email": "Info@coventryconstruction.ae",
+      "date": "2026-09-28",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-15",
+      "followup": "",
+      "scope": "Re: QUOTE FLS SERVICES",
+      "remarks": "Quotation shared by Mr. Ajmal",
+      "quotNo": "9946",
+      "quotValue": 84257.85,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-15T12:25:24.193Z"
+    },
+    {
       "id": "INQ-0393",
       "client": "Integrated Electronics & Electromechanical Services",
       "project": "Integrated Electronics and Electromechanical Services LLC",
@@ -8809,6 +8832,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0394",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-15T12:25:24.193Z"
+    },
+    {
       "inquiryId": "INQ-0373",
       "action": "status_change",
       "from": "quotation",
@@ -13298,15 +13330,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T11:05:08.574Z"
-    },
-    {
-      "inquiryId": "INQ-0127",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T11:03:29.696Z"
     }
   ]
 }
