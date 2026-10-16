@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0397",
+      "client": "Fireco Technical Services LLC",
+      "project": "JLT -Gold crest",
+      "phone": "",
+      "email": "",
+      "date": "2026-10-16",
+      "location": "Jumeirah Lakae Towers",
+      "service": "Other",
+      "source": "WhatsApp",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "2026-10-16",
+      "followup": "",
+      "scope": "Refilling",
+      "remarks": "LPO No. 3100816 received on 16 October",
+      "quotNo": "9305",
+      "quotValue": 14093,
+      "securedValue": 14093,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-16T09:55:11.992Z"
+    },
+    {
       "id": "INQ-0396",
       "client": "The Biltmore Bab Al Qasr",
       "project": "The Biltmore",
@@ -8878,6 +8901,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0397",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-16T09:55:11.992Z"
+    },
+    {
       "inquiryId": "INQ-0022",
       "action": "edited",
       "from": null,
@@ -13364,15 +13396,6 @@
       "action": "status_change",
       "from": "new",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T11:07:49.932Z"
-    },
-    {
-      "inquiryId": "INQ-0139",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T11:07:49.932Z"
