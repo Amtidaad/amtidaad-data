@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0395",
+      "client": "The Bilt More Mam Al Qasr",
+      "project": "The Biltmore",
+      "phone": "971569944387",
+      "email": "shikkander.karakkad@biltmorecollection.com",
+      "date": "2026-10-16",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "FIRE EXTINGUISHER - REQUEST FOR QUOTE",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-16T05:28:26.044Z"
+    },
+    {
       "id": "INQ-0394",
       "client": "Coventry Technical Services LLC",
       "project": "Villa E160",
@@ -8832,6 +8855,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0395",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-16T05:28:26.044Z"
+    },
+    {
       "inquiryId": "INQ-0394",
       "action": "created",
       "from": null,
@@ -13318,15 +13350,6 @@
       "action": "status_change",
       "from": "new",
       "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T11:05:08.574Z"
-    },
-    {
-      "inquiryId": "INQ-0136",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T11:05:08.574Z"
