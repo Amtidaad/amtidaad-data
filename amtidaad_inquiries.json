@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0396",
+      "client": "The Biltmore Bab Al Qasr",
+      "project": "The Biltmore",
+      "phone": "971569944387",
+      "email": "shikkander.karakkad@biltmorecollection.com",
+      "date": "2026-10-16",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "FIRE HOSE DRY WITH NOZZLE",
+      "remarks": "Assigned to Reshmi",
+      "quotNo": null,
+      "quotValue": null,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-16T05:29:36.623Z"
+    },
+    {
       "id": "INQ-0395",
       "client": "The Bilt More Mam Al Qasr",
       "project": "The Biltmore",
@@ -8855,6 +8878,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0396",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-16T05:29:36.623Z"
+    },
+    {
       "inquiryId": "INQ-0395",
       "action": "created",
       "from": null,
@@ -13344,15 +13376,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T11:06:52.720Z"
-    },
-    {
-      "inquiryId": "INQ-0136",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T11:05:08.574Z"
     }
   ]
 }
