@@ -25,7 +25,7 @@
     },
     {
       "id": "INQ-0395",
-      "client": "The Bilt More Mam Al Qasr",
+      "client": "The Biltmore Bab Al Qasr",
       "project": "The Biltmore",
       "phone": "971569944387",
       "email": "shikkander.karakkad@biltmorecollection.com",
@@ -44,7 +44,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-10-16T05:28:26.044Z"
+      "lastUpdatedAt": "2026-10-16T05:29:48.304Z"
     },
     {
       "id": "INQ-0394",
@@ -8878,6 +8878,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0395",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-16T05:29:48.304Z"
+    },
+    {
       "inquiryId": "INQ-0396",
       "action": "created",
       "from": null,
@@ -13364,15 +13373,6 @@
       "action": "status_change",
       "from": "new",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T11:06:52.720Z"
-    },
-    {
-      "inquiryId": "INQ-0138",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T11:06:52.720Z"
