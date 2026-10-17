@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0398",
+      "client": "Nshama Community Center LLC",
+      "project": "Kaya (Plot 86), Elaya (Plot 87), Fia (Plot 88), Ora (Plot 89) and Aria & Symphony (Plot 13)",
+      "phone": "",
+      "email": "tender@ncmme.ae",
+      "date": "2026-10-16",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Re: RFP: Town Square - AMC – Generator Maintenance of Elevator at Kaya (Plot 86), Elaya (Plot 87), Fia (Plot 88), Ora (Plot 89) and Aria & Symphony (Plot 13)",
+      "remarks": "Quoted by Faizan",
+      "quotNo": "6413",
+      "quotValue": 117075,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-17T03:43:11.681Z"
+    },
+    {
       "id": "INQ-0397",
       "client": "Fireco Technical Services LLC",
       "project": "JLT -Gold crest",
@@ -8901,6 +8924,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0398",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-17T03:43:11.681Z"
+    },
+    {
       "inquiryId": "INQ-0397",
       "action": "created",
       "from": null,
@@ -13390,15 +13422,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T11:08:23.775Z"
-    },
-    {
-      "inquiryId": "INQ-0139",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T11:07:49.932Z"
     }
   ]
 }
