@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0399",
+      "client": "WBP Interiors LLC",
+      "project": "Dr. Joy Dental Clinic - Creek Vistas Grande Sobha Heartland",
+      "phone": "971547907636",
+      "email": "ilija@wbp-i.com",
+      "date": "2026-10-16",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-17",
+      "followup": "",
+      "scope": "Fitout/Re: PI-26035 | DR.JOY DENTAL CLINIC | RFQ FOR FIRE FIGHTING WORKS",
+      "remarks": "Quoted by Gary",
+      "quotNo": "1078",
+      "quotValue": 26244.75,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-19T04:56:25.642Z"
+    },
+    {
       "id": "INQ-0398",
       "client": "Nshama Community Center LLC",
       "project": "Kaya (Plot 86), Elaya (Plot 87), Fia (Plot 88), Ora (Plot 89) and Aria & Symphony (Plot 13)",
@@ -8924,6 +8947,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0399",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-19T04:56:25.642Z"
+    },
+    {
       "inquiryId": "INQ-0398",
       "action": "created",
       "from": null,
@@ -13410,15 +13442,6 @@
       "action": "status_change",
       "from": "new",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T11:08:23.775Z"
-    },
-    {
-      "inquiryId": "INQ-0140",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T11:08:23.775Z"
