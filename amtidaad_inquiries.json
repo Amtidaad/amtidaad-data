@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0407",
+      "client": "Distinguished Real Estate",
+      "project": "DIP LABOR CAMP - 2",
+      "phone": "+971 4 343 8302",
+      "email": "shahzad.saquib@dreuae.ae",
+      "date": "2026-10-15",
+      "location": "Dubai",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-22",
+      "followup": "2026-10-28",
+      "scope": "Rectification of FF System",
+      "remarks": "",
+      "quotNo": null,
+      "quotValue": 15834,
+      "securedValue": null,
+      "createdBy": "Estimation Team",
+      "lastUpdatedBy": "Estimation Team",
+      "lastUpdatedAt": "2026-10-23T09:48:39.749Z"
+    },
+    {
       "id": "INQ-0406",
       "client": "HEMAYAH FIRE FIGHTING & SAFETY EQUIPMENT TRADING LLC",
       "project": "EMIRATES NATIONAL SCHOOL @ SHARJAH",
@@ -9108,6 +9131,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0407",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Estimation Team",
+      "timestamp": "2026-10-23T09:48:39.749Z"
+    },
+    {
       "inquiryId": "INQ-0406",
       "action": "created",
       "from": null,
@@ -13597,15 +13629,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T12:21:17.988Z"
-    },
-    {
-      "inquiryId": "INQ-0197",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T12:17:45.569Z"
     }
   ]
 }
