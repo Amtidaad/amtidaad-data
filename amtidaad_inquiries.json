@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0409",
+      "client": "Kaizen Asset Management",
+      "project": "D1 Tower",
+      "phone": "",
+      "email": "samer.h@kaizenams.com",
+      "date": "2026-10-13",
+      "location": "Dubai",
+      "service": "AMC - Full Package",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "1991-10-23",
+      "followup": "",
+      "scope": "AMC",
+      "remarks": "",
+      "quotNo": "0107",
+      "quotValue": 192543.75,
+      "securedValue": null,
+      "createdBy": "Estimation Team",
+      "lastUpdatedBy": "Estimation Team",
+      "lastUpdatedAt": "2026-10-23T12:27:37.861Z"
+    },
+    {
       "id": "INQ-0408",
       "client": "Stratum Owners Association Management SERVICES LLC",
       "project": "Casa Grande",
@@ -9154,6 +9177,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0409",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Estimation Team",
+      "timestamp": "2026-10-23T12:27:37.861Z"
+    },
+    {
       "inquiryId": "INQ-0408",
       "action": "created",
       "from": null,
@@ -13643,15 +13675,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T05:42:28.034Z"
-    },
-    {
-      "inquiryId": "INQ-0186",
-      "action": "status_change",
-      "from": "quotation",
-      "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T12:21:17.988Z"
     }
   ]
 }
