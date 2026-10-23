@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0402",
+      "client": "Galadari Brothers Co LLC",
+      "project": "All Sport Arena",
+      "phone": "+971 56 570 5881",
+      "email": "",
+      "date": "2026-10-17",
+      "location": "Dubai",
+      "service": "Kitchen Hood Suppression",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-21",
+      "followup": "2026-10-26",
+      "scope": "Supply of Kitchenhood suppression system",
+      "remarks": "",
+      "quotNo": "0093",
+      "quotValue": 19364.1,
+      "securedValue": null,
+      "createdBy": "Estimation Team",
+      "lastUpdatedBy": "Estimation Team",
+      "lastUpdatedAt": "2026-10-23T08:19:11.877Z"
+    },
+    {
       "id": "INQ-0401",
       "client": "Kaizen Asset Management",
       "project": "Sky Gardens",
@@ -8993,6 +9016,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0402",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Estimation Team",
+      "timestamp": "2026-10-23T08:19:11.877Z"
+    },
+    {
       "inquiryId": "INQ-0401",
       "action": "created",
       "from": null,
@@ -13482,15 +13514,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T11:15:39.510Z"
-    },
-    {
-      "inquiryId": "INQ-0145",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T11:14:56.258Z"
     }
   ]
 }
