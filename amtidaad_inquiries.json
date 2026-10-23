@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0404",
+      "client": "Fireco Technical Services LLC",
+      "project": "Rugby school -dubai",
+      "phone": "+971 52 198 8515",
+      "email": "engineer5@firecots.com",
+      "date": "2026-10-22",
+      "location": "Dubai",
+      "service": "FM200 / Clean Agent",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-22",
+      "followup": "2026-10-27",
+      "scope": "FM 200 refiling",
+      "remarks": "",
+      "quotNo": "0102",
+      "quotValue": 3953.22,
+      "securedValue": null,
+      "createdBy": "Estimation Team",
+      "lastUpdatedBy": "Estimation Team",
+      "lastUpdatedAt": "2026-10-23T08:28:01.911Z"
+    },
+    {
       "id": "INQ-0403",
       "client": "Fireco Technical Services LLC",
       "project": "F Building",
@@ -9039,6 +9062,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0404",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Estimation Team",
+      "timestamp": "2026-10-23T08:28:01.911Z"
+    },
+    {
       "inquiryId": "INQ-0403",
       "action": "created",
       "from": null,
@@ -13528,15 +13560,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T11:18:57.903Z"
-    },
-    {
-      "inquiryId": "INQ-0146",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T11:15:39.510Z"
     }
   ]
 }
