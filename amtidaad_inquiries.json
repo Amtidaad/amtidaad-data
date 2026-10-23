@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0406",
+      "client": "HEMAYAH FIRE FIGHTING & SAFETY EQUIPMENT TRADING LLC",
+      "project": "EMIRATES NATIONAL SCHOOL @ SHARJAH",
+      "phone": "+971524073552",
+      "email": "sajin@hemayah.ae",
+      "date": "2026-10-22",
+      "location": "Dubai",
+      "service": "FM200 / Clean Agent",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-22",
+      "followup": "",
+      "scope": "FM 200 Refilling",
+      "remarks": "",
+      "quotNo": "0101",
+      "quotValue": 9786,
+      "securedValue": null,
+      "createdBy": "Estimation Team",
+      "lastUpdatedBy": "Estimation Team",
+      "lastUpdatedAt": "2026-10-23T09:42:39.902Z"
+    },
+    {
       "id": "INQ-0405",
       "client": "IEMECH (INSTANT POWER ELECTRO MECHANICAL WORKS)",
       "project": "Dubai",
@@ -9085,6 +9108,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0406",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Estimation Team",
+      "timestamp": "2026-10-23T09:42:39.902Z"
+    },
+    {
       "inquiryId": "INQ-0405",
       "action": "created",
       "from": null,
@@ -13574,15 +13606,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T12:17:45.569Z"
-    },
-    {
-      "inquiryId": "INQ-0147",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T11:18:57.903Z"
     }
   ]
 }
