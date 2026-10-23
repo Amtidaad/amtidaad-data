@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0408",
+      "client": "Stratum Owners Association Management SERVICES LLC",
+      "project": "Casa Grande",
+      "phone": "",
+      "email": "Procurement@stratum.ae",
+      "date": "2026-08-06",
+      "location": "Dubai",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-22",
+      "followup": "",
+      "scope": "Rectification- S10098",
+      "remarks": "",
+      "quotNo": "0098",
+      "quotValue": 105000,
+      "securedValue": null,
+      "createdBy": "Estimation Team",
+      "lastUpdatedBy": "Estimation Team",
+      "lastUpdatedAt": "2026-10-23T09:58:07.307Z"
+    },
+    {
       "id": "INQ-0407",
       "client": "Distinguished Real Estate",
       "project": "DIP LABOR CAMP - 2",
@@ -9131,6 +9154,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0408",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Estimation Team",
+      "timestamp": "2026-10-23T09:58:07.307Z"
+    },
+    {
       "inquiryId": "INQ-0407",
       "action": "created",
       "from": null,
@@ -13617,15 +13649,6 @@
       "action": "status_change",
       "from": "quotation",
       "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T12:21:17.988Z"
-    },
-    {
-      "inquiryId": "INQ-0186",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T12:21:17.988Z"
