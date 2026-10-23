@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0405",
+      "client": "IEMECH (INSTANT POWER ELECTRO MECHANICAL WORKS)",
+      "project": "Dubai",
+      "phone": "",
+      "email": "",
+      "date": "2026-10-22",
+      "location": "Dubai",
+      "service": "FM200 / Clean Agent",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-22",
+      "followup": "",
+      "scope": "FM 200 refilling",
+      "remarks": "",
+      "quotNo": "0100",
+      "quotValue": 5307.75,
+      "securedValue": null,
+      "createdBy": "Estimation Team",
+      "lastUpdatedBy": "Estimation Team",
+      "lastUpdatedAt": "2026-10-23T09:30:39.504Z"
+    },
+    {
       "id": "INQ-0404",
       "client": "Fireco Technical Services LLC",
       "project": "Rugby school -dubai",
@@ -9062,6 +9085,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0405",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Estimation Team",
+      "timestamp": "2026-10-23T09:30:39.504Z"
+    },
+    {
       "inquiryId": "INQ-0404",
       "action": "created",
       "from": null,
@@ -13548,15 +13580,6 @@
       "action": "status_change",
       "from": "new",
       "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T11:18:57.903Z"
-    },
-    {
-      "inquiryId": "INQ-0147",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T11:18:57.903Z"
