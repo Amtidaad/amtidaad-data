@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0403",
+      "client": "Fireco Technical Services LLC",
+      "project": "F Building",
+      "phone": "+971 52 198 8515",
+      "email": "engineer5@firecots.com",
+      "date": "2026-10-21",
+      "location": "Dubai",
+      "service": "FM200 / Clean Agent",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-21",
+      "followup": "2026-10-27",
+      "scope": "FM 200 Refilling- S10095",
+      "remarks": "",
+      "quotNo": "0095",
+      "quotValue": 8672.96,
+      "securedValue": null,
+      "createdBy": "Estimation Team",
+      "lastUpdatedBy": "Estimation Team",
+      "lastUpdatedAt": "2026-10-23T08:25:33.104Z"
+    },
+    {
       "id": "INQ-0402",
       "client": "Galadari Brothers Co LLC",
       "project": "All Sport Arena",
@@ -9016,6 +9039,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0403",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Estimation Team",
+      "timestamp": "2026-10-23T08:25:33.104Z"
+    },
+    {
       "inquiryId": "INQ-0402",
       "action": "created",
       "from": null,
@@ -13502,15 +13534,6 @@
       "action": "status_change",
       "from": "new",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T11:15:39.510Z"
-    },
-    {
-      "inquiryId": "INQ-0146",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T11:15:39.510Z"
