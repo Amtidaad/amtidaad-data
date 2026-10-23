@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0400",
+      "client": "Talent Technical Services",
+      "project": "Thanaya Tower, Business Park, Abu Dhabi",
+      "phone": "+97150 8483716",
+      "email": "maintenance1@ttsuae.com",
+      "date": "2026-10-19",
+      "location": "Abu Dhabi",
+      "service": "Other",
+      "source": "Phone Call",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-20",
+      "followup": "",
+      "scope": "Room Integrity Test",
+      "remarks": "",
+      "quotNo": "0091",
+      "quotValue": 12337.5,
+      "securedValue": null,
+      "createdBy": "Estimation Team",
+      "lastUpdatedBy": "Estimation Team",
+      "lastUpdatedAt": "2026-10-23T08:10:05.410Z"
+    },
+    {
       "id": "INQ-0399",
       "client": "WBP Interiors LLC",
       "project": "Dr. Joy Dental Clinic - Creek Vistas Grande Sobha Heartland",
@@ -8947,6 +8970,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0400",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Estimation Team",
+      "timestamp": "2026-10-23T08:10:05.410Z"
+    },
+    {
       "inquiryId": "INQ-0399",
       "action": "created",
       "from": null,
@@ -13436,15 +13468,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-27T11:14:56.258Z"
-    },
-    {
-      "inquiryId": "INQ-0140",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-27T11:08:23.775Z"
     }
   ]
 }
