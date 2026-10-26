@@ -816,7 +816,7 @@
       "service": "AMC - Fire Fighting",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "quotation",
       "quotDate": "",
       "followup": "",
       "scope": "Subject : Kaizen Asset Management Services : Tendering Invitation for the Fire fighting services for the project D1 Tower Managed by Kaizen Owners Association Management Services LLC",
@@ -825,8 +825,8 @@
       "quotValue": null,
       "securedValue": null,
       "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-10-14T04:19:05.571Z"
+      "lastUpdatedBy": "Estimation Team",
+      "lastUpdatedAt": "2026-10-26T12:27:01.094Z"
     },
     {
       "id": "INQ-0373",
@@ -9177,6 +9177,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0374",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Estimation Team",
+      "timestamp": "2026-10-26T12:27:01.095Z"
+    },
+    {
+      "inquiryId": "INQ-0374",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Estimation Team",
+      "timestamp": "2026-10-26T12:27:01.095Z"
+    },
+    {
       "inquiryId": "INQ-0409",
       "action": "created",
       "from": null,
@@ -13657,24 +13675,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T05:48:33.022Z"
-    },
-    {
-      "inquiryId": "INQ-0199",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T05:47:13.656Z"
-    },
-    {
-      "inquiryId": "INQ-0198",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T05:42:28.034Z"
     }
   ]
 }
