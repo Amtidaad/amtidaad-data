@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0413",
+      "client": "SensorTech Fire Fighting & Safety Equipment Trading",
+      "project": "",
+      "phone": "",
+      "email": "",
+      "date": "2026-10-28",
+      "location": "Dubai",
+      "service": "Other",
+      "source": "WhatsApp",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "1991-10-26",
+      "followup": "",
+      "scope": "RIT- S10117",
+      "remarks": "",
+      "quotNo": "0117",
+      "quotValue": 2500,
+      "securedValue": null,
+      "createdBy": "Estimation Team",
+      "lastUpdatedBy": "Estimation Team",
+      "lastUpdatedAt": "2026-10-28T11:17:20.572Z"
+    },
+    {
       "id": "INQ-0412",
       "client": "Better Communities Owners Association Management",
       "project": "Anchorage Residence",
@@ -9246,6 +9269,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0413",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Estimation Team",
+      "timestamp": "2026-10-28T11:17:20.572Z"
+    },
+    {
       "inquiryId": "INQ-0412",
       "action": "created",
       "from": null,
@@ -13735,15 +13767,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T06:00:47.124Z"
-    },
-    {
-      "inquiryId": "INQ-0203",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T05:58:34.026Z"
     }
   ]
 }
