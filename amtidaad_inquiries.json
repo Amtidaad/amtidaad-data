@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0410",
+      "client": "Luxury Owners Association Management Services",
+      "project": "Damac Upper Crest",
+      "phone": "",
+      "email": "Ahmad.almansour@loams.ae",
+      "date": "2026-10-28",
+      "location": "",
+      "service": "Other",
+      "source": "WhatsApp",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-10-28",
+      "followup": "",
+      "scope": "Quotation for CBS Rectification",
+      "remarks": "Correct SO No. 10123/Quoted by Reshmi",
+      "quotNo": "1123",
+      "quotValue": 92925,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-28T10:27:26.146Z"
+    },
+    {
       "id": "INQ-0409",
       "client": "Kaizen Asset Management",
       "project": "D1 Tower",
@@ -9177,6 +9200,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0410",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-10-28T10:27:26.146Z"
+    },
+    {
       "inquiryId": "INQ-0374",
       "action": "status_change",
       "from": "new",
@@ -13666,15 +13698,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T05:49:46.852Z"
-    },
-    {
-      "inquiryId": "INQ-0200",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T05:48:33.022Z"
     }
   ]
 }
