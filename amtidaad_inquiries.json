@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0412",
+      "client": "Better Communities Owners Association Management",
+      "project": "Anchorage Residence",
+      "phone": "",
+      "email": "",
+      "date": "2026-10-28",
+      "location": "Dubai",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "1991-10-27",
+      "followup": "",
+      "scope": "AMC Generators- S10120",
+      "remarks": "",
+      "quotNo": "0120",
+      "quotValue": 15120,
+      "securedValue": null,
+      "createdBy": "Estimation Team",
+      "lastUpdatedBy": "Estimation Team",
+      "lastUpdatedAt": "2026-10-28T11:15:49.327Z"
+    },
+    {
       "id": "INQ-0411",
       "client": "Luxury Owners Association Management Services",
       "project": "Damac Prive",
@@ -9223,6 +9246,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0412",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Estimation Team",
+      "timestamp": "2026-10-28T11:15:49.327Z"
+    },
+    {
       "inquiryId": "INQ-0411",
       "action": "created",
       "from": null,
@@ -13712,15 +13744,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T05:58:34.026Z"
-    },
-    {
-      "inquiryId": "INQ-0202",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T05:51:54.164Z"
     }
   ]
 }
