@@ -1,50 +1,27 @@
 {
   "inquiries": [
     {
-      "id": "INQ-0413",
-      "client": "SensorTech Fire Fighting & Safety Equipment Trading",
+      "id": "INQ-0412",
+      "client": "Emirates Fire & Safety Services LLC",
       "project": "",
       "phone": "",
       "email": "",
-      "date": "2026-10-28",
-      "location": "Dubai",
-      "service": "Other",
+      "date": "2026-10-29",
+      "location": "",
+      "service": "Fire Extinguisher Refilling",
       "source": "WhatsApp",
       "assigned": "Estimation Team",
       "status": "quotation",
-      "quotDate": "1991-10-26",
+      "quotDate": "2026-10-29",
       "followup": "",
-      "scope": "RIT- S10117",
-      "remarks": "",
-      "quotNo": "0117",
-      "quotValue": 2500,
+      "scope": "Refilling of Fire Suppression",
+      "remarks": "Correct SO No. 10138/Quoted by Faizan",
+      "quotNo": "1138",
+      "quotValue": 25536,
       "securedValue": null,
-      "createdBy": "Estimation Team",
-      "lastUpdatedBy": "Estimation Team",
-      "lastUpdatedAt": "2026-10-28T11:17:20.572Z"
-    },
-    {
-      "id": "INQ-0412",
-      "client": "Better Communities Owners Association Management",
-      "project": "Anchorage Residence",
-      "phone": "",
-      "email": "",
-      "date": "2026-10-28",
-      "location": "Dubai",
-      "service": "Other",
-      "source": "Email",
-      "assigned": "Estimation Team",
-      "status": "quotation",
-      "quotDate": "1991-10-27",
-      "followup": "",
-      "scope": "AMC Generators- S10120",
-      "remarks": "",
-      "quotNo": "0120",
-      "quotValue": 15120,
-      "securedValue": null,
-      "createdBy": "Estimation Team",
-      "lastUpdatedBy": "Estimation Team",
-      "lastUpdatedAt": "2026-10-28T11:15:49.327Z"
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-10-29T07:14:09.905Z"
     },
     {
       "id": "INQ-0411",
@@ -9269,22 +9246,13 @@
   ],
   "auditLog": [
     {
-      "inquiryId": "INQ-0413",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Estimation Team",
-      "timestamp": "2026-10-28T11:17:20.572Z"
-    },
-    {
       "inquiryId": "INQ-0412",
       "action": "created",
       "from": null,
       "to": "quotation",
       "remarks": "",
-      "user": "Estimation Team",
-      "timestamp": "2026-10-28T11:15:49.327Z"
+      "user": "Admin",
+      "timestamp": "2026-10-29T07:14:09.905Z"
     },
     {
       "inquiryId": "INQ-0411",
@@ -13767,6 +13735,15 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T06:00:47.124Z"
+    },
+    {
+      "inquiryId": "INQ-0203",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T05:58:34.026Z"
     }
   ]
 }
