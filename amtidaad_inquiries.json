@@ -2818,16 +2818,16 @@
       "source": "Email",
       "assigned": "Estimation Team",
       "status": "quotation",
-      "quotDate": "2026-10-08",
+      "quotDate": "2026-11-02",
       "followup": "",
       "scope": "FM200 SOLUTION REQ.",
       "remarks": "Quoted by Faizan",
       "quotNo": "9987",
-      "quotValue": 268779,
+      "quotValue": 369579,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-10-09T04:41:18.627Z"
+      "lastUpdatedAt": "2026-11-02T12:16:24.304Z"
     },
     {
       "id": "INQ-0292",
@@ -9315,6 +9315,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0293",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-02T12:16:24.304Z"
+    },
+    {
       "inquiryId": "INQ-0415",
       "action": "created",
       "from": null,
@@ -13804,15 +13813,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T06:02:14.476Z"
-    },
-    {
-      "inquiryId": "INQ-0085",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T06:02:05.054Z"
     }
   ]
 }
