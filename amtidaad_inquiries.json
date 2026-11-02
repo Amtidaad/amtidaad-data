@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0416",
+      "client": "UNITED SPECIALIZED FIRE SAFETY & SECURITY L L C SP",
+      "project": "Burj Khalifa",
+      "phone": "",
+      "email": "",
+      "date": "2026-11-02",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "2026-11-02",
+      "followup": "",
+      "scope": "Room Integrity Test",
+      "remarks": "Correct SO No. 10151/Email Confirmation",
+      "quotNo": "0151",
+      "quotValue": 2310,
+      "securedValue": 2310,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-02T12:35:48.681Z"
+    },
+    {
       "id": "INQ-0415",
       "client": "Rocky Real Estate",
       "project": "Emrald",
@@ -9315,6 +9338,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0416",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-02T12:35:48.681Z"
+    },
+    {
       "inquiryId": "INQ-0295",
       "action": "status_change",
       "from": "quotation",
@@ -13804,15 +13836,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T06:05:33.130Z"
-    },
-    {
-      "inquiryId": "INQ-0086",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T06:04:29.287Z"
     }
   ]
 }
