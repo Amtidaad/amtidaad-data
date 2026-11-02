@@ -2771,17 +2771,17 @@
       "service": "AMC - Full Package",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "quotation",
+      "status": "awarded",
       "quotDate": "2026-09-22",
       "followup": "",
       "scope": "Non Comprehensive AMC Renewal Quote",
       "remarks": "Quotation shared by Angelika",
       "quotNo": "9914",
-      "quotValue": 2500,
-      "securedValue": null,
+      "quotValue": 787.5,
+      "securedValue": 787.5,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-09-23T04:06:38.855Z"
+      "lastUpdatedAt": "2026-11-02T12:19:12.135Z"
     },
     {
       "id": "INQ-0294",
@@ -9315,6 +9315,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0295",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-02T12:19:12.135Z"
+    },
+    {
+      "inquiryId": "INQ-0295",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-02T12:19:12.135Z"
+    },
+    {
       "inquiryId": "INQ-0293",
       "action": "edited",
       "from": null,
@@ -13795,24 +13813,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T06:04:29.287Z"
-    },
-    {
-      "inquiryId": "INQ-0086",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T06:04:29.287Z"
-    },
-    {
-      "inquiryId": "INQ-0084",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T06:02:14.476Z"
     }
   ]
 }
