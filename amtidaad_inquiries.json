@@ -15,13 +15,13 @@
       "quotDate": "2026-10-22",
       "followup": "",
       "scope": "Rectification, AMC",
-      "remarks": "LPO No.1720 received on 02 Nov 2026",
+      "remarks": "LPO No.1720 received on 02 Nov 2026/ Correct SO No. 10097",
       "quotNo": "0097",
       "quotValue": 2772,
       "securedValue": 2772,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-02T11:17:45.035Z"
+      "lastUpdatedAt": "2026-11-02T11:20:15.615Z"
     },
     {
       "id": "INQ-0413",
@@ -9293,6 +9293,15 @@
   "auditLog": [
     {
       "inquiryId": "INQ-0414",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-02T11:20:15.615Z"
+    },
+    {
+      "inquiryId": "INQ-0414",
       "action": "created",
       "from": null,
       "to": "awarded",
@@ -13781,15 +13790,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T06:02:05.054Z"
-    },
-    {
-      "inquiryId": "INQ-0076",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T06:00:47.124Z"
     }
   ]
 }
