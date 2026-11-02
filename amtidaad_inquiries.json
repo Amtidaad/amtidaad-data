@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0415",
+      "client": "Rocky Real Estate",
+      "project": "Emrald",
+      "phone": "",
+      "email": "",
+      "date": "2026-10-28",
+      "location": "Jaddaf",
+      "service": "AMC - Fire Alarm",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "2026-10-28",
+      "followup": "",
+      "scope": "AMC Fire Alarm",
+      "remarks": "Correct SO No. 10133/",
+      "quotNo": "0133",
+      "quotValue": 15750,
+      "securedValue": 15750,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-02T11:39:25.361Z"
+    },
+    {
       "id": "INQ-0414",
       "client": "The School of Research",
       "project": "SRS 1",
@@ -9292,6 +9315,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0415",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-02T11:39:25.361Z"
+    },
+    {
       "inquiryId": "INQ-0414",
       "action": "edited",
       "from": null,
@@ -13778,15 +13810,6 @@
       "action": "status_change",
       "from": "new",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T06:02:05.054Z"
-    },
-    {
-      "inquiryId": "INQ-0085",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T06:02:05.054Z"
