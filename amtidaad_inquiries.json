@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0419",
+      "client": "xpertcare Technical services",
+      "project": "",
+      "phone": "",
+      "email": "info@xpertcarets.com",
+      "date": "2026-11-03",
+      "location": "",
+      "service": "Fire Extinguisher Refilling",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-11-03",
+      "followup": "",
+      "scope": "Refilling of Cylinders",
+      "remarks": "Correct SO No. 10154/ Quoted by Reshmi",
+      "quotNo": "0154",
+      "quotValue": 956.55,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-03T08:27:26.125Z"
+    },
+    {
       "id": "INQ-0418",
       "client": "Exotic Interior Decoration",
       "project": "Exotic Interiors Decoration LLC, Abu Dhabi",
@@ -9384,6 +9407,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0419",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-03T08:27:26.125Z"
+    },
+    {
       "inquiryId": "INQ-0418",
       "action": "edited",
       "from": null,
@@ -13870,15 +13902,6 @@
       "action": "status_change",
       "from": "new",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T06:06:38.026Z"
-    },
-    {
-      "inquiryId": "INQ-0106",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T06:06:38.026Z"
