@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0418",
+      "client": "Exotic Interior Decoration",
+      "project": "Exotic Interiors Decoration LLC, Abu Dhabi",
+      "phone": "",
+      "email": "",
+      "date": "2026-11-03",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-11-03",
+      "followup": "",
+      "scope": "Fit Out",
+      "remarks": "Quoted by Faizan",
+      "quotNo": "0153",
+      "quotValue": 304395,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-03T08:18:09.123Z"
+    },
+    {
       "id": "INQ-0417",
       "client": "Aduba Safety System & Fire Protection",
       "project": "Dubai Maritime City- Volvo Penta, Warehouse 160",
@@ -9361,6 +9384,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0418",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-03T08:18:09.123Z"
+    },
+    {
       "inquiryId": "INQ-0416",
       "action": "edited",
       "from": null,
@@ -13847,15 +13879,6 @@
       "action": "status_change",
       "from": "new",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T06:06:13.770Z"
-    },
-    {
-      "inquiryId": "INQ-0087",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T06:06:13.770Z"
