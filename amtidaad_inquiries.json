@@ -15,13 +15,13 @@
       "quotDate": "2026-11-03",
       "followup": "",
       "scope": "Fit Out",
-      "remarks": "Quoted by Faizan",
+      "remarks": "Quoted by Faizan/ Correct SO No. 10153",
       "quotNo": "0153",
       "quotValue": 304395,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-03T08:18:09.123Z"
+      "lastUpdatedAt": "2026-11-03T08:18:24.280Z"
     },
     {
       "id": "INQ-0417",
@@ -9385,6 +9385,15 @@
   "auditLog": [
     {
       "inquiryId": "INQ-0418",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-03T08:18:24.280Z"
+    },
+    {
+      "inquiryId": "INQ-0418",
       "action": "created",
       "from": null,
       "to": "quotation",
@@ -13873,15 +13882,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T06:06:38.026Z"
-    },
-    {
-      "inquiryId": "INQ-0087",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T06:06:13.770Z"
     }
   ]
 }
