@@ -38,13 +38,13 @@
       "quotDate": "2026-11-02",
       "followup": "",
       "scope": "Room Integrity Test",
-      "remarks": "Correct SO No. 10151/Email Confirmation",
+      "remarks": "Correct SO No. 10151/Email Confirmation/ LPO No. 195",
       "quotNo": "0151",
       "quotValue": 2310,
       "securedValue": 2310,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-02T12:35:48.681Z"
+      "lastUpdatedAt": "2026-11-03T07:20:34.394Z"
     },
     {
       "id": "INQ-0415",
@@ -9361,6 +9361,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0416",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-03T07:20:34.394Z"
+    },
+    {
       "inquiryId": "INQ-0417",
       "action": "created",
       "from": null,
@@ -13850,15 +13859,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T06:06:13.770Z"
-    },
-    {
-      "inquiryId": "INQ-0089",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T06:05:33.130Z"
     }
   ]
 }
