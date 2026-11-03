@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0417",
+      "client": "Aduba Safety System & Fire Protection",
+      "project": "Dubai Maritime City- Volvo Penta, Warehouse 160",
+      "phone": "",
+      "email": "",
+      "date": "2026-11-03",
+      "location": "",
+      "service": "DCD Inspection Support",
+      "source": "WhatsApp",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-11-03",
+      "followup": "",
+      "scope": "Certificate & DCD Inspection Technical Support",
+      "remarks": "Correct SO No. 10152/Quoted by Reshmi",
+      "quotNo": "0152",
+      "quotValue": 892.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-03T06:28:54.198Z"
+    },
+    {
       "id": "INQ-0416",
       "client": "UNITED SPECIALIZED FIRE SAFETY & SECURITY L L C SP",
       "project": "Burj Khalifa",
@@ -9338,6 +9361,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0417",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-03T06:28:54.198Z"
+    },
+    {
       "inquiryId": "INQ-0416",
       "action": "created",
       "from": null,
@@ -13824,15 +13856,6 @@
       "action": "status_change",
       "from": "new",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T06:05:33.130Z"
-    },
-    {
-      "inquiryId": "INQ-0089",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T06:05:33.130Z"
