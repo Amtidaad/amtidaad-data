@@ -80,17 +80,17 @@
       "service": "DCD Inspection Support",
       "source": "WhatsApp",
       "assigned": "Estimation Team",
-      "status": "quotation",
+      "status": "awarded",
       "quotDate": "2026-11-03",
       "followup": "",
       "scope": "Certificate & DCD Inspection Technical Support",
       "remarks": "Correct SO No. 10152/Quoted by Reshmi",
       "quotNo": "0152",
       "quotValue": 892.5,
-      "securedValue": null,
+      "securedValue": 892.5,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-03T06:28:54.198Z"
+      "lastUpdatedAt": "2026-11-04T12:04:35.102Z"
     },
     {
       "id": "INQ-0416",
@@ -9430,6 +9430,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0417",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-04T12:04:35.102Z"
+    },
+    {
+      "inquiryId": "INQ-0417",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-04T12:04:35.102Z"
+    },
+    {
       "inquiryId": "INQ-0420",
       "action": "created",
       "from": null,
@@ -13910,24 +13928,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T06:08:30.858Z"
-    },
-    {
-      "inquiryId": "INQ-0110",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T06:07:46.804Z"
-    },
-    {
-      "inquiryId": "INQ-0110",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T06:07:46.804Z"
     }
   ]
 }
