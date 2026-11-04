@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0421",
+      "client": "United Fidelity Insurance Company",
+      "project": "Fidelity United Building",
+      "phone": "",
+      "email": "",
+      "date": "2026-11-04",
+      "location": "",
+      "service": "DCD Inspection Support",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "2026-11-04",
+      "followup": "",
+      "scope": "",
+      "remarks": "",
+      "quotNo": "0025",
+      "quotValue": 705.6,
+      "securedValue": 705.6,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-04T12:06:17.917Z"
+    },
+    {
       "id": "INQ-0420",
       "client": "FALEX  FIRE SAFETY AND  SECURITY SYSTEM LLC  SPC",
       "project": "",
@@ -9430,6 +9453,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0421",
+      "action": "created",
+      "from": null,
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-04T12:06:17.917Z"
+    },
+    {
       "inquiryId": "INQ-0417",
       "action": "status_change",
       "from": "quotation",
@@ -13919,15 +13951,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T06:15:58.916Z"
-    },
-    {
-      "inquiryId": "INQ-0114",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T06:08:30.858Z"
     }
   ]
 }
