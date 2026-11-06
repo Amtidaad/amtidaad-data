@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0422",
+      "client": "Al Bonian Facilities Management Services LLC",
+      "project": "RFQ - Rectification of FA & FF Syestem-Snag-2609 - UID03868",
+      "phone": "971545438232",
+      "email": "faisal.s@albonian.fm",
+      "date": "2026-10-05",
+      "location": "JAFZA",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-11-05",
+      "followup": "",
+      "scope": "RFQ - Rectification of FA & FF Syestem-Snag-2609 - UID03868",
+      "remarks": "Quoted by Reshmi",
+      "quotNo": "9975",
+      "quotValue": 1317206.1,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-06T04:11:54.061Z"
+    },
+    {
       "id": "INQ-0421",
       "client": "United Fidelity Insurance Company",
       "project": "Fidelity United Building",
@@ -9453,6 +9476,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0422",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-06T04:11:54.061Z"
+    },
+    {
       "inquiryId": "INQ-0421",
       "action": "created",
       "from": null,
@@ -13939,15 +13971,6 @@
       "action": "status_change",
       "from": "new",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T06:15:58.916Z"
-    },
-    {
-      "inquiryId": "INQ-0155",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T06:15:58.916Z"
