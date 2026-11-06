@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0423",
+      "client": "Flametech Firefighting Equipment LLC",
+      "project": "",
+      "phone": "0564462010",
+      "email": "flametechdubai@gmail.com",
+      "date": "2026-11-03",
+      "location": "",
+      "service": "FM200 / Clean Agent",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-11-05",
+      "followup": "",
+      "scope": "Re: Request for Price-FM200 System",
+      "remarks": "Correct SO No. 10172/Quoted by Reshmi",
+      "quotNo": "0172",
+      "quotValue": 58800,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-06T04:16:01.117Z"
+    },
+    {
       "id": "INQ-0422",
       "client": "Al Bonian Facilities Management Services LLC",
       "project": "RFQ - Rectification of FA & FF Syestem-Snag-2609 - UID03868",
@@ -9476,6 +9499,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0423",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-06T04:16:01.117Z"
+    },
+    {
       "inquiryId": "INQ-0422",
       "action": "created",
       "from": null,
@@ -13965,15 +13997,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T06:16:42.854Z"
-    },
-    {
-      "inquiryId": "INQ-0155",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T06:15:58.916Z"
     }
   ]
 }
