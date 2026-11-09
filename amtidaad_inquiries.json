@@ -1,50 +1,27 @@
 {
   "inquiries": [
     {
-      "id": "INQ-0423",
-      "client": "Flametech Firefighting Equipment LLC",
-      "project": "",
-      "phone": "0564462010",
-      "email": "flametechdubai@gmail.com",
-      "date": "2026-11-03",
-      "location": "",
-      "service": "FM200 / Clean Agent",
-      "source": "Email",
-      "assigned": "Estimation Team",
-      "status": "quotation",
-      "quotDate": "2026-11-05",
-      "followup": "",
-      "scope": "Re: Request for Price-FM200 System",
-      "remarks": "Correct SO No. 10172/Quoted by Reshmi",
-      "quotNo": "0172",
-      "quotValue": 58800,
-      "securedValue": null,
-      "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-06T04:16:01.117Z"
-    },
-    {
       "id": "INQ-0422",
-      "client": "Al Bonian Facilities Management Services LLC",
-      "project": "RFQ - Rectification of FA & FF Syestem-Snag-2609 - UID03868",
-      "phone": "971545438232",
-      "email": "faisal.s@albonian.fm",
-      "date": "2026-10-05",
-      "location": "JAFZA",
+      "client": "Stratum",
+      "project": "Tamani Arts Offices- Business Bay",
+      "phone": "",
+      "email": "procurement3@stratum.ae",
+      "date": "2026-11-05",
+      "location": "Business Bay",
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
       "status": "quotation",
-      "quotDate": "2026-11-05",
+      "quotDate": "2026-11-09",
       "followup": "",
-      "scope": "RFQ - Rectification of FA & FF Syestem-Snag-2609 - UID03868",
-      "remarks": "Quoted by Reshmi",
-      "quotNo": "9975",
-      "quotValue": 1317206.1,
+      "scope": "Re: RFP_Request for Supplier Proposal –  Rectification of Fire Alarm System",
+      "remarks": "Correct SO No. 10176/Quoted by Reshmi",
+      "quotNo": "0176",
+      "quotValue": 657268.25,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-06T04:11:54.061Z"
+      "lastUpdatedAt": "2026-11-09T06:05:23.698Z"
     },
     {
       "id": "INQ-0421",
@@ -9499,22 +9476,13 @@
   ],
   "auditLog": [
     {
-      "inquiryId": "INQ-0423",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-11-06T04:16:01.117Z"
-    },
-    {
       "inquiryId": "INQ-0422",
       "action": "created",
       "from": null,
       "to": "quotation",
       "remarks": "",
       "user": "Admin",
-      "timestamp": "2026-11-06T04:11:54.061Z"
+      "timestamp": "2026-11-09T06:05:23.698Z"
     },
     {
       "inquiryId": "INQ-0421",
@@ -13997,6 +13965,15 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T06:16:42.854Z"
+    },
+    {
+      "inquiryId": "INQ-0155",
+      "action": "status_change",
+      "from": "new",
+      "to": "lost",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-08-31T06:15:58.916Z"
     }
   ]
 }
