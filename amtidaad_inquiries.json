@@ -17,11 +17,11 @@
       "scope": "Re: RFP_Request for Supplier Proposal –  Rectification of Fire Alarm System",
       "remarks": "Correct SO No. 10176/Quoted by Reshmi",
       "quotNo": "0176",
-      "quotValue": 657268.25,
+      "quotValue": 655730.25,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-09T06:05:23.698Z"
+      "lastUpdatedAt": "2026-11-09T08:31:44.273Z"
     },
     {
       "id": "INQ-0421",
@@ -9476,6 +9476,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0422",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-09T08:31:44.273Z"
+    },
+    {
       "inquiryId": "INQ-0229",
       "action": "status_change",
       "from": "quotation",
@@ -13965,15 +13974,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T06:17:21.718Z"
-    },
-    {
-      "inquiryId": "INQ-0156",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T06:16:42.854Z"
     }
   ]
 }
