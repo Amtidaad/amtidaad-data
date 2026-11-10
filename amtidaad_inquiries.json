@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0423",
+      "client": "EMAAR Community Management LLC",
+      "project": "Arabian Ranches 1",
+      "phone": "+971 56 508 3742",
+      "email": "Ragesh.govindan@emril.com",
+      "date": "2026-11-09",
+      "location": "Arabian Ranches",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-11-09",
+      "followup": "",
+      "scope": "Rectification Works",
+      "remarks": "Correct SO No. 10187",
+      "quotNo": "0187",
+      "quotValue": 5622.75,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-10T06:59:25.516Z"
+    },
+    {
       "id": "INQ-0422",
       "client": "Stratum",
       "project": "Tamani Arts Offices- Business Bay",
@@ -9476,6 +9499,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0423",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-10T06:59:25.516Z"
+    },
+    {
       "inquiryId": "INQ-0422",
       "action": "edited",
       "from": null,
@@ -13962,15 +13994,6 @@
       "action": "status_change",
       "from": "new",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T06:17:21.718Z"
-    },
-    {
-      "inquiryId": "INQ-0158",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T06:17:21.718Z"
