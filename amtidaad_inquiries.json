@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0424",
+      "client": "DYNAMIC INNOVATIONS TRADING LLC",
+      "project": "Medical Clinic Unit 302 - Al Wadi Building",
+      "phone": "+971501491267",
+      "email": "praveen@dynamicinnovations.ae",
+      "date": "2026-11-10",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-11-10",
+      "followup": "",
+      "scope": "Fitout",
+      "remarks": "Correct SO - 10188",
+      "quotNo": "0188",
+      "quotValue": 15702.75,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-11T07:59:16.015Z"
+    },
+    {
       "id": "INQ-0423",
       "client": "EMAAR Community Management LLC",
       "project": "Arabian Ranches 1",
@@ -9499,6 +9522,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0424",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-11T07:59:16.015Z"
+    },
+    {
       "inquiryId": "INQ-0423",
       "action": "edited",
       "from": null,
@@ -13988,15 +14020,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T06:18:31.125Z"
-    },
-    {
-      "inquiryId": "INQ-0160",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T06:18:31.124Z"
     }
   ]
 }
