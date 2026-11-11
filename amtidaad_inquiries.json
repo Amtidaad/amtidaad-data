@@ -17,11 +17,11 @@
       "scope": "Fitout",
       "remarks": "Correct SO No. 10194",
       "quotNo": "0194",
-      "quotValue": 26056.8,
+      "quotValue": 69048,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-11T08:07:28.964Z"
+      "lastUpdatedAt": "2026-11-11T08:14:08.346Z"
     },
     {
       "id": "INQ-0424",
@@ -9546,6 +9546,15 @@
   "auditLog": [
     {
       "inquiryId": "INQ-0425",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-11T08:14:08.346Z"
+    },
+    {
+      "inquiryId": "INQ-0425",
       "action": "created",
       "from": null,
       "to": "quotation",
@@ -14034,15 +14043,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T06:41:15.241Z"
-    },
-    {
-      "inquiryId": "INQ-0180",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T06:32:11.394Z"
     }
   ]
 }
