@@ -40,11 +40,11 @@
       "scope": "Rectification Works",
       "remarks": "Correct SO No. 10187",
       "quotNo": "0187",
-      "quotValue": 5622.75,
+      "quotValue": 3785.25,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-10T06:59:47.986Z"
+      "lastUpdatedAt": "2026-11-11T08:02:46.780Z"
     },
     {
       "id": "INQ-0422",
@@ -9522,6 +9522,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0423",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-11T08:02:46.780Z"
+    },
+    {
       "inquiryId": "INQ-0424",
       "action": "created",
       "from": null,
@@ -14011,15 +14020,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T06:32:11.394Z"
-    },
-    {
-      "inquiryId": "INQ-0160",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T06:18:31.125Z"
     }
   ]
 }
