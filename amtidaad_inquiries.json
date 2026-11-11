@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0425",
+      "client": "RENOVATORS INTERIOR DECORATION L.L.C",
+      "project": "Cayan 501",
+      "phone": "+971 52 849 3894",
+      "email": "faisa@renovators.ae | ryan@renovators.ae",
+      "date": "2026-11-11",
+      "location": "",
+      "service": "Other",
+      "source": "WhatsApp",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-11-10",
+      "followup": "",
+      "scope": "Fitout",
+      "remarks": "Correct SO No. 10194",
+      "quotNo": "0194",
+      "quotValue": 26056.8,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-11T08:07:28.964Z"
+    },
+    {
       "id": "INQ-0424",
       "client": "DYNAMIC INNOVATIONS TRADING LLC",
       "project": "Medical Clinic Unit 302 - Al Wadi Building",
@@ -9522,6 +9545,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0425",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-11T08:07:28.964Z"
+    },
+    {
       "inquiryId": "INQ-0423",
       "action": "edited",
       "from": null,
@@ -14008,15 +14040,6 @@
       "action": "status_change",
       "from": "new",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T06:32:11.394Z"
-    },
-    {
-      "inquiryId": "INQ-0180",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T06:32:11.394Z"
