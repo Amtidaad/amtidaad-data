@@ -34,17 +34,17 @@
       "service": "Fire Extinguisher Refilling",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "quotation",
+      "status": "awarded",
       "quotDate": "2026-11-11",
       "followup": "",
       "scope": "Re: Quotation for Refilling",
-      "remarks": "Correct SO No. 10201/Quoted by Reshmi",
+      "remarks": "Correct SO No. 10201/Quoted by Reshmi/ LPO No. 26/31 received on 11th November",
       "quotNo": "0201",
       "quotValue": 708.75,
-      "securedValue": null,
+      "securedValue": 708.75,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-12T10:19:21.601Z"
+      "lastUpdatedAt": "2026-11-12T10:27:36.702Z"
     },
     {
       "id": "INQ-0427",
@@ -9637,6 +9637,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0428",
+      "action": "status_change",
+      "from": "quotation",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-12T10:27:36.702Z"
+    },
+    {
+      "inquiryId": "INQ-0428",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-12T10:27:36.702Z"
+    },
+    {
       "inquiryId": "INQ-0429",
       "action": "created",
       "from": null,
@@ -14117,24 +14135,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T06:44:42.005Z"
-    },
-    {
-      "inquiryId": "INQ-0137",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T06:41:54.579Z"
-    },
-    {
-      "inquiryId": "INQ-0137",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T06:41:54.579Z"
     }
   ]
 }
