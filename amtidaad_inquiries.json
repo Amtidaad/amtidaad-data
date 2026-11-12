@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0427",
+      "client": "Engie Solutions",
+      "project": "Ikea",
+      "phone": "971569957223",
+      "email": "farwa.ashraf@engie.com",
+      "date": "2026-10-15",
+      "location": "Dubai Festival Plaza",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-11-11",
+      "followup": "",
+      "scope": "Re: RFQ - IKEA_MEP Services for IKEA DFP_ DFC - MEP - 001",
+      "remarks": "Correct SO No. 10210/Quoted by Reshmi",
+      "quotNo": "0210",
+      "quotValue": 59325,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-12T10:16:35.139Z"
+    },
+    {
       "id": "INQ-0426",
       "client": "Noon Fulfillment mega AD- Sole Proprietorship L.L.C",
       "project": "AL qouz super mall & Karama super mall",
@@ -9568,6 +9591,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0427",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-12T10:16:35.139Z"
+    },
+    {
       "inquiryId": "INQ-0426",
       "action": "created",
       "from": null,
@@ -14057,15 +14089,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T06:41:43.519Z"
-    },
-    {
-      "inquiryId": "INQ-0114",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T06:41:15.241Z"
     }
   ]
 }
