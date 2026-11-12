@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0429",
+      "client": "United Specialized  Fire Safety & Security",
+      "project": "Burj Khalifa",
+      "phone": "971503022441",
+      "email": "admin@sfpmena.com",
+      "date": "2026-11-11",
+      "location": "Downtown, Dubai",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-11-11",
+      "followup": "",
+      "scope": "Re: Room Integrity Test- Burj Khalifa",
+      "remarks": "Correct SO No. 10207/ Quoted by Reshmi",
+      "quotNo": "0207",
+      "quotValue": 2100,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-12T10:23:22.936Z"
+    },
+    {
       "id": "INQ-0428",
       "client": "xpertcare Technical Services",
       "project": "",
@@ -9614,6 +9637,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0429",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-12T10:23:22.936Z"
+    },
+    {
       "inquiryId": "INQ-0428",
       "action": "created",
       "from": null,
@@ -14103,15 +14135,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T06:41:54.579Z"
-    },
-    {
-      "inquiryId": "INQ-0126",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T06:41:43.519Z"
     }
   ]
 }
