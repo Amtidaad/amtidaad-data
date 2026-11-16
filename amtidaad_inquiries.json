@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0433",
+      "client": "Better Communities Owner Association Management",
+      "project": "Sydney Tower",
+      "phone": "+971588915457",
+      "email": "maintenance@bcoam.com",
+      "date": "2026-11-16",
+      "location": "C01,JUMEIRAH VILLAGE CIRCLE, AL BARSHA SOUTH FOURTH, PO Box 452931, Dubai- UAE",
+      "service": "AMC - Fire Alarm",
+      "source": "",
+      "assigned": "",
+      "status": "new",
+      "quotDate": "2026-02-06",
+      "followup": "",
+      "scope": "AMC of Fire Alarm System",
+      "remarks": "Quotation SO:  S04402",
+      "quotNo": "4402",
+      "quotValue": 12075,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-16T11:20:27.065Z"
+    },
+    {
       "id": "INQ-0432",
       "client": "VISION HOMES BUILDING CONTRACTING L.L.C",
       "project": "CAYAN 302",
@@ -9706,6 +9729,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0433",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-16T11:20:27.065Z"
+    },
+    {
       "inquiryId": "INQ-0432",
       "action": "created",
       "from": null,
@@ -14195,15 +14227,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T07:24:30.073Z"
-    },
-    {
-      "inquiryId": "INQ-0188",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T07:20:07.954Z"
     }
   ]
 }
