@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0432",
+      "client": "VISION HOMES BUILDING CONTRACTING L.L.C",
+      "project": "CAYAN 302",
+      "phone": "",
+      "email": "tm@erehomes.ae",
+      "date": "2026-11-13",
+      "location": "Office 602, Onyx Tower 2, The Greens, Dubai, 30938, Dubai",
+      "service": "AMC - Fire Alarm",
+      "source": "Email",
+      "assigned": "",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "AMC of Fire Alarm System",
+      "remarks": "Quotation No: S10216",
+      "quotNo": "0216",
+      "quotValue": 3675,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-16T11:16:39.929Z"
+    },
+    {
       "id": "INQ-0431",
       "client": "The School of Research Science L.L.C",
       "project": "",
@@ -9683,6 +9706,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0432",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-16T11:16:39.929Z"
+    },
+    {
       "inquiryId": "INQ-0431",
       "action": "created",
       "from": null,
@@ -14172,15 +14204,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T07:20:07.954Z"
-    },
-    {
-      "inquiryId": "INQ-0175",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T07:19:24.578Z"
     }
   ]
 }
