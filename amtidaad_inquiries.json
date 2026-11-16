@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0436",
+      "client": "STREAKS BEAUTY SALON DMCC",
+      "project": "Streaks Ladies Saloon (Gold Crest View)",
+      "phone": "0552184643",
+      "email": "info@streaksuae.com",
+      "date": "2026-11-16",
+      "location": "Unit No: R-03, Gold Crest View, Plot No.: JLT-PH2-V2A. JLT-Dubai-UAE",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "RECTIFICATION, AMC",
+      "remarks": "S10209",
+      "quotNo": "0209",
+      "quotValue": 262.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-16T11:39:04.119Z"
+    },
+    {
       "id": "INQ-0435",
       "client": "Mueller Medical Clinic FZ-LLC",
       "project": "Mueller Medical Clinic FZ-LLC",
@@ -90,7 +113,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-16T11:16:39.929Z"
+      "lastUpdatedAt": "2026-11-16T11:44:08.834Z"
     },
     {
       "id": "INQ-0431",
@@ -9775,6 +9798,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0432",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-16T11:44:08.835Z"
+    },
+    {
+      "inquiryId": "INQ-0436",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-16T11:39:04.119Z"
+    },
+    {
       "inquiryId": "INQ-0435",
       "action": "created",
       "from": null,
@@ -14255,24 +14296,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T07:27:46.602Z"
-    },
-    {
-      "inquiryId": "INQ-0199",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T07:27:14.487Z"
-    },
-    {
-      "inquiryId": "INQ-0198",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T07:26:28.908Z"
     }
   ]
 }
