@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0431",
+      "client": "The School of Research Science L.L.C",
+      "project": "",
+      "phone": "+971504658104",
+      "email": "sudheesh.ab@srs.ae",
+      "date": "2026-02-10",
+      "location": "",
+      "service": "New Installation - Fire Fighting",
+      "source": "Email",
+      "assigned": "",
+      "status": "new",
+      "quotDate": "2026-10-27",
+      "followup": "",
+      "scope": "Laboratories and Common Area",
+      "remarks": "Correct Quotation No: S10109",
+      "quotNo": "0109",
+      "quotValue": 15107.4,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-16T11:02:02.114Z"
+    },
+    {
       "id": "INQ-0430",
       "client": "DUBUILD CONTRACTING (L.L.C)",
       "project": "Du Build Contracting Labour Camp",
@@ -9660,6 +9683,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0431",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-16T11:02:02.114Z"
+    },
+    {
       "inquiryId": "INQ-0430",
       "action": "edited",
       "from": null,
@@ -14149,15 +14181,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T07:19:24.578Z"
-    },
-    {
-      "inquiryId": "INQ-0168",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T07:18:33.878Z"
     }
   ]
 }
