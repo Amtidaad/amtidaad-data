@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0437",
+      "client": "APEX DENTAL & ORTHODONTIC CLINIC L.L.C",
+      "project": "Apex Dental & Orthodontic Clinic L.L.C - Prime Business Center",
+      "phone": "04 360 8881",
+      "email": "centralaccounts@apexmedicalclinics.com",
+      "date": "2026-11-16",
+      "location": "Prime Business Centre, A504, JVC, Jumeirah Village Circle, Dubai,",
+      "service": "AMC - Fire Alarm",
+      "source": "",
+      "assigned": "",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "AMC of Fire Alarm System",
+      "remarks": "Correct Quotation No. S10111",
+      "quotNo": "0111",
+      "quotValue": 1638,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-16T11:52:16.523Z"
+    },
+    {
       "id": "INQ-0436",
       "client": "STREAKS BEAUTY SALON DMCC",
       "project": "Streaks Ladies Saloon (Gold Crest View)",
@@ -9798,6 +9821,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0437",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-16T11:52:16.523Z"
+    },
+    {
       "inquiryId": "INQ-0432",
       "action": "edited",
       "from": null,
@@ -14287,15 +14319,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T07:28:09.208Z"
-    },
-    {
-      "inquiryId": "INQ-0200",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T07:27:46.602Z"
     }
   ]
 }
