@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0435",
+      "client": "Mueller Medical Clinic FZ-LLC",
+      "project": "Mueller Medical Clinic FZ-LLC",
+      "phone": "0508864285",
+      "email": "manager@muellermedicalclinic.ae",
+      "date": "2026-11-16",
+      "location": "",
+      "service": "AMC - Fire Alarm",
+      "source": "Email",
+      "assigned": "",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "AMC of Fire Alarm System",
+      "remarks": "Correct Quotation No. S08131",
+      "quotNo": "8131",
+      "quotValue": 1113,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-16T11:30:32.015Z"
+    },
+    {
       "id": "INQ-0434",
       "client": "HOAM - Highrise Owners Association Management",
       "project": "Atlantic Tower",
@@ -9752,6 +9775,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0435",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-16T11:30:32.015Z"
+    },
+    {
       "inquiryId": "INQ-0434",
       "action": "edited",
       "from": null,
@@ -14241,15 +14273,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T07:26:28.908Z"
-    },
-    {
-      "inquiryId": "INQ-0197",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T07:25:44.169Z"
     }
   ]
 }
