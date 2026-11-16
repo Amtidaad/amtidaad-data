@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0430",
+      "client": "DUBUILD CONTRACTING (L.L.C)",
+      "project": "Du Build Contracting Labour Camp",
+      "phone": "042578337-0555653280",
+      "email": "purchase@dubuild.com",
+      "date": "2026-11-03",
+      "location": "",
+      "service": "AMC - Fire Alarm",
+      "source": "Email",
+      "assigned": "",
+      "status": "new",
+      "quotDate": "2026-11-03",
+      "followup": "",
+      "scope": "AMC of Fire Alarm System",
+      "remarks": "Correct Quotation No. - S08182",
+      "quotNo": "8182",
+      "quotValue": 446.25,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-16T10:53:34.073Z"
+    },
+    {
       "id": "INQ-0429",
       "client": "United Specialized  Fire Safety & Security",
       "project": "Burj Khalifa",
@@ -9637,6 +9660,33 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0430",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-16T10:53:34.073Z"
+    },
+    {
+      "inquiryId": "INQ-0430",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-16T10:53:21.758Z"
+    },
+    {
+      "inquiryId": "INQ-0430",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-16T10:52:52.882Z"
+    },
+    {
       "inquiryId": "INQ-0428",
       "action": "status_change",
       "from": "quotation",
@@ -14108,33 +14158,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T07:15:06.499Z"
-    },
-    {
-      "inquiryId": "INQ-0163",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T07:14:01.112Z"
-    },
-    {
-      "inquiryId": "INQ-0084",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T06:44:42.005Z"
-    },
-    {
-      "inquiryId": "INQ-0084",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T06:44:42.005Z"
     }
   ]
 }
