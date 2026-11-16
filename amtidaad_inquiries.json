@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0434",
+      "client": "HOAM - Highrise Owners Association Management",
+      "project": "Atlantic Tower",
+      "phone": "+971 55 796 2890",
+      "email": "supervisor2@syntech.ae",
+      "date": "2026-11-09",
+      "location": "",
+      "service": "Other",
+      "source": "",
+      "assigned": "",
+      "status": "new",
+      "quotDate": "2026-11-09",
+      "followup": "",
+      "scope": "RECTIFICATION, Callout",
+      "remarks": "Quotation No: S10178",
+      "quotNo": "0178",
+      "quotValue": 813.75,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-16T11:26:58.657Z"
+    },
+    {
       "id": "INQ-0433",
       "client": "Better Communities Owner Association Management",
       "project": "Sydney Tower",
@@ -9729,6 +9752,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0434",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-16T11:26:58.657Z"
+    },
+    {
       "inquiryId": "INQ-0433",
       "action": "created",
       "from": null,
@@ -14218,15 +14250,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T07:25:31.556Z"
-    },
-    {
-      "inquiryId": "INQ-0192",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T07:24:30.073Z"
     }
   ]
 }
