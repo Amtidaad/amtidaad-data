@@ -3329,11 +3329,11 @@
       "scope": "FM200 SOLUTION REQ.",
       "remarks": "Quoted by Faizan",
       "quotNo": "9987",
-      "quotValue": 369579,
+      "quotValue": 278213.25,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-02T12:16:24.304Z"
+      "lastUpdatedAt": "2026-11-17T07:51:04.628Z"
     },
     {
       "id": "INQ-0292",
@@ -9821,6 +9821,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0293",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-17T07:51:04.628Z"
+    },
+    {
       "inquiryId": "INQ-0437",
       "action": "created",
       "from": null,
@@ -14310,15 +14319,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T08:30:15.694Z"
-    },
-    {
-      "inquiryId": "INQ-0201",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T07:28:09.208Z"
     }
   ]
 }
