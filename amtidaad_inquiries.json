@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0438",
+      "client": "TECHNO TEAM L.L.C",
+      "project": "Techno Team LLC",
+      "phone": "+971 50 258 4305",
+      "email": "rijesh@technoteamllc.com",
+      "date": "2026-11-07",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "2026-11-07",
+      "followup": "",
+      "scope": "Room Integrity Test",
+      "remarks": "Correct SO No. - S10183",
+      "quotNo": "0183",
+      "quotValue": 1050,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-18T06:50:05.761Z"
+    },
+    {
       "id": "INQ-0437",
       "client": "APEX DENTAL & ORTHODONTIC CLINIC L.L.C",
       "project": "Apex Dental & Orthodontic Clinic L.L.C - Prime Business Center",
@@ -9821,6 +9844,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0438",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-18T06:50:05.761Z"
+    },
+    {
       "inquiryId": "INQ-0293",
       "action": "edited",
       "from": null,
@@ -14307,15 +14339,6 @@
       "action": "status_change",
       "from": "new",
       "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T08:30:15.694Z"
-    },
-    {
-      "inquiryId": "INQ-0192",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T08:30:15.694Z"
