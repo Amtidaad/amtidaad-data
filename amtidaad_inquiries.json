@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0441",
+      "client": "Stratum Owners Association Management SERVICES LLC",
+      "project": "Botanica, Jumeirah Village Circle",
+      "phone": "+97144356440",
+      "email": "Contracts1@stratum.ae",
+      "date": "2026-11-06",
+      "location": "Jumeirah Village Circle",
+      "service": "AMC - Fire Alarm",
+      "source": "WhatsApp",
+      "assigned": "",
+      "status": "quotation",
+      "quotDate": "2026-11-06",
+      "followup": "",
+      "scope": "AMC of Fire Alarm System:",
+      "remarks": "Correct SO NO. S10179",
+      "quotNo": null,
+      "quotValue": 10500,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-18T07:17:16.867Z"
+    },
+    {
       "id": "INQ-0440",
       "client": "Stratum Owners Association Management SERVICES LLC",
       "project": "Noora Residence- JVC",
@@ -9890,6 +9913,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0441",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-18T07:17:16.867Z"
+    },
+    {
       "inquiryId": "INQ-0440",
       "action": "status_change",
       "from": "new",
@@ -14376,15 +14408,6 @@
       "action": "status_change",
       "from": "new",
       "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-02T04:51:43.426Z"
-    },
-    {
-      "inquiryId": "INQ-0198",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-02T04:51:43.426Z"
