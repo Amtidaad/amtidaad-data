@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0448",
+      "client": "FIRECO TECHNICAL SERVICES L.L.C",
+      "project": "FIRECO Technical Services LLC",
+      "phone": "0566606014",
+      "email": "engineer5@firecots.com",
+      "date": "2026-11-18",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "2026-11-18",
+      "followup": "",
+      "scope": "Refilling of Cylinders",
+      "remarks": "Correct SO No. S10238",
+      "quotNo": "0238",
+      "quotValue": 34293,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-18T11:11:36.174Z"
+    },
+    {
       "id": "INQ-0447",
       "client": "MZW Fulfillment DWC-LLC",
       "project": "MZW Fulfillment DWC- LLC",
@@ -10051,6 +10074,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0448",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-18T11:11:36.174Z"
+    },
+    {
       "inquiryId": "INQ-0447",
       "action": "edited",
       "from": null,
@@ -14540,15 +14572,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-02T11:37:50.513Z"
-    },
-    {
-      "inquiryId": "INQ-0193",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-02T11:22:10.885Z"
     }
   ]
 }
