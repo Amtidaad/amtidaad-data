@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0450",
+      "client": "MZW Fulfillment DWC-LLC",
+      "project": "MZW Fulfillment DWC-LLC-G+M Warehouse logistic city",
+      "phone": "971523042430971",
+      "email": "Jawad@mumzworld.om",
+      "date": "2026-11-18",
+      "location": "",
+      "service": "AMC - Fire Alarm",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-11-18",
+      "followup": "",
+      "scope": "MZW Fulfillment DWC-LLC-G+M Warehouse logistic city",
+      "remarks": "Correct SO No  S10239",
+      "quotNo": "0239",
+      "quotValue": 18375,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-18T12:08:57.339Z"
+    },
+    {
       "id": "INQ-0449",
       "client": "Kaizen Owner Association Management Services LLC",
       "project": "Fortunato; (G+3+B) Building, 3 Blocks in JVC",
@@ -10097,6 +10120,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0450",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-18T12:08:57.339Z"
+    },
+    {
       "inquiryId": "INQ-0449",
       "action": "status_change",
       "from": "new",
@@ -14583,15 +14615,6 @@
       "action": "status_change",
       "from": "new",
       "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-03T06:19:07.030Z"
-    },
-    {
-      "inquiryId": "INQ-0168",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-03T06:19:07.030Z"
