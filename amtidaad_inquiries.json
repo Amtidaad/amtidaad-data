@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0453",
+      "client": "CASH SALES",
+      "project": "SIT TOWER -UNIT # 1201",
+      "phone": "+971521232679",
+      "email": "sylwia@leunaraliving.com",
+      "date": "2026-11-13",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-11-13",
+      "followup": "",
+      "scope": "Rectification",
+      "remarks": "S10218",
+      "quotNo": "0218",
+      "quotValue": 10867.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-18T12:47:05.067Z"
+    },
+    {
       "id": "INQ-0452",
       "client": "Power Greate Trading (S.P.S LLC)",
       "project": "Power Greate Trading",
@@ -10142,6 +10165,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0453",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-18T12:47:05.067Z"
+    },
     {
       "inquiryId": "INQ-0439",
       "action": "edited",
