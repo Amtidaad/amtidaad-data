@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0442",
+      "client": "EMAAR Community Management LLC",
+      "project": "Arabian Ranches 1",
+      "phone": "+971565269831",
+      "email": "Ragesh.Govindan@emrill.com",
+      "date": "2026-11-09",
+      "location": "Arabian Ranches 1",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "",
+      "status": "quotation",
+      "quotDate": "92026-11-10",
+      "followup": "",
+      "scope": "Rectification",
+      "remarks": "Correct SO No.  S10187",
+      "quotNo": null,
+      "quotValue": 5622.73,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-18T07:25:30.937Z"
+    },
+    {
       "id": "INQ-0441",
       "client": "Stratum Owners Association Management SERVICES LLC",
       "project": "Botanica, Jumeirah Village Circle",
@@ -9913,6 +9936,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0442",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-18T07:25:30.937Z"
+    },
+    {
       "inquiryId": "INQ-0441",
       "action": "created",
       "from": null,
@@ -14402,15 +14434,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-02T04:53:54.576Z"
-    },
-    {
-      "inquiryId": "INQ-0198",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-02T04:51:43.426Z"
     }
   ]
 }
