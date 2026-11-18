@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0452",
+      "client": "Power Greate Trading (S.P.S LLC)",
+      "project": "Power Greate Trading",
+      "phone": "+971504768496",
+      "email": "Salespowergreate@gmail.com",
+      "date": "2026-11-18",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-11-18",
+      "followup": "",
+      "scope": "Supply",
+      "remarks": "Correct SO No. S10233",
+      "quotNo": "0233",
+      "quotValue": 11445.01,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-18T12:24:50.308Z"
+    },
+    {
       "id": "INQ-0451",
       "client": "EMAAR Community Management LLC",
       "project": "ECMOANEG-5001322- The Cove 2, Dubai Creek Harbour",
@@ -10143,6 +10166,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0452",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-18T12:24:50.308Z"
+    },
+    {
       "inquiryId": "INQ-0441",
       "action": "edited",
       "from": null,
@@ -14629,15 +14661,6 @@
       "action": "status_change",
       "from": "new",
       "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-03T11:50:25.432Z"
-    },
-    {
-      "inquiryId": "INQ-0087",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-03T11:50:25.432Z"
