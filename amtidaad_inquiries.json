@@ -17,11 +17,11 @@
       "scope": "Rectification",
       "remarks": "Correct SO: S10176",
       "quotNo": "0176",
-      "quotValue": 657268.25,
+      "quotValue": 655730.25,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-18T06:59:55.781Z"
+      "lastUpdatedAt": "2026-11-18T07:01:06.911Z"
     },
     {
       "id": "INQ-0438",
@@ -9868,6 +9868,15 @@
   "auditLog": [
     {
       "inquiryId": "INQ-0439",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-18T07:01:06.911Z"
+    },
+    {
+      "inquiryId": "INQ-0439",
       "action": "status_change",
       "from": "new",
       "to": "quotation",
@@ -14353,15 +14362,6 @@
       "action": "status_change",
       "from": "new",
       "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T12:31:07.856Z"
-    },
-    {
-      "inquiryId": "INQ-0197",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T12:31:07.856Z"
