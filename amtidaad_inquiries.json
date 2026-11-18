@@ -3659,8 +3659,8 @@
     },
     {
       "id": "INQ-0293",
-      "client": "Royal Data Systems",
-      "project": "",
+      "client": "Royal Data Systems LLC",
+      "project": "Royal Data Systems LLC",
       "phone": "971551727161",
       "email": "arahman@royaldatasystems.com",
       "date": "2026-09-22",
@@ -3669,7 +3669,7 @@
       "source": "Email",
       "assigned": "Estimation Team",
       "status": "quotation",
-      "quotDate": "2026-11-02",
+      "quotDate": "2026-11-16",
       "followup": "",
       "scope": "FM200 SOLUTION REQ.",
       "remarks": "Quoted by Faizan\nCorrect SO. - S10227",
@@ -3678,7 +3678,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-18T11:45:37.879Z"
+      "lastUpdatedAt": "2026-11-18T12:30:36.464Z"
     },
     {
       "id": "INQ-0292",
@@ -10166,6 +10166,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0293",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-18T12:30:36.465Z"
+    },
+    {
       "inquiryId": "INQ-0452",
       "action": "created",
       "from": null,
@@ -14655,15 +14664,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-03T12:26:56.395Z"
-    },
-    {
-      "inquiryId": "INQ-0087",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-03T11:50:25.432Z"
     }
   ]
 }
