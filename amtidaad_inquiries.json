@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0443",
+      "client": "Integrated Electronics and Electromechanical Services  L.L.C",
+      "project": "Integrated Electronics and Electromechanical Services  L.L.C",
+      "phone": "043804436",
+      "email": "abdul.bilal@iesuae.com",
+      "date": "2026-11-11",
+      "location": "Office 217, Al Muhairi Plaza",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "",
+      "status": "new",
+      "quotDate": "2026-11-11",
+      "followup": "",
+      "scope": "Refilling of Cylinders",
+      "remarks": "Correct SO No. S10202",
+      "quotNo": "0202",
+      "quotValue": 1062.6,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-18T07:42:25.594Z"
+    },
+    {
       "id": "INQ-0442",
       "client": "EMAAR Community Management LLC",
       "project": "Arabian Ranches 1",
@@ -9936,6 +9959,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0443",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-18T07:42:25.594Z"
+    },
+    {
       "inquiryId": "INQ-0442",
       "action": "created",
       "from": null,
@@ -14425,15 +14457,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-02T04:59:52.464Z"
-    },
-    {
-      "inquiryId": "INQ-0205",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-02T04:53:54.576Z"
     }
   ]
 }
