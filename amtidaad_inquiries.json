@@ -17,11 +17,11 @@
       "scope": "Room Integrity Test",
       "remarks": "Correct SO No. S10207",
       "quotNo": "0207",
-      "quotValue": 2310,
+      "quotValue": 2100,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-18T07:54:59.104Z"
+      "lastUpdatedAt": "2026-11-18T08:04:57.184Z"
     },
     {
       "id": "INQ-0444",
@@ -10011,6 +10011,15 @@
       "to": null,
       "remarks": "",
       "user": "Admin",
+      "timestamp": "2026-11-18T08:04:57.184Z"
+    },
+    {
+      "inquiryId": "INQ-0445",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
       "timestamp": "2026-11-18T07:54:59.104Z"
     },
     {
@@ -14494,15 +14503,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-02T09:59:42.438Z"
-    },
-    {
-      "inquiryId": "INQ-0205",
-      "action": "status_change",
-      "from": "quotation",
-      "to": "approved",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-02T09:53:42.489Z"
     }
   ]
 }
