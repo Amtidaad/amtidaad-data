@@ -1,29 +1,6 @@
 {
   "inquiries": [
     {
-      "id": "INQ-0447",
-      "client": "KHANSAHEB FMS L.L.C",
-      "project": "Expo Dubai",
-      "phone": "+971 4 456 4883",
-      "email": "hassan.qadri@khansaheb.com",
-      "date": "2026-11-18",
-      "location": "Khansaheb Building G+1 , Makani 36116 92, Airport Road, Umm Ramool, Rashidiya,",
-      "service": "AMC - Fire Alarm",
-      "source": "Email",
-      "assigned": "Estimation Team",
-      "status": "new",
-      "quotDate": "2026-11-18",
-      "followup": "",
-      "scope": "AMC of Fire Alarm System",
-      "remarks": "Correct SO No. - S09163",
-      "quotNo": "9163",
-      "quotValue": 17325,
-      "securedValue": null,
-      "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-18T10:46:47.706Z"
-    },
-    {
       "id": "INQ-0446",
       "client": "KHANSAHEB FMS L.L.C",
       "project": "Expo Dubai",
@@ -10050,15 +10027,6 @@
     }
   ],
   "auditLog": [
-    {
-      "inquiryId": "INQ-0447",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-11-18T10:46:47.706Z"
-    },
     {
       "inquiryId": "INQ-0446",
       "action": "status_change",
