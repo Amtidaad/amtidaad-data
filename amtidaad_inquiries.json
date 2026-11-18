@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0445",
+      "client": "UNITED SPECIALIZED FIRE SAFETY & SECURITY L L C SP",
+      "project": "Burjkhalifa",
+      "phone": "+97126933777",
+      "email": "Ya@sfpmena.com",
+      "date": "2026-11-14",
+      "location": "Office no. 4003, Floor No.4, behind Al Istiqlal St. Al Qasimia",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "2026-11-14",
+      "followup": "",
+      "scope": "Room Integrity Test",
+      "remarks": "Correct SO No. S10207",
+      "quotNo": "0207",
+      "quotValue": 2310,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-18T07:54:47.294Z"
+    },
+    {
       "id": "INQ-0444",
       "client": "TOMA LOUNGE RESTAURANT L.L.C",
       "project": "Toma Lounge Restaurant LLC",
@@ -9982,6 +10005,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0445",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-18T07:54:47.294Z"
+    },
+    {
       "inquiryId": "INQ-0439",
       "action": "edited",
       "from": null,
@@ -14471,15 +14503,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-02T09:53:42.489Z"
-    },
-    {
-      "inquiryId": "INQ-0204",
-      "action": "status_change",
-      "from": "quotation",
-      "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-02T09:52:05.971Z"
     }
   ]
 }
