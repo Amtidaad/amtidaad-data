@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0449",
+      "client": "Kaizen Owner Association Management Services LLC",
+      "project": "Fortunato; (G+3+B) Building, 3 Blocks in JVC",
+      "phone": "044534917",
+      "email": "procurement@kaizenams.com",
+      "date": "2026-11-17",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "2026-11-17",
+      "followup": "",
+      "scope": "Rectification of Fire Alarm and Fire Fighting",
+      "remarks": "Correct SO No. - S10232",
+      "quotNo": "0232",
+      "quotValue": 70633.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-18T11:56:38.888Z"
+    },
+    {
       "id": "INQ-0448",
       "client": "FIRECO TECHNICAL SERVICES L.L.C",
       "project": "FIRECO Technical Services LLC",
@@ -10074,6 +10097,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0449",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-18T11:56:38.888Z"
+    },
+    {
       "inquiryId": "INQ-0293",
       "action": "edited",
       "from": null,
@@ -14563,15 +14595,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-03T05:22:02.977Z"
-    },
-    {
-      "inquiryId": "INQ-0209",
-      "action": "created",
-      "from": null,
-      "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-02T13:15:02.877Z"
     }
   ]
 }
