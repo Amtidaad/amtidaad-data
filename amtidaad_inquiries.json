@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0439",
+      "client": "Stratum Owners Association Management SERVICES LLC",
+      "project": "Tamani Arts Offices- Business Bay",
+      "phone": "+97144356440",
+      "email": "Contracts1@stratum.ae",
+      "date": "2026-11-05",
+      "location": "Business Bay",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "2026-11-05",
+      "followup": "",
+      "scope": "Rectification",
+      "remarks": "Correct SO: S10176",
+      "quotNo": null,
+      "quotValue": 632913.2,
+      "securedValue": 176,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-18T06:57:36.768Z"
+    },
+    {
       "id": "INQ-0438",
       "client": "TECHNO TEAM L.L.C",
       "project": "Techno Team LLC",
@@ -9844,6 +9867,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0439",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-18T06:57:36.768Z"
+    },
+    {
       "inquiryId": "INQ-0438",
       "action": "created",
       "from": null,
@@ -14333,15 +14365,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T08:31:54.844Z"
-    },
-    {
-      "inquiryId": "INQ-0192",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T08:30:15.694Z"
     }
   ]
 }
