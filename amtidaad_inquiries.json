@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0440",
+      "client": "Stratum Owners Association Management SERVICES LLC",
+      "project": "Noora Residence- JVC",
+      "phone": "+97144356440",
+      "email": "Contracts1@stratum.ae",
+      "date": "2026-11-05",
+      "location": "Jumeirah Village Circle",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "",
+      "status": "new",
+      "quotDate": "2026-11-10",
+      "followup": "",
+      "scope": "RECTIFICATION",
+      "remarks": "Correct SO No. S10174",
+      "quotNo": "0174",
+      "quotValue": 57534.75,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-18T07:09:25.603Z"
+    },
+    {
       "id": "INQ-0439",
       "client": "Stratum Owners Association Management SERVICES LLC",
       "project": "Tamani Arts Offices- Business Bay",
@@ -9867,6 +9890,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0440",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-18T07:09:25.603Z"
+    },
+    {
       "inquiryId": "INQ-0439",
       "action": "edited",
       "from": null,
@@ -14356,15 +14388,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-08-31T13:20:27.568Z"
-    },
-    {
-      "inquiryId": "INQ-0197",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-08-31T12:31:07.856Z"
     }
   ]
 }
