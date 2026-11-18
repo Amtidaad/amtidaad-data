@@ -39,12 +39,12 @@
       "followup": "",
       "scope": "Rectification",
       "remarks": "Correct SO No.  S10187",
-      "quotNo": null,
+      "quotNo": "0187",
       "quotValue": 5622.73,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-18T07:25:30.937Z"
+      "lastUpdatedAt": "2026-11-18T07:42:48.390Z"
     },
     {
       "id": "INQ-0441",
@@ -9959,6 +9959,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0442",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-18T07:42:48.390Z"
+    },
+    {
       "inquiryId": "INQ-0443",
       "action": "created",
       "from": null,
@@ -14448,15 +14457,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-02T06:33:32.851Z"
-    },
-    {
-      "inquiryId": "INQ-0206",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-02T04:59:52.464Z"
     }
   ]
 }
