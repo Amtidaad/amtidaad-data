@@ -309,18 +309,18 @@
       "location": "Business Bay",
       "service": "Other",
       "source": "Email",
-      "assigned": "",
+      "assigned": "Estimation Team",
       "status": "quotation",
       "quotDate": "2026-11-05",
       "followup": "",
       "scope": "Rectification",
       "remarks": "Correct SO: S10176",
       "quotNo": "0176",
-      "quotValue": 655730.25,
+      "quotValue": 635528.25,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-18T07:49:24.813Z"
+      "lastUpdatedAt": "2026-11-18T12:35:17.569Z"
     },
     {
       "id": "INQ-0438",
@@ -10166,6 +10166,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0439",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-18T12:35:17.569Z"
+    },
+    {
       "inquiryId": "INQ-0447",
       "action": "status_change",
       "from": "new",
@@ -14652,15 +14661,6 @@
       "action": "status_change",
       "from": "quotation",
       "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-04T04:57:59.057Z"
-    },
-    {
-      "inquiryId": "INQ-0212",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-04T04:57:59.057Z"
