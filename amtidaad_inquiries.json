@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0451",
+      "client": "EMAAR Community Management LLC",
+      "project": "ECMOANEG-5001322- The Cove 2, Dubai Creek Harbour",
+      "phone": "+971565269831",
+      "email": "Ragesh.Govindan@emrill.com",
+      "date": "2026-11-17",
+      "location": "",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "2026-11-17",
+      "followup": "",
+      "scope": "AMC of CBS System",
+      "remarks": "Correct SO No. S10231",
+      "quotNo": "0231",
+      "quotValue": 39375,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-18T12:18:55.699Z"
+    },
+    {
       "id": "INQ-0450",
       "client": "MZW Fulfillment DWC-LLC",
       "project": "MZW Fulfillment DWC-LLC-G+M Warehouse logistic city",
@@ -10120,6 +10143,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0451",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-18T12:18:55.700Z"
+    },
+    {
       "inquiryId": "INQ-0450",
       "action": "created",
       "from": null,
@@ -14609,15 +14641,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-03T06:27:50.452Z"
-    },
-    {
-      "inquiryId": "INQ-0168",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-03T06:19:07.030Z"
     }
   ]
 }
