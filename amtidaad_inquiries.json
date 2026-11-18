@@ -11,7 +11,7 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "quotation",
       "quotDate": "2026-11-17",
       "followup": "",
       "scope": "Rectification of Fire Alarm and Fire Fighting",
@@ -21,7 +21,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-18T11:56:38.888Z"
+      "lastUpdatedAt": "2026-11-18T12:01:31.752Z"
     },
     {
       "id": "INQ-0448",
@@ -10098,6 +10098,24 @@
   "auditLog": [
     {
       "inquiryId": "INQ-0449",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-18T12:01:31.752Z"
+    },
+    {
+      "inquiryId": "INQ-0449",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-18T12:01:31.752Z"
+    },
+    {
+      "inquiryId": "INQ-0449",
       "action": "created",
       "from": null,
       "to": "new",
@@ -14577,24 +14595,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-03T06:19:07.030Z"
-    },
-    {
-      "inquiryId": "INQ-0211",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-03T06:17:54.102Z"
-    },
-    {
-      "inquiryId": "INQ-0210",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-03T05:22:02.977Z"
     }
   ]
 }
