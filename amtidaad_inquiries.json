@@ -691,29 +691,6 @@
       "lastUpdatedAt": "2026-11-11T08:02:46.780Z"
     },
     {
-      "id": "INQ-0422",
-      "client": "Stratum",
-      "project": "Tamani Arts Offices- Business Bay",
-      "phone": "",
-      "email": "procurement3@stratum.ae",
-      "date": "2026-11-05",
-      "location": "Business Bay",
-      "service": "Other",
-      "source": "Email",
-      "assigned": "Estimation Team",
-      "status": "quotation",
-      "quotDate": "2026-11-09",
-      "followup": "",
-      "scope": "Re: RFP_Request for Supplier Proposal –  Rectification of Fire Alarm System",
-      "remarks": "Correct SO No. 10176/Quoted by Reshmi",
-      "quotNo": "0176",
-      "quotValue": 655730.25,
-      "securedValue": null,
-      "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-09T08:31:44.273Z"
-    },
-    {
       "id": "INQ-0421",
       "client": "United Fidelity Insurance Company",
       "project": "Fidelity United Building",
@@ -10787,15 +10764,6 @@
       "timestamp": "2026-11-10T06:59:25.516Z"
     },
     {
-      "inquiryId": "INQ-0422",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-11-09T08:31:44.273Z"
-    },
-    {
       "inquiryId": "INQ-0229",
       "action": "status_change",
       "from": "quotation",
@@ -10812,15 +10780,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-11-09T06:41:44.727Z"
-    },
-    {
-      "inquiryId": "INQ-0422",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-11-09T06:05:23.698Z"
     },
     {
       "inquiryId": "INQ-0421",
