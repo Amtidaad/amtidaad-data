@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0444",
+      "client": "TOMA LOUNGE RESTAURANT L.L.C",
+      "project": "Toma Lounge Restaurant LLC",
+      "phone": "",
+      "email": "",
+      "date": "2026-11-11",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "",
+      "status": "new",
+      "quotDate": "2026-11-11",
+      "followup": "",
+      "scope": "RECTIFICATION,AMC",
+      "remarks": "Correct SO No. # S10206",
+      "quotNo": "0206",
+      "quotValue": 1050,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-18T07:49:05.638Z"
+    },
+    {
       "id": "INQ-0443",
       "client": "Integrated Electronics and Electromechanical Services  L.L.C",
       "project": "Integrated Electronics and Electromechanical Services  L.L.C",
@@ -9959,6 +9982,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0444",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-18T07:49:05.638Z"
+    },
+    {
       "inquiryId": "INQ-0441",
       "action": "edited",
       "from": null,
@@ -14448,15 +14480,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-02T09:52:05.971Z"
-    },
-    {
-      "inquiryId": "INQ-0207",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-02T08:37:54.656Z"
     }
   ]
 }
