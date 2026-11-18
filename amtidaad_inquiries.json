@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0447",
+      "client": "MZW Fulfillment DWC-LLC",
+      "project": "MZW Fulfillment DWC- LLC",
+      "phone": "",
+      "email": "Jawad@mumzworld.om",
+      "date": "2026-11-17",
+      "location": "DLC- LMC -3, Plot EZ 20, Dubai South,  Dubai, Dubai, 282228, Dubai",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "2026-11-17",
+      "followup": "",
+      "scope": "Refilling of Cylinders",
+      "remarks": "Correct SO: S10237",
+      "quotNo": "0237",
+      "quotValue": 44100,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-18T11:01:26.749Z"
+    },
+    {
       "id": "INQ-0446",
       "client": "KHANSAHEB FMS L.L.C",
       "project": "Expo Dubai",
@@ -10027,6 +10050,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0447",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-18T11:01:26.749Z"
+    },
     {
       "inquiryId": "INQ-0446",
       "action": "status_change",
