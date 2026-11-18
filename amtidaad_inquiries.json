@@ -62,12 +62,12 @@
       "followup": "",
       "scope": "AMC of Fire Alarm System:",
       "remarks": "Correct SO NO. S10179",
-      "quotNo": null,
+      "quotNo": "0179",
       "quotValue": 10500,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-18T07:17:16.867Z"
+      "lastUpdatedAt": "2026-11-18T07:43:00.129Z"
     },
     {
       "id": "INQ-0440",
@@ -9959,6 +9959,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0441",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-18T07:43:00.129Z"
+    },
+    {
       "inquiryId": "INQ-0442",
       "action": "edited",
       "from": null,
@@ -14445,15 +14454,6 @@
       "action": "status_change",
       "from": "new",
       "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-02T06:33:32.851Z"
-    },
-    {
-      "inquiryId": "INQ-0201",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-02T06:33:32.851Z"
