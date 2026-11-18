@@ -11,7 +11,7 @@
       "service": "Other",
       "source": "",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "quotation",
       "quotDate": "2026-11-17",
       "followup": "",
       "scope": "AMC of CBS System",
@@ -21,7 +21,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-18T12:18:55.699Z"
+      "lastUpdatedAt": "2026-11-18T12:19:33.171Z"
     },
     {
       "id": "INQ-0450",
@@ -10144,6 +10144,24 @@
   "auditLog": [
     {
       "inquiryId": "INQ-0451",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-18T12:19:33.171Z"
+    },
+    {
+      "inquiryId": "INQ-0451",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-18T12:19:33.171Z"
+    },
+    {
+      "inquiryId": "INQ-0451",
       "action": "created",
       "from": null,
       "to": "new",
@@ -14623,24 +14641,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-03T08:11:05.524Z"
-    },
-    {
-      "inquiryId": "INQ-0087",
-      "action": "status_change",
-      "from": "lost",
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-03T06:27:50.452Z"
-    },
-    {
-      "inquiryId": "INQ-0087",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-03T06:27:50.452Z"
     }
   ]
 }
