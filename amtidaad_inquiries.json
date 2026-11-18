@@ -125,7 +125,7 @@
       "location": "Business Bay",
       "service": "Other",
       "source": "Email",
-      "assigned": "Estimation Team",
+      "assigned": "",
       "status": "quotation",
       "quotDate": "2026-11-05",
       "followup": "",
@@ -136,7 +136,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-18T07:01:06.911Z"
+      "lastUpdatedAt": "2026-11-18T07:49:24.813Z"
     },
     {
       "id": "INQ-0438",
@@ -9982,6 +9982,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0439",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-18T07:49:24.813Z"
+    },
+    {
       "inquiryId": "INQ-0444",
       "action": "created",
       "from": null,
@@ -14468,15 +14477,6 @@
       "action": "status_change",
       "from": "quotation",
       "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-02T09:52:05.971Z"
-    },
-    {
-      "inquiryId": "INQ-0204",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-02T09:52:05.971Z"
