@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0458",
+      "client": "Deliveroo Hop DMCC",
+      "project": "Deliveroo  HOP- JLT-GCV",
+      "phone": "+971507988053",
+      "email": "avi@deliveroo.com",
+      "date": "2026-11-03",
+      "location": "Unit No: R-04 Gold Crest View",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "approved",
+      "quotDate": "2026-11-03",
+      "followup": "",
+      "scope": "RECTIFICATION",
+      "remarks": "Correct SO No. S09540",
+      "quotNo": "9540",
+      "quotValue": 2583,
+      "securedValue": 2583,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-19T12:09:11.076Z"
+    },
+    {
       "id": "INQ-0457",
       "client": "STREAKS BEAUTY SALON DMCC",
       "project": "GCV -Unit # R03",
@@ -10258,6 +10281,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0458",
+      "action": "created",
+      "from": null,
+      "to": "approved",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-19T12:09:11.076Z"
+    },
+    {
       "inquiryId": "INQ-0457",
       "action": "status_change",
       "from": "new",
@@ -14747,15 +14779,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-04T07:44:48.164Z"
-    },
-    {
-      "inquiryId": "INQ-0218",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-04T07:40:02.166Z"
     }
   ]
 }
