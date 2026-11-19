@@ -11,7 +11,7 @@
       "service": "Other",
       "source": "",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "approved",
       "quotDate": "2026-11-03",
       "followup": "",
       "scope": "Fitness certificate",
@@ -21,7 +21,7 @@
       "securedValue": 787.5,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-19T12:03:20.322Z"
+      "lastUpdatedAt": "2026-11-19T12:03:48.140Z"
     },
     {
       "id": "INQ-0456",
@@ -10259,6 +10259,24 @@
   "auditLog": [
     {
       "inquiryId": "INQ-0457",
+      "action": "status_change",
+      "from": "new",
+      "to": "approved",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-19T12:03:48.140Z"
+    },
+    {
+      "inquiryId": "INQ-0457",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-19T12:03:48.140Z"
+    },
+    {
+      "inquiryId": "INQ-0457",
       "action": "created",
       "from": null,
       "to": "new",
@@ -14738,24 +14756,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-04T07:40:02.166Z"
-    },
-    {
-      "inquiryId": "INQ-0217",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-04T07:27:57.740Z"
-    },
-    {
-      "inquiryId": "INQ-0216",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-04T07:22:11.068Z"
     }
   ]
 }
