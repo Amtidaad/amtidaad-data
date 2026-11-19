@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0463",
+      "client": "Deliveroo Hop DMCC",
+      "project": "Delivero HOP JLT GCV",
+      "phone": "+971507988053",
+      "email": "avi@deliveroo.com",
+      "date": "2026-11-11",
+      "location": "Unit No: R-04 Gold Crest View",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "approved",
+      "quotDate": "2026-11-11",
+      "followup": "",
+      "scope": "",
+      "remarks": "Correct SO No: S10193",
+      "quotNo": "0193",
+      "quotValue": 787.5,
+      "securedValue": 787.5,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-19T12:33:10.150Z"
+    },
+    {
       "id": "INQ-0462",
       "client": "Option Constructions L.L.C",
       "project": "Villa 01",
@@ -10373,6 +10396,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0463",
+      "action": "created",
+      "from": null,
+      "to": "approved",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-19T12:33:10.150Z"
+    },
+    {
       "inquiryId": "INQ-0438",
       "action": "status_change",
       "from": "new",
@@ -14862,15 +14894,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-05T06:24:56.272Z"
-    },
-    {
-      "inquiryId": "INQ-0166",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-05T06:23:18.566Z"
     }
   ]
 }
