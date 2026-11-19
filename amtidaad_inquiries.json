@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0465",
+      "client": "Advanced Innov Fire Fighting & Sfty Eqpt Inst LLC",
+      "project": "AIS",
+      "phone": "043263950",
+      "email": "mpelausa@aismena.com",
+      "date": "2026-11-13",
+      "location": "Light Industrial Unit 1,WH4 DSO,Dubai",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "approved",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Refilling of Cylinders",
+      "remarks": "Correct SO No. - S10217",
+      "quotNo": "0217",
+      "quotValue": 29.93,
+      "securedValue": 29.93,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-19T12:57:41.591Z"
+    },
+    {
       "id": "INQ-0464",
       "client": "Mansion Owners Association Dubai, UAE",
       "project": "Trident Bayside Residence",
@@ -10419,6 +10442,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0465",
+      "action": "created",
+      "from": null,
+      "to": "approved",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-19T12:57:41.591Z"
+    },
+    {
       "inquiryId": "INQ-0464",
       "action": "created",
       "from": null,
@@ -14908,15 +14940,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-08T09:48:05.635Z"
-    },
-    {
-      "inquiryId": "INQ-0219",
-      "action": "status_change",
-      "from": "quotation",
-      "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-08T06:05:11.716Z"
     }
   ]
 }
