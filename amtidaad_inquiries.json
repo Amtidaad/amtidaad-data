@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0455",
+      "client": "Better Communities Owner Association Management",
+      "project": "Belgravia Heights II [ Quarter 3 - Year 2 PPM Findings ] [ Fire Alarm ]",
+      "phone": "971525672176",
+      "email": "suroor@bcoam.com",
+      "date": "2026-11-02",
+      "location": "C01,JUMEIRAH VILLAGE CIRCLE, AL BARSHA SOUTH FOURTH, PO Box 452931, Dubai- UAE",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "approved",
+      "quotDate": "",
+      "followup": "",
+      "scope": "RECTIFICATION",
+      "remarks": "Correct SO No. S10148",
+      "quotNo": "0148",
+      "quotValue": 551.25,
+      "securedValue": 551.25,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-19T11:52:37.189Z"
+    },
+    {
       "id": "INQ-0454",
       "client": "RUKN AL JABAL TECHNICAL SERVICES L.L.C.",
       "project": "Hilliana Tower - Unit # 2004",
@@ -10189,6 +10212,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0455",
+      "action": "created",
+      "from": null,
+      "to": "approved",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-19T11:52:37.189Z"
+    },
+    {
       "inquiryId": "INQ-0454",
       "action": "status_change",
       "from": "new",
@@ -14678,15 +14710,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-04T06:18:46.704Z"
-    },
-    {
-      "inquiryId": "INQ-0065",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-04T06:08:24.575Z"
     }
   ]
 }
