@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0468",
+      "client": "The School of Research Science L.L.C",
+      "project": "SRS - 1 [ Fire Fighting System ] - Revised",
+      "phone": "+971504658104",
+      "email": "sudheesh.ab@srs.ae",
+      "date": "2026-11-19",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "approved",
+      "quotDate": "",
+      "followup": "",
+      "scope": "RECTIFICATION",
+      "remarks": "Correct SO No. S10106",
+      "quotNo": "0106",
+      "quotValue": 27300,
+      "securedValue": 27300,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-19T13:27:13.911Z"
+    },
+    {
       "id": "INQ-0467",
       "client": "The School of Research Science L.L.C",
       "project": "SRS - 1 [ Fire Alarm System ] - Revised",
@@ -10488,6 +10511,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0468",
+      "action": "created",
+      "from": null,
+      "to": "approved",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-19T13:27:13.911Z"
+    },
+    {
       "inquiryId": "INQ-0467",
       "action": "created",
       "from": null,
@@ -14977,15 +15009,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-10T06:36:08.931Z"
-    },
-    {
-      "inquiryId": "INQ-0214",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-10T06:34:24.326Z"
     }
   ]
 }
