@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0469",
+      "client": "The School of Research Science L.L.C",
+      "project": "SRS - 1 [ Central Battery System ] - Revised",
+      "phone": "+971504658104",
+      "email": "sudheesh.ab@srs.ae",
+      "date": "2026-11-19",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "approved",
+      "quotDate": "2026-11-19",
+      "followup": "",
+      "scope": "RECTIFICATION",
+      "remarks": "Correct SO No. S10104",
+      "quotNo": "0104",
+      "quotValue": 20002.5,
+      "securedValue": 20002.5,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-19T13:31:26.707Z"
+    },
+    {
       "id": "INQ-0468",
       "client": "The School of Research Science L.L.C",
       "project": "SRS - 1 [ Fire Fighting System ] - Revised",
@@ -10511,6 +10534,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0469",
+      "action": "created",
+      "from": null,
+      "to": "approved",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-19T13:31:26.707Z"
+    },
+    {
       "inquiryId": "INQ-0468",
       "action": "created",
       "from": null,
@@ -15000,15 +15032,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-10T08:34:20.585Z"
-    },
-    {
-      "inquiryId": "INQ-0224",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-10T06:36:08.931Z"
     }
   ]
 }
