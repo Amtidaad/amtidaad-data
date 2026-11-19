@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0464",
+      "client": "Mansion Owners Association Dubai, UAE",
+      "project": "Trident Bayside Residence",
+      "phone": "971549940458",
+      "email": "supervisorar1@syntech.ae",
+      "date": "2026-11-13",
+      "location": "Office 3602,Concord Tower Al Sufouh Road,Tecon,Dubai,UAE.",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "approved",
+      "quotDate": "2026-11-13",
+      "followup": "",
+      "scope": "RECTIFICATION ,Callout",
+      "remarks": "Correct SO No. S10184",
+      "quotNo": "0184",
+      "quotValue": 955.5,
+      "securedValue": 955.5,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-19T12:52:45.702Z"
+    },
+    {
       "id": "INQ-0463",
       "client": "Deliveroo Hop DMCC",
       "project": "Delivero HOP JLT GCV",
@@ -10396,6 +10419,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0464",
+      "action": "created",
+      "from": null,
+      "to": "approved",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-19T12:52:45.702Z"
+    },
+    {
       "inquiryId": "INQ-0444",
       "action": "status_change",
       "from": "new",
@@ -14882,15 +14914,6 @@
       "action": "status_change",
       "from": "quotation",
       "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-08T06:05:11.716Z"
-    },
-    {
-      "inquiryId": "INQ-0219",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-08T06:05:11.716Z"
