@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0461",
+      "client": "Better Communities Owner Association Management",
+      "project": "Mog 187 [ Quarter 3 - Year 2 PPM ] [ Fire Alarm - Common Area ]",
+      "phone": "+971525672176",
+      "email": "C01,JUMEIRAH VILLAGE CIRCLE, AL BARSHA SOUTH FOURTH, PO Box 452931, Dubai- UAE",
+      "date": "2026-11-06",
+      "location": "C01,JUMEIRAH VILLAGE CIRCLE, AL BARSHA SOUTH FOURTH, PO Box 452931, Dubai- UAE",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "approved",
+      "quotDate": "2026-11-06",
+      "followup": "",
+      "scope": "RECTIFICATION",
+      "remarks": "Correct SO No. S08625",
+      "quotNo": "8625",
+      "quotValue": 14904.75,
+      "securedValue": 14904.75,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-19T12:25:17.089Z"
+    },
+    {
       "id": "INQ-0460",
       "client": "AL REEM SAFETY SYSTEMS (LLC)",
       "project": "Al Reem Fire Safety LLC",
@@ -10327,6 +10350,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0461",
+      "action": "created",
+      "from": null,
+      "to": "approved",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-19T12:25:17.089Z"
+    },
+    {
       "inquiryId": "INQ-0460",
       "action": "created",
       "from": null,
@@ -14816,15 +14848,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-04T08:36:08.856Z"
-    },
-    {
-      "inquiryId": "INQ-0002",
-      "action": "status_change",
-      "from": "quotation",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-04T08:35:48.833Z"
     }
   ]
 }
