@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0467",
+      "client": "The School of Research Science L.L.C",
+      "project": "SRS - 1 [ Fire Alarm System ] - Revised",
+      "phone": "+971 504658104",
+      "email": "sudheesh.ab@srs.ae",
+      "date": "2026-11-17",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "approved",
+      "quotDate": "",
+      "followup": "",
+      "scope": "RECTIFICATION",
+      "remarks": "Correct SO No. S10105",
+      "quotNo": "0105",
+      "quotValue": 64716.75,
+      "securedValue": 64716.75,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-19T13:24:04.004Z"
+    },
+    {
       "id": "INQ-0466",
       "client": "Better Communities Owner Association Management",
       "project": "Binghatti Rose",
@@ -10464,6 +10487,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0467",
+      "action": "created",
+      "from": null,
+      "to": "approved",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-19T13:24:04.004Z"
+    },
     {
       "inquiryId": "INQ-0466",
       "action": "created",
