@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0459",
+      "client": "Rapidrop Middle East Trading LLC",
+      "project": "Ras Al Khaimah",
+      "phone": "+971552241326",
+      "email": "Audrey.Salac@rapidrop.com",
+      "date": "2026-11-03",
+      "location": "Gate No. 8, Building No.7, Warehouse No.5 Dubai Investment Park 1, Dubai UAE",
+      "service": "Other",
+      "source": "",
+      "assigned": "",
+      "status": "new",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Room Integrity Test",
+      "remarks": "Correct SO No. S10092",
+      "quotNo": "0092",
+      "quotValue": 1995,
+      "securedValue": 1995,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-19T12:17:37.294Z"
+    },
+    {
       "id": "INQ-0458",
       "client": "Deliveroo Hop DMCC",
       "project": "Deliveroo  HOP- JLT-GCV",
@@ -10281,6 +10304,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0459",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-19T12:17:37.294Z"
+    },
+    {
       "inquiryId": "INQ-0458",
       "action": "created",
       "from": null,
@@ -14767,15 +14799,6 @@
       "action": "status_change",
       "from": "quotation",
       "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-04T07:44:48.164Z"
-    },
-    {
-      "inquiryId": "INQ-0193",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-04T07:44:48.164Z"
