@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0467",
+      "client": "HOAM - Highrise Owners Association Management",
+      "project": "Al Helal Al Zahaby 1",
+      "phone": "0566889461",
+      "email": "supervisor2@syntech.ae",
+      "date": "2026-11-19",
+      "location": "Dubai",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "BD Executive",
+      "status": "approved",
+      "quotDate": "",
+      "followup": "",
+      "scope": "RECTIFICATION ,Callout",
+      "remarks": "Correct SO No. S10185",
+      "quotNo": "0185",
+      "quotValue": 677.25,
+      "securedValue": 677.25,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-19T13:19:59.350Z"
+    },
+    {
       "id": "INQ-0466",
       "client": "Better Communities Owner Association Management",
       "project": "Binghatti Rose",
@@ -10465,6 +10488,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0467",
+      "action": "created",
+      "from": null,
+      "to": "approved",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-19T13:19:59.350Z"
+    },
+    {
       "inquiryId": "INQ-0466",
       "action": "created",
       "from": null,
@@ -14954,15 +14986,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-10T06:34:24.326Z"
-    },
-    {
-      "inquiryId": "INQ-0228",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-10T05:51:22.829Z"
     }
   ]
 }
