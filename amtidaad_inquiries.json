@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0462",
+      "client": "Option Constructions L.L.C",
+      "project": "Villa 01",
+      "phone": "+971559203577",
+      "email": "22carat@mansions.ae",
+      "date": "2026-11-06",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "approved",
+      "quotDate": "2026-11-06",
+      "followup": "",
+      "scope": "RECTIFICATION",
+      "remarks": "Correct So No: S10177",
+      "quotNo": "0177",
+      "quotValue": 525,
+      "securedValue": 525,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-19T12:28:31.564Z"
+    },
+    {
       "id": "INQ-0461",
       "client": "Better Communities Owner Association Management",
       "project": "Mog 187 [ Quarter 3 - Year 2 PPM ] [ Fire Alarm - Common Area ]",
@@ -10350,6 +10373,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0462",
+      "action": "created",
+      "from": null,
+      "to": "approved",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-19T12:28:31.564Z"
+    },
+    {
       "inquiryId": "INQ-0461",
       "action": "created",
       "from": null,
@@ -14839,15 +14871,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-04T08:36:08.857Z"
-    },
-    {
-      "inquiryId": "INQ-0055",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-04T08:36:08.856Z"
     }
   ]
 }
