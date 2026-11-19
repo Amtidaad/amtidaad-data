@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0457",
+      "client": "STREAKS BEAUTY SALON DMCC",
+      "project": "GCV -Unit # R03",
+      "phone": "0552184643",
+      "email": "info@streaksuae.com",
+      "date": "2026-11-03",
+      "location": "",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "new",
+      "quotDate": "2026-11-03",
+      "followup": "",
+      "scope": "Fitness certificate",
+      "remarks": "Correct SO No. S09914",
+      "quotNo": "9914",
+      "quotValue": 787.5,
+      "securedValue": 787.5,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-19T12:03:20.322Z"
+    },
+    {
       "id": "INQ-0456",
       "client": "The School of Research Science L.L.C",
       "project": "SRS - 1",
@@ -10235,6 +10258,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0457",
+      "action": "created",
+      "from": null,
+      "to": "new",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-19T12:03:20.322Z"
+    },
+    {
       "inquiryId": "INQ-0456",
       "action": "created",
       "from": null,
@@ -14721,15 +14753,6 @@
       "action": "status_change",
       "from": "new",
       "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-04T07:22:11.068Z"
-    },
-    {
-      "inquiryId": "INQ-0216",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-04T07:22:11.068Z"
