@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0456",
+      "client": "The School of Research Science L.L.C",
+      "project": "SRS - 1",
+      "phone": "",
+      "email": "sudheesh.ab@srs.ae",
+      "date": "2026-11-03",
+      "location": "",
+      "service": "",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "approved",
+      "quotDate": "2026-11-03",
+      "followup": "",
+      "scope": "RECTIFICATION,AMC",
+      "remarks": "Correct SO No. S10097",
+      "quotNo": "0097",
+      "quotValue": 2772,
+      "securedValue": 2772,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-19T11:58:13.480Z"
+    },
+    {
       "id": "INQ-0455",
       "client": "Better Communities Owner Association Management",
       "project": "Belgravia Heights II [ Quarter 3 - Year 2 PPM Findings ] [ Fire Alarm ]",
@@ -10212,6 +10235,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0456",
+      "action": "created",
+      "from": null,
+      "to": "approved",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-19T11:58:13.480Z"
+    },
+    {
       "inquiryId": "INQ-0454",
       "action": "edited",
       "from": null,
@@ -14701,15 +14733,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-04T07:22:11.068Z"
-    },
-    {
-      "inquiryId": "INQ-0216",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-04T07:22:00.550Z"
     }
   ]
 }
