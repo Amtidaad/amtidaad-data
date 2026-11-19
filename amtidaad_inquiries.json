@@ -808,8 +808,8 @@
     {
       "id": "INQ-0428",
       "client": "xpertcare Technical Services",
-      "project": "",
-      "phone": "",
+      "project": "Xpertcare Technical Services",
+      "phone": "0552348799",
       "email": "info@xpertcarets.com",
       "date": "2026-11-11",
       "location": "",
@@ -826,7 +826,7 @@
       "securedValue": 708.75,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-12T10:27:36.702Z"
+      "lastUpdatedAt": "2026-11-19T12:39:20.563Z"
     },
     {
       "id": "INQ-0427",
@@ -10396,6 +10396,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0428",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-19T12:39:20.563Z"
+    },
+    {
       "inquiryId": "INQ-0434",
       "action": "status_change",
       "from": "new",
@@ -14885,15 +14894,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-07T10:32:50.608Z"
-    },
-    {
-      "inquiryId": "INQ-0222",
-      "action": "created",
-      "from": null,
-      "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-07T08:40:33.132Z"
     }
   ]
 }
