@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0460",
+      "client": "AL REEM SAFETY SYSTEMS (LLC)",
+      "project": "Al Reem Fire Safety LLC",
+      "phone": "+971 50 955 3014",
+      "email": "Waleed@alreemsafety.com",
+      "date": "2026-11-04",
+      "location": "",
+      "service": "Other",
+      "source": "",
+      "assigned": "Estimation Team",
+      "status": "approved",
+      "quotDate": "",
+      "followup": "",
+      "scope": "Refilling of Cylinders:",
+      "remarks": "Correct SO No. S10155",
+      "quotNo": "0155",
+      "quotValue": 477.75,
+      "securedValue": 477.75,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-19T12:21:36.489Z"
+    },
+    {
       "id": "INQ-0459",
       "client": "Rapidrop Middle East Trading LLC",
       "project": "Ras Al Khaimah",
@@ -10304,6 +10327,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0460",
+      "action": "created",
+      "from": null,
+      "to": "approved",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-19T12:21:36.489Z"
+    },
+    {
       "inquiryId": "INQ-0459",
       "action": "status_change",
       "from": "new",
@@ -14790,15 +14822,6 @@
       "action": "status_change",
       "from": "quotation",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-04T08:35:48.833Z"
-    },
-    {
-      "inquiryId": "INQ-0002",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-04T08:35:48.833Z"
