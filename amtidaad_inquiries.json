@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0466",
+      "client": "Better Communities Owner Association Management",
+      "project": "Binghatti Rose",
+      "phone": "+971525672176",
+      "email": "suroor@bcoam.com",
+      "date": "2026-11-17",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "approved",
+      "quotDate": "2026-11-17",
+      "followup": "",
+      "scope": "RECTIFICATION",
+      "remarks": "Correct SO No. S10221",
+      "quotNo": "0221",
+      "quotValue": 2394,
+      "securedValue": 2394,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-19T13:16:54.189Z"
+    },
+    {
       "id": "INQ-0465",
       "client": "Advanced Innov Fire Fighting & Sfty Eqpt Inst LLC",
       "project": "AIS",
@@ -10442,6 +10465,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0466",
+      "action": "created",
+      "from": null,
+      "to": "approved",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-19T13:16:54.189Z"
+    },
+    {
       "inquiryId": "INQ-0436",
       "action": "status_change",
       "from": "new",
@@ -14931,15 +14963,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-10T05:51:22.829Z"
-    },
-    {
-      "inquiryId": "INQ-0227",
-      "action": "created",
-      "from": null,
-      "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-09T13:14:45.137Z"
     }
   ]
 }
