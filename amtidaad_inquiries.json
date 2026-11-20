@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0473",
+      "client": "FIRECO TECHNICAL SERVICES L.L.C",
+      "project": "EPG HQ Ramool",
+      "phone": "0566606014",
+      "email": "engineer5@firecots.com",
+      "date": "2026-11-18",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-11-18",
+      "followup": "",
+      "scope": "Refilling of Cylinders",
+      "remarks": "Correct SO No. S10240",
+      "quotNo": "0240",
+      "quotValue": 14700,
+      "securedValue": 14700,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-20T11:13:11.393Z"
+    },
+    {
       "id": "INQ-0472",
       "client": "The School of Research Science L.L.C",
       "project": "SRS - 2 - [ Central Battery System ] - Revised",
@@ -10602,6 +10625,15 @@
     }
   ],
   "auditLog": [
+    {
+      "inquiryId": "INQ-0473",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-20T11:13:11.393Z"
+    },
     {
       "inquiryId": "INQ-0436",
       "action": "status_change",
