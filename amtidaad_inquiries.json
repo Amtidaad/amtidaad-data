@@ -375,11 +375,11 @@
       "phone": "",
       "email": "sudheesh.ab@srs.ae",
       "date": "2026-11-03",
-      "location": "",
-      "service": "",
+      "location": "Nouakchott Street, Next to Mushrif Park",
+      "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "approved",
+      "status": "awarded",
       "quotDate": "2026-11-03",
       "followup": "",
       "scope": "RECTIFICATION,AMC",
@@ -389,7 +389,7 @@
       "securedValue": 2772,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-19T11:58:13.480Z"
+      "lastUpdatedAt": "2026-11-20T08:27:21.109Z"
     },
     {
       "id": "INQ-0455",
@@ -10603,6 +10603,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0456",
+      "action": "status_change",
+      "from": "approved",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-20T08:27:21.109Z"
+    },
+    {
+      "inquiryId": "INQ-0456",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-20T08:27:21.109Z"
+    },
+    {
       "inquiryId": "INQ-0455",
       "action": "status_change",
       "from": "approved",
@@ -15083,24 +15101,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-10T11:16:11.442Z"
-    },
-    {
-      "inquiryId": "INQ-0235",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-10T11:14:02.340Z"
-    },
-    {
-      "inquiryId": "INQ-0234",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-10T11:09:57.162Z"
     }
   ]
 }
