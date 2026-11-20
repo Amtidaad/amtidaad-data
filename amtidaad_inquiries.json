@@ -1360,7 +1360,7 @@
     {
       "id": "INQ-0415",
       "client": "Rocky Real Estate",
-      "project": "Emrald",
+      "project": "Emerald Jaddaf",
       "phone": "",
       "email": "",
       "date": "2026-10-28",
@@ -1378,7 +1378,7 @@
       "securedValue": 15750,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-02T11:39:25.361Z"
+      "lastUpdatedAt": "2026-11-20T11:41:31.773Z"
     },
     {
       "id": "INQ-0414",
@@ -10672,6 +10672,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0415",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-20T11:41:31.773Z"
+    },
+    {
       "inquiryId": "INQ-0475",
       "action": "created",
       "from": null,
@@ -15161,15 +15170,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-15T10:49:17.032Z"
-    },
-    {
-      "inquiryId": "INQ-0202",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T07:50:52.231Z"
     }
   ]
 }
