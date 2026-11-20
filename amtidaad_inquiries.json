@@ -21,7 +21,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-20T11:25:52.311Z"
+      "lastUpdatedAt": "2026-11-20T11:32:09.299Z"
     },
     {
       "id": "INQ-0473",
@@ -10655,6 +10655,15 @@
       "to": null,
       "remarks": "",
       "user": "Admin",
+      "timestamp": "2026-11-20T11:32:09.299Z"
+    },
+    {
+      "inquiryId": "INQ-0474",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
       "timestamp": "2026-11-20T11:25:52.311Z"
     },
     {
@@ -15138,15 +15147,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-15T07:25:11.428Z"
-    },
-    {
-      "inquiryId": "INQ-0244",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T07:23:47.116Z"
     }
   ]
 }
