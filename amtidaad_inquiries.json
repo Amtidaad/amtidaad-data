@@ -1,29 +1,6 @@
 {
   "inquiries": [
     {
-      "id": "INQ-0474",
-      "client": "FIRECO TECHNICAL SERVICES L.L.C",
-      "project": "EPG HQ Ramool",
-      "phone": "0566606014",
-      "email": "engineer5@firecots.com",
-      "date": "2026-11-18",
-      "location": "",
-      "service": "Other",
-      "source": "",
-      "assigned": "Estimation Team",
-      "status": "quotation",
-      "quotDate": "2026-11-18",
-      "followup": "",
-      "scope": "Refilling of Cylinders",
-      "remarks": "Correct SO No. S10240",
-      "quotNo": "0240",
-      "quotValue": 14700,
-      "securedValue": null,
-      "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-20T11:18:53.375Z"
-    },
-    {
       "id": "INQ-0473",
       "client": "FIRECO TECHNICAL SERVICES L.L.C",
       "project": "EPG HQ Ramool",
@@ -10648,15 +10625,6 @@
     }
   ],
   "auditLog": [
-    {
-      "inquiryId": "INQ-0474",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-11-20T11:18:53.375Z"
-    },
     {
       "inquiryId": "INQ-0473",
       "action": "edited",
