@@ -677,18 +677,18 @@
       "location": "",
       "service": "Other",
       "source": "Email",
-      "assigned": "",
-      "status": "approved",
+      "assigned": "Estimation Team",
+      "status": "awarded",
       "quotDate": "2026-11-12",
       "followup": "",
-      "scope": "RECTIFICATION,AMC",
+      "scope": "RECTIFICATION, AMC",
       "remarks": "Correct SO No. # S10206",
       "quotNo": "0206",
       "quotValue": 1050,
       "securedValue": 1050,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-20T10:30:00.100Z"
+      "lastUpdatedAt": "2026-11-20T10:30:37.548Z"
     },
     {
       "id": "INQ-0443",
@@ -10627,6 +10627,24 @@
   "auditLog": [
     {
       "inquiryId": "INQ-0444",
+      "action": "status_change",
+      "from": "approved",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-20T10:30:37.548Z"
+    },
+    {
+      "inquiryId": "INQ-0444",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-20T10:30:37.548Z"
+    },
+    {
+      "inquiryId": "INQ-0444",
       "action": "edited",
       "from": null,
       "to": null,
@@ -15106,24 +15124,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-11T11:58:02.034Z"
-    },
-    {
-      "inquiryId": "INQ-0242",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-11T10:18:11.813Z"
-    },
-    {
-      "inquiryId": "INQ-0242",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-11T10:18:11.813Z"
     }
   ]
 }
