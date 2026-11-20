@@ -1,29 +1,6 @@
 {
   "inquiries": [
     {
-      "id": "INQ-0473",
-      "client": "Aduba Safety System & Fire Protection",
-      "project": "Dubai Maritime City- Volvo Penta, Warehouse 160",
-      "phone": "0525067475",
-      "email": "sabahat@adubasafety.com",
-      "date": "2026-11-03",
-      "location": "Salahuddeen Al Ayyubi, ST - Abu Dhabi,UAEProject: Masaood-Red Carpet Showroom. Al Barsha Dubai.",
-      "service": "Other",
-      "source": "Email",
-      "assigned": "Estimation Team",
-      "status": "awarded",
-      "quotDate": "2026-11-03",
-      "followup": "",
-      "scope": "Certificate",
-      "remarks": "Correct SO No. - S10152",
-      "quotNo": "0152",
-      "quotValue": 892.5,
-      "securedValue": 892.5,
-      "createdBy": "Admin",
-      "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-20T08:37:00.920Z"
-    },
-    {
       "id": "INQ-0472",
       "client": "The School of Research Science L.L.C",
       "project": "SRS - 2 - [ Central Battery System ] - Revised",
@@ -11020,15 +10997,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-11-20T10:08:31.153Z"
-    },
-    {
-      "inquiryId": "INQ-0473",
-      "action": "created",
-      "from": null,
-      "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-11-20T08:37:00.920Z"
     },
     {
       "inquiryId": "INQ-0458",
