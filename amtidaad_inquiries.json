@@ -308,19 +308,19 @@
       "date": "2026-11-04",
       "location": "",
       "service": "Other",
-      "source": "",
+      "source": "Email",
       "assigned": "Estimation Team",
-      "status": "approved",
-      "quotDate": "",
+      "status": "awarded",
+      "quotDate": "2026-11-04",
       "followup": "",
-      "scope": "Refilling of Cylinders:",
+      "scope": "Refilling of Cylinders",
       "remarks": "Correct SO No. S10155",
       "quotNo": "0155",
       "quotValue": 477.75,
       "securedValue": 477.75,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-19T12:21:36.489Z"
+      "lastUpdatedAt": "2026-11-20T10:12:04.287Z"
     },
     {
       "id": "INQ-0459",
@@ -10626,6 +10626,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0460",
+      "action": "status_change",
+      "from": "approved",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-20T10:12:04.287Z"
+    },
+    {
+      "inquiryId": "INQ-0460",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-20T10:12:04.287Z"
+    },
+    {
       "inquiryId": "INQ-0419",
       "action": "edited",
       "from": null,
@@ -15106,24 +15124,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-11T07:41:19.921Z"
-    },
-    {
-      "inquiryId": "INQ-0240",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-11T07:41:13.377Z"
-    },
-    {
-      "inquiryId": "INQ-0005",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-11T06:46:11.125Z"
     }
   ]
 }
