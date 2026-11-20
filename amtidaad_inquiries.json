@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0472",
+      "client": "The School of Research Science L.L.C",
+      "project": "SRS - 2 - [ Central Battery System ] - Revised",
+      "phone": "+971504658104",
+      "email": "sudheesh.ab@srs.ae",
+      "date": "2026-11-18",
+      "location": "Nouakchott Street, Next to Mushrif Park",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "approved",
+      "quotDate": "2026-11-18",
+      "followup": "",
+      "scope": "RECTIFICATION",
+      "remarks": "Correct SO No - S10116",
+      "quotNo": "0116",
+      "quotValue": 32707.5,
+      "securedValue": 32707.5,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-20T08:22:34.492Z"
+    },
+    {
       "id": "INQ-0471",
       "client": "The School of Research Science L.L.C",
       "project": "SRS - 2 - [ Fire Fighting System ] - Revised",
@@ -10580,6 +10603,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0472",
+      "action": "created",
+      "from": null,
+      "to": "approved",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-20T08:22:34.492Z"
+    },
+    {
       "inquiryId": "INQ-0471",
       "action": "created",
       "from": null,
@@ -15069,15 +15101,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-10T10:55:18.651Z"
-    },
-    {
-      "inquiryId": "INQ-0228",
-      "action": "status_change",
-      "from": "new",
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-10T10:54:09.357Z"
     }
   ]
 }
