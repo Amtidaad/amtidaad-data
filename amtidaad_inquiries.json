@@ -655,7 +655,7 @@
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "approved",
+      "status": "awarded",
       "quotDate": "2026-11-14",
       "followup": "",
       "scope": "Room Integrity Test",
@@ -665,7 +665,7 @@
       "securedValue": 2100,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-20T10:33:39.860Z"
+      "lastUpdatedAt": "2026-11-20T10:33:46.771Z"
     },
     {
       "id": "INQ-0444",
@@ -10627,6 +10627,24 @@
   "auditLog": [
     {
       "inquiryId": "INQ-0445",
+      "action": "status_change",
+      "from": "approved",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-20T10:33:46.771Z"
+    },
+    {
+      "inquiryId": "INQ-0445",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-20T10:33:46.771Z"
+    },
+    {
+      "inquiryId": "INQ-0445",
       "action": "edited",
       "from": null,
       "to": null,
@@ -15106,24 +15124,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-14T06:38:34.792Z"
-    },
-    {
-      "inquiryId": "INQ-0214",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-14T06:38:34.792Z"
-    },
-    {
-      "inquiryId": "INQ-0252",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-14T04:51:07.584Z"
     }
   ]
 }
