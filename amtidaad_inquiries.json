@@ -354,9 +354,9 @@
       "date": "2026-11-03",
       "location": "",
       "service": "Other",
-      "source": "",
+      "source": "Email",
       "assigned": "Estimation Team",
-      "status": "approved",
+      "status": "awarded",
       "quotDate": "2026-11-03",
       "followup": "",
       "scope": "Fitness certificate",
@@ -366,7 +366,7 @@
       "securedValue": 787.5,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-19T12:03:48.140Z"
+      "lastUpdatedAt": "2026-11-20T08:29:59.947Z"
     },
     {
       "id": "INQ-0456",
@@ -10603,6 +10603,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0457",
+      "action": "status_change",
+      "from": "approved",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-20T08:29:59.947Z"
+    },
+    {
+      "inquiryId": "INQ-0457",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-20T08:29:59.947Z"
+    },
+    {
       "inquiryId": "INQ-0456",
       "action": "status_change",
       "from": "approved",
@@ -15083,24 +15101,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-10T11:24:18.977Z"
-    },
-    {
-      "inquiryId": "INQ-0237",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-10T11:18:03.938Z"
-    },
-    {
-      "inquiryId": "INQ-0236",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-10T11:16:11.442Z"
     }
   ]
 }
