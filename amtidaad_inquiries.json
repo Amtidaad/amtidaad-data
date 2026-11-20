@@ -903,13 +903,13 @@
       "project": "Atlantic Tower",
       "phone": "+971 55 796 2890",
       "email": "supervisor2@syntech.ae",
-      "date": "2026-11-09",
+      "date": "2026-11-11",
       "location": "",
       "service": "Other",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "approved",
-      "quotDate": "2026-11-09",
+      "status": "awarded",
+      "quotDate": "2026-11-11",
       "followup": "",
       "scope": "RECTIFICATION, Callout",
       "remarks": "Quotation No: S10178",
@@ -918,7 +918,7 @@
       "securedValue": 813.75,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-19T12:35:02.028Z"
+      "lastUpdatedAt": "2026-11-20T10:23:01.858Z"
     },
     {
       "id": "INQ-0433",
@@ -10626,6 +10626,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0434",
+      "action": "status_change",
+      "from": "approved",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-20T10:23:01.858Z"
+    },
+    {
+      "inquiryId": "INQ-0434",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-20T10:23:01.858Z"
+    },
+    {
       "inquiryId": "INQ-0463",
       "action": "edited",
       "from": null,
@@ -15106,24 +15124,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-11T10:15:24.178Z"
-    },
-    {
-      "inquiryId": "INQ-0244",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-11T09:54:04.337Z"
-    },
-    {
-      "inquiryId": "INQ-0225",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-11T09:52:45.856Z"
     }
   ]
 }
