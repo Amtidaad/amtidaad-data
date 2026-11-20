@@ -400,10 +400,10 @@
       "date": "2026-11-02",
       "location": "C01,JUMEIRAH VILLAGE CIRCLE, AL BARSHA SOUTH FOURTH, PO Box 452931, Dubai- UAE",
       "service": "Other",
-      "source": "",
+      "source": "Email",
       "assigned": "Estimation Team",
-      "status": "approved",
-      "quotDate": "",
+      "status": "awarded",
+      "quotDate": "2026-11-02",
       "followup": "",
       "scope": "RECTIFICATION",
       "remarks": "Correct SO No. S10148",
@@ -412,7 +412,7 @@
       "securedValue": 551.25,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-19T11:52:37.189Z"
+      "lastUpdatedAt": "2026-11-20T08:25:50.579Z"
     },
     {
       "id": "INQ-0454",
@@ -10603,6 +10603,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0455",
+      "action": "status_change",
+      "from": "approved",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-20T08:25:50.579Z"
+    },
+    {
+      "inquiryId": "INQ-0455",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-20T08:25:50.579Z"
+    },
+    {
       "inquiryId": "INQ-0454",
       "action": "status_change",
       "from": "approved",
@@ -15083,24 +15101,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-10T11:09:57.162Z"
-    },
-    {
-      "inquiryId": "INQ-0233",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-10T11:06:27.148Z"
-    },
-    {
-      "inquiryId": "INQ-0232",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-10T11:03:19.289Z"
     }
   ]
 }
