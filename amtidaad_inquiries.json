@@ -671,15 +671,15 @@
       "id": "INQ-0444",
       "client": "TOMA LOUNGE RESTAURANT L.L.C",
       "project": "Toma Lounge Restaurant LLC",
-      "phone": "",
+      "phone": "0522857998",
       "email": "",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "location": "",
       "service": "Other",
       "source": "Email",
       "assigned": "",
       "status": "approved",
-      "quotDate": "2026-11-11",
+      "quotDate": "2026-11-12",
       "followup": "",
       "scope": "RECTIFICATION,AMC",
       "remarks": "Correct SO No. # S10206",
@@ -688,7 +688,7 @@
       "securedValue": 1050,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-19T12:40:35.548Z"
+      "lastUpdatedAt": "2026-11-20T10:30:00.100Z"
     },
     {
       "id": "INQ-0443",
@@ -10626,6 +10626,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0444",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-20T10:30:00.100Z"
+    },
+    {
       "inquiryId": "INQ-0434",
       "action": "status_change",
       "from": "approved",
@@ -15115,15 +15124,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-11T10:18:11.813Z"
-    },
-    {
-      "inquiryId": "INQ-0247",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-11T10:15:24.178Z"
     }
   ]
 }
