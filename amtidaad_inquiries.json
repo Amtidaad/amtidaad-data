@@ -8,8 +8,8 @@
       "email": "supervisor2@syntech.ae",
       "date": "2026-11-19",
       "location": "",
-      "service": "",
-      "source": "",
+      "service": "Other",
+      "source": "Email",
       "assigned": "Estimation Team",
       "status": "quotation",
       "quotDate": "2026-11-19",
@@ -21,7 +21,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-20T11:25:37.191Z"
+      "lastUpdatedAt": "2026-11-20T11:25:52.311Z"
     },
     {
       "id": "INQ-0473",
@@ -10650,6 +10650,15 @@
   "auditLog": [
     {
       "inquiryId": "INQ-0474",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-20T11:25:52.311Z"
+    },
+    {
+      "inquiryId": "INQ-0474",
       "action": "created",
       "from": null,
       "to": "quotation",
@@ -15135,15 +15144,6 @@
       "action": "status_change",
       "from": "new",
       "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T07:23:47.116Z"
-    },
-    {
-      "inquiryId": "INQ-0244",
-      "action": "edited",
-      "from": null,
-      "to": null,
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-15T07:23:47.116Z"
