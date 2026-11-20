@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0475",
+      "client": "General International",
+      "project": "RFQ_PR#22425_1095359_SAS_JADDAF-DXB",
+      "phone": "971 56 688 5045",
+      "email": "ahassan@generalintlgroup.com",
+      "date": "2026-11-20",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "",
+      "followup": "",
+      "scope": "RECTIFICATION",
+      "remarks": "Correct SO No. S10250",
+      "quotNo": "0250",
+      "quotValue": 13839,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-20T11:38:47.119Z"
+    },
+    {
       "id": "INQ-0474",
       "client": "HOAM - Highrise Owners Association Management",
       "project": "The Pinnacle Tower",
@@ -10649,6 +10672,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0475",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-20T11:38:47.119Z"
+    },
+    {
       "inquiryId": "INQ-0448",
       "action": "edited",
       "from": null,
@@ -15138,15 +15170,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-15T07:50:52.231Z"
-    },
-    {
-      "inquiryId": "INQ-0245",
-      "action": "status_change",
-      "from": "new",
-      "to": "lost",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T07:25:11.428Z"
     }
   ]
 }
