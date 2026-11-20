@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0470",
+      "client": "The School of Research Science L.L.C",
+      "project": "SRS - 2 - [ Fire Alarm System / Foam System / FM-200 System ] - Revised",
+      "phone": "+971504658104",
+      "email": "sudheesh.ab@srs.ae",
+      "date": "2026-11-18",
+      "location": "Nouakchott Street, Next to Mushrif Park Dubai",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "approved",
+      "quotDate": "2026-11-18",
+      "followup": "",
+      "scope": "Rectification",
+      "remarks": "Correct SO No. - S10114",
+      "quotNo": "0114",
+      "quotValue": 7927.5,
+      "securedValue": 7927.5,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-20T08:10:09.683Z"
+    },
+    {
       "id": "INQ-0469",
       "client": "The School of Research Science L.L.C",
       "project": "SRS - 1 [ Central Battery System ] - Revised",
@@ -10534,6 +10557,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0470",
+      "action": "created",
+      "from": null,
+      "to": "approved",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-20T08:10:09.683Z"
+    },
+    {
       "inquiryId": "INQ-0469",
       "action": "edited",
       "from": null,
@@ -15023,15 +15055,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-10T10:54:09.357Z"
-    },
-    {
-      "inquiryId": "INQ-0230",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-10T08:36:50.656Z"
     }
   ]
 }
