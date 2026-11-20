@@ -331,10 +331,10 @@
       "date": "2026-11-03",
       "location": "Gate No. 8, Building No.7, Warehouse No.5 Dubai Investment Park 1, Dubai UAE",
       "service": "Other",
-      "source": "",
-      "assigned": "",
-      "status": "approved",
-      "quotDate": "",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "awarded",
+      "quotDate": "2026-11-03",
       "followup": "",
       "scope": "Room Integrity Test",
       "remarks": "Correct SO No. S10092",
@@ -343,7 +343,7 @@
       "securedValue": 1995,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-19T12:17:46.927Z"
+      "lastUpdatedAt": "2026-11-20T10:08:31.152Z"
     },
     {
       "id": "INQ-0458",
@@ -10626,6 +10626,24 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0459",
+      "action": "status_change",
+      "from": "approved",
+      "to": "awarded",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-20T10:08:31.153Z"
+    },
+    {
+      "inquiryId": "INQ-0459",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-20T10:08:31.153Z"
+    },
+    {
       "inquiryId": "INQ-0473",
       "action": "created",
       "from": null,
@@ -15106,24 +15124,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-11T06:29:01.744Z"
-    },
-    {
-      "inquiryId": "INQ-0010",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-11T05:56:04.871Z"
-    },
-    {
-      "inquiryId": "INQ-0009",
-      "action": "edited",
-      "from": null,
-      "to": null,
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-11T05:51:51.978Z"
     }
   ]
 }
