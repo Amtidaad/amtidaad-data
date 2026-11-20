@@ -244,14 +244,14 @@
       "status": "approved",
       "quotDate": "2026-11-11",
       "followup": "",
-      "scope": "",
+      "scope": "RECTIFICATION",
       "remarks": "Correct SO No: S10193",
       "quotNo": "0193",
       "quotValue": 787.5,
       "securedValue": 787.5,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-19T12:33:10.150Z"
+      "lastUpdatedAt": "2026-11-20T10:16:46.259Z"
     },
     {
       "id": "INQ-0462",
@@ -10626,6 +10626,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0463",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-20T10:16:46.259Z"
+    },
+    {
       "inquiryId": "INQ-0438",
       "action": "status_change",
       "from": "approved",
@@ -15115,15 +15124,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-11T09:49:38.605Z"
-    },
-    {
-      "inquiryId": "INQ-0243",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-11T08:16:03.785Z"
     }
   ]
 }
