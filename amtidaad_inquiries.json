@@ -665,7 +665,7 @@
       "securedValue": 2100,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-19T13:00:39.978Z"
+      "lastUpdatedAt": "2026-11-20T10:33:39.860Z"
     },
     {
       "id": "INQ-0444",
@@ -10626,6 +10626,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0445",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-20T10:33:39.860Z"
+    },
+    {
       "inquiryId": "INQ-0465",
       "action": "status_change",
       "from": "approved",
@@ -15115,15 +15124,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-14T04:51:07.584Z"
-    },
-    {
-      "inquiryId": "INQ-0251",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-14T04:49:30.880Z"
     }
   ]
 }
