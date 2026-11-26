@@ -815,7 +815,7 @@
       "location": "Arabian Ranches 1",
       "service": "Other",
       "source": "Email",
-      "assigned": "",
+      "assigned": "Estimation Team",
       "status": "quotation",
       "quotDate": "92026-11-10",
       "followup": "",
@@ -826,7 +826,7 @@
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-18T07:42:48.390Z"
+      "lastUpdatedAt": "2026-11-26T11:16:00.843Z"
     },
     {
       "id": "INQ-0441",
@@ -10718,6 +10718,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0442",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-26T11:16:00.843Z"
+    },
+    {
       "inquiryId": "INQ-0451",
       "action": "edited",
       "from": null,
@@ -15207,15 +15216,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-15T11:30:51.030Z"
-    },
-    {
-      "inquiryId": "INQ-0266",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T11:29:48.841Z"
     }
   ]
 }
