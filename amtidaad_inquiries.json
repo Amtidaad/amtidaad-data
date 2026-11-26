@@ -11,7 +11,7 @@
       "service": "AMC - Fire Alarm",
       "source": "Email",
       "assigned": "Estimation Team",
-      "status": "new",
+      "status": "quotation",
       "quotDate": "2026-11-26",
       "followup": "",
       "scope": "AMC of Fire Alarm System",
@@ -21,7 +21,7 @@
       "securedValue": 3675,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-26T11:01:58.211Z"
+      "lastUpdatedAt": "2026-11-26T11:02:07.887Z"
     },
     {
       "id": "INQ-0475",
@@ -10696,6 +10696,24 @@
   "auditLog": [
     {
       "inquiryId": "INQ-0476",
+      "action": "status_change",
+      "from": "new",
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-26T11:02:07.887Z"
+    },
+    {
+      "inquiryId": "INQ-0476",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-26T11:02:07.887Z"
+    },
+    {
+      "inquiryId": "INQ-0476",
       "action": "created",
       "from": null,
       "to": "new",
@@ -15175,24 +15193,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-15T11:24:11.393Z"
-    },
-    {
-      "inquiryId": "INQ-0261",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T11:22:44.321Z"
-    },
-    {
-      "inquiryId": "INQ-0260",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T11:21:27.665Z"
     }
   ]
 }
