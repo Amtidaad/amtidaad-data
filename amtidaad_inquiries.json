@@ -178,11 +178,11 @@
       "scope": "Refilling of Cylinders",
       "remarks": "Correct SO No. S10240",
       "quotNo": "0240",
-      "quotValue": 14700,
+      "quotValue": 15162,
       "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-20T11:13:29.276Z"
+      "lastUpdatedAt": "2026-11-26T11:42:03.706Z"
     },
     {
       "id": "INQ-0472",
@@ -10787,6 +10787,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0473",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-26T11:42:03.706Z"
+    },
+    {
       "inquiryId": "INQ-0480",
       "action": "created",
       "from": null,
@@ -15276,15 +15285,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-15T12:59:13.387Z"
-    },
-    {
-      "inquiryId": "INQ-0271",
-      "action": "created",
-      "from": null,
-      "to": "awarded",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T12:57:01.911Z"
     }
   ]
 }
