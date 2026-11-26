@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0480",
+      "client": "GLD Spectrum General Trading LLC",
+      "project": "GLD Spectrum General Trading LLC",
+      "phone": "+971-43201946",
+      "email": "sales2@gldspectrum.com",
+      "date": "2026-11-26",
+      "location": "",
+      "service": "Other",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "",
+      "followup": "",
+      "scope": "RECTIFICATION",
+      "remarks": "Correct SO No. S10260",
+      "quotNo": "0260",
+      "quotValue": 12626.25,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-26T11:37:42.661Z"
+    },
+    {
       "id": "INQ-0479",
       "client": "EMAAR Community Management LLC",
       "project": "ECMOANEG-5001337- Anya 1, Arabian Ranches 3",
@@ -10764,6 +10787,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0480",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-26T11:37:42.661Z"
+    },
+    {
       "inquiryId": "INQ-0479",
       "action": "created",
       "from": null,
@@ -15253,15 +15285,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-15T12:57:01.911Z"
-    },
-    {
-      "inquiryId": "INQ-0270",
-      "action": "created",
-      "from": null,
-      "to": "new",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T12:18:05.835Z"
     }
   ]
 }
