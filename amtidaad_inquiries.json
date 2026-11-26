@@ -18,10 +18,10 @@
       "remarks": "Correct SO - S10265",
       "quotNo": "0265",
       "quotValue": 3675,
-      "securedValue": 3675,
+      "securedValue": null,
       "createdBy": "Admin",
       "lastUpdatedBy": "Admin",
-      "lastUpdatedAt": "2026-11-26T11:02:07.887Z"
+      "lastUpdatedAt": "2026-11-26T11:10:13.826Z"
     },
     {
       "id": "INQ-0475",
@@ -10696,6 +10696,15 @@
   "auditLog": [
     {
       "inquiryId": "INQ-0476",
+      "action": "edited",
+      "from": null,
+      "to": null,
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-26T11:10:13.826Z"
+    },
+    {
+      "inquiryId": "INQ-0476",
       "action": "status_change",
       "from": "new",
       "to": "quotation",
@@ -15184,15 +15193,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-15T11:25:10.055Z"
-    },
-    {
-      "inquiryId": "INQ-0262",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T11:24:11.393Z"
     }
   ]
 }
