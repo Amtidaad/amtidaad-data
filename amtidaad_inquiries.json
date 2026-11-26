@@ -1,6 +1,29 @@
 {
   "inquiries": [
     {
+      "id": "INQ-0478",
+      "client": "EMAAR Community Management LLC",
+      "project": "ECMOANEG-5001338 - Anya 2 - Arabian Ranches 3",
+      "phone": "+971565269831",
+      "email": "Ragesh.Govindan@emrill.com",
+      "date": "2026-11-26",
+      "location": "Arabian Ranches 3",
+      "service": "AMC - Fire Alarm",
+      "source": "Email",
+      "assigned": "Estimation Team",
+      "status": "quotation",
+      "quotDate": "2026-11-25",
+      "followup": "2026-11-25",
+      "scope": "AMC of Fire Alarm System",
+      "remarks": "S10264",
+      "quotNo": "0264",
+      "quotValue": 7087.5,
+      "securedValue": null,
+      "createdBy": "Admin",
+      "lastUpdatedBy": "Admin",
+      "lastUpdatedAt": "2026-11-26T11:22:46.631Z"
+    },
+    {
       "id": "INQ-0477",
       "client": "EMAAR Community Management LLC",
       "project": "ECMOANEG-5001339- May, Arabian Ranches 3",
@@ -10718,6 +10741,15 @@
   ],
   "auditLog": [
     {
+      "inquiryId": "INQ-0478",
+      "action": "created",
+      "from": null,
+      "to": "quotation",
+      "remarks": "",
+      "user": "Admin",
+      "timestamp": "2026-11-26T11:22:46.632Z"
+    },
+    {
       "inquiryId": "INQ-0442",
       "action": "edited",
       "from": null,
@@ -15207,15 +15239,6 @@
       "remarks": "",
       "user": "Admin",
       "timestamp": "2026-09-15T11:32:14.535Z"
-    },
-    {
-      "inquiryId": "INQ-0267",
-      "action": "created",
-      "from": null,
-      "to": "quotation",
-      "remarks": "",
-      "user": "Admin",
-      "timestamp": "2026-09-15T11:30:51.030Z"
     }
   ]
 }
